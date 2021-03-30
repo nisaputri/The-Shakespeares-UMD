@@ -1,0 +1,30 @@
+---
+title: "Shakespeare's"
+author: "Nisa Putri"
+date: "3/30/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(readxl)
+library(tidyr)
+library(tidyverse)
+```
+
+```{r}
+df1 <- read_xlsx("newsletters1.xlsx")
+df2 <- read_xlsx("newsletters2.xlsx")
+df3 <- read_xlsx("newsletters3.xlsx")
+df4 <- read_xlsx("newsletters4.xlsx")
+df5 <- read_xlsx("newsletters5.xlsx")
+df6 <- read_xlsx("newsletters6.xlsx")
+df7 <- read_xlsx("newsletters7.xlsx")
+df8 <- read_xlsx("newsletters8.xlsx")
+```
+
+```{r}
+newsletters <- rbind(df1, df2, df3, df4, df5, df6, df7, df8)
+
+write.csv(newsletters, "combined_newsletters.csv")
+```
+
