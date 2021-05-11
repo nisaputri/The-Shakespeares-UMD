@@ -1,8 +1,8 @@
-<h1> Shakespeare's World Data Processing and Cleaning<h1>
+<h1> Shakespeare's World Data: Prep and Processing</h1>
 
-Team Lead: Nisa Putri
+<h2>Team Lead: Nisa Putri</h2>
 
-Team Members: Andrew Carroll, Jonathan Chen, Josh Hershberger, Momina Khan
+<h2>Team Members: Andrew Carroll, Jonathan Chen, Josh Hershberger, Momina Khan</h2>
 
 <h2> File Structure: </h2>
 
@@ -13,13 +13,13 @@ Team Members: Andrew Carroll, Jonathan Chen, Josh Hershberger, Momina Khan
 <b>Final Datasets</b> - Contains copies of datasets in their final form. Each dataset is to be delivered to a client who needed different types of data for their purposes 
 
 
-<h2> Python Packages:<h2>
+<h2> Python Packages:</h2>
 
 <b>Pandas</b> - Used for data manipulation and creating dataframes that are exported to .csv files
 
 <b>os/pathlib</b> - Used to work with Newsletter file directories and extract transcriptions from .txt files
 
 
-<h2>R Libraries<h2>
+<h2>R Libraries</h2>
 
 <b>tidyverse</b> - Used for transforming and final cleaning of processed datasets 
