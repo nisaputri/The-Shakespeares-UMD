@@ -1,0 +1,621 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        377.415,
+        813.73
+      ],
+      "clusters_y": [
+        116.41,
+        118.18
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "",
+          "Ap<sw-ex>ril"
+        ],
+        [
+          "",
+          "</sw-ex>17<sw-sup>th</sw-sup>"
+        ],
+        [
+          "",
+          "1696"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "London Ap<sw-ex>ril </sw-ex>17<sw-sup>th</sw-sup> 1696",
+      "line_slope": 0.35532214472934637,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        1448661.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        369.28499999999997,
+        848.4200000000001
+      ],
+      "clusters_y": [
+        126.36000000000001,
+        133.445
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "Apr<sw-ex>il</sw-ex>",
+          "Apr."
+        ],
+        [
+          "18<sw-sup>th</sw-sup>",
+          "18<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1696",
+          "1696"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "London Apr<sw-ex>il</sw-ex> 18<sw-sup>th</sw-sup> 1696",
+      "line_slope": 0.35532214472934637,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        1892015.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        449.04999999999995,
+        939.34
+      ],
+      "clusters_y": [
+        193.29500000000002,
+        194.35
+      ],
+      "clusters_text": [
+        [
+          "There",
+          "There"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "Letters",
+          "Letters"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "my",
+          "my"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "There are Letters from my",
+      "line_slope": 0.35532214472934637,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.37,
+        929.42
+      ],
+      "clusters_y": [
+        243.49,
+        231.09
+      ],
+      "clusters_text": [
+        [
+          "Lord",
+          "Lord"
+        ],
+        [
+          "Bagott",
+          ""
+        ],
+        [
+          "our",
+          ""
+        ],
+        [
+          "Embassado<sw-sup>r</sw-sup>",
+          ""
+        ],
+        [
+          "at",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "Lord Bagott our Embassado<sw-sup>r</sw-sup> at",
+      "line_slope": -1.8637601704827578,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        1448661.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.71500000000003,
+        933.37
+      ],
+      "clusters_y": [
+        405.75,
+        396.005
+      ],
+      "clusters_text": [
+        [
+          "Commotions",
+          "Commotions"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "more",
+          "more"
+        ],
+        [
+          "now",
+          "now"
+        ],
+        [
+          "than",
+          "than"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Commotions there are more now than",
+      "line_slope": -1.8637601704827578,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.515,
+        897.14
+      ],
+      "clusters_y": [
+        457.135,
+        436.33
+      ],
+      "clusters_text": [
+        [
+          "ever",
+          "ever"
+        ],
+        [
+          "Attended",
+          "Attended"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Plague",
+          "Plague"
+        ],
+        [
+          "--",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "ever Attended w<sw-ex>i</sw-ex><sl>th</sl> the Plague --",
+      "line_slope": -1.8637601704827578,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        268.12,
+        919.8499999999999
+      ],
+      "clusters_y": [
+        508.245,
+        493.73
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "that"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "fire",
+          "fire"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "happened",
+          "happened"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "that a fire had happened there the",
+      "line_slope": -1.8637601704827578,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        8
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.67,
+        919.35
+      ],
+      "clusters_y": [
+        566.71,
+        550.79
+      ],
+      "clusters_text": [
+        [
+          "22<sw-sup>th</sw-sup>",
+          "22<sw-sup>th</sw-sup>"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "March",
+          "march"
+        ],
+        [
+          "last",
+          "last"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "destroyd",
+          "destroyed"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "22<sw-sup>th</sw-sup> of March last w<sw-ex>hi</sw-ex><sl>ch</sl> had destroyd",
+      "line_slope": -1.8637601704827578,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.04499999999996,
+        923.1
+      ],
+      "clusters_y": [
+        621.79,
+        600.5699999999999
+      ],
+      "clusters_text": [
+        [
+          "2000",
+          "2000"
+        ],
+        [
+          "houses",
+          ""
+        ],
+        [
+          "--",
+          "-"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "ffr<sw-ex>ench</sw-ex>",
+          "ffr<sw-ex>ench</sw-ex>"
+        ],
+        [
+          "Embassado<sw-sup>r</sw-sup>",
+          "Embassad<sw-ex>our</sw-ex>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "2000 houses -- that the ffr<sw-ex>ench</sw-ex> Embassado<sw-sup>r</sw-sup>",
+      "line_slope": -1.8637601704827578,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        10
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        271.505,
+        934.9200000000001
+      ],
+      "clusters_y": [
+        671.24,
+        653.7850000000001
+      ],
+      "clusters_text": [
+        [
+          "had",
+          "had"
+        ],
+        [
+          "obsconded",
+          "absconded"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "house",
+          "house"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "was",
+          "was"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "had obsconded from his house and was",
+      "line_slope": -1.8637601704827578,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        11
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        272.515,
+        912.48
+      ],
+      "clusters_y": [
+        721.275,
+        702.5250000000001
+      ],
+      "clusters_text": [
+        [
+          "retreued",
+          "retired"
+        ],
+        [
+          "3",
+          "3"
+        ],
+        [
+          "Leagues",
+          "Leagues"
+        ],
+        [
+          "off",
+          "off"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "retreued 3 Leagues off - that the",
+      "line_slope": -1.8637601704827578,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        12
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 11,
+  "transcribed_lines": 11,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

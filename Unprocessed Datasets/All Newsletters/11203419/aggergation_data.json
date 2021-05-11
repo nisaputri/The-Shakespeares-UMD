@@ -1,0 +1,707 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        406.7,
+        914.3699999999999
+      ],
+      "clusters_y": [
+        67.72999999999999,
+        76.96333333333332
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "<sw-unclear>Hob</sw-unclear>",
+          "ffeb<sw-ex>rua</sw-ex>ry",
+          "February"
+        ],
+        [
+          "19<sw-sup><sw-sup><sw-sup>th</sw-sup></sw-sup></sw-sup>",
+          "17th",
+          "19"
+        ],
+        [
+          "1693",
+          "1693",
+          "1693"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "London <sw-unclear>Hob</sw-unclear> 19<sw-sup><sw-sup><sw-sup>th</sw-sup></sw-sup></sw-sup> 1693",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1,
+        0
+      ],
+      "user_ids": [
+        1672678.0,
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.26,
+        911.28
+      ],
+      "clusters_y": [
+        161.95,
+        175.26999999999998
+      ],
+      "clusters_text": [
+        [
+          "Stockholme",
+          "Stockholme"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "14",
+          "14"
+        ],
+        [
+          "instant",
+          "instant"
+        ],
+        [
+          "which",
+          "which"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Stockholme of the 14 instant which",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        231.245,
+        931.7149999999999
+      ],
+      "clusters_y": [
+        262.57500000000005,
+        267.885
+      ],
+      "clusters_text": [
+        [
+          "Allyance",
+          "Allyance"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Comerce",
+          "Com<sw-ex>m</sw-ex>erce"
+        ],
+        [
+          "between",
+          "between"
+        ],
+        [
+          "",
+          "his"
+        ],
+        [
+          "butmester",
+          "master"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Allyance and Comerce between his butmester",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        5
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        237.315,
+        931.765
+      ],
+      "clusters_y": [
+        307.45500000000004,
+        316.905
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "States",
+          "States"
+        ],
+        [
+          "Gen<sw-sup>ll</sw-sup>",
+          "Generall"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "been",
+          "been"
+        ],
+        [
+          "mutually",
+          "mutually"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "and the States Gen<sw-sup>ll</sw-sup> had been mutually",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        6
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        236.7,
+        918.775
+      ],
+      "clusters_y": [
+        351.16499999999996,
+        368.24
+      ],
+      "clusters_text": [
+        [
+          "Exchangd",
+          "Exchang<sw-ex>e</sw-ex>d"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "his"
+        ],
+        [
+          "Sweedish",
+          "Sweedish"
+        ],
+        [
+          "maty",
+          "ma<sw-ex>jes</sw-ex>ty"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Exchangd and that the Sweedish maty",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        7
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        239.235,
+        902.54
+      ],
+      "clusters_y": [
+        395.485,
+        410.6
+      ],
+      "clusters_text": [
+        [
+          "discoursd",
+          "discours<sw-ex>e</sw-ex>d"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Dutch",
+          "Dutch"
+        ],
+        [
+          "numsser",
+          "minister"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "discoursd with the Dutch numsser",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        8
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.845,
+        926.48
+      ],
+      "clusters_y": [
+        448.52,
+        468.41499999999996
+      ],
+      "clusters_text": [
+        [
+          "signifying",
+          "signifying"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "he",
+          "he"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "recd",
+          "rec<sw-ex>eive</sw-ex>d"
+        ],
+        [
+          "frest",
+          "fresh"
+        ],
+        [
+          "prejesh",
+          "?"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "signifying that he had recd frest prejesh",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        9
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.6,
+        920.97
+      ],
+      "clusters_y": [
+        550.69,
+        566.3299999999999
+      ],
+      "clusters_text": [
+        [
+          "with",
+          "with"
+        ],
+        [
+          "proposing",
+          "pressing"
+        ],
+        [
+          "instance",
+          "instances"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "he",
+          "he"
+        ],
+        [
+          "forthw<sw-ex>i</sw-ex><sl>th</sl>",
+          "forthw<sw-ex>i</sw-ex><sl>th</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "with proposing instance that he forthw<sw-ex>i</sw-ex><sl>th</sl>",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        11
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        236.935,
+        905.435
+      ],
+      "clusters_y": [
+        591.64,
+        602.5450000000001
+      ],
+      "clusters_text": [
+        [
+          "medicte",
+          "mediate"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Allys",
+          "Allys"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "but",
+          "but"
+        ],
+        [
+          "de",
+          "de"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "medicte them to the Allys - but de",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        12
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.16500000000002,
+        919.86
+      ],
+      "clusters_y": [
+        636.15,
+        650.9200000000001
+      ],
+      "clusters_text": [
+        [
+          "clard",
+          "clared"
+        ],
+        [
+          "he",
+          "he"
+        ],
+        [
+          "much",
+          "much"
+        ],
+        [
+          "disapproved",
+          "disaproved"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "same</sl>",
+          "same"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "clard he much disapproved of <brev-y>th</brev-y><sl>e same</sl>",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        13
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        234.97500000000002,
+        913.5899999999999
+      ],
+      "clusters_y": [
+        685.67,
+        693.4300000000001
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "thought",
+          "thought"
+        ],
+        [
+          "it",
+          "it"
+        ],
+        [
+          "not",
+          "not"
+        ],
+        [
+          "reasonable",
+          "reasonable"
+        ],
+        [
+          "or",
+          "or"
+        ],
+        [
+          "safe",
+          "safe"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "and thought it not reasonable or safe",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        14
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.75,
+        900.36
+      ],
+      "clusters_y": [
+        813.5450000000001,
+        824.8900000000001
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "ffr",
+          "ffr<sw-ex>ench</sw-ex>"
+        ],
+        [
+          "King",
+          "king"
+        ],
+        [
+          "",
+          "would"
+        ],
+        [
+          "",
+          "?"
+        ],
+        [
+          "",
+          "use"
+        ],
+        [
+          "",
+          "his"
+        ],
+        [
+          "",
+          "termes"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.125,
+      "consensus_text": "the ffr King would ? use his termes",
+      "line_slope": 0.6592576833591584,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        17
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 12,
+  "transcribed_lines": 12,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

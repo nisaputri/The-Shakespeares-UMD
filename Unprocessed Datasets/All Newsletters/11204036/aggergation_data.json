@@ -1,0 +1,110 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        202.11,
+        199.165
+      ],
+      "clusters_y": [
+        1286.5,
+        712.1300000000001
+      ],
+      "clusters_text": [
+        [
+          "For",
+          "ffor"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Hon<sw-ex>oura</sw-ex>ble",
+          "Hon<sw-ex>o</sw-ex><sw-sup>r</sw-sup><sw-ex>a</sw-ex>b<sw-ex>le</sw-ex>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "For the Hon<sw-ex>oura</sw-ex>ble S<sw-ex>i</sw-ex><sl>r</sl> Richard",
+      "line_slope": -90.96087968012878,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        271.70000000000005,
+        262.49
+      ],
+      "clusters_y": [
+        1274.31,
+        893.5450000000001
+      ],
+      "clusters_text": [
+        [
+          "Newdigate",
+          "Nudigate"
+        ],
+        [
+          "Baro<sw-ex>ne</sw-ex>tt",
+          "Barro<sw-sup>tt</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Newdigate Baro<sw-ex>ne</sw-ex>tt",
+      "line_slope": -90.96087968012878,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

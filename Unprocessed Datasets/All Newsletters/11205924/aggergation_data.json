@@ -1,0 +1,250 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        253.88333333333333,
+        937.3966666666666
+      ],
+      "clusters_y": [
+        222.91666666666666,
+        189.49666666666667
+      ],
+      "clusters_text": [
+        [
+          "his",
+          "his",
+          "his"
+        ],
+        [
+          "Grace",
+          "Grace",
+          "Grace"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Duke",
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Argyle",
+          "Argyle",
+          "Argyle"
+        ],
+        [
+          "Lord",
+          "Lord",
+          "Lord"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "his Grace the Duke of Argyle Lord",
+      "line_slope": -3.0922242604129258,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        2,
+        0
+      ],
+      "user_ids": [
+        null,
+        1538048.0,
+        null
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        254.005,
+        931.125
+      ],
+      "clusters_y": [
+        295.19500000000005,
+        259.03999999999996
+      ],
+      "clusters_text": [
+        [
+          "high",
+          "high"
+        ],
+        [
+          "Commissioner",
+          "commissioner"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Scotland",
+          "Scotland"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "high Commissioner of Scotland to",
+      "line_slope": -3.0922242604129258,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        3
+      ],
+      "user_ids": [
+        null,
+        1538048.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.67000000000002,
+        912.4549999999999
+      ],
+      "clusters_y": [
+        439.98,
+        402.78499999999997
+      ],
+      "clusters_text": [
+        [
+          "Parliament",
+          "Parliament"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "ordered",
+          "ordered"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Parliament have ordered a day to",
+      "line_slope": -3.0922242604129258,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        0
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.265,
+        909.63
+      ],
+      "clusters_y": [
+        579.79,
+        555.8299999999999
+      ],
+      "clusters_text": [
+        [
+          "persuant",
+          "persuant"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "addresse",
+          "addresse"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "persuant to the addresse of the",
+      "line_slope": -3.0922242604129258,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        2
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

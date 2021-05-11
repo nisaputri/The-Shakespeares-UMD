@@ -1,0 +1,690 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        371.21000000000004,
+        933.94
+      ],
+      "clusters_y": [
+        125.46333333333332,
+        121.28
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "",
+          "23",
+          "23"
+        ],
+        [
+          "",
+          "January",
+          "January"
+        ],
+        [
+          "",
+          "1700",
+          "1700"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.25,
+      "consensus_text": "London 23 January 1700",
+      "line_slope": -0.8280843270199699,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0,
+        0
+      ],
+      "user_ids": [
+        579980.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        271.81333333333333,
+        949.6
+      ],
+      "clusters_y": [
+        231.49,
+        225.68
+      ],
+      "clusters_text": [
+        [
+          "Ten",
+          "Ten",
+          "Ten"
+        ],
+        [
+          "thousand",
+          "thousand",
+          "thousand"
+        ],
+        [
+          "",
+          "Hoggs",
+          "Hoggs"
+        ],
+        [
+          "",
+          "are",
+          ""
+        ],
+        [
+          "",
+          "slau",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "Ten thousand Hoggs are slau",
+      "line_slope": -0.8280843270199699,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        1,
+        1
+      ],
+      "user_ids": [
+        579980.0,
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        273.14,
+        953.03
+      ],
+      "clusters_y": [
+        384.07000000000005,
+        374.90999999999997
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for"
+        ],
+        [
+          "the",
+          "th"
+        ],
+        [
+          "use",
+          "evse"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Royall",
+          "Royall"
+        ],
+        [
+          "Nauy",
+          "navy"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "for the use of the Royall Nauy",
+      "line_slope": -0.8280843270199699,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        579980.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.47,
+        929.895
+      ],
+      "clusters_y": [
+        462.57,
+        445.28499999999997
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "no",
+          ""
+        ],
+        [
+          "thing",
+          "nothing"
+        ],
+        [
+          "omitted",
+          "omitted"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "and there is no thing omitted",
+      "line_slope": -0.8280843270199699,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        4
+      ],
+      "user_ids": [
+        579980.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.08666666666664,
+        952.7950000000001
+      ],
+      "clusters_y": [
+        539.7366666666667,
+        519.28
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "that",
+          "that"
+        ],
+        [
+          "may",
+          "may",
+          "may"
+        ],
+        [
+          "Co<sw-unclear",
+          "",
+          ""
+        ],
+        [
+          "style=\"background-color:",
+          "",
+          ""
+        ],
+        [
+          "rgb(255,",
+          "",
+          ""
+        ],
+        [
+          "176,",
+          "",
+          ""
+        ],
+        [
+          "59);",
+          "",
+          ""
+        ],
+        [
+          "box-sizing:",
+          "",
+          ""
+        ],
+        [
+          "border-box;",
+          "",
+          ""
+        ],
+        [
+          "color:",
+          "",
+          ""
+        ],
+        [
+          "rgb(85,",
+          "",
+          ""
+        ],
+        [
+          "85,",
+          "",
+          ""
+        ],
+        [
+          "85);",
+          "",
+          ""
+        ],
+        [
+          "font-family:",
+          "",
+          ""
+        ],
+        [
+          "&quot;Helvetica",
+          "",
+          ""
+        ],
+        [
+          "Neue&quot;,Helvetica,Arial,sans-serif;",
+          "",
+          ""
+        ],
+        [
+          "font-size:",
+          "",
+          ""
+        ],
+        [
+          "13px;",
+          "",
+          ""
+        ],
+        [
+          "font-style:",
+          "",
+          ""
+        ],
+        [
+          "normal;",
+          "",
+          ""
+        ],
+        [
+          "font-variant:",
+          "Contribute",
+          "Contribute"
+        ],
+        [
+          "normal;",
+          "",
+          ""
+        ],
+        [
+          "font-weight:",
+          "",
+          ""
+        ],
+        [
+          "400;",
+          "",
+          ""
+        ],
+        [
+          "letter-spacing:",
+          "",
+          ""
+        ],
+        [
+          "normal;",
+          "",
+          ""
+        ],
+        [
+          "orphans:",
+          "",
+          ""
+        ],
+        [
+          "2;",
+          "",
+          ""
+        ],
+        [
+          "text-align:",
+          "",
+          ""
+        ],
+        [
+          "left;",
+          "",
+          ""
+        ],
+        [
+          "text-decoration:",
+          "",
+          ""
+        ],
+        [
+          "none;",
+          "",
+          ""
+        ],
+        [
+          "text-indent:",
+          "",
+          ""
+        ],
+        [
+          "0px;",
+          "",
+          ""
+        ],
+        [
+          "text-transform:",
+          "",
+          ""
+        ],
+        [
+          "none;",
+          "",
+          ""
+        ],
+        [
+          "-webkit-text-stroke-width:",
+          "",
+          ""
+        ],
+        [
+          "0px;",
+          "",
+          ""
+        ],
+        [
+          "white-space:",
+          "",
+          ""
+        ],
+        [
+          "normal;",
+          "",
+          ""
+        ],
+        [
+          "word-spacing:",
+          "",
+          ""
+        ],
+        [
+          "0px;\">???</sw-unclear>ibute",
+          "",
+          ""
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "make",
+          "amke",
+          "make"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.1818181818181819,
+      "consensus_text": "that may Co<sw-unclear style=\"background-color: rgb(255, 176, 59); box-sizing: border-box; color: rgb(85, 85, 85); font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size: 13px; font-style: normal; Contribute normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;\">???</sw-unclear>ibute to make",
+      "line_slope": -0.8280843270199699,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        5,
+        1
+      ],
+      "user_ids": [
+        579980.0,
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.355,
+        955.44
+      ],
+      "clusters_y": [
+        1023.77,
+        1009.7
+      ],
+      "clusters_text": [
+        [
+          "other",
+          "other"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "stone",
+          "stone"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "",
+          "since"
+        ],
+        [
+          "",
+          "said"
+        ],
+        [
+          "",
+          "to"
+        ],
+        [
+          "",
+          "be"
+        ],
+        [
+          "",
+          "Dead"
+        ],
+        [
+          "",
+          "is"
+        ],
+        [
+          "",
+          "on"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4615384615384615,
+      "consensus_text": "other day for the stone and since said to be Dead is on",
+      "line_slope": -0.8280843270199699,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        11
+      ],
+      "user_ids": [
+        579980.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.59,
+        960.5
+      ],
+      "clusters_y": [
+        1321.27,
+        1314.21
+      ],
+      "clusters_text": [
+        [
+          "",
+          "has"
+        ],
+        [
+          "",
+          "occasioned"
+        ],
+        [
+          "our",
+          "our"
+        ],
+        [
+          "stock",
+          "stock"
+        ],
+        [
+          "upon",
+          "upon"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "has occasioned our stock upon",
+      "line_slope": -0.8280843270199699,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        2
+      ],
+      "user_ids": [
+        579980.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.0,
+        956.81
+      ],
+      "clusters_y": [
+        1390.04,
+        1377.96
+      ],
+      "clusters_text": [
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "Exchang"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "fall",
+          "fall"
+        ],
+        [
+          "within",
+          "within"
+        ],
+        [
+          "these",
+          "these"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "the Exchang to fall within these",
+      "line_slope": -0.8280843270199699,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        579980.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 8,
+  "transcribed_lines": 8,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

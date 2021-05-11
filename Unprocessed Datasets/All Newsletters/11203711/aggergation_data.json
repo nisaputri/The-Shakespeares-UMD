@@ -1,0 +1,311 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        245.375,
+        797.235
+      ],
+      "clusters_y": [
+        141.11,
+        135.82999999999998
+      ],
+      "clusters_text": [
+        [
+          "is",
+          "is"
+        ],
+        [
+          "arrivd",
+          "arrived"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Gun",
+          "Gun"
+        ],
+        [
+          "fleet",
+          "fleet"
+        ],
+        [
+          "--",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "is arrivd at the Gun fleet --",
+      "line_slope": 0.30338658723889844,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        10
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        448.175,
+        931.0
+      ],
+      "clusters_y": [
+        197.875,
+        205.165
+      ],
+      "clusters_text": [
+        [
+          "Plymouth",
+          "Plymouth"
+        ],
+        [
+          "19",
+          "is"
+        ],
+        [
+          "yesterday",
+          "yesterday"
+        ],
+        [
+          "arrivd",
+          "arrived"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Plymouth 19 yesterday arrivd",
+      "line_slope": 0.30338658723889844,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        4
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.47,
+        921.9100000000001
+      ],
+      "clusters_y": [
+        583.02,
+        583.2
+      ],
+      "clusters_text": [
+        [
+          "Composing",
+          "Composing"
+        ],
+        [
+          "130",
+          "130"
+        ],
+        [
+          "Saile",
+          "Saile"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "ffr<sw-ex>ench</sw-ex>",
+          "Fr"
+        ],
+        [
+          "fleet",
+          "fleet"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "Composing 130 Saile and that the ffr<sw-ex>ench</sw-ex> fleet",
+      "line_slope": 0.30338658723889844,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.64,
+        919.125
+      ],
+      "clusters_y": [
+        1267.925,
+        1274.26
+      ],
+      "clusters_text": [
+        [
+          "m<sw-sup>r</sw-sup>",
+          "Mr"
+        ],
+        [
+          "Hill",
+          "Hill"
+        ],
+        [
+          "one",
+          "one"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Warders",
+          "wardens"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Tower",
+          "Tower"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "m<sw-sup>r</sw-sup> Hill one of the Warders in the Tower",
+      "line_slope": 0.30338658723889844,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        7
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.315,
+        761.37
+      ],
+      "clusters_y": [
+        1465.145,
+        1470.8249999999998
+      ],
+      "clusters_text": [
+        [
+          "weeke",
+          "weeke"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "old",
+          "old"
+        ],
+        [
+          "Baley",
+          "Baley"
+        ],
+        [
+          "--",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "weeke at the old Baley --",
+      "line_slope": 0.30338658723889844,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        25,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

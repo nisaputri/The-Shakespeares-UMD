@@ -1,0 +1,216 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        271.66499999999996,
+        909.125
+      ],
+      "clusters_y": [
+        107.505,
+        94.38999999999999
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Warr",
+          "Warr"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "West",
+          "West"
+        ],
+        [
+          "Indies",
+          "Jndies"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "of Warr in the West Indies",
+      "line_slope": -1.6797909568089133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.435,
+        927.6500000000001
+      ],
+      "clusters_y": [
+        697.925,
+        678.895
+      ],
+      "clusters_text": [
+        [
+          "Differed",
+          "Differed"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "theire",
+          "theire"
+        ],
+        [
+          "Sentiments",
+          "sentiments"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Differed in theire Sentiments",
+      "line_slope": -1.6797909568089133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        9
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        284.14,
+        766.73
+      ],
+      "clusters_y": [
+        1021.89,
+        999.615
+      ],
+      "clusters_text": [
+        [
+          "into",
+          "into"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Millaneze.",
+          "Millaneze"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "into the Millaneze.",
+      "line_slope": -1.6797909568089133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        14
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        282.005,
+        913.515
+      ],
+      "clusters_y": [
+        1085.12,
+        1070.125
+      ],
+      "clusters_text": [
+        [
+          "But",
+          "But"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Latter",
+          "Latter"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "positively",
+          "possitively"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "But the Latter was positively",
+      "line_slope": -1.6797909568089133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        15
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

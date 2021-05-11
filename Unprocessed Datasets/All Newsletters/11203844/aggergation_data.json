@@ -1,0 +1,67 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        267.02,
+        809.1500000000001
+      ],
+      "clusters_y": [
+        83.73,
+        83.675
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "Novb<sw-sup>r</sw-sup>",
+          "Nov<sw-ex>em</sw-ex>b<sw-ex>e</sw-ex>r"
+        ],
+        [
+          "8",
+          "8"
+        ],
+        [
+          "1694",
+          "1694"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "London Novb<sw-sup>r</sw-sup> 8 1694",
+      "line_slope": -0.7263598163940267,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        165259.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

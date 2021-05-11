@@ -1,0 +1,75 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        277.81,
+        958.48
+      ],
+      "clusters_y": [
+        403.525,
+        384.825
+      ],
+      "clusters_text": [
+        [
+          "Guards",
+          "Guards"
+        ],
+        [
+          "<sw-unclear>move",
+          "were"
+        ],
+        [
+          "???</sw-unclear>",
+          "doubled"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "<sw-unclear>white",
+          "white"
+        ],
+        [
+          "Hall</sw-unclear>",
+          "Hall"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "Guards <sw-unclear>move ???</sw-unclear> at <sw-unclear>white Hall</sw-unclear>",
+      "line_slope": -1.5261500048701417,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        11
+      ],
+      "user_ids": [
+        1875340.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

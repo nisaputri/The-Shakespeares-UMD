@@ -1,0 +1,874 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        455.545,
+        908.87
+      ],
+      "clusters_y": [
+        188.09,
+        206.6
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "June",
+          "June"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "16",
+          "16"
+        ],
+        [
+          "1709",
+          "1709"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "London June <brev-y>th</brev-y><sl>e</sl> 16 1709",
+      "line_slope": 2.360540146557811,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        0
+      ],
+      "user_ids": [
+        165259.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        359.43666666666667,
+        938.98
+      ],
+      "clusters_y": [
+        300.34999999999997,
+        298.14
+      ],
+      "clusters_text": [
+        [
+          "Letters",
+          "Letters",
+          "Letters"
+        ],
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Crown",
+          "Crown",
+          "Crown"
+        ],
+        [
+          "army",
+          "army",
+          "army"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Poland",
+          "Poland",
+          "Poland"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "Letters from <brev-y>th</brev-y><sl>e</sl> Crown army of Poland of",
+      "line_slope": -0.08368163591374986,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        1,
+        1
+      ],
+      "user_ids": [
+        165259.0,
+        1708223.0,
+        null
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        254.405,
+        928.01
+      ],
+      "clusters_y": [
+        345.505,
+        343.17499999999995
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "14",
+          "4"
+        ],
+        [
+          "May",
+          "May,"
+        ],
+        [
+          "give",
+          "gave"
+        ],
+        [
+          "an",
+          "an"
+        ],
+        [
+          "acco<sw-ex>un</sw-ex>t",
+          "reco?"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "y<sw-ex>ou</sw-ex><sl>r</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "?"
+        ],
+        [
+          "Baron",
+          "Baron"
+        ],
+        [
+          "d<sw-sup>e</sw-sup>",
+          "??"
+        ],
+        [
+          "Goltz",
+          "Go??"
+        ],
+        [
+          "Velt",
+          "Volt"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> 14 May give an acco<sw-ex>un</sw-ex>t <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl> Baron d<sw-sup>e</sw-sup> Goltz Velt",
+      "line_slope": -0.08368163591374986,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        1
+      ],
+      "user_ids": [
+        165259.0,
+        478471.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.635,
+        696.21
+      ],
+      "clusters_y": [
+        355.91499999999996,
+        353.845
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "acco<sw-sup>t</sw-sup>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "14",
+          "",
+          "14"
+        ],
+        [
+          "May",
+          "",
+          "May"
+        ],
+        [
+          "gave",
+          "",
+          "gave"
+        ],
+        [
+          "an",
+          "",
+          "an"
+        ],
+        [
+          "",
+          "of",
+          "acco<sw-sup>t</sw-sup>"
+        ],
+        [
+          "",
+          "",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl><brev-y>"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "Baron",
+          "Baron"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> 14 May gave an of <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl><brev-y> <brev-y>th</brev-y><sl>e</sl> Baron",
+      "line_slope": -0.08368163591374986,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3,
+        1
+      ],
+      "user_ids": [
+        null,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.485,
+        937.765
+      ],
+      "clusters_y": [
+        397.115,
+        396.19
+      ],
+      "clusters_text": [
+        [
+          "M<sw-ex>a</sw-ex><sw-ex>r</sw-ex>sh<sw-ex>a</sw-ex>ll",
+          "msh^ll"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Czar",
+          "Czar"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "5",
+          "?"
+        ],
+        [
+          "Joynd",
+          "joyned"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "army",
+          "army"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7692307692307692,
+      "consensus_text": "M<sw-ex>a</sw-ex><sw-ex>r</sw-ex>sh<sw-ex>a</sw-ex>ll of <brev-y>th</brev-y><sl>e</sl> Czar had on <brev-y>th</brev-y><sl>e</sl> 5 Joynd <brev-y>th</brev-y><sl>e</sl> army of <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -0.08368163591374986,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        2
+      ],
+      "user_ids": [
+        165259.0,
+        478471.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.185,
+        956.15
+      ],
+      "clusters_y": [
+        446.14,
+        439.21333333333337
+      ],
+      "clusters_text": [
+        [
+          "Crown",
+          "Crown",
+          ""
+        ],
+        [
+          "with",
+          "with",
+          ""
+        ],
+        [
+          "20000",
+          "20?00",
+          ""
+        ],
+        [
+          "Moscovits",
+          "Morcorits?",
+          ""
+        ],
+        [
+          "very",
+          "very",
+          "very"
+        ],
+        [
+          "fine",
+          "fine",
+          "fine"
+        ],
+        [
+          "Troops",
+          "troops",
+          "Troops"
+        ],
+        [
+          "well",
+          "will",
+          "well"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "Crown with 20000 Moscovits very fine Troops well",
+      "line_slope": -0.08368163591374986,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        3,
+        5
+      ],
+      "user_ids": [
+        165259.0,
+        478471.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.06000000000003,
+        963.5550000000001
+      ],
+      "clusters_y": [
+        488.92333333333335,
+        480.02
+      ],
+      "clusters_text": [
+        [
+          "Clothed",
+          "<sw-unclear>Efostied</sw-unclear>",
+          "Clothed"
+        ],
+        [
+          "armed",
+          "armed",
+          "armed"
+        ],
+        [
+          "&",
+          "&",
+          "&"
+        ],
+        [
+          "Disciplined",
+          "Disciplined",
+          "Disciplined"
+        ],
+        [
+          "&",
+          "&",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "????",
+          ""
+        ],
+        [
+          "now",
+          "",
+          ""
+        ],
+        [
+          "of",
+          "of",
+          ""
+        ],
+        [
+          "Crown",
+          "Crown",
+          ""
+        ],
+        [
+          "Gen<sw-ex>era</sw-ex>ll",
+          "Gen^al",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "Clothed armed & Disciplined & <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> now of Crown Gen<sw-ex>era</sw-ex>ll",
+      "line_slope": -0.08368163591374986,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        4,
+        6
+      ],
+      "user_ids": [
+        165259.0,
+        478471.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.63000000000002,
+        957.4666666666666
+      ],
+      "clusters_y": [
+        534.8924999999999,
+        530.57
+      ],
+      "clusters_text": [
+        [
+          "was",
+          "was",
+          "was",
+          "was"
+        ],
+        [
+          "resolved",
+          "recived",
+          "resolved",
+          "resolved"
+        ],
+        [
+          "to",
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "march",
+          "march",
+          "march",
+          "march"
+        ],
+        [
+          "ag<sw-ex>ain</sw-ex>st",
+          "ag^th",
+          "ag<sw-sup>st",
+          "ag<sw-sup>st"
+        ],
+        [
+          "K",
+          "??",
+          "</sw-sup>K:",
+          "</sw-sup>"
+        ],
+        [
+          "Stanislaw",
+          "??mileur",
+          "Stanislas",
+          ""
+        ],
+        [
+          "who",
+          "?oho?s",
+          "who",
+          ""
+        ],
+        [
+          "is",
+          "",
+          "is",
+          ""
+        ],
+        [
+          "near",
+          "near",
+          "near",
+          ""
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.6,
+      "consensus_text": "was resolved to march ag<sw-sup>st K Stanislaw who is near",
+      "line_slope": -0.08368163591374986,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        5,
+        5,
+        7
+      ],
+      "user_ids": [
+        165259.0,
+        478471.0,
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.7833333333333,
+        716.56
+      ],
+      "clusters_y": [
+        575.4166666666666,
+        577.56
+      ],
+      "clusters_text": [
+        [
+          "Leopold",
+          "Leopold",
+          "Leopold"
+        ],
+        [
+          "&",
+          "&",
+          "and"
+        ],
+        [
+          "give",
+          "give",
+          "give"
+        ],
+        [
+          "him",
+          "him",
+          "him"
+        ],
+        [
+          "Battle",
+          "Battle",
+          "Battle"
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8333333333333335,
+      "consensus_text": "Leopold & give him Battle -",
+      "line_slope": -0.08368163591374986,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        6,
+        2
+      ],
+      "user_ids": [
+        165259.0,
+        478471.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.705,
+        391.24
+      ],
+      "clusters_y": [
+        860.06,
+        861.45
+      ],
+      "clusters_text": [
+        [
+          "action",
+          "action"
+        ],
+        [
+          "~",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "action ~",
+      "line_slope": -0.08368163591374986,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        3
+      ],
+      "user_ids": [
+        165259.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.685,
+        922.375
+      ],
+      "clusters_y": [
+        967.0350000000001,
+        963.77
+      ],
+      "clusters_text": [
+        [
+          "before",
+          "before"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Court",
+          "Court"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "rece<sw-ex>ve</sw-ex>d",
+          "read"
+        ],
+        [
+          "an",
+          "an"
+        ],
+        [
+          "Express",
+          "Express"
+        ],
+        [
+          "fro<sw-ex>m</sw-ex>",
+          "fro"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Hague",
+          "Hague"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "before <brev-y>th</brev-y><sl>e</sl> Court had rece<sw-ex>ve</sw-ex>d an Express fro<sw-ex>m</sw-ex> <brev-y>th</brev-y><sl>e</sl> Hague",
+      "line_slope": -0.08368163591374986,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        6
+      ],
+      "user_ids": [
+        165259.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        347.95500000000004,
+        929.0699999999999
+      ],
+      "clusters_y": [
+        1414.035,
+        1416.725
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Emp<sw-ex>er</sw-ex>o<sw-ex>u</sw-ex><sl>r</sl>",
+          "Emp<sw-sup>r</sw-sup>"
+        ],
+        [
+          "being",
+          "being"
+        ],
+        [
+          "willing",
+          "willing"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "give",
+          "give"
+        ],
+        [
+          "some",
+          "some"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "The Emp<sw-ex>er</sw-ex>o<sw-ex>u</sw-ex><sl>r</sl> being willing to give some",
+      "line_slope": -0.08368163591374986,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        26,
+        9
+      ],
+      "user_ids": [
+        165259.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 11,
+  "transcribed_lines": 12,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

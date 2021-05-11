@@ -1,0 +1,272 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        154.74,
+        871.53
+      ],
+      "clusters_y": [
+        93.41,
+        120.09
+      ],
+      "clusters_text": [
+        [
+          "Mr",
+          "Mr"
+        ],
+        [
+          "Cross",
+          "Cross"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Rochester",
+          "Rochester"
+        ],
+        [
+          "being",
+          "being"
+        ],
+        [
+          "again",
+          "again"
+        ],
+        [
+          "taken",
+          "taken"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Mr Cross of Rochester being again taken",
+      "line_slope": 2.54379916019829,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        161.39999999999998,
+        904.595
+      ],
+      "clusters_y": [
+        138.29000000000002,
+        169.295
+      ],
+      "clusters_text": [
+        [
+          "into",
+          "into"
+        ],
+        [
+          "Custody",
+          "Custody"
+        ],
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "some",
+          "Some"
+        ],
+        [
+          "information",
+          "information"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "new",
+          "new"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "into Custody upon some information of a new -",
+      "line_slope": 2.54379916019829,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        148.86,
+        891.8599999999999
+      ],
+      "clusters_y": [
+        178.655,
+        210.56
+      ],
+      "clusters_text": [
+        [
+          "Plot",
+          "Plot"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "burne",
+          "burne"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Royall",
+          "Royall"
+        ],
+        [
+          "navy",
+          "Navy"
+        ],
+        [
+          "hee",
+          "hee"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "day",
+          "day"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "Plot to burne <brev-y>th</brev-y><sl>e</sl> Royall navy hee was this day",
+      "line_slope": 2.54379916019829,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        2
+      ],
+      "user_ids": [
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        158.44,
+        875.09
+      ],
+      "clusters_y": [
+        224.685,
+        262.125
+      ],
+      "clusters_text": [
+        [
+          "examined",
+          "examined"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "thereupon",
+          "thereupon"
+        ],
+        [
+          "Warrants",
+          "Warrants"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "Issued",
+          "Issued"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "examined & thereupon Warrants are Issued",
+      "line_slope": 2.54379916019829,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        3
+      ],
+      "user_ids": [
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

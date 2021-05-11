@@ -1,0 +1,664 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        38.375,
+        939.155
+      ],
+      "clusters_y": [
+        230.45499999999998,
+        207.73000000000002
+      ],
+      "clusters_text": [
+        [
+          "<sw-unclear>Study</sw-unclear>",
+          "Study"
+        ],
+        [
+          "is",
+          "in"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Safety",
+          "Safety"
+        ],
+        [
+          "and",
+          "&"
+        ],
+        [
+          "Benefit",
+          "Benefit"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "people",
+          "people"
+        ],
+        [
+          "and",
+          "&"
+        ],
+        [
+          "it",
+          "it"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "a",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6923076923076923,
+      "consensus_text": "<sw-unclear>Study</sw-unclear> is <brev-y>th</brev-y><sl>e</sl> Safety and Benefit of my people and it is a",
+      "line_slope": -1.7981887802775862,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        25.97,
+        921.265
+      ],
+      "clusters_y": [
+        278.89,
+        257.33500000000004
+      ],
+      "clusters_text": [
+        [
+          "",
+          "great"
+        ],
+        [
+          "",
+          "Satisfaction"
+        ],
+        [
+          "",
+          "to"
+        ],
+        [
+          "",
+          "me,"
+        ],
+        [
+          "when",
+          "when"
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "Endeavours",
+          "Endeavours"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "great Satisfaction to me, when my Endeavours",
+      "line_slope": -1.7981887802775862,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        4
+      ],
+      "user_ids": [
+        1395487.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        37.855000000000004,
+        927.495
+      ],
+      "clusters_y": [
+        340.7,
+        320.995
+      ],
+      "clusters_text": [
+        [
+          "meet",
+          "meet"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "Success",
+          "success"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Advantage",
+          "Advantage"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "such",
+          "such"
+        ],
+        [
+          "Loyall",
+          "Loyall"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "meet w<sw-ex>i</sw-ex><sl>th</sl> Success to <brev-y>th</brev-y><sl>e</sl> Advantage of such Loyall",
+      "line_slope": -1.7981887802775862,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        25.305,
+        935.14
+      ],
+      "clusters_y": [
+        390.78499999999997,
+        364.97
+      ],
+      "clusters_text": [
+        [
+          "And",
+          "&"
+        ],
+        [
+          "affectionate",
+          "Affectionate"
+        ],
+        [
+          "Subjects",
+          "subjects"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Some",
+          "some"
+        ],
+        [
+          "Dayes",
+          "dayes"
+        ],
+        [
+          "since",
+          "since"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "<sw-ins>Body",
+          "<sw-ins>Body"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl></sw-ins>",
+          "the</sw-ins>"
+        ],
+        [
+          "Ho<sw-ex>norable</sw-ex>",
+          "Ho<sw-ex>norable</sw-ex>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "And affectionate Subjects - Some Dayes since <brev-y>th</brev-y><sl>e</sl> <sw-ins>Body of <brev-y>th</brev-y><sl>e</sl></sw-ins> Ho<sw-ex>norable</sw-ex>",
+      "line_slope": -1.7981887802775862,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        35.355000000000004,
+        925.4200000000001
+      ],
+      "clusters_y": [
+        540.765,
+        519.5450000000001
+      ],
+      "clusters_text": [
+        [
+          "He",
+          "He"
+        ],
+        [
+          "dyed",
+          "dyed"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "83<sw-sup>d</sw-sup>",
+          "83d"
+        ],
+        [
+          "year",
+          "year"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Age",
+          "age"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Yesterday",
+          "yesterday"
+        ],
+        [
+          "morning",
+          "morning"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "He dyed in <brev-y>th</brev-y><sl>e</sl> 83<sw-sup>d</sw-sup> year of his Age - Yesterday morning",
+      "line_slope": -1.7981887802775862,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        1680081.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        37.375,
+        910.26
+      ],
+      "clusters_y": [
+        652.0450000000001,
+        620.74
+      ],
+      "clusters_text": [
+        [
+          "Set",
+          "set"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Holland",
+          "Holland"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "Way",
+          "Way"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Utrecht",
+          "Vtrecht"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "This",
+          "This"
+        ],
+        [
+          "day",
+          "day"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Set out for Holland in their Way to Utrecht - This day",
+      "line_slope": -1.7981887802775862,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        11
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        33.325,
+        927.0350000000001
+      ],
+      "clusters_y": [
+        697.565,
+        657.15
+      ],
+      "clusters_text": [
+        [
+          "Dr",
+          "D<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Henry",
+          "Henry"
+        ],
+        [
+          "Sacheverell",
+          "Sacheverell"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "Instituted",
+          "Instituted"
+        ],
+        [
+          "and",
+          "&"
+        ],
+        [
+          "Inducted",
+          "Inducted"
+        ],
+        [
+          "into",
+          "into"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "Dr Henry Sacheverell was Instituted and Inducted into the",
+      "line_slope": -1.7981887802775862,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        12
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        39.61666666666667,
+        927.46
+      ],
+      "clusters_y": [
+        750.2033333333334,
+        713.3
+      ],
+      "clusters_text": [
+        [
+          "parish",
+          "parish",
+          "parish"
+        ],
+        [
+          "Church",
+          "Church",
+          "Church"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "St",
+          "St",
+          "S<sw-sup>t</sw-sup>"
+        ],
+        [
+          "Andrews",
+          "Andrews",
+          "Andrews"
+        ],
+        [
+          "Holbourne",
+          "Holborne",
+          "Holbovue"
+        ],
+        [
+          "",
+          "-",
+          "-"
+        ],
+        [
+          "",
+          "This",
+          "This"
+        ],
+        [
+          "",
+          "day",
+          "day"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.3,
+      "consensus_text": "parish Church of St Andrews Holbourne - This day <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -1.7981887802775862,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        12,
+        13
+      ],
+      "user_ids": [
+        1395487.0,
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        41.295,
+        325.69
+      ],
+      "clusters_y": [
+        988.28,
+        976.69
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "Address",
+          "Address"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "to their Address -",
+      "line_slope": -1.7981887802775862,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        18
+      ],
+      "user_ids": [
+        1395487.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 9,
+  "transcribed_lines": 9,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

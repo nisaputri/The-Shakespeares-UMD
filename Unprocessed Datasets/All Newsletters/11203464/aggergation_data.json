@@ -1,0 +1,142 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        246.195,
+        930.665
+      ],
+      "clusters_y": [
+        133.505,
+        138.08999999999997
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "oblige",
+          "Oblige"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "K<sw-ex>ing</sw-ex>",
+          "K"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Spaine",
+          "Spain"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "make",
+          "make"
+        ],
+        [
+          "a",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "to oblige the K<sw-ex>ing</sw-ex> of Spaine to make a",
+      "line_slope": -0.09479428988747111,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        385.54999999999995,
+        933.675
+      ],
+      "clusters_y": [
+        288.66999999999996,
+        279.33000000000004
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "french",
+          "fr"
+        ],
+        [
+          "Court",
+          "Court"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Mightily",
+          "Mightily"
+        ],
+        [
+          "reioycd",
+          "rejoycd"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "The french Court is Mightily reioycd",
+      "line_slope": -0.09479428988747111,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

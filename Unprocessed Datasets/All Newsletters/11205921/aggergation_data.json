@@ -1,0 +1,173 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        258.68,
+        873.4549999999999
+      ],
+      "clusters_y": [
+        589.84,
+        540.0699999999999
+      ],
+      "clusters_text": [
+        [
+          "Dutch",
+          ""
+        ],
+        [
+          "Deputyes",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "They",
+          "They"
+        ],
+        [
+          "write",
+          "write"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "Dutch Deputyes - They write",
+      "line_slope": -3.969487165791462,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        1561060.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.355,
+        897.3
+      ],
+      "clusters_y": [
+        653.0699999999999,
+        607.13
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Portsmouth",
+          "Portsmouth"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Mobb",
+          "Mobb"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "from Portsmouth that the Mobb",
+      "line_slope": -3.969487165791462,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        1561060.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.805,
+        869.315
+      ],
+      "clusters_y": [
+        1345.4250000000002,
+        1307.795
+      ],
+      "clusters_text": [
+        [
+          "him:",
+          "him"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "Majestie",
+          "majestie"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "ordered",
+          "ordered"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "him: her Majestie has ordered",
+      "line_slope": -3.969487165791462,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        1561060.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

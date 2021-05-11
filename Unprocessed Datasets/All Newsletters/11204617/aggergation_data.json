@@ -1,0 +1,71 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        296.42,
+        939.42
+      ],
+      "clusters_y": [
+        1415.02,
+        1389.26
+      ],
+      "clusters_text": [
+        [
+          "was",
+          "<sw-del>o</sw-del>"
+        ],
+        [
+          "made",
+          "seamen"
+        ],
+        [
+          "out",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "all",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "was made out of all",
+      "line_slope": -2.6169956782785664,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        27,
+        30
+      ],
+      "user_ids": [
+        190714.0,
+        190714.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

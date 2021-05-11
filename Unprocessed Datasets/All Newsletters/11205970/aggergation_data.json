@@ -1,0 +1,279 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        74.785,
+        94.605
+      ],
+      "clusters_y": [
+        238.815,
+        996.855
+      ],
+      "clusters_text": [
+        [
+          "correspondence",
+          "correspondence"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "Ffrance.",
+          "ffrance."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "correspondence with Ffrance.",
+      "line_slope": 88.59745961400638,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        2
+      ],
+      "user_ids": [
+        1851566.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.45,
+        877.48
+      ],
+      "clusters_y": [
+        1189.0700000000002,
+        1152.165
+      ],
+      "clusters_text": [
+        [
+          "Admiralty",
+          "Admiralty"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "perSue",
+          "persue"
+        ],
+        [
+          "Count",
+          "Count"
+        ],
+        [
+          "Saint",
+          "Saint"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Admiralty to perSue Count Saint",
+      "line_slope": -3.6362825206966654,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        20
+      ],
+      "user_ids": [
+        1851566.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.925,
+        896.94
+      ],
+      "clusters_y": [
+        1263.95,
+        1226.1399999999999
+      ],
+      "clusters_text": [
+        [
+          "Paul",
+          "Paul"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "sayled",
+          "sayled"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Dunkirke",
+          "Dunkirke"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Paul who is sayled out of Dunkirke",
+      "line_slope": -3.6362825206966654,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        21
+      ],
+      "user_ids": [
+        1851566.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.82,
+        859.9100000000001
+      ],
+      "clusters_y": [
+        1351.595,
+        1307.6799999999998
+      ],
+      "clusters_text": [
+        [
+          "with",
+          "with"
+        ],
+        [
+          "three",
+          "three"
+        ],
+        [
+          "men",
+          "men"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Warr",
+          "Warr"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "with three men of Warr and",
+      "line_slope": -3.6362825206966654,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        22
+      ],
+      "user_ids": [
+        1851566.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        239.63,
+        935.715
+      ],
+      "clusters_y": [
+        1440.6100000000001,
+        1401.325
+      ],
+      "clusters_text": [
+        [
+          "eight",
+          "eight"
+        ],
+        [
+          "Privateeres",
+          "Privateeres"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "interrupt",
+          "intercept"
+        ],
+        [
+          "our",
+          "out"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "eight Privateeres to interrupt our",
+      "line_slope": -3.6362825206966654,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        23
+      ],
+      "user_ids": [
+        1851566.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

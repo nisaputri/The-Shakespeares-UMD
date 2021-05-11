@@ -1,0 +1,139 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        414.595,
+        414.345
+      ],
+      "clusters_y": [
+        632.095,
+        382.375
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": -89.91957043801028,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1501614.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        508.66333333333336,
+        510.43000000000006
+      ],
+      "clusters_y": [
+        893.46,
+        657.3533333333334
+      ],
+      "clusters_text": [
+        [
+          "<sw-unclear>Witt:",
+          "Will:",
+          "Will<sw-ex>iam</sw-ex>"
+        ],
+        [
+          "Sheptious",
+          "Stephens:",
+          "Stephens"
+        ],
+        [
+          "</sw-unclear>",
+          "",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.0,
+      "consensus_text": "<sw-unclear>Witt: Sheptious </sw-unclear>",
+      "line_slope": -89.91957043801028,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4,
+        4
+      ],
+      "user_ids": [
+        1501614.0,
+        3697.0,
+        352990.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        461.45,
+        458.995
+      ],
+      "clusters_y": [
+        922.87,
+        819.79
+      ],
+      "clusters_text": [
+        [
+          "Frank",
+          "Frank"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Frank",
+      "line_slope": -91.3361766106007,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        3
+      ],
+      "user_ids": [
+        1501614.0,
+        352990.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

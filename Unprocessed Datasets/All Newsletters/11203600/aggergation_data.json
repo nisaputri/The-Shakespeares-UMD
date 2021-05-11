@@ -1,0 +1,614 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        422.31,
+        418.895
+      ],
+      "clusters_y": [
+        966.95,
+        1036.29
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "To",
+      "line_slope": 92.87550511196142,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6
+      ],
+      "user_ids": [
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        377.645,
+        348.84
+      ],
+      "clusters_y": [
+        741.08,
+        1361.37
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "ho<sw-ex>norable</sw-ex>",
+          "hon<sw-ex>oura</sw-ex>ble"
+        ],
+        [
+          "Rich<sw-ex>ard</sw-ex>:",
+          "Rich<sw-ex>ard</sw-ex>"
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "Bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+          "bar<sw-ex>one</sw-ex>t"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "The ho<sw-ex>norable</sw-ex> Rich<sw-ex>ard</sw-ex>: Newdigate Bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+      "line_slope": 92.87550511196142,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        7
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        219.59,
+        203.7
+      ],
+      "clusters_y": [
+        864.355,
+        1179.5149999999999
+      ],
+      "clusters_text": [
+        [
+          "near",
+          "near"
+        ],
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "near Coventry",
+      "line_slope": 92.87550511196142,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        74.76,
+        924.2400000000001
+      ],
+      "clusters_y": [
+        64.69666666666667,
+        67.17999999999999
+      ],
+      "clusters_text": [
+        [
+          "King",
+          "king",
+          "King"
+        ],
+        [
+          "knew",
+          "knew",
+          "knew"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "our",
+          "our",
+          "our"
+        ],
+        [
+          "designe",
+          "designe",
+          "designe"
+        ],
+        [
+          "having",
+          "having",
+          "having"
+        ],
+        [
+          "10000",
+          "10000",
+          "10000"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "The",
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.7777777777777777,
+      "consensus_text": "King knew of our designe having 10000 in the",
+      "line_slope": 0.7242328588599004,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        66.85333333333334,
+        906.5533333333333
+      ],
+      "clusters_y": [
+        114.59666666666665,
+        122.28000000000002
+      ],
+      "clusters_text": [
+        [
+          "Towne",
+          "towne",
+          "towne"
+        ],
+        [
+          "lesed;",
+          "losed;",
+          "besids"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "horse",
+          "horse",
+          "horse"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "foote",
+          "foote",
+          "foote"
+        ],
+        [
+          "with",
+          "with",
+          "with"
+        ],
+        [
+          "foote,",
+          "foote",
+          "foote,"
+        ],
+        [
+          "an",
+          "?",
+          "an"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.4444444444444446,
+      "consensus_text": "towne lesed; the horse and foote with foote, an",
+      "line_slope": 0.7242328588599004,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        1,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        65.54333333333334,
+        921.8066666666667
+      ],
+      "clusters_y": [
+        162.5066666666667,
+        166.8166666666667
+      ],
+      "clusters_text": [
+        [
+          "Express",
+          "Express",
+          "Express"
+        ],
+        [
+          "was",
+          "was",
+          "was"
+        ],
+        [
+          "dispatchd",
+          "dispatch<sw-ex>e</sw-ex>d",
+          "dispatchd"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "King",
+          "king",
+          "King"
+        ],
+        [
+          "on",
+          "on",
+          "on"
+        ],
+        [
+          "Tuesday",
+          "tuesday",
+          "Tuesday"
+        ],
+        [
+          "night",
+          "night",
+          "night"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6666666666666665,
+      "consensus_text": "Express was dispatchd to the King on Tuesday night",
+      "line_slope": 0.7242328588599004,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        71.17333333333333,
+        926.6199999999999
+      ],
+      "clusters_y": [
+        208.46666666666667,
+        223.26999999999998
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "a",
+          "",
+          "a"
+        ],
+        [
+          "Cabinett",
+          "Cabinett",
+          "Cabinett"
+        ],
+        [
+          "Councill",
+          "Councess",
+          "Counc<sw-ex>e</sw-ex>ll"
+        ],
+        [
+          "was",
+          "was",
+          "was"
+        ],
+        [
+          "forthwith",
+          "forthw<sw-ex>i</sw-ex><sl>th</sl>",
+          "forthw<sw-ex>i</sw-ex>th"
+        ],
+        [
+          "Calld",
+          "cald",
+          "Calld"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "an",
+          "an",
+          "an"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.3333333333333335,
+      "consensus_text": "and a Cabinett Councill was forthwith Calld and an",
+      "line_slope": 0.7242328588599004,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        64.24,
+        924.3133333333334
+      ],
+      "clusters_y": [
+        254.75,
+        275.49666666666667
+      ],
+      "clusters_text": [
+        [
+          "Express",
+          "Express",
+          "Express"
+        ],
+        [
+          "dispatchd",
+          "dispatch<sw-ex>e</sw-ex>d",
+          "dispatchd"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "Spitthead",
+          "Spithead",
+          "Spitt"
+        ],
+        [
+          "",
+          "",
+          "head"
+        ],
+        [
+          "--",
+          "-",
+          "-"
+        ],
+        [
+          "tis",
+          "?",
+          "tis"
+        ],
+        [
+          "beleivd",
+          "beleiv<sw-ex>e</sw-ex>d",
+          "beleived"
+        ],
+        [
+          "Adm<sw-ex>ira</sw-ex><sw-sup>ll</sw-sup>",
+          "Adm<sw-ex>ira</sw-ex>ll",
+          "Adm<sw-ex>ira</sw-ex>ll"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "Express dispatchd to Spitthead head - tis beleivd Adm<sw-ex>ira</sw-ex>ll",
+      "line_slope": 0.7242328588599004,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4,
+        4
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        73.55,
+        899.37
+      ],
+      "clusters_y": [
+        301.0466666666666,
+        312.65
+      ],
+      "clusters_text": [
+        [
+          "Russell",
+          "Russell",
+          "Russell"
+        ],
+        [
+          "is",
+          "16",
+          "is"
+        ],
+        [
+          "arrivd",
+          "arrived",
+          "arrivd"
+        ],
+        [
+          "at",
+          "at",
+          "at"
+        ],
+        [
+          "Cadiz",
+          "Cadiz",
+          "Cadiz"
+        ],
+        [
+          "before",
+          "before",
+          "before"
+        ],
+        [
+          "that",
+          "that",
+          "that"
+        ],
+        [
+          "time",
+          "time",
+          "time"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.75,
+      "consensus_text": "Russell is arrivd at Cadiz before that time",
+      "line_slope": 0.7242328588599004,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5,
+        5
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 9,
+  "transcribed_lines": 9,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

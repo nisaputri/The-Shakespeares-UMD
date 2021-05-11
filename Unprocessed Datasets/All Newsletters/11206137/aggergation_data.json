@@ -1,0 +1,909 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        251.51999999999998,
+        958.375
+      ],
+      "clusters_y": [
+        140.065,
+        108.75999999999999
+      ],
+      "clusters_text": [
+        [
+          "Brigadire",
+          "Brigadire"
+        ],
+        [
+          "Generall",
+          "Generall"
+        ],
+        [
+          "Shrimpton",
+          "Shrimpton"
+        ],
+        [
+          "with",
+          "with"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Brigadire Generall Shrimpton with",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        11
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.03,
+        931.165
+      ],
+      "clusters_y": [
+        224.435,
+        194.285
+      ],
+      "clusters_text": [
+        [
+          "Severall",
+          "severall",
+          "severall",
+          "severall"
+        ],
+        [
+          "other",
+          "other",
+          "other",
+          "other"
+        ],
+        [
+          "Persons",
+          "persons",
+          "persons",
+          "persons"
+        ],
+        [
+          "of",
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "note",
+          "note",
+          "note",
+          "moto"
+        ],
+        [
+          "are",
+          "are",
+          "are",
+          "are"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.5,
+      "consensus_text": "severall other persons of note are",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        8,
+        10,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        166707.0,
+        1891145.0,
+        1466844.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        241.64499999999998,
+        952.45
+      ],
+      "clusters_y": [
+        298.45,
+        261.275
+      ],
+      "clusters_text": [
+        [
+          "on",
+          "on"
+        ],
+        [
+          "board",
+          "board"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "fleet",
+          "ffleet"
+        ],
+        [
+          "commanded",
+          "commanded"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "Sr",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "on board this fleet commanded by Sr",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        7
+      ],
+      "user_ids": [
+        166707.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.23666666666668,
+        903.4466666666667
+      ],
+      "clusters_y": [
+        356.34666666666664,
+        340.46666666666664
+      ],
+      "clusters_text": [
+        [
+          "William<sw-unclear>",
+          "William",
+          "William"
+        ],
+        [
+          "Simpson</sw-unclear>",
+          "???per-",
+          "Jumper"
+        ],
+        [
+          "-",
+          "",
+          "--"
+        ],
+        [
+          "By",
+          "By",
+          "By"
+        ],
+        [
+          "Letters",
+          "letters",
+          "letters"
+        ],
+        [
+          "last",
+          "last",
+          "last"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "William Simpson</sw-unclear> - By letters last",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        10,
+        8
+      ],
+      "user_ids": [
+        1708223.0,
+        166707.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.435,
+        952.895
+      ],
+      "clusters_y": [
+        436.4,
+        417.4
+      ],
+      "clusters_text": [
+        [
+          "night",
+          "night"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Bath",
+          "Bath"
+        ],
+        [
+          "we",
+          "we"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "certainly",
+          "certainly"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "night from the Bath we are certainly",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        9
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.895,
+        949.22
+      ],
+      "clusters_y": [
+        507.27,
+        487.18
+      ],
+      "clusters_text": [
+        [
+          "Informed",
+          "informed"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Earl",
+          "Earl"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Dorset",
+          "Dorset"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Informed that the Earl of Dorset",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6
+      ],
+      "user_ids": [
+        166707.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.75,
+        929.01
+      ],
+      "clusters_y": [
+        587.53,
+        563.235
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Middlesee",
+          "Middlesex"
+        ],
+        [
+          "Knight",
+          "Knight"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "most",
+          "most"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "and Middlesee Knight of the most",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        0
+      ],
+      "user_ids": [
+        166707.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.54333333333335,
+        929.7199999999999
+      ],
+      "clusters_y": [
+        661.8633333333333,
+        642.8066666666667
+      ],
+      "clusters_text": [
+        [
+          "noble",
+          "noble",
+          "noble"
+        ],
+        [
+          "order",
+          "order",
+          "order"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Garter",
+          "Garter",
+          "Garter"
+        ],
+        [
+          "died",
+          "died",
+          "died"
+        ],
+        [
+          "on",
+          "on",
+          "on"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "noble order of the Garter died on",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        166707.0,
+        1891145.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        267.51,
+        934.85
+      ],
+      "clusters_y": [
+        723.835,
+        702.71
+      ],
+      "clusters_text": [
+        [
+          "ffryday",
+          "Fryday"
+        ],
+        [
+          "last",
+          "last"
+        ],
+        [
+          "much",
+          "????"
+        ],
+        [
+          "lamented",
+          "???????"
+        ],
+        [
+          "being",
+          "being"
+        ],
+        [
+          "a",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "ffryday last much lamented being a",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        166707.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.735,
+        957.365
+      ],
+      "clusters_y": [
+        784.4749999999999,
+        783.28
+      ],
+      "clusters_text": [
+        [
+          "Lord",
+          "Lord"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "great",
+          "great"
+        ],
+        [
+          "learning",
+          "learning"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "merrit",
+          "merrit"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Lord of great learning and merrit",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        166707.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.72,
+        916.01
+      ],
+      "clusters_y": [
+        856.6500000000001,
+        839.5
+      ],
+      "clusters_text": [
+        [
+          "his",
+          "his"
+        ],
+        [
+          "honour",
+          "honour"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Estate",
+          "Estates"
+        ],
+        [
+          "descends",
+          "descend"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "his honour and Estate descends to",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        4
+      ],
+      "user_ids": [
+        1708223.0,
+        166707.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.045,
+        898.605
+      ],
+      "clusters_y": [
+        986.81,
+        959.89
+      ],
+      "clusters_text": [
+        [
+          "It",
+          "It"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "said",
+          "said"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "mr",
+          "Mr"
+        ],
+        [
+          "Conyers",
+          "Conyers"
+        ],
+        [
+          "hath",
+          "hath"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "It is said that mr Conyers hath",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        13
+      ],
+      "user_ids": [
+        166707.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        256.4433333333333,
+        920.8866666666667
+      ],
+      "clusters_y": [
+        1131.9566666666667,
+        1100.6466666666668
+      ],
+      "clusters_text": [
+        [
+          "being",
+          "being",
+          "being"
+        ],
+        [
+          "made",
+          "made",
+          "made"
+        ],
+        [
+          "one",
+          "one",
+          "one"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "few",
+          ""
+        ],
+        [
+          "Justices",
+          "Justices",
+          "Justices"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.75,
+      "consensus_text": "being made one of the few Justices of",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        13,
+        15
+      ],
+      "user_ids": [
+        1708223.0,
+        166707.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.355,
+        946.355
+      ],
+      "clusters_y": [
+        1196.475,
+        1179.98
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Common",
+          "Common"
+        ],
+        [
+          "pleas",
+          "pleas"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Sr",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Edward",
+          "Edward"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "the Common pleas and Sr Edward",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        22
+      ],
+      "user_ids": [
+        166707.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.2,
+        922.645
+      ],
+      "clusters_y": [
+        1282.085,
+        1262.745
+      ],
+      "clusters_text": [
+        [
+          "Turlon",
+          "Turton"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "again",
+          "againe"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "one",
+          "one"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Turlon will again be made one",
+      "line_slope": -1.942509915251261,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        16
+      ],
+      "user_ids": [
+        166707.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 13,
+  "transcribed_lines": 15,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

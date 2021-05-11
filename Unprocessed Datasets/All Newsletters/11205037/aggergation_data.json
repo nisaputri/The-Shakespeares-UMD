@@ -1,0 +1,287 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        483.78999999999996,
+        974.38
+      ],
+      "clusters_y": [
+        760.8699999999999,
+        752.01
+      ],
+      "clusters_text": [
+        [
+          "Last",
+          "Last"
+        ],
+        [
+          "night",
+          "night"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Lord",
+          "Lord"
+        ],
+        [
+          "Berkley",
+          "Berkley"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Last night the Lord Berkley",
+      "line_slope": -0.7435436885044685,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        0
+      ],
+      "user_ids": [
+        1891145.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        291.20500000000004,
+        910.395
+      ],
+      "clusters_y": [
+        992.335,
+        979.995
+      ],
+      "clusters_text": [
+        [
+          "Councell",
+          "Councill"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "held",
+          "held"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "White",
+          "White"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Councell will be held at White",
+      "line_slope": -0.7435436885044685,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        5
+      ],
+      "user_ids": [
+        1891145.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        283.8,
+        950.61
+      ],
+      "clusters_y": [
+        1055.805,
+        1038.165
+      ],
+      "clusters_text": [
+        [
+          "Hall",
+          "Hall"
+        ],
+        [
+          "where",
+          "where"
+        ],
+        [
+          "I",
+          "I"
+        ],
+        [
+          "am",
+          "am"
+        ],
+        [
+          "told",
+          "told"
+        ],
+        [
+          "most",
+          "most"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Hall where I am told most of the",
+      "line_slope": -0.7435436885044685,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        6
+      ],
+      "user_ids": [
+        1891145.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        284.53499999999997,
+        953.135
+      ],
+      "clusters_y": [
+        1120.23,
+        1095.3899999999999
+      ],
+      "clusters_text": [
+        [
+          "Land",
+          "Land"
+        ],
+        [
+          "officers",
+          "officers"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "bee",
+          "bee"
+        ],
+        [
+          "present",
+          "present"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Land officers will bee present",
+      "line_slope": -0.7435436885044685,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        7
+      ],
+      "user_ids": [
+        1891145.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        280.12,
+        774.67
+      ],
+      "clusters_y": [
+        1360.7649999999999,
+        1365.26
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "next",
+          "next"
+        ],
+        [
+          "Campagne",
+          "Campagne"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "the next Campagne -",
+      "line_slope": -0.7435436885044685,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        10
+      ],
+      "user_ids": [
+        1891145.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

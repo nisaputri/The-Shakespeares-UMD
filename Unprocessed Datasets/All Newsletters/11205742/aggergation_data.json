@@ -1,0 +1,976 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        323.79499999999996,
+        860.4449999999999
+      ],
+      "clusters_y": [
+        61.42,
+        51.025000000000006
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "Aprill",
+          "aprill"
+        ],
+        [
+          "the",
+          "???"
+        ],
+        [
+          "17--",
+          "???"
+        ],
+        [
+          "1705",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "London Aprill the 17-- 1705",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.63666666666666,
+        937.575
+      ],
+      "clusters_y": [
+        164.54,
+        147.69
+      ],
+      "clusters_text": [
+        [
+          "this",
+          "This",
+          "This"
+        ],
+        [
+          "morning",
+          "morning",
+          "morning"
+        ],
+        [
+          "arrived",
+          "arrived",
+          "arrived"
+        ],
+        [
+          "",
+          "one",
+          "and"
+        ],
+        [
+          "",
+          "Holland",
+          "holland"
+        ],
+        [
+          "",
+          "mayle",
+          "maybe"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "This morning arrived one Holland mayle",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.28,
+        869.74
+      ],
+      "clusters_y": [
+        227.6,
+        200.04
+      ],
+      "clusters_text": [
+        [
+          "which"
+        ],
+        [
+          "brings"
+        ],
+        [
+          "the"
+        ],
+        [
+          "following"
+        ],
+        [
+          "news"
+        ],
+        [
+          "air"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "which brings the following news air",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.96500000000003,
+        907.31
+      ],
+      "clusters_y": [
+        237.515,
+        199.03
+      ],
+      "clusters_text": [
+        [
+          "which",
+          "which"
+        ],
+        [
+          "brings",
+          "brings"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "following",
+          "following"
+        ],
+        [
+          "",
+          "news"
+        ],
+        [
+          "",
+          "viz"
+        ],
+        [
+          "",
+          "<sw-sup>t</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "which brings the following news viz <sw-sup>t</sw-sup>",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        2
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.57,
+        924.15
+      ],
+      "clusters_y": [
+        287.75,
+        274.28
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Leghorne"
+        ],
+        [
+          "",
+          "March"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "29th:"
+        ],
+        [
+          "english",
+          "English"
+        ],
+        [
+          "",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Leghorne March the 29th: english and",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        3
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.5533333333333,
+        936.6
+      ],
+      "clusters_y": [
+        363.1766666666667,
+        347.84
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Dutch",
+          "???"
+        ],
+        [
+          "",
+          "merchantmen",
+          "???"
+        ],
+        [
+          "are",
+          "are",
+          "and"
+        ],
+        [
+          "arrived",
+          "arrived",
+          "arrived"
+        ],
+        [
+          "",
+          "here",
+          "here"
+        ],
+        [
+          "",
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Dutch merchantmen are arrived here and",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        4,
+        7,
+        8
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.44,
+        954.47
+      ],
+      "clusters_y": [
+        435.99,
+        401.18
+      ],
+      "clusters_text": [
+        [
+          "",
+          "",
+          "tell"
+        ],
+        [
+          "us",
+          "",
+          "us"
+        ],
+        [
+          "of",
+          "",
+          "of"
+        ],
+        [
+          "a",
+          "",
+          "a"
+        ],
+        [
+          "",
+          "",
+          "Sea"
+        ],
+        [
+          "",
+          "fight",
+          "fight"
+        ],
+        [
+          "",
+          "between",
+          "between"
+        ],
+        [
+          "",
+          "",
+          "Ponti"
+        ],
+        [
+          "",
+          "",
+          "and"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.5555555555555556,
+      "consensus_text": "tell us of a Sea fight between Ponti and",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        8,
+        5
+      ],
+      "user_ids": [
+        null,
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.06333333333333,
+        950.77
+      ],
+      "clusters_y": [
+        510.32666666666665,
+        486.3333333333333
+      ],
+      "clusters_text": [
+        [
+          "",
+          "John",
+          "John",
+          "John"
+        ],
+        [
+          "",
+          "Leake",
+          "???",
+          "Leake"
+        ],
+        [
+          "who",
+          "who",
+          "who",
+          "who"
+        ],
+        [
+          "took",
+          "took",
+          "took",
+          "took"
+        ],
+        [
+          "three",
+          "three",
+          "three",
+          "three"
+        ],
+        [
+          "",
+          "burnt",
+          "burnt",
+          "burnt"
+        ],
+        [
+          "",
+          "two",
+          "two",
+          "two"
+        ],
+        [
+          "",
+          "and",
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.25,
+      "consensus_text": "John Leake who took three burnt two and",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        6,
+        10,
+        2
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        null,
+        null
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        263.02,
+        930.2249999999999
+      ],
+      "clusters_y": [
+        580.75,
+        560.17
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Sunck",
+          "???"
+        ],
+        [
+          "another",
+          "another",
+          "another"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "ffrench",
+          "??"
+        ],
+        [
+          "",
+          "near",
+          "near"
+        ],
+        [
+          "",
+          "Mallaga",
+          "???"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "Sunck another of the ffrench near Mallaga",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        7,
+        11
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.28999999999996,
+        949.94
+      ],
+      "clusters_y": [
+        672.63,
+        635.115
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "persuite",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "rest",
+          ""
+        ],
+        [
+          "which",
+          ""
+        ],
+        [
+          "Sayled",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "and was in persuite of the rest which Sayled",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        12
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.02,
+        939.84
+      ],
+      "clusters_y": [
+        768.4,
+        720.165
+      ],
+      "clusters_text": [
+        [
+          "",
+          "toward"
+        ],
+        [
+          "",
+          "Tholloun"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "camp",
+          "Camp"
+        ],
+        [
+          "before",
+          "before"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "toward Tholloun - from the camp before",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        9
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.15,
+        953.03
+      ],
+      "clusters_y": [
+        834.6,
+        806.95
+      ],
+      "clusters_text": [
+        [
+          "",
+          "<sw-unclear>Verne</sw-unclear>"
+        ],
+        [
+          "",
+          "Aprill"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "11<sw-sup>th</sw-sup>:"
+        ],
+        [
+          "as",
+          "as"
+        ],
+        [
+          "soon",
+          "Soon"
+        ],
+        [
+          "as",
+          "as"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "Governor"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "<sw-unclear>Verne</sw-unclear> Aprill the 11<sw-sup>th</sw-sup>: as soon as the Governor",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        10
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.505,
+        957.22
+      ],
+      "clusters_y": [
+        906.0550000000001,
+        880.69
+      ],
+      "clusters_text": [
+        [
+          "had",
+          "had"
+        ],
+        [
+          "blown",
+          "blown"
+        ],
+        [
+          "up",
+          "up"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "fortifications",
+          "fortifications"
+        ],
+        [
+          "",
+          "he"
+        ],
+        [
+          "",
+          "Surrendered"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "had blown up the fortifications he Surrendered",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        11
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.33000000000004,
+        901.91
+      ],
+      "clusters_y": [
+        1164.0349999999999,
+        1128.74
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "Garryson:"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "D"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "Garryson",
+          "Vandome"
+        ],
+        [
+          "",
+          "told"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "and the Garryson: the D of Garryson told",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        14
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.39,
+        913.03
+      ],
+      "clusters_y": [
+        1259.3200000000002,
+        1223.095
+      ],
+      "clusters_text": [
+        [
+          "him",
+          "him"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "according",
+          "according"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "law",
+          "Laaw"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "war",
+          "warr"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "him that according to the law of war",
+      "line_slope": -2.347734009471764,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        15
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 14,
+  "transcribed_lines": 15,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        103.6,
+        900.54
+      ],
+      "clusters_y": [
+        657.67,
+        677.845
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Dunkirk"
+        ],
+        [
+          "",
+          "was,"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "200",
+          "200"
+        ],
+        [
+          "carpenters",
+          "Carpenters"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "employed",
+          "Employed"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2857142857142858,
+      "consensus_text": "Dunkirk was, <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> 200 carpenters are employed",
+      "line_slope": 1.0998094744503928,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        15
+      ],
+      "user_ids": [
+        1877138.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

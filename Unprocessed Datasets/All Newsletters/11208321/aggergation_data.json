@@ -1,0 +1,225 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        71.86,
+        938.495
+      ],
+      "clusters_y": [
+        519.38,
+        496.17
+      ],
+      "clusters_text": [
+        [
+          "-",
+          ""
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "House",
+          "House"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Com<sw-ex>m</sw-ex>ons",
+          "Comons"
+        ],
+        [
+          "yesterday",
+          "yesterday"
+        ],
+        [
+          "Divided",
+          "Divided"
+        ],
+        [
+          "whether",
+          "whether"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "- the House of Com<sw-ex>m</sw-ex>ons yesterday Divided whether",
+      "line_slope": -0.9672411641916019,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        3
+      ],
+      "user_ids": [
+        1682843.0,
+        1680081.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        72.27,
+        907.785
+      ],
+      "clusters_y": [
+        805.7,
+        784.65
+      ],
+      "clusters_text": [
+        [
+          "be",
+          "be"
+        ],
+        [
+          "ended",
+          "ended"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Tuesday",
+          "Tuesday"
+        ],
+        [
+          "next",
+          "next"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "This",
+          "This"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "be ended on Tuesday next - This day the",
+      "line_slope": -0.9672411641916019,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        12
+      ],
+      "user_ids": [
+        1708223.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        70.155,
+        898.005
+      ],
+      "clusters_y": [
+        854.69,
+        836.415
+      ],
+      "clusters_text": [
+        [
+          "Comons",
+          "Com<sw-ex>m</sw-ex>ons"
+        ],
+        [
+          "read",
+          "read"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "3<sw-sup>d</sw-sup>",
+          "3d"
+        ],
+        [
+          "time",
+          "time"
+        ],
+        [
+          "and",
+          "&"
+        ],
+        [
+          "past",
+          "past"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "bill",
+          "bill"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Ease",
+          "Ease"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7272727272727273,
+      "consensus_text": "Comons read a 3<sw-sup>d</sw-sup> time and past the bill for Ease",
+      "line_slope": -0.9672411641916019,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        13
+      ],
+      "user_ids": [
+        1708223.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

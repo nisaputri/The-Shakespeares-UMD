@@ -1,0 +1,113 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        412.54,
+        425.26000000000005
+      ],
+      "clusters_y": [
+        772.86,
+        1361.8233333333335
+      ],
+      "clusters_text": [
+        [
+          "newdigate",
+          "newdigate",
+          "newdigate"
+        ],
+        [
+          "Barr<sw-sup>t</sw-sup>",
+          "Barr<sw-ex>one</sw-ex>t",
+          "Bar<sw-ex>one</sw-ex>t"
+        ],
+        [
+          "at",
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "newdigate Barr<sw-sup>t</sw-sup> at Arbury",
+      "line_slope": 88.58560802941246,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        1
+      ],
+      "user_ids": [
+        1627866.0,
+        165259.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        349.455,
+        359.53499999999997
+      ],
+      "clusters_y": [
+        870.54,
+        1271.2
+      ],
+      "clusters_text": [
+        [
+          "neare",
+          "neare"
+        ],
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "neare Coventry",
+      "line_slope": 88.58560802941246,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        165259.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        900.37,
+        734.7550000000001
+      ],
+      "clusters_y": [
+        1349.16,
+        1348.76
+      ],
+      "clusters_text": [
+        [
+          "<sw-del><sw-unclear>28</sw-unclear></sw-del>",
+          "<sw-del>28</sw-del>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "<sw-del><sw-unclear>28</sw-unclear></sw-del>",
+      "line_slope": 180.14289887595777,
+      "slope_label": 5,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        10
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        344.03,
+        340.49
+      ],
+      "clusters_y": [
+        889.765,
+        1147.545
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "At Arbury",
+      "line_slope": 90.5836394921888,
+      "slope_label": 3,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        99.97,
+        94.895
+      ],
+      "clusters_y": [
+        1508.365,
+        1256.6
+      ],
+      "clusters_text": [
+        [
+          "Jan<sw-ex>uary</sw-ex><sw-sup>s</sw-sup>",
+          "Jan<sw-ex>uary</sw-ex>"
+        ],
+        [
+          "News",
+          "News"
+        ],
+        [
+          "letters",
+          "Letters."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "Jan<sw-ex>uary</sw-ex><sw-sup>s</sw-sup> News letters",
+      "line_slope": -91.15396633563805,
+      "slope_label": 4,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        264.04999999999995,
+        923.52
+      ],
+      "clusters_y": [
+        191.875,
+        162.82
+      ],
+      "clusters_text": [
+        [
+          "<sw-unclear>Tis",
+          "Tis"
+        ],
+        [
+          "Saint</sw-unclear>",
+          "said"
+        ],
+        [
+          "now",
+          "now"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Earle",
+          "Earle"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "<sw-unclear>Tis Saint</sw-unclear> now that the Earle",
+      "line_slope": -1.3389386594308825,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1919763.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.18,
+        935.45
+      ],
+      "clusters_y": [
+        408.715,
+        387.645
+      ],
+      "clusters_text": [
+        [
+          "forney",
+          "forces"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "kingdome",
+          "Kingdome"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "forney of that kingdome",
+      "line_slope": -1.3389386594308825,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        1919763.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.92,
+        630.875
+      ],
+      "clusters_y": [
+        483.445,
+        470.625
+      ],
+      "clusters_text": [
+        [
+          "as",
+          "as"
+        ],
+        [
+          "Gonorall",
+          "Generall"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "as Gonorall",
+      "line_slope": -1.3389386594308825,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        1919763.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

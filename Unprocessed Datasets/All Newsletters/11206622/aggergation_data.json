@@ -1,0 +1,130 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        231.875,
+        906.14
+      ],
+      "clusters_y": [
+        89.125,
+        88.41
+      ],
+      "clusters_text": [
+        [
+          "500",
+          "500"
+        ],
+        [
+          "men",
+          "men,"
+        ],
+        [
+          "most",
+          "most"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "officers,",
+          "Officers,"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "500 men most of them officers,",
+      "line_slope": 0.7572178485916286,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        0
+      ],
+      "user_ids": [
+        null,
+        1919763.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.85,
+        886.22
+      ],
+      "clusters_y": [
+        858.99,
+        862.34
+      ],
+      "clusters_text": [
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "Horror"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "empire",
+          "Empire"
+        ],
+        [
+          "",
+          "on"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "the Horror of the empire on",
+      "line_slope": 0.7572178485916286,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        9
+      ],
+      "user_ids": [
+        null,
+        1919763.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

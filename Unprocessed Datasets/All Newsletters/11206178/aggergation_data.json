@@ -1,0 +1,283 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        238.86,
+        925.08
+      ],
+      "clusters_y": [
+        65.075,
+        72.69
+      ],
+      "clusters_text": [
+        [
+          "Elliott",
+          "Elliott"
+        ],
+        [
+          "our",
+          "our"
+        ],
+        [
+          "",
+          "Governour"
+        ],
+        [
+          "",
+          "would"
+        ],
+        [
+          "",
+          "have"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "Elliott our Governour would have",
+      "line_slope": -0.14571622869673345,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.015,
+        915.9449999999999
+      ],
+      "clusters_y": [
+        118.165,
+        122.535
+      ],
+      "clusters_text": [
+        [
+          "put",
+          "put"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "board",
+          "board"
+        ],
+        [
+          "1900",
+          "1200"
+        ],
+        [
+          "Men,",
+          "Men,"
+        ],
+        [
+          "but",
+          "but"
+        ],
+        [
+          "800",
+          "800"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "put on board 1900 Men, but 800",
+      "line_slope": -0.14571622869673345,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        231.93,
+        926.36
+      ],
+      "clusters_y": [
+        175.05,
+        171.2
+      ],
+      "clusters_text": [
+        [
+          "were",
+          "the"
+        ],
+        [
+          "thought",
+          "King"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "were thought",
+      "line_slope": -0.14571622869673345,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        225.785,
+        920.61
+      ],
+      "clusters_y": [
+        229.055,
+        224.65
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Spain",
+          "Spain"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "",
+          "sent"
+        ],
+        [
+          "",
+          "for"
+        ],
+        [
+          "",
+          "me"
+        ],
+        [
+          "",
+          "upon"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "of Spain has sent for me upon",
+      "line_slope": -0.14571622869673345,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.19,
+        925.335
+      ],
+      "clusters_y": [
+        1033.6,
+        1033.4
+      ],
+      "clusters_text": [
+        [
+          "",
+          "came"
+        ],
+        [
+          "",
+          "into"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "Citty"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "was",
+          "was"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "came into the Citty and was",
+      "line_slope": -0.14571622869673345,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        18
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

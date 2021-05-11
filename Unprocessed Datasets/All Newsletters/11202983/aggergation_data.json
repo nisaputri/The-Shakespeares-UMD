@@ -1,0 +1,127 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        54.4,
+        918.75
+      ],
+      "clusters_y": [
+        126.91,
+        121.30000000000001
+      ],
+      "clusters_text": [
+        [
+          "From",
+          "",
+          ""
+        ],
+        [
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "Aprill",
+          "Aprill",
+          "Aprill"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "17th",
+          "1<sw-sup>st</sw-sup>",
+          ""
+        ],
+        [
+          "93",
+          "93",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "From London Aprill <brev-y>th</brev-y><sl>e</sl> 17th 93",
+      "line_slope": -1.3631970537871483,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1,
+        0
+      ],
+      "user_ids": [
+        1446934.0,
+        3697.0,
+        1907974.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        270.15,
+        608.155
+      ],
+      "clusters_y": [
+        1404.36,
+        1395.39
+      ],
+      "clusters_text": [
+        [
+          "King",
+          ""
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Holland.",
+          "Holland."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "King for Holland.",
+      "line_slope": -1.3631970537871483,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        29,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        1907974.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

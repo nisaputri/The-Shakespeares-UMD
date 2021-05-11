@@ -1,0 +1,98 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        514.115,
+        515.745
+      ],
+      "clusters_y": [
+        1108.995,
+        946.4100000000001
+      ],
+      "clusters_text": [
+        [
+          "Will<sw-ex>iam</sw-ex>",
+          "Witt:"
+        ],
+        [
+          "Stephens",
+          "Shephem."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Will<sw-ex>iam</sw-ex> Stephens",
+      "line_slope": -89.55951611816916,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        352990.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        304.25,
+        299.51
+      ],
+      "clusters_y": [
+        1101.23,
+        837.89
+      ],
+      "clusters_text": [
+        [
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "neer"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Arbury near",
+      "line_slope": -91.01517384334028,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        352990.0,
+        1907974.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

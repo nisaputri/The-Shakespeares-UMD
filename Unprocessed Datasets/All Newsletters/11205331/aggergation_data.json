@@ -1,0 +1,187 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        534.08,
+        533.08
+      ],
+      "clusters_y": [
+        1084.18,
+        956.885
+      ],
+      "clusters_text": [
+        [
+          "l<sw-ex>ett</sw-ex>re"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "l<sw-ex>ett</sw-ex>re",
+      "line_slope": -90.08784441168311,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        3697.0,
+        1919701.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.25666666666666,
+        241.0233333333333
+      ],
+      "clusters_y": [
+        1211.3933333333332,
+        559.85
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>:",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "Bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>:",
+          "Bart.",
+          "Bar<sw-sup>t</sw-sup>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.4,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate Bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>:",
+      "line_slope": -91.22051393327358,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0,
+        1412015.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        412.275,
+        400.03999999999996
+      ],
+      "clusters_y": [
+        931.67,
+        699.7750000000001
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": -92.79819743677908,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        521.895,
+        515.8
+      ],
+      "clusters_y": [
+        821.8050000000001,
+        658.29
+      ],
+      "clusters_text": [
+        [
+          "EN",
+          "<sw-del>W"
+        ],
+        [
+          "",
+          "</sw-del>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "EN </sw-del>",
+      "line_slope": -92.79819743677908,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        4
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

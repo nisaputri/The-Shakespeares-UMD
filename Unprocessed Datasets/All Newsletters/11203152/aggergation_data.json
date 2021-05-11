@@ -1,0 +1,114 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        365.8,
+        951.78
+      ],
+      "clusters_y": [
+        84.74,
+        90.06
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "August",
+          "Aug"
+        ],
+        [
+          "26<sw-sup><sw-unclear>th</sw-unclear></sw-sup>.",
+          ""
+        ],
+        [
+          "1693",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "London August 26<sw-sup><sw-unclear>th</sw-unclear></sw-sup>. 1693",
+      "line_slope": 0.7545977580081397,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0
+      ],
+      "user_ids": [
+        1742406.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        471.86,
+        932.28
+      ],
+      "clusters_y": [
+        102.16,
+        89.68
+      ],
+      "clusters_text": [
+        [
+          "London",
+          ""
+        ],
+        [
+          "August",
+          ""
+        ],
+        [
+          "26<sw-sup>th</sw-sup>",
+          ""
+        ],
+        [
+          "1693",
+          "1693"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "London August 26<sw-sup>th</sw-sup> 1693",
+      "line_slope": -1.5957991057621403,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        165259.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

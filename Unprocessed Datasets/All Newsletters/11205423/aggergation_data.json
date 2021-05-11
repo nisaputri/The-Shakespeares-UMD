@@ -1,0 +1,196 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        686.815,
+        570.87
+      ],
+      "clusters_y": [
+        1480.9299999999998,
+        1481.68
+      ],
+      "clusters_text": [
+        [
+          "12",
+          "12"
+        ],
+        [
+          "Oct",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "12 Oct",
+      "line_slope": 179.94101465446204,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        13
+      ],
+      "user_ids": [
+        429539.0,
+        1855485.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        222.005,
+        82.815
+      ],
+      "clusters_y": [
+        1395.5549999999998,
+        1395.5549999999998
+      ],
+      "clusters_text": [
+        [
+          "3.13.0",
+          "3.13.0"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "3.13.0",
+      "line_slope": 179.94101465446204,
+      "slope_label": 1,
+      "gutter_label": 2,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        3
+      ],
+      "user_ids": [
+        429539.0,
+        1855485.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        227.39333333333335,
+        216.43
+      ],
+      "clusters_y": [
+        1165.15,
+        508.54
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "Bar",
+          "Bar<sw-sup>t</sw-sup>",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate Bar",
+      "line_slope": -90.83190254481507,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        14
+      ],
+      "user_ids": [
+        null,
+        429539.0,
+        1855485.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        302.875,
+        299.995
+      ],
+      "clusters_y": [
+        1157.255,
+        667.875
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "near"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "At Arbury near",
+      "line_slope": -90.83190254481507,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

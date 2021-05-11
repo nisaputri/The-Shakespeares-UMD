@@ -1,0 +1,142 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        241.175,
+        908.72
+      ],
+      "clusters_y": [
+        233.995,
+        246.67000000000002
+      ],
+      "clusters_text": [
+        [
+          "debate",
+          "debate"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "meritt",
+          "merits"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Cause",
+          "Cause"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "debate the meritt of the Cause",
+      "line_slope": 0.42215216898070396,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        27,
+        4
+      ],
+      "user_ids": [
+        1851566.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.1,
+        919.165
+      ],
+      "clusters_y": [
+        1302.37,
+        1307.6100000000001
+      ],
+      "clusters_text": [
+        [
+          "",
+          "to"
+        ],
+        [
+          "",
+          "St"
+        ],
+        [
+          "",
+          "Anthonys"
+        ],
+        [
+          "",
+          "3"
+        ],
+        [
+          "",
+          "ff<sw-ex>rench</sw-ex>"
+        ],
+        [
+          "",
+          "Shipps"
+        ],
+        [
+          "one",
+          "one"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "which",
+          "which"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "to St Anthonys 3 ff<sw-ex>rench</sw-ex> Shipps one of which",
+      "line_slope": 0.42215216898070396,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        20
+      ],
+      "user_ids": [
+        1854725.0,
+        1851566.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

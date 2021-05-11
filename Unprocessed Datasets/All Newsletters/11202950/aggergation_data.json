@@ -1,0 +1,307 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        75.67,
+        83.9
+      ],
+      "clusters_y": [
+        39.24,
+        1472.6
+      ],
+      "clusters_text": [
+        [
+          "Billboa",
+          "Torbay"
+        ],
+        [
+          "Fleet",
+          "and"
+        ],
+        [
+          "&",
+          "the"
+        ],
+        [
+          "",
+          "Mary"
+        ],
+        [
+          "",
+          "received"
+        ],
+        [
+          "formed",
+          "some"
+        ],
+        [
+          "back",
+          "damage"
+        ],
+        [
+          "Into",
+          "in"
+        ],
+        [
+          "",
+          "her"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Billboa Fleet & Mary received formed back Into her",
+      "line_slope": 89.53624400200395,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        44,
+        45
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.66,
+        919.51
+      ],
+      "clusters_y": [
+        212.17,
+        207.6
+      ],
+      "clusters_text": [
+        [
+          "quarters",
+          "of"
+        ],
+        [
+          "Lyes",
+          "souldiers"
+        ],
+        [
+          "[Lies]",
+          "[soldiers]"
+        ],
+        [
+          "ready",
+          ""
+        ],
+        [
+          "for",
+          ""
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "Royall",
+          ""
+        ],
+        [
+          "[Royal]",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "quarters Lyes [Lies] ready for the Royall [Royal]",
+      "line_slope": -0.8022896980450467,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        9
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.24,
+        928.65
+      ],
+      "clusters_y": [
+        261.27,
+        249.89
+      ],
+      "clusters_text": [
+        [
+          "which",
+          ""
+        ],
+        [
+          "takes",
+          ""
+        ],
+        [
+          "place",
+          ""
+        ],
+        [
+          "on",
+          "Assent"
+        ],
+        [
+          "Saturday",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "which takes place on Saturday",
+      "line_slope": -0.8022896980450467,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        48
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.8,
+        897.51
+      ],
+      "clusters_y": [
+        566.05,
+        556.34
+      ],
+      "clusters_text": [
+        [
+          "he",
+          ""
+        ],
+        [
+          "has",
+          ""
+        ],
+        [
+          "Informa<sw-ex>con</sw-ex>",
+          ""
+        ],
+        [
+          "[Information]",
+          ""
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "French"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2857142857142858,
+      "consensus_text": "he has Informa<sw-ex>con</sw-ex> [Information] of the French",
+      "line_slope": -0.8022896980450467,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        14
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        268.57,
+        934.48
+      ],
+      "clusters_y": [
+        889.86,
+        880.68
+      ],
+      "clusters_text": [
+        [
+          "Severall",
+          "Coyning"
+        ],
+        [
+          "Count",
+          "-"
+        ],
+        [
+          "a",
+          ""
+        ],
+        [
+          "Gentlemen",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Severall Count a Gentlemen",
+      "line_slope": -0.8022896980450467,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        14
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

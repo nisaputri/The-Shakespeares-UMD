@@ -1,0 +1,122 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        973.49,
+        972.2950000000001
+      ],
+      "clusters_y": [
+        775.355,
+        1032.275
+      ],
+      "clusters_text": [
+        [
+          "17",
+          "17"
+        ],
+        [
+          "Nov.",
+          "Nov"
+        ],
+        [
+          "1709",
+          "1709"
+        ],
+        [
+          "D'",
+          "DN"
+        ],
+        [
+          "N.",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "17 Nov. 1709 D' N.",
+      "line_slope": 90.26860544981807,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        969.255,
+        971.53
+      ],
+      "clusters_y": [
+        755.54,
+        1047.825
+      ],
+      "clusters_text": [
+        [
+          "15",
+          "17"
+        ],
+        [
+          "Nov.",
+          "Nov"
+        ],
+        [
+          "1709",
+          "1709"
+        ],
+        [
+          "",
+          "D-"
+        ],
+        [
+          "D.N.",
+          "N."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "15 Nov. 1709 D- D.N.",
+      "line_slope": 89.47587160448252,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        1682843.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

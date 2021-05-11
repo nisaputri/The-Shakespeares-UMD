@@ -1,0 +1,79 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        253.10000000000002,
+        916.495
+      ],
+      "clusters_y": [
+        163.415,
+        123.085
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "ffrance",
+          "ffrance"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "returned",
+          "returned"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Holland",
+          "Holland"
+        ],
+        [
+          "in",
+          "in"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "in ffrance are returned to Holland in",
+      "line_slope": -3.2488432658315185,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        165259.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

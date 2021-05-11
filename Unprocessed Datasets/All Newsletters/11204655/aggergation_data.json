@@ -1,0 +1,142 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        272.395,
+        916.145
+      ],
+      "clusters_y": [
+        339.92499999999995,
+        321.92999999999995
+      ],
+      "clusters_text": [
+        [
+          "are",
+          "are"
+        ],
+        [
+          "now",
+          "now"
+        ],
+        [
+          "new",
+          "new"
+        ],
+        [
+          "Clothed",
+          "Clothed"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "tis",
+          "tis"
+        ],
+        [
+          "now",
+          "now"
+        ],
+        [
+          "sayd",
+          "Sayd"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "are now new Clothed and tis now sayd",
+      "line_slope": -2.0718056123164263,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        5
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        272.93,
+        911.76
+      ],
+      "clusters_y": [
+        434.28,
+        423.20500000000004
+      ],
+      "clusters_text": [
+        [
+          "this",
+          "this"
+        ],
+        [
+          "Campaigne",
+          "Campaigne"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "K<sw-ex>ing</sw-ex>.",
+          "K."
+        ],
+        [
+          "James",
+          "James"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Expected",
+          "Expected"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "this Campaigne - K<sw-ex>ing</sw-ex>. James is Expected",
+      "line_slope": -2.0718056123164263,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        4
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

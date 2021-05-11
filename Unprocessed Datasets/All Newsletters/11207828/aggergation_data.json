@@ -1,0 +1,75 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        367.69,
+        940.49
+      ],
+      "clusters_y": [
+        155.89,
+        149.445
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "July",
+          "Iuly"
+        ],
+        [
+          "<sw-unclear>??</sw-unclear>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "19",
+          "19."
+        ],
+        [
+          ".",
+          ""
+        ],
+        [
+          "1709",
+          "1709"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "London July <sw-unclear>??</sw-unclear> 19 . 1709",
+      "line_slope": 0.6861536576521187,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        375649.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

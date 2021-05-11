@@ -1,0 +1,185 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        175.28,
+        910.3166666666666
+      ],
+      "clusters_y": [
+        57.25,
+        83.25333333333333
+      ],
+      "clusters_text": [
+        [
+          "",
+          "",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "<sw-unclear>4</sw-unclear>",
+          "4",
+          "4<sw-sup>d</sw-sup>"
+        ],
+        [
+          "Aprill",
+          "Aprill",
+          "Aprill"
+        ],
+        [
+          "95",
+          "95",
+          "95"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.2,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> London <sw-unclear>4</sw-unclear> Aprill 95",
+      "line_slope": 0.08679552266901669,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.28,
+        930.91
+      ],
+      "clusters_y": [
+        188.78,
+        190.64
+      ],
+      "clusters_text": [
+        [
+          "",
+          "pedic<sw-ex>i</sw-ex>on"
+        ],
+        [
+          "",
+          "pacqu<sw-ex>et</sw-ex>"
+        ],
+        [
+          "bout",
+          "boat"
+        ],
+        [
+          "arrivd",
+          "arriv<sw-ex>e</sw-ex>d"
+        ],
+        [
+          "here",
+          "here"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "",
+          "7"
+        ],
+        [
+          "",
+          "daies"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "pedic<sw-ex>i</sw-ex>on pacqu<sw-ex>et</sw-ex> bout arrivd here in 7 daies",
+      "line_slope": 0.08679552266901669,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.875,
+        554.2
+      ],
+      "clusters_y": [
+        1415.1399999999999,
+        1421.45
+      ],
+      "clusters_text": [
+        [
+          "now",
+          "now"
+        ],
+        [
+          "to<sw-unclear>",
+          "to"
+        ],
+        [
+          "depart</sw-unclear>",
+          "expect"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "now to<sw-unclear> depart</sw-unclear>",
+      "line_slope": 0.08679552266901669,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        26
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

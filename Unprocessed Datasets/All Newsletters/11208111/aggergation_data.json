@@ -1,0 +1,398 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        280.56,
+        776.505
+      ],
+      "clusters_y": [
+        62.849999999999994,
+        67.73
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "Novem<sw-ins>r</sw-ins>",
+          "Novem<sw-ex>be</sw-ex><sw-sup>r</sw-sup>"
+        ],
+        [
+          "8<sw-ins>th</sw-ins>",
+          "8<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1712",
+          "1712"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "London Novem<sw-ins>r</sw-ins> 8<sw-ins>th</sw-ins> 1712",
+      "line_slope": 0.5161352403051018,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1875340.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        102.97,
+        921.82
+      ],
+      "clusters_y": [
+        164.53500000000003,
+        145.79
+      ],
+      "clusters_text": [
+        [
+          "ffrance",
+          "ffrance"
+        ],
+        [
+          "say",
+          "say"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "ffrench",
+          "ffrench"
+        ],
+        [
+          "man",
+          "Man"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Warr",
+          "Warr"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "brott",
+          "bro<sw-ex>ugh</sw-ex>tt"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "ffrance say <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> a ffrench man of Warr had brott",
+      "line_slope": -1.7828112647197218,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2
+      ],
+      "user_ids": [
+        1875340.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        107.285,
+        923.64
+      ],
+      "clusters_y": [
+        359.28499999999997,
+        317.46000000000004
+      ],
+      "clusters_text": [
+        [
+          "comofities",
+          "Comodities"
+        ],
+        [
+          "Vallued",
+          "Vallued"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "whole",
+          "whole"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "150000",
+          "150000"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "comofities Vallued in <brev-y>th</brev-y><sl>e</sl> whole at 150000",
+      "line_slope": -1.7828112647197218,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        1
+      ],
+      "user_ids": [
+        1875340.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        96.205,
+        923.625
+      ],
+      "clusters_y": [
+        1381.315,
+        1373.805
+      ],
+      "clusters_text": [
+        [
+          "Genoae",
+          "Genoa"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Venice",
+          "Venice"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "thence",
+          "thence"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Milane",
+          "Miland"
+        ],
+        [
+          "",
+          "&"
+        ],
+        [
+          "Naples",
+          "Naples"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7,
+      "consensus_text": "Genoae & Venice & from thence to Milane & Naples",
+      "line_slope": -1.7828112647197218,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        27
+      ],
+      "user_ids": [
+        1891145.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        103.485,
+        934.645
+      ],
+      "clusters_y": [
+        1436.295,
+        1415.955
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Return",
+          "Return"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Italy",
+          "Italy"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "fix",
+          "fix"
+        ],
+        [
+          "himself",
+          "himself"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "and upon his Return from Italy will fix himself",
+      "line_slope": -1.7828112647197218,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        28
+      ],
+      "user_ids": [
+        1891145.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        105.395,
+        916.27
+      ],
+      "clusters_y": [
+        1479.025,
+        1471.46
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "one",
+          "one"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Hans",
+          "Huns"
+        ],
+        [
+          "Towns",
+          "Towns"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Germany",
+          "Germany-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "in one of the Hans Towns of Germany",
+      "line_slope": -1.7828112647197218,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        29
+      ],
+      "user_ids": [
+        1891145.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 6,
+  "transcribed_lines": 6,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

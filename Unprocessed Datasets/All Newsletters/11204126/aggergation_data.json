@@ -1,0 +1,319 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        254.14,
+        936.625
+      ],
+      "clusters_y": [
+        132.63,
+        121.09
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Leeds"
+        ],
+        [
+          "footman",
+          "footman"
+        ],
+        [
+          "did",
+          "did"
+        ],
+        [
+          "not",
+          "not"
+        ],
+        [
+          "walk",
+          "walk"
+        ],
+        [
+          "bare",
+          "bare"
+        ],
+        [
+          "headed",
+          "headed"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "Leeds footman did not walk bare headed",
+      "line_slope": -0.5371820452214348,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        23
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.92,
+        936.625
+      ],
+      "clusters_y": [
+        183.72,
+        171.24
+      ],
+      "clusters_text": [
+        [
+          "before",
+          "before"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "chair",
+          "chair"
+        ],
+        [
+          "as",
+          "as"
+        ],
+        [
+          "usuale",
+          "usual"
+        ],
+        [
+          "neither",
+          "neither"
+        ],
+        [
+          "was",
+          "was"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "before his chair as usuale neither was",
+      "line_slope": -0.5371820452214348,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        24
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.89,
+        947.66
+      ],
+      "clusters_y": [
+        230.76999999999998,
+        220.89499999999998
+      ],
+      "clusters_text": [
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Grace",
+          "Grace"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Councile",
+          "Councle"
+        ],
+        [
+          "held",
+          "held"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Kensington",
+          "Kensington"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "his Grace at <brev-y>th</brev-y><sl>e</sl> Councile held at Kensington",
+      "line_slope": -0.5371820452214348,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        25
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        316.71500000000003,
+        925.49
+      ],
+      "clusters_y": [
+        725.315,
+        727.97
+      ],
+      "clusters_text": [
+        [
+          "That",
+          "That"
+        ],
+        [
+          "Even",
+          "Even"
+        ],
+        [
+          "2",
+          "2"
+        ],
+        [
+          "women",
+          "women"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "seized",
+          "seized"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "That Even 2 women were seized",
+      "line_slope": -0.5371820452214348,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.485,
+        930.1600000000001
+      ],
+      "clusters_y": [
+        786.925,
+        774.245
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Piccadilly",
+          "Piccadilly"
+        ],
+        [
+          "and",
+          "<sw-ex>and"
+        ],
+        [
+          "comitted",
+          "</sw-ex>comitted"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Newgate",
+          "Newgate"
+        ],
+        [
+          "one",
+          "on"
+        ],
+        [
+          "",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "in Piccadilly and comitted to Newgate one a",
+      "line_slope": -0.5371820452214348,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

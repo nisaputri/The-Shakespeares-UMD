@@ -1,0 +1,106 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        229.075,
+        243.865
+      ],
+      "clusters_y": [
+        1220.94,
+        583.11
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "Bar<sw-sup>t</sw-sup>",
+          "Bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate Bar<sw-sup>t</sw-sup>",
+      "line_slope": -89.07698984897164,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1501614.0,
+        1779578.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        392.655,
+        395.505
+      ],
+      "clusters_y": [
+        924.7249999999999,
+        715.8399999999999
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": -89.07698984897164,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        4
+      ],
+      "user_ids": [
+        1779578.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

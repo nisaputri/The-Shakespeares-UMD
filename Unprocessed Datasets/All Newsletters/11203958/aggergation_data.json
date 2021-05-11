@@ -1,0 +1,67 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        904.14,
+        902.73
+      ],
+      "clusters_y": [
+        93.005,
+        286.41499999999996
+      ],
+      "clusters_text": [
+        [
+          "",
+          "19"
+        ],
+        [
+          "19Jan:",
+          "Jan:"
+        ],
+        [
+          "",
+          "9"
+        ],
+        [
+          "<sw-ex>1</sw-ex>945",
+          "<sw-ex><sw-ex><sw-ex><sw-sup>4/5</sw-sup></sw-ex></sw-ex></sw-ex>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "19 19Jan: 9 <sw-ex>1</sw-ex>945",
+      "line_slope": 90.669079902191,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

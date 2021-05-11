@@ -1,0 +1,798 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        234.33,
+        886.38
+      ],
+      "clusters_y": [
+        51.34,
+        40.504999999999995
+      ],
+      "clusters_text": [
+        [
+          "That",
+          ""
+        ],
+        [
+          "country",
+          ""
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "another",
+          "another"
+        ],
+        [
+          "English",
+          "English"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "That country and another English",
+      "line_slope": -0.9719782169361801,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.6566666666667,
+        934.42
+      ],
+      "clusters_y": [
+        119.51,
+        85.96666666666665
+      ],
+      "clusters_text": [
+        [
+          "regiment",
+          "regiment",
+          "regiment",
+          ""
+        ],
+        [
+          "allso",
+          "aleso",
+          "also",
+          ""
+        ],
+        [
+          "three",
+          "three",
+          "three",
+          ""
+        ],
+        [
+          "Dutch",
+          "Dutch",
+          "Dutch",
+          "Dutch"
+        ],
+        [
+          "regiments",
+          "regiments",
+          "regiments",
+          ""
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.8,
+      "consensus_text": "regiment allso three Dutch regiments",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.39000000000001,
+        959.075
+      ],
+      "clusters_y": [
+        196.32333333333335,
+        166.035
+      ],
+      "clusters_text": [
+        [
+          "making",
+          "makeing",
+          "making"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "all",
+          "all",
+          "all"
+        ],
+        [
+          "ten",
+          "ten",
+          "ten"
+        ],
+        [
+          "thousand",
+          "thousand",
+          "thousand"
+        ],
+        [
+          "men",
+          "men",
+          "men"
+        ],
+        [
+          "-",
+          "--",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5714285714285716,
+      "consensus_text": "making in all ten thousand men -",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.42,
+        944.6666666666666
+      ],
+      "clusters_y": [
+        260.07000000000005,
+        227.52
+      ],
+      "clusters_text": [
+        [
+          "two",
+          "his",
+          ""
+        ],
+        [
+          "hundred",
+          "hundred",
+          "hundred"
+        ],
+        [
+          "thousand",
+          "thousand",
+          "thousand"
+        ],
+        [
+          "pound",
+          "pound",
+          "pound"
+        ],
+        [
+          "was",
+          "was",
+          "was"
+        ],
+        [
+          "sent",
+          "sent",
+          "sent"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6666666666666665,
+      "consensus_text": "two hundred thousand pound was sent",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        3,
+        3
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        256.0166666666667,
+        929.9925
+      ],
+      "clusters_y": [
+        407.9266666666667,
+        356.095
+      ],
+      "clusters_text": [
+        [
+          "which",
+          "",
+          "Which",
+          "which"
+        ],
+        [
+          "was",
+          "",
+          "was",
+          "was"
+        ],
+        [
+          "lent",
+          "",
+          "lent",
+          "lent"
+        ],
+        [
+          "her",
+          "her",
+          "her",
+          "her"
+        ],
+        [
+          "Majesty",
+          "majesty",
+          "majesty",
+          "Majesty"
+        ],
+        [
+          "by",
+          "by",
+          "by",
+          "by"
+        ],
+        [
+          "some",
+          "some",
+          "foime",
+          "some"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.0,
+      "consensus_text": "which was lent her Majesty by some",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        4,
+        3,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0,
+        null,
+        720118.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        242.69,
+        957.495
+      ],
+      "clusters_y": [
+        470.28,
+        412.655
+      ],
+      "clusters_text": [
+        [
+          "merchants",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "desiring",
+          ""
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "<sw-ex>Majesty</sw-ex>",
+          "majty"
+        ],
+        [
+          "that",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "merchants - desiring her <sw-ex>Majesty</sw-ex> that",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.345,
+        946.94
+      ],
+      "clusters_y": [
+        471.98,
+        424.99
+      ],
+      "clusters_text": [
+        [
+          "merchants",
+          "merchants,"
+        ],
+        [
+          "",
+          "desireing"
+        ],
+        [
+          "",
+          "her"
+        ],
+        [
+          "--",
+          "maj<sw-sup>ty</sw-sup>"
+        ],
+        [
+          "",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "merchants desireing her -- that",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        3
+      ],
+      "user_ids": [
+        1664391.0,
+        720118.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.97,
+        955.25
+      ],
+      "clusters_y": [
+        612.71,
+        583.67
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Committee",
+          "Commitee"
+        ],
+        [
+          "last",
+          "last"
+        ],
+        [
+          "night",
+          "nigh"
+        ],
+        [
+          "heard",
+          "heard"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "merrits",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "The Committee last night heard the merrits",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        8
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.03999999999996,
+        945.7
+      ],
+      "clusters_y": [
+        689.4100000000001,
+        646.93
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Election",
+          "Election"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Luggershall",
+          ""
+        ],
+        [
+          "in",
+          ""
+        ],
+        [
+          "<sw-ex>Wiltshire</sw-ex>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "of the Election for Luggershall in <sw-ex>Wiltshire</sw-ex>",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.385,
+        963.61
+      ],
+      "clusters_y": [
+        906.8299999999999,
+        874.91
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "Merchants",
+          "Merchants"
+        ],
+        [
+          "sitting",
+          "sitting"
+        ],
+        [
+          "members",
+          ""
+        ],
+        [
+          "and",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "London Merchants sitting members and",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        10
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.12,
+        965.7950000000001
+      ],
+      "clusters_y": [
+        993.3,
+        954.9
+      ],
+      "clusters_text": [
+        [
+          "are",
+          "are"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "proceed",
+          "proceed"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Same",
+          "same"
+        ],
+        [
+          "tomorrow",
+          "tomorrow"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "are to proceed on the Same tomorrow",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        11
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.715,
+        903.93
+      ],
+      "clusters_y": [
+        1074.74,
+        1043.2
+      ],
+      "clusters_text": [
+        [
+          "night",
+          "night"
+        ],
+        [
+          "-",
+          "--"
+        ],
+        [
+          "Hertford",
+          ""
+        ],
+        [
+          "Election",
+          ""
+        ],
+        [
+          "was",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "night - Hertford Election was",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        12
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.76,
+        954.105
+      ],
+      "clusters_y": [
+        1157.655,
+        1126.025
+      ],
+      "clusters_text": [
+        [
+          "reported",
+          "reported"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "<sw-ex>house</sw-ex>",
+          "ho"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "<sw-ex>question</sw-ex>",
+          "queen"
+        ],
+        [
+          "being",
+          "being"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "reported to the <sw-ex>house</sw-ex> and the <sw-ex>question</sw-ex> being",
+      "line_slope": -3.1456558489845556,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        14
+      ],
+      "user_ids": [
+        429539.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 12,
+  "transcribed_lines": 13,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

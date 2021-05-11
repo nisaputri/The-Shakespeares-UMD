@@ -1,0 +1,110 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        54.425,
+        59.0
+      ],
+      "clusters_y": [
+        1501.295,
+        1225.7399999999998
+      ],
+      "clusters_text": [
+        [
+          "August",
+          "August"
+        ],
+        [
+          "19<sw-sup>th</sw-sup>",
+          "19th"
+        ],
+        [
+          "1707",
+          "1707"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "August 19<sw-sup>th</sw-sup> 1707",
+      "line_slope": -89.08412066045305,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        0
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        342.145,
+        300.865
+      ],
+      "clusters_y": [
+        1011.0450000000001,
+        505.605
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Rich<sw-sup>d",
+          "Rich<sw-ex>ar</sw-ex><sw-sup>d</sw-sup>"
+        ],
+        [
+          "</sw-sup>Newdigate",
+          "Newdigate"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Rich<sw-sup>d </sw-sup>Newdigate",
+      "line_slope": -94.7474734608564,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

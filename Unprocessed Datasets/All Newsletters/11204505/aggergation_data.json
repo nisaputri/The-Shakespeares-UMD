@@ -1,0 +1,67 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        461.15,
+        909.655
+      ],
+      "clusters_y": [
+        421.53999999999996,
+        401.815
+      ],
+      "clusters_text": [
+        [
+          "And",
+          "And"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "",
+          "Rhinefelt"
+        ],
+        [
+          "Rhinefelt<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "And from Rhinefelt Rhinefelt<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+      "line_slope": -1.5649255326886065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        3
+      ],
+      "user_ids": [
+        1907974.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        75.125,
+        941.315
+      ],
+      "clusters_y": [
+        284.59000000000003,
+        276.79999999999995
+      ],
+      "clusters_text": [
+        [
+          "Islington",
+          "Islington"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "Comitted",
+          "Com<sw-ex>m</sw-ex>itted"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Prison",
+          "Prison"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Court",
+          "Court"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "Islington was Comitted to Prison by the Court of",
+      "line_slope": -0.5707587256706037,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        4
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        72.49000000000001,
+        934.03
+      ],
+      "clusters_y": [
+        580.8199999999999,
+        564.265
+      ],
+      "clusters_text": [
+        [
+          "are",
+          "are"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "presented",
+          "prosecuted"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Same",
+          "same"
+        ],
+        [
+          "by",
+          "by"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "are to be presented for the Same by",
+      "line_slope": -0.5707587256706037,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        9
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

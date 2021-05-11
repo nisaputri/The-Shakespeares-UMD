@@ -1,0 +1,223 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        211.88,
+        179.65
+      ],
+      "clusters_y": [
+        934.46,
+        1271.9
+      ],
+      "clusters_text": [
+        [
+          "near",
+          "near"
+        ],
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "near Coventry",
+      "line_slope": 95.88397903379379,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        1462825.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        27.45,
+        932.26
+      ],
+      "clusters_y": [
+        58.2,
+        85.53
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to",
+          ""
+        ],
+        [
+          "come",
+          "come",
+          "come"
+        ],
+        [
+          "away",
+          "away",
+          "away"
+        ],
+        [
+          "with",
+          "with",
+          "with"
+        ],
+        [
+          "all",
+          "all",
+          ""
+        ],
+        [
+          "speede",
+          "speede",
+          ""
+        ],
+        [
+          "-",
+          "-",
+          ""
+        ],
+        [
+          "The",
+          "The",
+          ""
+        ],
+        [
+          "Plymouth",
+          "Plymo<sw-ex>uth</sw-ex>",
+          ""
+        ],
+        [
+          "L<sw-ex>ett</sw-ex>res",
+          "L<sw-ex>ett</sw-ex>res",
+          ""
+        ],
+        [
+          "further",
+          "further",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.1818181818181817,
+      "consensus_text": "to come away with all speede - The Plymouth L<sw-ex>ett</sw-ex>res further",
+      "line_slope": 2.2925864617633636,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        1
+      ],
+      "user_ids": [
+        1462825.0,
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        24.185,
+        919.105
+      ],
+      "clusters_y": [
+        141.445,
+        179.36
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "ffr<sw-ex>ench</sw-ex>",
+          "ffrench"
+        ],
+        [
+          "Coast,",
+          "Coast,"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "vessell",
+          "vessell"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "carrying",
+          "carrying"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9090909090909092,
+      "consensus_text": "in there from <brev-y>th</brev-y><sl>e</sl> ffr<sw-ex>ench</sw-ex> Coast, a vessell w<sw-ex>hi</sw-ex><sl>ch</sl> was carrying",
+      "line_slope": 2.2925864617633636,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1462825.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

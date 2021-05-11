@@ -1,0 +1,122 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        904.5300000000001,
+        904.5099999999999
+      ],
+      "clusters_y": [
+        33.75666666666667,
+        326.52
+      ],
+      "clusters_text": [
+        [
+          "Jan<sw-ex>uary</sw-ex>",
+          "Jan",
+          "Jan"
+        ],
+        [
+          "11<sw-sup>th</sw-sup>",
+          "11th",
+          "11th"
+        ],
+        [
+          "1708",
+          "1708:",
+          "1708:"
+        ],
+        [
+          "O.N:L:",
+          "O:N:L:",
+          "@"
+        ],
+        [
+          "",
+          "",
+          "N:L:"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.6,
+      "consensus_text": "Jan 11th 1708: O.N:L: N:L:",
+      "line_slope": 90.00294861540984,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5,
+        0
+      ],
+      "user_ids": [
+        165259.0,
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        319.44500000000005,
+        332.68
+      ],
+      "clusters_y": [
+        1131.59,
+        648.53
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "near"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "At Arbury near",
+      "line_slope": -88.34389291625982,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        165259.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

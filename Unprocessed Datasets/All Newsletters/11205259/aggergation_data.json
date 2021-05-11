@@ -1,0 +1,196 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        270.44,
+        249.92000000000002
+      ],
+      "clusters_y": [
+        867.54,
+        241.815
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "Bar<sw-sup>t</sw-sup>",
+          "Bar<sw-ex>one</sw-ex>t"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate Bar<sw-sup>t</sw-sup>",
+      "line_slope": -91.36233040131313,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        771205.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        360.15,
+        356.745
+      ],
+      "clusters_y": [
+        864.87,
+        473.79499999999996
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "near"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "At Arbury near",
+      "line_slope": -91.36233040131313,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        373.115,
+        367.245
+      ],
+      "clusters_y": [
+        871.505,
+        494.935
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "near"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "At Arbury near",
+      "line_slope": -91.36233040131313,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        771205.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        438.03,
+        433.4766666666667
+      ],
+      "clusters_y": [
+        546.8866666666667,
+        385.04333333333335
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "Coventry",
+      "line_slope": -91.36233040131313,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2,
+        2
+      ],
+      "user_ids": [
+        771205.0,
+        1664391.0,
+        1347003.0
+      ],
+      "low_consensus": false
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

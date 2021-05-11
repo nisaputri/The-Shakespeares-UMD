@@ -1,0 +1,79 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        60.91,
+        950.675
+      ],
+      "clusters_y": [
+        178.44,
+        151.245
+      ],
+      "clusters_text": [
+        [
+          "he",
+          "he"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "perfectly",
+          "perfectly"
+        ],
+        [
+          "reconsiled",
+          "reconsiled"
+        ],
+        [
+          "bfeore",
+          "before"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "death",
+          "death"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "he was perfectly reconsiled bfeore his death",
+      "line_slope": -1.446396034113955,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

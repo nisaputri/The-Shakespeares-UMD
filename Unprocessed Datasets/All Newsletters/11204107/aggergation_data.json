@@ -1,0 +1,83 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        462.675,
+        452.68
+      ],
+      "clusters_y": [
+        730.425,
+        1365.46
+      ],
+      "clusters_text": [
+        [
+          "ffor",
+          "ffor"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "ho<sw-ex>norable</sw-ex>",
+          "Ho<sw-ex>norable</sw-ex>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Rich<sw-ex>ar</sw-ex><sw-sup>d</sw-sup>",
+          "Rich<sw-sup>d</sw-sup>"
+        ],
+        [
+          ":",
+          ""
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "Barr<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+          "Barr<sw-sup>t</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "ffor the ho<sw-ex>norable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl> Rich<sw-ex>ar</sw-ex><sw-sup>d</sw-sup> : Newdigate Barr<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+      "line_slope": 90.89364537194986,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

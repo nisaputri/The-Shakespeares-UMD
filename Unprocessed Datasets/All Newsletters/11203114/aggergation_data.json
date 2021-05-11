@@ -1,0 +1,146 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        256.18,
+        978.36
+      ],
+      "clusters_y": [
+        343.91499999999996,
+        334.9
+      ],
+      "clusters_text": [
+        [
+          "<sw-unclear>???h</sw-unclear>",
+          "each"
+        ],
+        [
+          "<sw-unclear>ow</sw-unclear>",
+          "one"
+        ],
+        [
+          "<sw-unclear>lden</sw-unclear>",
+          "laden"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "wine",
+          "wine"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Rorin",
+          "Rozin"
+        ],
+        [
+          "<sw-unclear>thath?</sw-unclear>",
+          "thothe<sw-sup>r</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.375,
+      "consensus_text": "<sw-unclear>???h</sw-unclear> <sw-unclear>ow</sw-unclear> <sw-unclear>lden</sw-unclear> w<sw-ex>i</sw-ex><sl>th</sl> wine and Rorin <sw-unclear>thath?</sw-unclear>",
+      "line_slope": -1.0319068728696126,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        1501614.0,
+        428120.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.245,
+        966.835
+      ],
+      "clusters_y": [
+        575.465,
+        562.72
+      ],
+      "clusters_text": [
+        [
+          "keeping",
+          "keeping"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Masters",
+          "Masters"
+        ],
+        [
+          "<sw-unclear>????</sw-unclear>",
+          "there"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Yesterday",
+          "yesterday"
+        ],
+        [
+          "came",
+          "came"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "keeping the Masters <sw-unclear>????</sw-unclear> of - Yesterday came",
+      "line_slope": -1.0319068728696126,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        10
+      ],
+      "user_ids": [
+        1501614.0,
+        428120.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

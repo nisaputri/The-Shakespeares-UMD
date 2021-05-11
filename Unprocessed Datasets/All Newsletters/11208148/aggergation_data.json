@@ -1,0 +1,87 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        33.52,
+        915.03
+      ],
+      "clusters_y": [
+        80.01,
+        80.01
+      ],
+      "clusters_text": [
+        [
+          "",
+          "for"
+        ],
+        [
+          "",
+          "1200"
+        ],
+        [
+          "",
+          "Circular"
+        ],
+        [
+          "",
+          "Letters"
+        ],
+        [
+          "",
+          "by"
+        ],
+        [
+          "Wor<sw-ex>shipfu</sw-ex><sl>ll</sl>",
+          "Orders"
+        ],
+        [
+          "",
+          "from"
+        ],
+        [
+          "",
+          "above"
+        ],
+        [
+          "",
+          "are"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "for 1200 Circular Letters by Wor<sw-ex>shipfu</sw-ex><sl>ll</sl> from above are",
+      "line_slope": -0.25650128195107,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        4
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

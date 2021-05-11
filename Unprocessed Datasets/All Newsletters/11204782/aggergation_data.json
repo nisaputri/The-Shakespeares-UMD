@@ -1,0 +1,240 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        920.735,
+        275.33000000000004
+      ],
+      "clusters_y": [
+        321.425,
+        335.755
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "ffr<sw-ex>ench</sw-ex>",
+          "ffr<sw-ex>ench</sw-ex>"
+        ],
+        [
+          "Army",
+          "Army"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "report",
+          "report"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "from the ffr<sw-ex>ench</sw-ex> Army who report <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+      "line_slope": 178.71179173314243,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6
+      ],
+      "user_ids": [
+        1742406.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        442.35,
+        910.73
+      ],
+      "clusters_y": [
+        174.45,
+        174.4
+      ],
+      "clusters_text": [
+        [
+          "By",
+          "By"
+        ],
+        [
+          "",
+          "a"
+        ],
+        [
+          "afforr<sw-ex>eig</sw-ex><sw-sup>n</sw-sup>.",
+          "fforr<sw-ex>eig</sw-ex><sw-sup>n</sw-sup>"
+        ],
+        [
+          "maile",
+          "maile"
+        ],
+        [
+          "yesterday",
+          "yesterday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "By a afforr<sw-ex>eig</sw-ex><sw-sup>n</sw-sup>. maile yesterday",
+      "line_slope": -0.8351037533450493,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1742406.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        275.41499999999996,
+        935.52
+      ],
+      "clusters_y": [
+        289.205,
+        285.13
+      ],
+      "clusters_text": [
+        [
+          "Continue",
+          "Continue"
+        ],
+        [
+          "to",
+          ""
+        ],
+        [
+          "arrive",
+          "arrive"
+        ],
+        [
+          "in",
+          "n"
+        ],
+        [
+          "great",
+          "greate"
+        ],
+        [
+          "numbers",
+          "numbers"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Continue to arrive in great numbers",
+      "line_slope": -0.8351037533450493,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        1742406.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.26,
+        927.78
+      ],
+      "clusters_y": [
+        374.88,
+        362.695
+      ],
+      "clusters_text": [
+        [
+          "Cattmott",
+          "Cattinatt"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "hangd'",
+          "hangd"
+        ],
+        [
+          "up",
+          "up"
+        ],
+        [
+          "diverse",
+          "diverse"
+        ],
+        [
+          "Boores",
+          "Boores"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Cattmott has hangd' up diverse Boores",
+      "line_slope": -0.8351037533450493,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7
+      ],
+      "user_ids": [
+        1742406.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

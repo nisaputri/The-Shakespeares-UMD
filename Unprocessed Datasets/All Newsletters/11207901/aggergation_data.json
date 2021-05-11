@@ -1,0 +1,162 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        220.32,
+        226.18
+      ],
+      "clusters_y": [
+        88.07,
+        1486.905
+      ],
+      "clusters_text": [
+        [
+          "BP",
+          "On"
+        ],
+        [
+          "",
+          "Thurfday"
+        ],
+        [
+          "",
+          "laft"
+        ],
+        [
+          "",
+          "???"
+        ],
+        [
+          "",
+          "Maningham"
+        ],
+        [
+          "",
+          "was"
+        ],
+        [
+          "",
+          "Confecrated"
+        ],
+        [
+          "",
+          "???"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Chichester",
+          "Chichurton"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "S<sw-sup>t</sw-sup>",
+          "S<sw-sup>t</sw-sup>"
+        ],
+        [
+          "Mary",
+          "Mary"
+        ],
+        [
+          "La",
+          "La"
+        ],
+        [
+          "Bow",
+          "How"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "BP Thurfday laft ??? Maningham was Confecrated ??? of Chichester at S<sw-sup>t</sw-sup> Mary La Bow",
+      "line_slope": 89.88191673164421,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        18
+      ],
+      "user_ids": [
+        864398.0,
+        1662739.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.5,
+        935.065
+      ],
+      "clusters_y": [
+        1462.04,
+        1449.4
+      ],
+      "clusters_text": [
+        [
+          "their",
+          "their"
+        ],
+        [
+          "Quota's",
+          "quota's"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Augment",
+          "Angment"
+        ],
+        [
+          "their",
+          "their"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "their Quota's and Augment their",
+      "line_slope": 0.18774706315999518,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        17
+      ],
+      "user_ids": [
+        864398.0,
+        1662739.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        246.54500000000002,
+        907.0350000000001
+      ],
+      "clusters_y": [
+        252.79000000000002,
+        231.41
+      ],
+      "clusters_text": [
+        [
+          "down",
+          "down"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Harwich",
+          "Harwich"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Savoy,",
+          "Savoy,"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "down to Harwich out of the Savoy, and",
+      "line_slope": -1.517464924556676,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        13
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.81,
+        914.385
+      ],
+      "clusters_y": [
+        889.495,
+        852.26
+      ],
+      "clusters_text": [
+        [
+          "Theophilus",
+          "Theophilus"
+        ],
+        [
+          "Parsons",
+          "Parsons"
+        ],
+        [
+          "Esq<sw-sup>r</sw-sup>",
+          "Esq<sw-ex>uire</sw-ex>"
+        ],
+        [
+          "attends",
+          "attends"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Grace",
+          "Grace"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Theophilus Parsons Esq<sw-sup>r</sw-sup> attends his Grace",
+      "line_slope": -3.327968501821989,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        5
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

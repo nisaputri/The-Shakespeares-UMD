@@ -1,0 +1,179 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        904.47,
+        911.55
+      ],
+      "clusters_y": [
+        894.13,
+        1132.34
+      ],
+      "clusters_text": [
+        [
+          "",
+          "10<sw-sup>th</sw-sup>"
+        ],
+        [
+          "May",
+          "May"
+        ],
+        [
+          "",
+          "1709"
+        ],
+        [
+          "",
+          "W<sw-sup>s</sw-sup>"
+        ],
+        [
+          "",
+          "N"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "10<sw-sup>th</sw-sup> May 1709 W<sw-sup>s</sw-sup> N",
+      "line_slope": 88.04848891414383,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        0
+      ],
+      "user_ids": [
+        1863490.0,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.87333333333333,
+        236.9533333333333
+      ],
+      "clusters_y": [
+        1200.01,
+        549.94
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Richard",
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "Bar<sw-sup>t</sw-sup>",
+          "Bar<sw-sup>t</sw-sup>",
+          "Bar<sw-sup>t</sw-sup>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate Bar<sw-sup>t</sw-sup>",
+      "line_slope": -90.04151616056275,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0,
+        1
+      ],
+      "user_ids": [
+        1804254.0,
+        1708223.0,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        349.67,
+        349.49
+      ],
+      "clusters_y": [
+        1189.34,
+        719.5550000000001
+      ],
+      "clusters_text": [
+        [
+          "",
+          "",
+          "At"
+        ],
+        [
+          "",
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "",
+          "near"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "At Arbury near",
+      "line_slope": -90.04151616056275,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        6,
+        2
+      ],
+      "user_ids": [
+        1863490.0,
+        1863490.0,
+        864398.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

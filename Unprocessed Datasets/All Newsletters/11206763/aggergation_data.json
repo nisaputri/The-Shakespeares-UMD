@@ -1,0 +1,145 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        56.595,
+        62.614999999999995
+      ],
+      "clusters_y": [
+        1484.445,
+        1204.845
+      ],
+      "clusters_text": [
+        [
+          "Aprill",
+          "Aprill"
+        ],
+        [
+          "24th",
+          "24th"
+        ],
+        [
+          "1707",
+          "1707"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Aprill 24th 1707",
+      "line_slope": -89.38798597868907,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        5
+      ],
+      "user_ids": [
+        1347003.0,
+        352990.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        321.605,
+        317.015
+      ],
+      "clusters_y": [
+        1155.525,
+        828.265
+      ],
+      "clusters_text": [
+        [
+          "att",
+          "att"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "near"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "att Arbury near",
+      "line_slope": -91.04652098935563,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        352990.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        523.5450000000001,
+        518.48
+      ],
+      "clusters_y": [
+        1110.7150000000001,
+        883.56
+      ],
+      "clusters_text": [
+        [
+          "Will:",
+          "Will<sw-ex>iam</sw-ex>"
+        ],
+        [
+          "Stephens.",
+          "Stephens"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Will: Stephens.",
+      "line_slope": -91.04652098935563,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        4
+      ],
+      "user_ids": [
+        1347003.0,
+        352990.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

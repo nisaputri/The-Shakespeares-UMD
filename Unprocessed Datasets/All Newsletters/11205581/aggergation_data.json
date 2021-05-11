@@ -1,0 +1,572 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        271.63666666666666,
+        910.7066666666666
+      ],
+      "clusters_y": [
+        98.38333333333333,
+        86.79333333333334
+      ],
+      "clusters_text": [
+        [
+          "We",
+          "We",
+          "We"
+        ],
+        [
+          "hear",
+          "hear",
+          "hear"
+        ],
+        [
+          "that",
+          "that",
+          "that"
+        ],
+        [
+          "Charles",
+          "Charles",
+          "Charles"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "third",
+          "third",
+          "third"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "We hear that Charles the third",
+      "line_slope": -1.6090072491396976,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        11
+      ],
+      "user_ids": [
+        null,
+        864398.0,
+        1891145.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        251.8,
+        934.47
+      ],
+      "clusters_y": [
+        167.23,
+        143.09
+      ],
+      "clusters_text": [
+        [
+          "King",
+          "King"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Spaine",
+          "Spaine"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "",
+          "Major"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "King of Spaine has made Major",
+      "line_slope": -1.6090072491396976,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        12
+      ],
+      "user_ids": [
+        null,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.79500000000002,
+        871.065
+      ],
+      "clusters_y": [
+        378.565,
+        369.74
+      ],
+      "clusters_text": [
+        [
+          "Governour",
+          "Governour"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Gibraltar",
+          "Gibraltar"
+        ],
+        [
+          "in",
+          "In"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Governour of Gibraltar in the",
+      "line_slope": -1.6090072491396976,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        4
+      ],
+      "user_ids": [
+        null,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.75,
+        907.9566666666666
+      ],
+      "clusters_y": [
+        524.4,
+        510.40000000000003
+      ],
+      "clusters_text": [
+        [
+          "",
+          "",
+          "Deceased.",
+          "Deceased"
+        ],
+        [
+          "",
+          "",
+          "-",
+          "----"
+        ],
+        [
+          "By",
+          "by",
+          "By",
+          "By"
+        ],
+        [
+          "a",
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "Ships",
+          "",
+          "Ship",
+          "ship"
+        ],
+        [
+          "Pout",
+          "",
+          "put",
+          "put"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.0,
+      "consensus_text": "Deceased. - By a Ships put",
+      "line_slope": -1.6090072491396976,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        4,
+        6,
+        14
+      ],
+      "user_ids": [
+        null,
+        1865958.0,
+        864398.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.84666666666666,
+        882.6233333333333
+      ],
+      "clusters_y": [
+        607.11,
+        589.5066666666667
+      ],
+      "clusters_text": [
+        [
+          "into",
+          "into",
+          "into"
+        ],
+        [
+          "Darmouth",
+          "Darmouth",
+          "Darmouth"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "come",
+          "come",
+          "come"
+        ],
+        [
+          "IN",
+          "In",
+          "In"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "into Darmouth and come In",
+      "line_slope": -1.6090072491396976,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        7,
+        0
+      ],
+      "user_ids": [
+        null,
+        864398.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        256.85,
+        920.98
+      ],
+      "clusters_y": [
+        762.64,
+        742.01
+      ],
+      "clusters_text": [
+        [
+          "informed",
+          "informed"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "four",
+          "four"
+        ],
+        [
+          "transports",
+          "transports"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "informed that the four transports",
+      "line_slope": -1.6090072491396976,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        2
+      ],
+      "user_ids": [
+        864398.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.35,
+        862.34
+      ],
+      "clusters_y": [
+        923.81,
+        896.34
+      ],
+      "clusters_text": [
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Lifton",
+          "Lisbon"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "Roeburk"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "at Lifton with the Roeburk",
+      "line_slope": -1.6090072491396976,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        11
+      ],
+      "user_ids": [
+        1865958.0,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.485,
+        752.63
+      ],
+      "clusters_y": [
+        995.85,
+        989.54
+      ],
+      "clusters_text": [
+        [
+          "man",
+          "Man"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "warr",
+          "Warr."
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "man of warr -",
+      "line_slope": -1.6090072491396976,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        12
+      ],
+      "user_ids": [
+        1865958.0,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        273.78999999999996,
+        909.15
+      ],
+      "clusters_y": [
+        1086.4433333333334,
+        1071.65
+      ],
+      "clusters_text": [
+        [
+          "Letter",
+          "Letters",
+          "Letters"
+        ],
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "Cardiff",
+          "Cardiffe",
+          "Cardiffe"
+        ],
+        [
+          "",
+          "In",
+          "In"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.25,
+      "consensus_text": "Letters from Cardiffe In",
+      "line_slope": -1.6090072491396976,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        13,
+        6
+      ],
+      "user_ids": [
+        1865958.0,
+        864398.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.605,
+        833.3
+      ],
+      "clusters_y": [
+        1407.4850000000001,
+        1379.76
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Lisbon",
+          "Lisbon"
+        ],
+        [
+          "laden",
+          "laden"
+        ],
+        [
+          "with",
+          "with"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "from Lisbon laden with",
+      "line_slope": -1.6090072491396976,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        10
+      ],
+      "user_ids": [
+        864398.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 9,
+  "transcribed_lines": 10,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

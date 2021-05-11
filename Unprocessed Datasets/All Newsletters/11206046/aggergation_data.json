@@ -1,0 +1,130 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        272.15,
+        823.155
+      ],
+      "clusters_y": [
+        1404.12,
+        1374.2150000000001
+      ],
+      "clusters_text": [
+        [
+          "say",
+          ""
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "King",
+          "king"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "spaine",
+          "Spain"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "say that the King of spaine",
+      "line_slope": -3.4282272386787342,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        25,
+        3
+      ],
+      "user_ids": [
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.85,
+        894.535
+      ],
+      "clusters_y": [
+        1165.5,
+        1110.5
+      ],
+      "clusters_text": [
+        [
+          "the",
+          ""
+        ],
+        [
+          "English",
+          "English"
+        ],
+        [
+          "Generall",
+          "generale"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "so",
+          "so"
+        ],
+        [
+          "honourable",
+          "honourable"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "the English Generall was so honourable",
+      "line_slope": -5.126009587435514,
+      "slope_label": 4,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        2
+      ],
+      "user_ids": [
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

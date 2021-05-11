@@ -1,0 +1,126 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        928.02,
+        215.19
+      ],
+      "clusters_y": [
+        1291.4,
+        1333.7
+      ],
+      "clusters_text": [
+        [
+          "stopt",
+          "att"
+        ],
+        [
+          "by",
+          ""
+        ],
+        [
+          "a",
+          ""
+        ],
+        [
+          "Crowd",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "Coaches",
+          "Temple"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "stopt by a Crowd of Coaches",
+      "line_slope": 177.14634172478773,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        12
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        931.94,
+        31.11
+      ],
+      "clusters_y": [
+        1147.26,
+        1195.05
+      ],
+      "clusters_text": [
+        [
+          "Morgan",
+          "att"
+        ],
+        [
+          "a",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Tyde",
+          "Customs"
+        ],
+        [
+          "Wailer",
+          "house"
+        ],
+        [
+          "",
+          "butt"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Morgan a Tyde Wailer butt",
+      "line_slope": 177.14634172478773,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        22
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        343.41499999999996,
+        334.07500000000005
+      ],
+      "clusters_y": [
+        1224.955,
+        790.0450000000001
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "near"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "At Arbury near",
+      "line_slope": -90.72314548837339,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        1918013.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        395.87,
+        394.83000000000004
+      ],
+      "clusters_y": [
+        878.74,
+        667.49
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": -90.72314548837339,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        7
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        538.725,
+        533.9649999999999
+      ],
+      "clusters_y": [
+        1197.06,
+        934.9
+      ],
+      "clusters_text": [
+        [
+          "Willi<sw-ex>am</sw-ex>",
+          "Will"
+        ],
+        [
+          "Stephens",
+          "Thompson"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Willi<sw-ex>am</sw-ex> Stephens",
+      "line_slope": -90.72314548837339,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        4
+      ],
+      "user_ids": [
+        429539.0,
+        1918013.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

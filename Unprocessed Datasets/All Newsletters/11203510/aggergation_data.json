@@ -1,0 +1,137 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        468.6333333333334,
+        913.4866666666667
+      ],
+      "clusters_y": [
+        273.07666666666665,
+        261.14000000000004
+      ],
+      "clusters_text": [
+        [
+          "Yesterday",
+          "Yesterday",
+          "Yesterday"
+        ],
+        [
+          "morning",
+          "morning",
+          "morning"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "King",
+          "King",
+          "King"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "Yesterday morning the King",
+      "line_slope": -1.4195305870668022,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        0,
+        9
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        239.215,
+        928.49
+      ],
+      "clusters_y": [
+        486.33000000000004,
+        474.95000000000005
+      ],
+      "clusters_text": [
+        [
+          "going",
+          "going"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "fflanders",
+          "fflanders"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Tuesday",
+          "tuesday"
+        ],
+        [
+          "",
+          "7"
+        ],
+        [
+          "night",
+          "night"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "going to fflanders on Tuesday 7 night and",
+      "line_slope": -1.4195305870668022,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        13
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

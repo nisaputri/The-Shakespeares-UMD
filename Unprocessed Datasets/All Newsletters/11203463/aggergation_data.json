@@ -1,0 +1,436 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        421.95,
+        842.5050000000001
+      ],
+      "clusters_y": [
+        91.42,
+        82.32499999999999
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "15<sw-sup>th</sw-sup>",
+          "15<sw-sup>th</sw-sup>"
+        ],
+        [
+          "March",
+          "March"
+        ],
+        [
+          "93",
+          "93/4"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "London 15<sw-sup>th</sw-sup> March 93",
+      "line_slope": -0.9794169020470095,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        1050613.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        381.575,
+        930.0899999999999
+      ],
+      "clusters_y": [
+        507.03999999999996,
+        489.95500000000004
+      ],
+      "clusters_text": [
+        [
+          "They",
+          "They"
+        ],
+        [
+          "write",
+          "write"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Vienna",
+          "Vienna"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "They write from Vienna that the",
+      "line_slope": -0.9794169020470095,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        8
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.09000000000003,
+        917.87
+      ],
+      "clusters_y": [
+        559.22,
+        543.12
+      ],
+      "clusters_text": [
+        [
+          "Dutch",
+          "Dutch"
+        ],
+        [
+          "Amb<sw-sup>dr",
+          "amb<sw-ex>assadou</sw-ex>re"
+        ],
+        [
+          "</sw-sup>is",
+          "is"
+        ],
+        [
+          "Expected",
+          "Expected"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Constantinople",
+          "Con"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "Dutch Amb<sw-sup>dr </sw-sup>is Expected there from Constantinople",
+      "line_slope": -0.9794169020470095,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        9
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        408.44,
+        905.95
+      ],
+      "clusters_y": [
+        1170.2150000000001,
+        1167.65
+      ],
+      "clusters_text": [
+        [
+          "That",
+          "That"
+        ],
+        [
+          "Mons",
+          "Mons<sw-ex>ieur</sw-ex>"
+        ],
+        [
+          "Vauban",
+          "Vauban"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "gon",
+          "gon"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "That Mons Vauban is gon to",
+      "line_slope": -0.9794169020470095,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        22
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        282.17999999999995,
+        906.01
+      ],
+      "clusters_y": [
+        1211.72,
+        1208.065
+      ],
+      "clusters_text": [
+        [
+          "View",
+          "view"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "new",
+          "new"
+        ],
+        [
+          "fortification",
+          "fortifications"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "St",
+          "St"
+        ],
+        [
+          "Mallo",
+          "Malloes"
+        ],
+        [
+          "to",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "View the new fortification of St Mallo to",
+      "line_slope": -0.9794169020470095,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        23
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        292.445,
+        550.0
+      ],
+      "clusters_y": [
+        1259.425,
+        1259.795
+      ],
+      "clusters_text": [
+        [
+          "<sw-unclear>??</sw-unclear>",
+          ""
+        ],
+        [
+          "along",
+          "along"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Coast",
+          "Coast"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "<sw-unclear>??</sw-unclear> along the Coast",
+      "line_slope": -0.9794169020470095,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        24
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        375.41999999999996,
+        911.88
+      ],
+      "clusters_y": [
+        1344.11,
+        1348.24
+      ],
+      "clusters_text": [
+        [
+          "It",
+          ""
+        ],
+        [
+          "is",
+          "Tis"
+        ],
+        [
+          "discoursed",
+          "discoursed"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "an",
+          "an"
+        ],
+        [
+          "Express",
+          "Express"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "It is discoursed that an Express",
+      "line_slope": -0.9794169020470095,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        25
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        630.3050000000001,
+        913.465
+      ],
+      "clusters_y": [
+        1456.8600000000001,
+        1460.23
+      ],
+      "clusters_text": [
+        [
+          "Defensively",
+          "Defensiuely"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Defensively",
+      "line_slope": -0.9794169020470095,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        27
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 8,
+  "transcribed_lines": 8,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

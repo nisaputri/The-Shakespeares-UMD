@@ -1,0 +1,110 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        921.805,
+        918.635
+      ],
+      "clusters_y": [
+        82.23,
+        273.15
+      ],
+      "clusters_text": [
+        [
+          "27",
+          "27"
+        ],
+        [
+          "June",
+          "June"
+        ],
+        [
+          "<sw-ex>16</sw-ex>96",
+          "96"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "27 June <sw-ex>16</sw-ex>96",
+      "line_slope": 90.9439366069086,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        425.65,
+        445.85
+      ],
+      "clusters_y": [
+        765.98,
+        1315.52
+      ],
+      "clusters_text": [
+        [
+          "Barr<sw-ex>one</sw-ex>t",
+          "Barr<sw-ex>one</sw-ex>t"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "neare",
+          "neare"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Barr<sw-ex>one</sw-ex>t at Arbury neare",
+      "line_slope": 87.7003477458845,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2
+      ],
+      "user_ids": [
+        1851566.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        395.58,
+        884.985
+      ],
+      "clusters_y": [
+        78.985,
+        77.66
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "Aprill",
+          "Aprill"
+        ],
+        [
+          "18<sw-sup>th</sw-sup>",
+          "18<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1693",
+          "1693"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "London Aprill 18<sw-sup>th</sw-sup> 1693",
+      "line_slope": -0.2987677796558722,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        1640562.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

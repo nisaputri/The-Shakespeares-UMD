@@ -1,0 +1,510 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        293.85999999999996,
+        975.0466666666667
+      ],
+      "clusters_y": [
+        187.5,
+        169.08666666666667
+      ],
+      "clusters_text": [
+        [
+          "Letters",
+          "Letters",
+          "Letter,"
+        ],
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "Danzick",
+          "Dantzick",
+          "Dankirk"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "4",
+          "4",
+          "4"
+        ],
+        [
+          "",
+          "",
+          "in"
+        ],
+        [
+          "instant",
+          "instant",
+          "stand"
+        ],
+        [
+          "say",
+          "say",
+          "say"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.3333333333333335,
+      "consensus_text": "Letters from Danzick of the 4 in instant say",
+      "line_slope": -2.4952083803400327,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0,
+        1561060.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        274.34000000000003,
+        893.13
+      ],
+      "clusters_y": [
+        257.525,
+        230.88
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Sweeden",
+          ""
+        ],
+        [
+          "hath",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "that the King of Sweeden hath",
+      "line_slope": -2.4952083803400327,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        1561060.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        276.4066666666667,
+        848.25
+      ],
+      "clusters_y": [
+        334.6466666666667,
+        311.99
+      ],
+      "clusters_text": [
+        [
+          "information",
+          "information",
+          "information"
+        ],
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "his",
+          "his",
+          "his"
+        ],
+        [
+          "Resident",
+          "Resident",
+          "Resident"
+        ],
+        [
+          "at",
+          "at",
+          "at"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "information from his Resident at",
+      "line_slope": -2.4952083803400327,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0,
+        1561060.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        272.35,
+        853.84
+      ],
+      "clusters_y": [
+        402.395,
+        385.69
+      ],
+      "clusters_text": [
+        [
+          "Copenhagen",
+          "copenhagen"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Copenhagen that the King of",
+      "line_slope": -2.4952083803400327,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        429539.0,
+        1561060.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        256.8866666666667,
+        912.005
+      ],
+      "clusters_y": [
+        470.07,
+        441.045
+      ],
+      "clusters_text": [
+        [
+          "Denmark",
+          "Denmarke",
+          "Denmakrs"
+        ],
+        [
+          "at",
+          "at",
+          "at"
+        ],
+        [
+          "the",
+          "the",
+          "this"
+        ],
+        [
+          "head",
+          "head",
+          ""
+        ],
+        [
+          "of",
+          "of",
+          ""
+        ],
+        [
+          "30000",
+          "30000",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "Denmark at the head of 30000",
+      "line_slope": -2.4952083803400327,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        5,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0,
+        1561060.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.05,
+        819.6366666666667
+      ],
+      "clusters_y": [
+        628.14,
+        591.4766666666666
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "his",
+          "his",
+          "his"
+        ],
+        [
+          "Nephew",
+          "Nephew",
+          "Nephew"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Duke",
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "of his Nephew the Duke of",
+      "line_slope": -2.4952083803400327,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        7,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0,
+        1561060.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        274.48,
+        779.97
+      ],
+      "clusters_y": [
+        1265.1950000000002,
+        1240.13
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Prince",
+          "Prince"
+        ],
+        [
+          "Eugene",
+          "Eugene"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Savoy",
+          "Savoy"
+        ],
+        [
+          "--",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "of Prince Eugene of Savoy --",
+      "line_slope": -2.4952083803400327,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        14
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.39499999999998,
+        943.96
+      ],
+      "clusters_y": [
+        1456.68,
+        1414.415
+      ],
+      "clusters_text": [
+        [
+          "Nassau",
+          "nassaw"
+        ],
+        [
+          "Saarbruck",
+          "Saarbruck"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "gon",
+          "gon"
+        ],
+        [
+          "post",
+          "post"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Camp",
+          "Camp"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "Nassau Saarbruck is gon post to <brev-y>th</brev-y><sl>e</sl> Camp",
+      "line_slope": -2.4952083803400327,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        16
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 6,
+  "transcribed_lines": 8,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

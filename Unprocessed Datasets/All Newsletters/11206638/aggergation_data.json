@@ -1,0 +1,228 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        243.22,
+        964.27
+      ],
+      "clusters_y": [
+        87.625,
+        84.22
+      ],
+      "clusters_text": [
+        [
+          "Marlborough",
+          "Marlborough's"
+        ],
+        [
+          "bill",
+          "bill"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Altering",
+          "allowing"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Marlborough bill for Altering",
+      "line_slope": 0.07292749677214848,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.19,
+        937.13
+      ],
+      "clusters_y": [
+        159.87,
+        158.125
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "punishment",
+          "punishment"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Criminalls",
+          "Criminalls"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the punishment of Criminalls",
+      "line_slope": 0.07292749677214848,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.73000000000002,
+        954.89
+      ],
+      "clusters_y": [
+        236.475,
+        233.5
+      ],
+      "clusters_text": [
+        [
+          "by",
+          "by"
+        ],
+        [
+          "burning",
+          "burning"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "Cheek",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "by burning them on the Cheek -",
+      "line_slope": 0.07292749677214848,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.05,
+        940.9
+      ],
+      "clusters_y": [
+        1012.25,
+        1016.865
+      ],
+      "clusters_text": [
+        [
+          "of",
+          ""
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "German",
+          ""
+        ],
+        [
+          "Princes",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "The",
+          "The"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "of the German Princes - The",
+      "line_slope": 0.07292749677214848,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        4
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

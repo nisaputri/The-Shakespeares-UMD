@@ -1,0 +1,531 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        187.005,
+        222.52499999999998
+      ],
+      "clusters_y": [
+        98.93,
+        1500.875
+      ],
+      "clusters_text": [
+        [
+          "pain",
+          "pain"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "ffleet",
+          "ffleet"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Merchant",
+          "Merchant"
+        ],
+        [
+          "ships,",
+          "Ships"
+        ],
+        [
+          "which",
+          "which"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "hourly",
+          "hourly"
+        ],
+        [
+          "expected",
+          "Expected"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8181818181818181,
+      "consensus_text": "pain for a ffleet of Merchant ships, which are hourly expected",
+      "line_slope": 88.5894199723603,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        21
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        335.58500000000004,
+        890.5699999999999
+      ],
+      "clusters_y": [
+        71.42,
+        70.03999999999999
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "June",
+          "June"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "2<sw-sup>d</sw-sup>",
+          "2<sw-sup>d</sw-sup>"
+        ],
+        [
+          "1709",
+          "1709"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "London June <brev-y>th</brev-y><sl>e</sl> 2<sw-sup>d</sw-sup> 1709",
+      "line_slope": -1.6501698433432788,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        233.23000000000002,
+        922.585
+      ],
+      "clusters_y": [
+        365.025,
+        343.31
+      ],
+      "clusters_text": [
+        [
+          "with",
+          "with"
+        ],
+        [
+          "8000",
+          "8000"
+        ],
+        [
+          "Men",
+          "Men"
+        ],
+        [
+          "fell",
+          "fell"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Monsieur",
+          "Monsieur"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "with 8000 Men fell on Monsieur",
+      "line_slope": -1.6501698433432788,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        239.10000000000002,
+        927.67
+      ],
+      "clusters_y": [
+        698.6600000000001,
+        679.865
+      ],
+      "clusters_text": [
+        [
+          "Routed",
+          "Routed"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "killling",
+          "killing"
+        ],
+        [
+          "3000",
+          "3000"
+        ],
+        [
+          "Men",
+          "Men"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Routed them killling 3000 Men",
+      "line_slope": -1.6501698433432788,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.285,
+        925.705
+      ],
+      "clusters_y": [
+        834.605,
+        810.75
+      ],
+      "clusters_text": [
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Marching",
+          "Marching"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Moscow",
+          "Muscow"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Letters",
+          "Letters"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "is Marching to Moscow - Letters",
+      "line_slope": -1.6501698433432788,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        11
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.785,
+        946.8299999999999
+      ],
+      "clusters_y": [
+        978.775,
+        947.11
+      ],
+      "clusters_text": [
+        [
+          "?",
+          "Date"
+        ],
+        [
+          "bring",
+          "bring"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Dutch",
+          "Dutch"
+        ],
+        [
+          "privateer",
+          "privateer"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "? bring that a Dutch privateer",
+      "line_slope": -1.6501698433432788,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        13
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.565,
+        954.655
+      ],
+      "clusters_y": [
+        1042.35,
+        1013.9549999999999
+      ],
+      "clusters_text": [
+        [
+          "lately",
+          "lately"
+        ],
+        [
+          "brought",
+          "brought"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "ffrench",
+          "ffrench"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "lately brought in there a ffrench",
+      "line_slope": -1.6501698433432788,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.13,
+        943.685
+      ],
+      "clusters_y": [
+        1159.745,
+        1148.7150000000001
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Smirna",
+          "Smirna"
+        ],
+        [
+          "haveing",
+          "haveing"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Board",
+          "Board"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "from Smirna haveing on Board",
+      "line_slope": -1.6501698433432788,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        16
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.765,
+        958.895
+      ],
+      "clusters_y": [
+        1379.8600000000001,
+        1360.095
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Warr",
+          "Warr"
+        ],
+        [
+          "is",
+          ""
+        ],
+        [
+          "sayled",
+          "Sayled"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Cantzich",
+          "Dantzick"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Convoy",
+          "Convoy"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "of Warr is sayled to Cantzich to Convoy",
+      "line_slope": -1.6501698433432788,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        19
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 9,
+  "transcribed_lines": 9,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        34.24,
+        930.4549999999999
+      ],
+      "clusters_y": [
+        389.79,
+        375.21000000000004
+      ],
+      "clusters_text": [
+        [
+          "",
+          "from"
+        ],
+        [
+          "",
+          "Words"
+        ],
+        [
+          "",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "",
+          "Arose"
+        ],
+        [
+          "between",
+          "between"
+        ],
+        [
+          "these",
+          "these"
+        ],
+        [
+          "2",
+          "2"
+        ],
+        [
+          "Noble",
+          "Noble"
+        ],
+        [
+          "L<sw-sup>ds</sw-sup>",
+          "L<sw-ex>ords"
+        ],
+        [
+          "before",
+          "before</sw-ex>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "from Words w<sw-ex>hi</sw-ex><sl>ch</sl> Arose between these 2 Noble L<sw-sup>ds</sw-sup> before",
+      "line_slope": -1.2952896597224064,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        4
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

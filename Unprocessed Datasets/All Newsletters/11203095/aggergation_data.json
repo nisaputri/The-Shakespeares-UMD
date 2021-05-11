@@ -1,0 +1,311 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        262.605,
+        254.465
+      ],
+      "clusters_y": [
+        768.65,
+        988.34
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "At Arbury",
+      "line_slope": 92.02236495003335,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        3
+      ],
+      "user_ids": [
+        1347003.0,
+        1462825.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        73.86500000000001,
+        950.75
+      ],
+      "clusters_y": [
+        176.92000000000002,
+        176.59
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "dy",
+          ""
+        ],
+        [
+          "a<sw-unclear>???</sw-unclear>ched",
+          "disaffected"
+        ],
+        [
+          "p<sw-ex>er</sw-ex>sons",
+          "p<sw-ex>er</sw-ex>sons"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "lately",
+          "lately"
+        ],
+        [
+          "been",
+          "been"
+        ],
+        [
+          "disturbed",
+          "disturbed"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "of dy a<sw-unclear>???</sw-unclear>ched p<sw-ex>er</sw-ex>sons have lately been disturbed",
+      "line_slope": -0.04118760460347534,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        8
+      ],
+      "user_ids": [
+        1347003.0,
+        1462825.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        79.745,
+        921.5
+      ],
+      "clusters_y": [
+        234.075,
+        240.85
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sw-ex>e</sw-ex>ire"
+        ],
+        [
+          "Cabath",
+          "Caballs"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "tavern",
+          "tavern"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Caman",
+          "Comon"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "in <brev-y>th</brev-y><sl>e</sl> Cabath at a tavern in Caman",
+      "line_slope": -0.04118760460347534,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        9
+      ],
+      "user_ids": [
+        1347003.0,
+        1462825.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        105.565,
+        967.52
+      ],
+      "clusters_y": [
+        347.385,
+        341.47
+      ],
+      "clusters_text": [
+        [
+          "fained",
+          "fained"
+        ],
+        [
+          "news",
+          "names"
+        ],
+        [
+          "drincking",
+          "drincking"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "L",
+          "L"
+        ],
+        [
+          "F",
+          "I"
+        ],
+        [
+          "M",
+          "M"
+        ],
+        [
+          "P",
+          "P"
+        ],
+        [
+          "near",
+          "mean"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "fained news drincking to L F M P near",
+      "line_slope": -0.04118760460347534,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        11
+      ],
+      "user_ids": [
+        1347003.0,
+        1462825.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        85.625,
+        895.82
+      ],
+      "clusters_y": [
+        461.51,
+        459.45
+      ],
+      "clusters_text": [
+        [
+          "M",
+          "M"
+        ],
+        [
+          "Queen",
+          "Queen"
+        ],
+        [
+          "Mary",
+          "Mary"
+        ],
+        [
+          "P.",
+          "P."
+        ],
+        [
+          "Pr<sw-ex>ince</sw-ex>:",
+          "Prince"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "?",
+          "Wales"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "M Queen Mary P. Pr<sw-ex>ince</sw-ex>: of ?",
+      "line_slope": -0.04118760460347534,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        13
+      ],
+      "user_ids": [
+        1347003.0,
+        1462825.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

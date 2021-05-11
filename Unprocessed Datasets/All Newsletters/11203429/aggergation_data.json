@@ -1,0 +1,169 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        437.015,
+        914.18
+      ],
+      "clusters_y": [
+        259.16499999999996,
+        260.83
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "the"
+        ],
+        [
+          "?",
+          ""
+        ],
+        [
+          "Shipps",
+          ""
+        ],
+        [
+          "will",
+          "Hill"
+        ],
+        [
+          "Come",
+          "ffrom"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "The ? Shipps will Come",
+      "line_slope": 0.5699317754478612,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        7
+      ],
+      "user_ids": [
+        1347003.0,
+        1907974.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        271.21500000000003,
+        886.05
+      ],
+      "clusters_y": [
+        542.9300000000001,
+        557.66
+      ],
+      "clusters_text": [
+        [
+          "Arch",
+          ""
+        ],
+        [
+          "B<sw-ex>isho</sw-ex>p",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "Canterbury",
+          "Chehesr"
+        ],
+        [
+          "is",
+          ""
+        ],
+        [
+          "appointed",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Arch B<sw-ex>isho</sw-ex>p of Canterbury is appointed",
+      "line_slope": 0.5699317754478612,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        5
+      ],
+      "user_ids": [
+        1347003.0,
+        1907974.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        277.92499999999995,
+        482.64
+      ],
+      "clusters_y": [
+        770.255,
+        770.26
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Oxford",
+          "Oxford"
+        ],
+        [
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "in Oxford -",
+      "line_slope": 0.5699317754478612,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        1907974.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

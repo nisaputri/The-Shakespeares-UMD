@@ -1,0 +1,170 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        24.18,
+        934.11
+      ],
+      "clusters_y": [
+        71.55000000000001,
+        70.07
+      ],
+      "clusters_text": [
+        [
+          "There",
+          "There"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "Letters",
+          "Letters"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Way",
+          "Way"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "mention",
+          "mention"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "There are Letters by <brev-y>th</brev-y><sl>e</sl> Way of Amsterdam w<sw-ex>hi</sw-ex><sl>ch</sl> mention",
+      "line_slope": -0.45533488097353647,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        30.795,
+        936.8299999999999
+      ],
+      "clusters_y": [
+        200.41000000000003,
+        196.695
+      ],
+      "clusters_text": [
+        [
+          "Muscovites",
+          "Muscovite"
+        ],
+        [
+          "ffleets",
+          "ffleets"
+        ],
+        [
+          "and",
+          "&"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "most",
+          "most"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Gallyes",
+          "Gallyes"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "latter",
+          "latter"
+        ],
+        [
+          "were",
+          "were"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Muscovites ffleets and <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> most of the Gallyes of <brev-y>th</brev-y><sl>e</sl> latter were",
+      "line_slope": -0.45533488097353647,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        303191.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

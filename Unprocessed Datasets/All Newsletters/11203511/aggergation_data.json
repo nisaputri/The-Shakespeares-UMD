@@ -1,0 +1,794 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        249.14499999999998,
+        320.775
+      ],
+      "clusters_y": [
+        695.135,
+        697.22
+      ],
+      "clusters_text": [
+        [
+          "Caloi",
+          "Cales"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Caloi",
+      "line_slope": 1.5981132727272829,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        12
+      ],
+      "user_ids": [
+        1891145.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.725,
+        939.595
+      ],
+      "clusters_y": [
+        328.93,
+        316.52
+      ],
+      "clusters_text": [
+        [
+          "Contestacon",
+          "Contestac<sw-ex>i</sw-ex>on"
+        ],
+        [
+          "passd",
+          "passd"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "poll",
+          "poll"
+        ],
+        [
+          "Bill",
+          "Bill"
+        ],
+        [
+          "without",
+          "without"
+        ],
+        [
+          "any",
+          "any"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "Contestacon passd the poll Bill without any",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        5
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        458.99666666666667,
+        936.6999999999999
+      ],
+      "clusters_y": [
+        404.83666666666664,
+        393.63333333333327
+      ],
+      "clusters_text": [
+        [
+          "A",
+          "A",
+          "A"
+        ],
+        [
+          "Letter",
+          "Letter",
+          "Letter"
+        ],
+        [
+          "came",
+          "came",
+          "came"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "white",
+          "white",
+          "white"
+        ],
+        [
+          "hell",
+          "hall",
+          "hall"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8333333333333335,
+      "consensus_text": "A Letter came to white hall",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        5,
+        7
+      ],
+      "user_ids": [
+        1891145.0,
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.28,
+        942.435
+      ],
+      "clusters_y": [
+        453.82500000000005,
+        432.92499999999995
+      ],
+      "clusters_text": [
+        [
+          "yesterday",
+          "yesterday"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Lands",
+          "Lands"
+        ],
+        [
+          "End",
+          "End"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Squadron",
+          "Squadron"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "yesterday from the Lands End <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> a Squadron",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        6
+      ],
+      "user_ids": [
+        1891145.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.85,
+        915.0200000000001
+      ],
+      "clusters_y": [
+        605.1166666666667,
+        578.2033333333334
+      ],
+      "clusters_text": [
+        [
+          "126",
+          "tis",
+          "tis"
+        ],
+        [
+          "verily",
+          "verily",
+          "verly"
+        ],
+        [
+          "beleved",
+          "beleved",
+          "beleivd"
+        ],
+        [
+          "they",
+          "they",
+          "they"
+        ],
+        [
+          "have",
+          "have",
+          "haue"
+        ],
+        [
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "designe",
+          "designe",
+          "designe"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "tis verily beleved they have a designe to",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        7,
+        10
+      ],
+      "user_ids": [
+        1891145.0,
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.70999999999998,
+        931.81
+      ],
+      "clusters_y": [
+        648.645,
+        635.02
+      ],
+      "clusters_text": [
+        [
+          "interrept",
+          "intercept"
+        ],
+        [
+          "our",
+          "our"
+        ],
+        [
+          "hom",
+          ""
+        ],
+        [
+          "ward",
+          "homward"
+        ],
+        [
+          "bound",
+          "bound"
+        ],
+        [
+          "fleet",
+          "fleet"
+        ],
+        [
+          "from",
+          "from"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "interrept our hom ward bound fleet from",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        8
+      ],
+      "user_ids": [
+        1891145.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        458.03499999999997,
+        934.075
+      ],
+      "clusters_y": [
+        697.06,
+        696.325
+      ],
+      "clusters_text": [
+        [
+          "Edinburgh",
+          "Edinburgh"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "5th",
+          "5th"
+        ],
+        [
+          "yestday",
+          "yestday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Edinburgh the 5th yestday",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        10
+      ],
+      "user_ids": [
+        1891145.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.285,
+        926.63
+      ],
+      "clusters_y": [
+        752.495,
+        745.835
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Councill",
+          "Councill"
+        ],
+        [
+          "mett",
+          "mett"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "alterd",
+          "alterd"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "sentence",
+          "sentence"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the Councill mett and alterd the sentence",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        14
+      ],
+      "user_ids": [
+        1891145.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.54333333333332,
+        920.8533333333334
+      ],
+      "clusters_y": [
+        799.9933333333332,
+        792.5966666666667
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Schoolmaster",
+          "Schoolmaster",
+          "schoolmaster"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Glasgow",
+          "Glasgow",
+          "Glascow"
+        ],
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "being",
+          "being",
+          "being"
+        ],
+        [
+          "",
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "of the Schoolmaster of Glasgow from being -",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        11,
+        15
+      ],
+      "user_ids": [
+        1891145.0,
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.985,
+        936.4849999999999
+      ],
+      "clusters_y": [
+        1035.535,
+        1034.05
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "18<sw-sup>t</sw-sup>",
+          "1st"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<sw-del>may</sw-del>",
+          "<sw-del>nocis</sw-del>"
+        ],
+        [
+          "novemb<sw-ex>e</sw-ex>r",
+          "novembr"
+        ],
+        [
+          "or",
+          "or"
+        ],
+        [
+          "taken",
+          "taken"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "",
+          "--"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5555555555555556,
+      "consensus_text": "the 18<sw-sup>t</sw-sup> of <sw-del>may</sw-del> novemb<sw-ex>e</sw-ex>r or taken them --",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        20
+      ],
+      "user_ids": [
+        1891145.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.445,
+        936.975
+      ],
+      "clusters_y": [
+        1087.37,
+        1072.2649999999999
+      ],
+      "clusters_text": [
+        [
+          "into",
+          "into"
+        ],
+        [
+          "Service",
+          "service"
+        ],
+        [
+          "without",
+          "without"
+        ],
+        [
+          "pducing",
+          "p<sw-ex>ro</sw-ex>ducing"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Certificate",
+          "Certificatt"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "into Service without pducing a Certificate",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        21
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.035,
+        890.105
+      ],
+      "clusters_y": [
+        1435.15,
+        1429.105
+      ],
+      "clusters_text": [
+        [
+          "doe",
+          "doe"
+        ],
+        [
+          "not",
+          "not"
+        ],
+        [
+          "shall",
+          "Shall"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "punishd",
+          "punishd"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "doe not shall be punishd with the",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        17
+      ],
+      "user_ids": [
+        1891145.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.60500000000002,
+        921.9449999999999
+      ],
+      "clusters_y": [
+        1480.385,
+        1472.33
+      ],
+      "clusters_text": [
+        [
+          "ut",
+          ""
+        ],
+        [
+          "most",
+          "utmost"
+        ],
+        [
+          "Severty",
+          "severity"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Laws-",
+          "Law"
+        ],
+        [
+          "",
+          "--"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2857142857142858,
+      "consensus_text": "ut most Severty of the Laws- --",
+      "line_slope": -0.9308348496071528,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        29
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 13,
+  "transcribed_lines": 13,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

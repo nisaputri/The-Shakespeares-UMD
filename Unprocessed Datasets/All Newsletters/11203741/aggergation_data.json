@@ -1,0 +1,508 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        97.01,
+        750.79
+      ],
+      "clusters_y": [
+        82.16,
+        66.71
+      ],
+      "clusters_text": [
+        [
+          "Sir",
+          ""
+        ],
+        [
+          "London",
+          "London"
+        ],
+        [
+          "11th",
+          "11<sw-sup>th</sw-sup>"
+        ],
+        [
+          "<sw-ex>Septem</sw-ex>ber",
+          "7ber"
+        ],
+        [
+          "1694",
+          "1694"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "Sir London 11th <sw-ex>Septem</sw-ex>ber 1694",
+      "line_slope": -0.9844487290319847,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        7
+      ],
+      "user_ids": [
+        429539.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.245,
+        934.73
+      ],
+      "clusters_y": [
+        155.135,
+        146.76999999999998
+      ],
+      "clusters_text": [
+        [
+          "Edinburgh",
+          "Edinburgh"
+        ],
+        [
+          "<sw-ex>Septem</sw-ex>ber",
+          "7ber"
+        ],
+        [
+          "4th",
+          "4<sw-sup>th</sw-sup>"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Sunday",
+          "Sunday"
+        ],
+        [
+          "last",
+          "last"
+        ],
+        [
+          "an",
+          "an"
+        ],
+        [
+          "Expresse",
+          "Expresse"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Edinburgh <sw-ex>Septem</sw-ex>ber 4th on Sunday last an Expresse",
+      "line_slope": -0.9844487290319847,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        8
+      ],
+      "user_ids": [
+        429539.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        268.64,
+        896.0699999999999
+      ],
+      "clusters_y": [
+        192.315,
+        183.87
+      ],
+      "clusters_text": [
+        [
+          "came",
+          "came"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Lord",
+          "Lord"
+        ],
+        [
+          "Justice",
+          "Iustice"
+        ],
+        [
+          "Chartell",
+          "Chartell"
+        ],
+        [
+          "from",
+          "from"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "came to the Lord Justice Chartell from",
+      "line_slope": -0.9844487290319847,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        9
+      ],
+      "user_ids": [
+        429539.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.435,
+        935.515
+      ],
+      "clusters_y": [
+        266.81,
+        259.32
+      ],
+      "clusters_text": [
+        [
+          "p<sw-ex>ri</sw-ex>vateer",
+          "privateer"
+        ],
+        [
+          "haveing",
+          "haveing"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "descent",
+          "descent"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "Shore",
+          "Shore"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "p<sw-ex>ri</sw-ex>vateer haveing made a descent on that Shore",
+      "line_slope": -0.9844487290319847,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        11
+      ],
+      "user_ids": [
+        429539.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.49,
+        934.4449999999999
+      ],
+      "clusters_y": [
+        504.28,
+        471.67
+      ],
+      "clusters_text": [
+        [
+          "time",
+          "time"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "signall",
+          "Signall"
+        ],
+        [
+          "being",
+          "being"
+        ],
+        [
+          "given",
+          "given"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Countrey",
+          "Countrey"
+        ],
+        [
+          "came",
+          "came"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "time the signall being given the Countrey came",
+      "line_slope": -3.021592619039354,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        17
+      ],
+      "user_ids": [
+        429539.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.06,
+        929.06
+      ],
+      "clusters_y": [
+        542.945,
+        509.62
+      ],
+      "clusters_text": [
+        [
+          "downe",
+          "downe"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "first",
+          "first"
+        ],
+        [
+          "seized",
+          "seized"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "boat",
+          "boat"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "then",
+          "then"
+        ],
+        [
+          "took",
+          "took"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "downe & first seized the boat & then took the",
+      "line_slope": -3.021592619039354,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        18
+      ],
+      "user_ids": [
+        429539.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        448.155,
+        925.015
+      ],
+      "clusters_y": [
+        609.0350000000001,
+        583.21
+      ],
+      "clusters_text": [
+        [
+          "<sw-del>Nothing",
+          ""
+        ],
+        [
+          "this",
+          ""
+        ],
+        [
+          "post",
+          ""
+        ],
+        [
+          "?????",
+          ""
+        ],
+        [
+          "</sw-del>",
+          "<sw-del>???</sw-del>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "<sw-del>Nothing this post ????? </sw-del>",
+      "line_slope": -3.021592619039354,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        20
+      ],
+      "user_ids": [
+        429539.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.415,
+        930.2950000000001
+      ],
+      "clusters_y": [
+        759.145,
+        723.645
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "a"
+        ],
+        [
+          "small",
+          "small"
+        ],
+        [
+          "Jerseyman",
+          "Ierseyman"
+        ],
+        [
+          "came",
+          "came"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "here",
+          "here"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Island",
+          "Island"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "a small Jerseyman came in here from the Island",
+      "line_slope": -3.021592619039354,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        23
+      ],
+      "user_ids": [
+        429539.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 8,
+  "transcribed_lines": 8,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        41.64,
+        929.96
+      ],
+      "clusters_y": [
+        696.99,
+        691.29
+      ],
+      "clusters_text": [
+        [
+          "Stockholm",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Paris",
+          "Paris"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          ""
+        ],
+        [
+          "18",
+          ""
+        ],
+        [
+          "ffrench",
+          ""
+        ],
+        [
+          "Men",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2222222222222223,
+      "consensus_text": "Stockholm - from Paris <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> 18 ffrench Men of",
+      "line_slope": 0.9703991175695897,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        9
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        43.06,
+        949.92
+      ],
+      "clusters_y": [
+        744.05,
+        778.27
+      ],
+      "clusters_text": [
+        [
+          "Warr",
+          "",
+          ""
+        ],
+        [
+          "in",
+          "in",
+          ""
+        ],
+        [
+          "Brest",
+          "",
+          ""
+        ],
+        [
+          "and",
+          "",
+          ""
+        ],
+        [
+          "Rochfort",
+          "",
+          ""
+        ],
+        [
+          "are",
+          "",
+          "are"
+        ],
+        [
+          "about",
+          "",
+          "about"
+        ],
+        [
+          "to",
+          "",
+          "to"
+        ],
+        [
+          "Sayle",
+          "",
+          ""
+        ],
+        [
+          "for",
+          "",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.4,
+      "consensus_text": "Warr in Brest and Rochfort are about to Sayle for",
+      "line_slope": 0.9703991175695897,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        11,
+        12
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        48.77,
+        951.35
+      ],
+      "clusters_y": [
+        809.64,
+        836.73
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "Baltick",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "TheL<sw-ex>ord",
+          ""
+        ],
+        [
+          "</sw-ex>Newburgh",
+          ""
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "Coll",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> Baltick - TheL<sw-ex>ord </sw-ex>Newburgh is made Coll of <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": 0.9703991175695897,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        13
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        41.64,
+        931.725
+      ],
+      "clusters_y": [
+        869.52,
+        882.65
+      ],
+      "clusters_text": [
+        [
+          "3<sw-sup>d</sw-sup>",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Troop",
+          "",
+          "",
+          ""
+        ],
+        [
+          "of",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Guards",
+          "",
+          "",
+          ""
+        ],
+        [
+          "in",
+          "in",
+          "",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Room",
+          "",
+          "",
+          ""
+        ],
+        [
+          "of",
+          "",
+          "",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Earle",
+          "",
+          "",
+          ""
+        ],
+        [
+          "of",
+          "",
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 1.2727272727272727,
+      "consensus_text": "3<sw-sup>d</sw-sup> Troop of Guards in <brev-y>th</brev-y><sl>e</sl> Room of <brev-y>th</brev-y><sl>e</sl> Earle of",
+      "line_slope": 0.9703991175695897,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        14,
+        17,
+        18
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        49.275,
+        955.8266666666667
+      ],
+      "clusters_y": [
+        934.0450000000001,
+        953.2333333333332
+      ],
+      "clusters_text": [
+        [
+          "Arran",
+          "Arran.",
+          ""
+        ],
+        [
+          "-",
+          "",
+          ""
+        ],
+        [
+          "An",
+          "An",
+          ""
+        ],
+        [
+          "Express",
+          "express",
+          ""
+        ],
+        [
+          "is",
+          "is",
+          ""
+        ],
+        [
+          "arriv'd",
+          "arrived",
+          ""
+        ],
+        [
+          "at",
+          "at",
+          ""
+        ],
+        [
+          "St.",
+          "St.",
+          ""
+        ],
+        [
+          "James's",
+          "James's",
+          ""
+        ],
+        [
+          "from",
+          "from",
+          "from"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.7,
+      "consensus_text": "Arran - An Express is arriv'd at St. James's from",
+      "line_slope": 0.9703991175695897,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        14,
+        20
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        432.35,
+        938.33
+      ],
+      "clusters_y": [
+        1107.22,
+        1110.89
+      ],
+      "clusters_text": [
+        [
+          "come",
+          ""
+        ],
+        [
+          "on",
+          "for"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "come on",
+      "line_slope": 0.9703991175695897,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        22
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 6,
+  "transcribed_lines": 6,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

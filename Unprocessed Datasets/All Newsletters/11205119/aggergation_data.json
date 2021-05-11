@@ -1,0 +1,71 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        496.92499999999995,
+        951.4549999999999
+      ],
+      "clusters_y": [
+        247.64,
+        238.265
+      ],
+      "clusters_text": [
+        [
+          "Since",
+          "Since"
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "last",
+          "last"
+        ],
+        [
+          "we",
+          "we"
+        ],
+        [
+          "have",
+          "have"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Since my last we have",
+      "line_slope": -1.4896330664643993,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        3
+      ],
+      "user_ids": [
+        1790401.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

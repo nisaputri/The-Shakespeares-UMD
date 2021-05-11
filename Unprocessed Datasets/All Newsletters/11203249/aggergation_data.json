@@ -1,0 +1,126 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        277.91499999999996,
+        942.1400000000001
+      ],
+      "clusters_y": [
+        1337.645,
+        1282.345
+      ],
+      "clusters_text": [
+        [
+          "ffrench",
+          "French"
+        ],
+        [
+          "M<sw-ex>e</sw-ex><sw-sup>r</sw-sup>ch<sw-ex>an</sw-ex><sw-sup>t</sw-sup>",
+          "MRcht"
+        ],
+        [
+          "Shipps",
+          "Shipps"
+        ],
+        [
+          "bound",
+          "bound"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup>",
+          "St"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "ffrench M<sw-ex>e</sw-ex><sw-sup>r</sw-sup>ch<sw-ex>an</sw-ex><sw-sup>t</sw-sup> Shipps bound for S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup>",
+      "line_slope": -3.875758507389932,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        35,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        455.02,
+        938.3900000000001
+      ],
+      "clusters_y": [
+        1478.63,
+        1460.885
+      ],
+      "clusters_text": [
+        [
+          "Cowes",
+          "Cowes"
+        ],
+        [
+          "26<sw-sup>th</sw-sup>.",
+          "6th."
+        ],
+        [
+          "This",
+          "This"
+        ],
+        [
+          "Day",
+          "Day"
+        ],
+        [
+          "a",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Cowes 26<sw-sup>th</sw-sup>. This Day a",
+      "line_slope": -3.875758507389932,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        39,
+        4
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        264.425,
+        955.16
+      ],
+      "clusters_y": [
+        966.3050000000001,
+        959.95
+      ],
+      "clusters_text": [
+        [
+          "was",
+          "was"
+        ],
+        [
+          "heard",
+          "heard"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "coast",
+          "Coast"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "ffife",
+          "Fife"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "angus",
+          "angus-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "was heard from <brev-y>th</brev-y><sl>e</sl> coast of ffife and angus",
+      "line_slope": -0.4815159474441803,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        13
+      ],
+      "user_ids": [
+        27465.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.505,
+        943.8499999999999
+      ],
+      "clusters_y": [
+        1006.1600000000001,
+        1009.135
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from"
+        ],
+        [
+          "whence",
+          "whence"
+        ],
+        [
+          "it",
+          ""
+        ],
+        [
+          "was",
+          "t'was"
+        ],
+        [
+          "concluded",
+          "Concluded"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "English",
+          "English"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5555555555555556,
+      "consensus_text": "from whence it was concluded <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl> English -",
+      "line_slope": -0.4815159474441803,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        14
+      ],
+      "user_ids": [
+        27465.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.365,
+        951.265
+      ],
+      "clusters_y": [
+        1111.065,
+        1104.3899999999999
+      ],
+      "clusters_text": [
+        [
+          "confirmation",
+          "Confirmation"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "y<sw-ex>ou</sw-ex><sl>r</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "particulars",
+          "particulars"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "confirmation of this w<sw-ex>i</sw-ex><sl>th</sl> y<sw-ex>ou</sw-ex><sl>r</sl> particulars is -",
+      "line_slope": -0.4815159474441803,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        16
+      ],
+      "user_ids": [
+        27465.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        373.65999999999997,
+        950.625
+      ],
+      "clusters_y": [
+        1220.1599999999999,
+        1213.745
+      ],
+      "clusters_text": [
+        [
+          "Yesday",
+          "Yesday"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "loyal",
+          "Loyall"
+        ],
+        [
+          "address",
+          "address"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "presented",
+          "prsented"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Yesday a loyal address was presented",
+      "line_slope": -0.4815159474441803,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        18
+      ],
+      "user_ids": [
+        27465.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

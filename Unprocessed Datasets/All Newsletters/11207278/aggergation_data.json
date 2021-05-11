@@ -1,0 +1,994 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        139.73,
+        133.63
+      ],
+      "clusters_y": [
+        109.26666666666665,
+        1497.9333333333334
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Candidates",
+          "Candidates",
+          "Candidates"
+        ],
+        [
+          "are",
+          "are",
+          "are"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>.",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "George",
+          "George",
+          "George"
+        ],
+        [
+          "Newland,",
+          "Newland,",
+          "Newland,"
+        ],
+        [
+          "M<sw-sup>r</sw-sup>.",
+          "Mr",
+          "Mr"
+        ],
+        [
+          "Sherriff",
+          "Sherriff",
+          "Sherriff"
+        ],
+        [
+          "Guy,",
+          "Guy,",
+          "Guy,"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "and the Candidates are S<sw-ex>i</sw-ex><sl>r</sl> George Newland, Mr Sherriff Guy,",
+      "line_slope": 90.54486827908867,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        22,
+        21
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        82.975,
+        68.53999999999999
+      ],
+      "clusters_y": [
+        115.735,
+        1498.755
+      ],
+      "clusters_text": [
+        [
+          "S<sw-ex>i</sw-ex><sl>r.</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "James",
+          "James"
+        ],
+        [
+          "Hallet,",
+          "Hallet,"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>.",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Ambrose",
+          "Ambrose"
+        ],
+        [
+          "Crawley",
+          "Crawley"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "M<sw-sup>r</sw-sup>.",
+          "Mr"
+        ],
+        [
+          "Mollineaux",
+          "Mollineaux"
+        ],
+        [
+          "-",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r.</sl> James Hallet, S<sw-ex>i</sw-ex><sl>r</sl>. Ambrose Crawley and M<sw-sup>r</sw-sup>. Mollineaux -",
+      "line_slope": 90.54486827908867,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        23,
+        23
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        98.61,
+        884.73
+      ],
+      "clusters_y": [
+        71.14,
+        71.91
+      ],
+      "clusters_text": [
+        [
+          "",
+          "London"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>/",
+          "Nov<sw-ex>embe</sw-ex><sw-sup>r</sw-sup>."
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "11<sw-sup>th</sw-sup>."
+        ],
+        [
+          "",
+          "1708"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "London S<sw-ex>i</sw-ex><sl>r</sl>/ the 11<sw-sup>th</sw-sup>. 1708",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        103.19,
+        875.335
+      ],
+      "clusters_y": [
+        84.53,
+        70.80000000000001
+      ],
+      "clusters_text": [
+        [
+          "",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "London",
+          "London"
+        ],
+        [
+          "Nov<sw-ex>embe</sw-ex>r",
+          "Nov<sw-sup>r</sw-sup>"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "11th",
+          "11<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1708",
+          "1708"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> London Nov<sw-ex>embe</sw-ex>r the 11th 1708",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.47,
+        930.62
+      ],
+      "clusters_y": [
+        310.595,
+        311.96500000000003
+      ],
+      "clusters_text": [
+        [
+          "ffleet",
+          "ffleet"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "brought",
+          "brought"
+        ],
+        [
+          "home",
+          "home"
+        ],
+        [
+          "greater",
+          "greater"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "ffleet has brought home greater",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.42,
+        939.75
+      ],
+      "clusters_y": [
+        538.4633333333334,
+        522.0766666666667
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "Gold",
+          "Gold",
+          "Gold"
+        ],
+        [
+          "are",
+          "are",
+          "are"
+        ],
+        [
+          "on",
+          "on",
+          "on"
+        ],
+        [
+          "Board,",
+          "board,",
+          "Board,"
+        ],
+        [
+          "which",
+          "which",
+          "which"
+        ],
+        [
+          "very",
+          "very",
+          "very"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.857142857142857,
+      "consensus_text": "in Gold are on Board, which very",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7,
+        6
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.47,
+        929.15
+      ],
+      "clusters_y": [
+        599.8433333333334,
+        604.1333333333333
+      ],
+      "clusters_text": [
+        [
+          "much",
+          "much",
+          "much"
+        ],
+        [
+          "adds",
+          "adds",
+          "adds"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "publick",
+          "publick",
+          "publick"
+        ],
+        [
+          "Rejoyceings",
+          "Rejoyceings",
+          "Rejoycings"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8333333333333335,
+      "consensus_text": "much adds to the publick Rejoyceings",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        8,
+        7
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        234.12,
+        932.765
+      ],
+      "clusters_y": [
+        679.995,
+        676.41
+      ],
+      "clusters_text": [
+        [
+          "at",
+          "at"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "time",
+          "time"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Earle",
+          "Earle"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Galway",
+          "Galwy"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "at this time - The Earle of Galway",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        239.40666666666664,
+        951.2400000000001
+      ],
+      "clusters_y": [
+        757.6666666666666,
+        744.8833333333333
+      ],
+      "clusters_text": [
+        [
+          "being",
+          "being",
+          "being"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "perfect",
+          "perfect",
+          "perfect"
+        ],
+        [
+          "healthwill",
+          "health",
+          "health"
+        ],
+        [
+          "",
+          "will",
+          "will"
+        ],
+        [
+          "Comand",
+          "com<sw-ex>m</sw-ex>and",
+          "Comand"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "being in perfect health will Comand",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        10,
+        9
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.825,
+        916.395
+      ],
+      "clusters_y": [
+        832.9,
+        821.5999999999999
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "next",
+          "next"
+        ],
+        [
+          "Campaign",
+          "Campaign"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Brittish",
+          "Brittish"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the next Campaign the Brittish",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        11
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.82000000000002,
+        920.6566666666666
+      ],
+      "clusters_y": [
+        901.8800000000001,
+        894.84
+      ],
+      "clusters_text": [
+        [
+          "fforces",
+          "fforces",
+          "fforces"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "has",
+          "has",
+          "has"
+        ],
+        [
+          "Notifyed",
+          "Notifyed",
+          "Notifyed"
+        ],
+        [
+          "to",
+          "so",
+          "to"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8333333333333335,
+      "consensus_text": "fforces and has Notifyed to the",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        12,
+        11
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.0333333333333,
+        940.4766666666666
+      ],
+      "clusters_y": [
+        1057.8033333333333,
+        1045.2033333333331
+      ],
+      "clusters_text": [
+        [
+          "will",
+          "will",
+          "will"
+        ],
+        [
+          "Arrive",
+          "Arrive",
+          "Arrive"
+        ],
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "Great",
+          "Great",
+          "Great"
+        ],
+        [
+          "Brittain",
+          "Brittain",
+          "Brittain"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "will Arrive from Great Brittain",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14,
+        13
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        241.95,
+        945.21
+      ],
+      "clusters_y": [
+        1130.3249999999998,
+        1119.835
+      ],
+      "clusters_text": [
+        [
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "begining",
+          "beginning"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "ffebuary",
+          "ffebruary"
+        ],
+        [
+          "next",
+          "next"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "by the begining of ffebuary next",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        15
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.39,
+        947.585
+      ],
+      "clusters_y": [
+        1191.6950000000002,
+        1191.9
+      ],
+      "clusters_text": [
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>.",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "George",
+          "George"
+        ],
+        [
+          "Bing",
+          "Bing"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "lately",
+          "lately"
+        ],
+        [
+          "come",
+          "come"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl>. George Bing who is lately come",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        16
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        236.01,
+        932.355
+      ],
+      "clusters_y": [
+        1270.815,
+        1259.99
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Cruising",
+          "Crusing"
+        ],
+        [
+          "Sayles",
+          "sayles"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "his",
+          "his"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "in from Cruising Sayles with his",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        17
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.84,
+        916.185
+      ],
+      "clusters_y": [
+        1420.1,
+        1387.1799999999998
+      ],
+      "clusters_text": [
+        [
+          "Molum",
+          "Molum"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Winter",
+          "Winter"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "By",
+          "By"
+        ],
+        [
+          "a",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Molum to Winter there - By a",
+      "line_slope": -0.8337684445835583,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        19
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 15,
+  "transcribed_lines": 16,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

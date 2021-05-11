@@ -1,0 +1,231 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        380.5133333333333,
+        365.24
+      ],
+      "clusters_y": [
+        704.9799999999999,
+        1308.9266666666665
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The",
+          "The"
+        ],
+        [
+          "hon<sw-ex>orable</sw-ex>",
+          "Ho<sw-ex>norable</sw-ex>",
+          "Conte"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-sup>r</sw-sup>",
+          "???"
+        ],
+        [
+          "Rich<sw-ex>ard</sw-ex>",
+          "Rich<sw-ex>ard</sw-ex>",
+          "Rice:"
+        ],
+        [
+          "Newdigate",
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "Bart",
+          "Bar<sw-sup>t</sw-sup>",
+          "???"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "The hon<sw-ex>orable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl> Rich<sw-ex>ard</sw-ex> Newdigate Bart",
+      "line_slope": 91.42749504094712,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        1,
+        0
+      ],
+      "user_ids": [
+        null,
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        206.63333333333333,
+        191.68
+      ],
+      "clusters_y": [
+        830.77,
+        1245.83
+      ],
+      "clusters_text": [
+        [
+          "near",
+          "near",
+          "Near"
+        ],
+        [
+          "Coventry",
+          "Coventry",
+          "Coventry"
+        ],
+        [
+          "",
+          "4",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "near Coventry 4",
+      "line_slope": 91.42749504094712,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        3,
+        2
+      ],
+      "user_ids": [
+        null,
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        287.89,
+        287.755
+      ],
+      "clusters_y": [
+        787.1400000000001,
+        980.65
+      ],
+      "clusters_text": [
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "at Arbury",
+      "line_slope": 90.02030483817221,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2
+      ],
+      "user_ids": [
+        null,
+        1779578.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        62.449999999999996,
+        740.97
+      ],
+      "clusters_y": [
+        188.995,
+        188.065
+      ],
+      "clusters_text": [
+        [
+          "They",
+          "They"
+        ],
+        [
+          "design",
+          "design"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "act",
+          "act"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Medeteranean",
+          "Medeteranean"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "They design to act in <brev-y>th</brev-y><sl>e</sl> Medeteranean",
+      "line_slope": -0.1367944968462294,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0
+      ],
+      "user_ids": [
+        1627866.0,
+        1779578.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

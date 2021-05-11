@@ -1,0 +1,145 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        928.3299999999999,
+        923.815
+      ],
+      "clusters_y": [
+        1152.405,
+        1457.04
+      ],
+      "clusters_text": [
+        [
+          "1708",
+          "1706"
+        ],
+        [
+          "Nov:",
+          "Nov:"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "5th",
+          "5<sw-sup>th</sw-sup>"
+        ],
+        [
+          "W:",
+          "W:"
+        ],
+        [
+          "N",
+          "N"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "1708 Nov: <brev-y>th</brev-y><sl>e</sl> 5th W: N",
+      "line_slope": 90.84824860566657,
+      "slope_label": 6,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6
+      ],
+      "user_ids": [
+        1347003.0,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        474.635,
+        478.47
+      ],
+      "clusters_y": [
+        905.94,
+        567.09
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": -89.30739956981866,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3
+      ],
+      "user_ids": [
+        1779578.0,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        518.03,
+        507.44
+      ],
+      "clusters_y": [
+        1127.7350000000001,
+        1017.67
+      ],
+      "clusters_text": [
+        [
+          "Frank",
+          "Frank"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Frank",
+      "line_slope": -95.49638921793007,
+      "slope_label": 5,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        5
+      ],
+      "user_ids": [
+        1347003.0,
+        1501614.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

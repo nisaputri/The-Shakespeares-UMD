@@ -1,0 +1,209 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        333.93,
+        945.63
+      ],
+      "clusters_y": [
+        583.47,
+        546.095
+      ],
+      "clusters_text": [
+        [
+          "From",
+          "From"
+        ],
+        [
+          "Dresden",
+          "Dresden"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "16<sw-sup>th</sw-sup>",
+          "16<sw-sup>th</sw-sup>."
+        ],
+        [
+          "That",
+          "That"
+        ],
+        [
+          "King",
+          "King"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "From Dresden of <brev-y>th</brev-y><sl>e</sl> 16<sw-sup>th</sw-sup> That King",
+      "line_slope": -2.951009091750369,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.97,
+        939.5
+      ],
+      "clusters_y": [
+        775.065,
+        728.9000000000001
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Netherlands",
+          "Netherlands"
+        ],
+        [
+          "The",
+          "The"
+        ],
+        [
+          "troopes",
+          "Troopes"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Prussia",
+          "Prussia"
+        ],
+        [
+          "are",
+          "are"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> Netherlands The troopes of Prussia are",
+      "line_slope": -2.951009091750369,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.0,
+        930.605
+      ],
+      "clusters_y": [
+        824.88,
+        778.6
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "begin",
+          "begin"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "march",
+          "march"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "same",
+          "same"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "20<sw-sup>th</sw-sup>",
+          "26<sw-sup>th</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "to begin their march for <brev-y>th</brev-y><sl>e</sl> same on <brev-y>th</brev-y><sl>e</sl> 20<sw-sup>th</sw-sup>",
+      "line_slope": -2.951009091750369,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

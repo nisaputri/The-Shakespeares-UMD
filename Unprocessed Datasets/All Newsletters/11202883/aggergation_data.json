@@ -1,0 +1,87 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        39.93,
+        964.515
+      ],
+      "clusters_y": [
+        377.54,
+        386.815
+      ],
+      "clusters_text": [
+        [
+          "had",
+          "has"
+        ],
+        [
+          "power",
+          "power"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "summon",
+          "summon"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Attendance",
+          "Attendance"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Moreover",
+          "Moreover<sw-unclear>"
+        ],
+        [
+          "belie",
+          "beho</sw-unclear>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "had power to summon his Attendance and Moreover belie",
+      "line_slope": 0.7099456359853593,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

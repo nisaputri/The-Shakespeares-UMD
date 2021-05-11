@@ -1,0 +1,173 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        257.63,
+        949.42
+      ],
+      "clusters_y": [
+        425.35,
+        382.28
+      ],
+      "clusters_text": [
+        [
+          "of",
+          ""
+        ],
+        [
+          "Cannon",
+          "gained"
+        ],
+        [
+          "whereby",
+          ""
+        ],
+        [
+          "the",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "of Cannon whereby the",
+      "line_slope": -3.37421481933273,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        10
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.74,
+        938.44
+      ],
+      "clusters_y": [
+        918.84,
+        876.8199999999999
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "all"
+        ],
+        [
+          "party",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "Imperialists",
+          ""
+        ],
+        [
+          "have",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "a party of Imperialists have",
+      "line_slope": -3.37421481933273,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        23
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.66,
+        918.09
+      ],
+      "clusters_y": [
+        1264.87,
+        1212.09
+      ],
+      "clusters_text": [
+        [
+          "whole",
+          ""
+        ],
+        [
+          "army",
+          "our"
+        ],
+        [
+          "and",
+          "men"
+        ],
+        [
+          "a",
+          ""
+        ],
+        [
+          "party",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "whole army and a party of",
+      "line_slope": -3.37421481933273,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        36,
+        37
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

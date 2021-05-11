@@ -1,0 +1,161 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        464.16,
+        968.365
+      ],
+      "clusters_y": [
+        560.375,
+        546.69
+      ],
+      "clusters_text": [
+        [
+          "They",
+          "They"
+        ],
+        [
+          "add",
+          "add"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "before",
+          "before"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "They add that the day before",
+      "line_slope": -2.166117279744661,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        470.56,
+        944.825
+      ],
+      "clusters_y": [
+        809.865,
+        793.645
+      ],
+      "clusters_text": [
+        [
+          "That",
+          "That"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "ffrench",
+          "French"
+        ],
+        [
+          "have",
+          "have"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "That the ffrench have",
+      "line_slope": -2.166117279744661,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        4
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        285.64,
+        553.54
+      ],
+      "clusters_y": [
+        1336.9250000000002,
+        1324.37
+      ],
+      "clusters_text": [
+        [
+          "men",
+          "men"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "men -",
+      "line_slope": -2.166117279744661,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        26,
+        5
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

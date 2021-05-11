@@ -1,0 +1,118 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        484.96000000000004,
+        947.47
+      ],
+      "clusters_y": [
+        202.01,
+        195.27
+      ],
+      "clusters_text": [
+        [
+          "yesterday",
+          "Yesterday"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "English"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "yesterday the English",
+      "line_slope": -0.7526772615695829,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        2
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        276.51,
+        927.5999999999999
+      ],
+      "clusters_y": [
+        1175.135,
+        1170.19
+      ],
+      "clusters_text": [
+        [
+          "reading",
+          "reading"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Bill",
+          "bill"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "regulateing",
+          "regulateing"
+        ],
+        [
+          "-",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "reading a Bill for regulateing -",
+      "line_slope": -0.7526772615695829,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        21
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

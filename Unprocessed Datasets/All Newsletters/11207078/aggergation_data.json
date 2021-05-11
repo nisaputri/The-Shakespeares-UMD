@@ -1,0 +1,211 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        68.25666666666667,
+        67.83333333333333
+      ],
+      "clusters_y": [
+        363.35999999999996,
+        36.27
+      ],
+      "clusters_text": [
+        [
+          "1708",
+          "1708",
+          "1708"
+        ],
+        [
+          "Aug<sw-ex>us</sw-ex>t",
+          "Aug<sw-ex>us</sw-ex>t",
+          "Augt."
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "14<sw-sup>th</sw-sup>.",
+          "14<sw-sup>th</sw-sup>",
+          "14th"
+        ],
+        [
+          "D:N",
+          "D:N",
+          "D.N"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.2,
+      "consensus_text": "1708 Aug<sw-ex>us</sw-ex>t <brev-y>th</brev-y><sl>e</sl> 14<sw-sup>th</sw-sup>. D:N",
+      "line_slope": -90.03634380569277,
+      "slope_label": 0,
+      "gutter_label": 2,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0,
+        0
+      ],
+      "user_ids": [
+        1627866.0,
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        271.72666666666663,
+        253.01666666666665
+      ],
+      "clusters_y": [
+        1029.5833333333333,
+        539.37
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>.",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-sup>r</sw-sup>."
+        ],
+        [
+          "Rich<sw-ex>ar</sw-ex><sw-sup>d</sw-sup>.",
+          "Rich<sw-ex>ar</sw-ex>d",
+          "Rich."
+        ],
+        [
+          "Newdigate",
+          "Newdigate",
+          "Newdigate"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl>. Rich<sw-ex>ar</sw-ex><sw-sup>d</sw-sup>. Newdigate",
+      "line_slope": -92.69409476961224,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        530.1600000000001,
+        521.735
+      ],
+      "clusters_y": [
+        1044.45,
+        761.265
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ],
+        [
+          "Bag.",
+          "Bag."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry Bag.",
+      "line_slope": -92.69409476961224,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        5
+      ],
+      "user_ids": [
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        422.905,
+        401.54
+      ],
+      "clusters_y": [
+        956.45,
+        702.115
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "At Arbury",
+      "line_slope": -94.80054980255161,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3
+      ],
+      "user_ids": [
+        1627866.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

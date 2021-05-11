@@ -1,0 +1,166 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        42.82,
+        944.6
+      ],
+      "clusters_y": [
+        66.44,
+        84.63
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Advises",
+          "Advices"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Hague",
+          "Hague"
+        ],
+        [
+          "say",
+          "say"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Grand",
+          "Grand"
+        ],
+        [
+          "Segnior",
+          "Segnior"
+        ],
+        [
+          "has",
+          "has"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9090909090909092,
+      "consensus_text": "The Advises from <brev-y>th</brev-y><sl>e</sl> Hague say <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl> Grand Segnior has",
+      "line_slope": 0.4792632522506431,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        45.894999999999996,
+        932.98
+      ],
+      "clusters_y": [
+        125.945,
+        127.475
+      ],
+      "clusters_text": [
+        [
+          "p<sw-ex>re</sw-ex>sented",
+          "pr<sw-ex>e</sw-ex>sented"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Sweeden",
+          "Sweeden"
+        ],
+        [
+          "400",
+          "400"
+        ],
+        [
+          "purses",
+          "purses"
+        ],
+        [
+          "Each",
+          "Each"
+        ],
+        [
+          "purse",
+          "purse"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "p<sw-ex>re</sw-ex>sented to <brev-y>th</brev-y><sl>e</sl> King of Sweeden 400 purses Each purse",
+      "line_slope": 0.4792632522506431,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

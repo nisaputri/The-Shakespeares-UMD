@@ -1,0 +1,280 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        405.19,
+        928.125
+      ],
+      "clusters_y": [
+        411.07,
+        413.895
+      ],
+      "clusters_text": [
+        [
+          "They",
+          "They"
+        ],
+        [
+          "write",
+          "write"
+        ],
+        [
+          "from",
+          "fro"
+        ],
+        [
+          "Paris",
+          "Paris"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "8",
+          "8"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "They write from Paris of <brev-y>th</brev-y><sl>e</sl> 8 <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": 0.6403483092781024,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        7
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        376.94000000000005,
+        953.245
+      ],
+      "clusters_y": [
+        917.4,
+        924.325
+      ],
+      "clusters_text": [
+        [
+          "Going",
+          "Edinb<sw-sup>o</sw-sup>"
+        ],
+        [
+          "??",
+          "5"
+        ],
+        [
+          "on",
+          "On"
+        ],
+        [
+          "Sunday",
+          "Sunday"
+        ],
+        [
+          "last",
+          "Last"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "order",
+          "order"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "Going ?? on Sunday last by order",
+      "line_slope": 0.6403483092781024,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        3
+      ],
+      "user_ids": [
+        323813.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.715,
+        960.12
+      ],
+      "clusters_y": [
+        973.31,
+        982.46
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "our",
+          "our"
+        ],
+        [
+          "Magistrates",
+          "Magistrates"
+        ],
+        [
+          "&",
+          "3"
+        ],
+        [
+          "Episcopal",
+          "Episcopall"
+        ],
+        [
+          "meeting",
+          "meeting"
+        ],
+        [
+          "houses",
+          "houses"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "of our Magistrates & Episcopal meeting houses",
+      "line_slope": 0.6403483092781024,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        4
+      ],
+      "user_ids": [
+        323813.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.505,
+        966.015
+      ],
+      "clusters_y": [
+        1021.8050000000001,
+        1031.73
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "City",
+          "City"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "shut",
+          "Shut"
+        ],
+        [
+          "up",
+          "up"
+        ],
+        [
+          "to",
+          "<sw-ins>to</sw-ins>"
+        ],
+        [
+          "conform",
+          "conform"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "order",
+          "order"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8181818181818181,
+      "consensus_text": "in this City were shut up to conform to <brev-y>th</brev-y><sl>e</sl> order",
+      "line_slope": 0.6403483092781024,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        5
+      ],
+      "user_ids": [
+        323813.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

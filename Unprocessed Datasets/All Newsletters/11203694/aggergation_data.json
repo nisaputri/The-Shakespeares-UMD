@@ -1,0 +1,71 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        447.98,
+        931.56
+      ],
+      "clusters_y": [
+        69.14500000000001,
+        64.95
+      ],
+      "clusters_text": [
+        [
+          "On",
+          "on"
+        ],
+        [
+          "Satturday",
+          "Satturday"
+        ],
+        [
+          "night",
+          ""
+        ],
+        [
+          "Sir",
+          ""
+        ],
+        [
+          "Thomas",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "On Satturday night Sir Thomas",
+      "line_slope": 0.14336221864102333,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        1210570.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

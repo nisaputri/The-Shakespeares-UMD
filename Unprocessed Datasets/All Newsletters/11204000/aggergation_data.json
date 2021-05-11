@@ -1,0 +1,127 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        474.14333333333326,
+        478.53999999999996
+      ],
+      "clusters_y": [
+        764.2833333333333,
+        1391.4633333333334
+      ],
+      "clusters_text": [
+        [
+          "ffor",
+          "ffor",
+          "ffor"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Ho<sw-ex>norable</sw-ex>",
+          "ho<sw-ex>norable</sw-ex>",
+          "ho<sw-ex>norable</sw-ex>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Nudigate",
+          "Neewdigate"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "ffor the ho<sw-ex>norable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate",
+      "line_slope": 89.57373101021501,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        390.82500000000005,
+        404.145
+      ],
+      "clusters_y": [
+        753.25,
+        1138.15
+      ],
+      "clusters_text": [
+        [
+          "Barronett",
+          "Barron<sw-ex>e</sw-ex>tt"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Barronett at Arbury",
+      "line_slope": 88.00275398820054,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        4
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

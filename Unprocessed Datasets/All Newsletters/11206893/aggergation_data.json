@@ -1,0 +1,79 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        234.95499999999998,
+        934.5350000000001
+      ],
+      "clusters_y": [
+        735.0250000000001,
+        746.565
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "sweeden",
+          "Sweeden"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "within",
+          "within"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "the King of sweeden who was within",
+      "line_slope": 0.3839756048802781,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        0
+      ],
+      "user_ids": [
+        165259.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

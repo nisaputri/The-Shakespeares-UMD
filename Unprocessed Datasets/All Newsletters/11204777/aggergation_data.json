@@ -1,0 +1,84 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        418.7266666666667,
+        384.5366666666667
+      ],
+      "clusters_y": [
+        738.9266666666666,
+        1425.67
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "The",
+          "The"
+        ],
+        [
+          "Ho<sw-ex>norable</sw-ex>",
+          "hon<sw-ex>ora</sw-ex>ble",
+          "Ho<sw-ex>norable</sw-ex>"
+        ],
+        [
+          "Sr<sw-sup>t</sw-sup>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "???",
+          "bar<sw-ex>one</sw-ex>t",
+          "bart"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.1666666666666665,
+      "consensus_text": "The Ho<sw-ex>norable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate ???",
+      "line_slope": 92.70564683890291,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        2,
+        1
+      ],
+      "user_ids": [
+        null,
+        352990.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

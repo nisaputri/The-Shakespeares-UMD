@@ -1,0 +1,114 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        239.28,
+        246.22
+      ],
+      "clusters_y": [
+        1167.1550000000002,
+        565.9533333333333
+      ],
+      "clusters_text": [
+        [
+          "",
+          "To",
+          "To"
+        ],
+        [
+          "",
+          "S<sw-ex>i</sw-ex>r",
+          "S<sw-sup>r</sw-sup>:"
+        ],
+        [
+          "Bar",
+          "Richard",
+          "Richard"
+        ],
+        [
+          "",
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "",
+          "Bar<sw-sup>t</sw-sup>",
+          "Bar<sw-sup>t</sw-sup>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.8,
+      "consensus_text": "To S<sw-ex>i</sw-ex>r Richard Newdigate Bar<sw-sup>t</sw-sup>",
+      "line_slope": -89.45469834078807,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        0,
+        0
+      ],
+      "user_ids": [
+        1775392.0,
+        429539.0,
+        522786.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        413.83,
+        420.28
+      ],
+      "clusters_y": [
+        924.91,
+        611.68
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": -89.45469834078807,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        522786.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

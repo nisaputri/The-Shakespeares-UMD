@@ -1,0 +1,498 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        116.485,
+        920.2149999999999
+      ],
+      "clusters_y": [
+        69.78,
+        66.225
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Duke",
+          "Duke"
+        ],
+        [
+          "<sw-sup>de",
+          "D<sw-sup>e</sw-sup>"
+        ],
+        [
+          "</sw-sup>Armont",
+          "Aumont"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "prepareing",
+          "prepareing"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "set",
+          "set"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "for",
+          "for"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "The Duke <sw-sup>de </sw-sup>Armont is prepareing to set out for",
+      "line_slope": -0.7733321735967491,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        113.38,
+        929.495
+      ],
+      "clusters_y": [
+        396.675,
+        389.65
+      ],
+      "clusters_text": [
+        [
+          "their",
+          "their"
+        ],
+        [
+          "Arrears",
+          "Arrears"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Discharged",
+          "Discharged"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Deptford",
+          "Deptford"
+        ],
+        [
+          "Dock",
+          "Dock"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "their Arrears & Discharged from Deptford Dock",
+      "line_slope": -0.7733321735967491,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        111.33500000000001,
+        925.84
+      ],
+      "clusters_y": [
+        527.94,
+        521.3
+      ],
+      "clusters_text": [
+        [
+          "This",
+          "This"
+        ],
+        [
+          "day",
+          "Day"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "L<sw-ex>ord</sw-ex>",
+          "L<sw-ex>or</sw-ex>d"
+        ],
+        [
+          "Mayor",
+          "Mayor"
+        ],
+        [
+          "Declared",
+          "Declared"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "<sw-ex>Samuel",
+          "Samuell"
+        ],
+        [
+          "</sw-ex>Clarke",
+          "Clerke"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5555555555555556,
+      "consensus_text": "This day <brev-y>th</brev-y><sl>e</sl> L<sw-ex>ord</sw-ex> Mayor Declared S<sw-ex>i</sw-ex><sl>r</sl> <sw-ex>Samuel </sw-ex>Clarke",
+      "line_slope": -0.7733321735967491,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        10
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        126.02000000000001,
+        909.93
+      ],
+      "clusters_y": [
+        739.855,
+        735.935
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sw-ex>a",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "</sw-ex><sl>t</sl><brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "fleet",
+          "ffleet"
+        ],
+        [
+          "Entered",
+          "Entered"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Flemish",
+          "fflemish"
+        ],
+        [
+          "Road",
+          "Road"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Monday",
+          "Monday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5555555555555556,
+      "consensus_text": "<brev-y>th</brev-y><sw-ex>a </sw-ex><sl>t</sl><brev-y>th</brev-y><sl>e</sl> fleet Entered <brev-y>th</brev-y><sl>e</sl> Flemish Road on Monday",
+      "line_slope": -0.7733321735967491,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        15
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        120.28999999999999,
+        923.495
+      ],
+      "clusters_y": [
+        1148.655,
+        1128.005
+      ],
+      "clusters_text": [
+        [
+          "Informed",
+          "Informed"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "Major",
+          "Maior"
+        ],
+        [
+          "<sw-ex>General",
+          "Gen<sw-ex>era</sw-ex>ll"
+        ],
+        [
+          "</sw-ex>Hill's",
+          "Hill's"
+        ],
+        [
+          "Comission",
+          "Com<sw-ex>m</sw-ex>ission"
+        ],
+        [
+          "Runns",
+          "Runns"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "Informed <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> Major <sw-ex>General </sw-ex>Hill's Comission Runns",
+      "line_slope": -0.7733321735967491,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        24
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        111.13,
+        915.77
+      ],
+      "clusters_y": [
+        1233.76,
+        1216.195
+      ],
+      "clusters_text": [
+        [
+          "<sw-unclear>??</sw-unclear>",
+          "&<sw-sup>c</sw-sup>"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Dunkirk",
+          "Dunkirk"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Comander",
+          "Com<sw-ex>m</sw-ex>ander"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Cheife",
+          "Cheife"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "all",
+          "all"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "<sw-unclear>??</sw-unclear> of Dunkirk & Comander in Cheife of all the",
+      "line_slope": -0.7733321735967491,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        26,
+        26
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        112.99000000000001,
+        917.86
+      ],
+      "clusters_y": [
+        1365.95,
+        1338.19
+      ],
+      "clusters_text": [
+        [
+          "",
+          "been",
+          "been"
+        ],
+        [
+          "",
+          "becalm'd",
+          "becalm'd"
+        ],
+        [
+          "",
+          "",
+          "-"
+        ],
+        [
+          "The",
+          "",
+          "The"
+        ],
+        [
+          "Gunns",
+          "",
+          "Gunns"
+        ],
+        [
+          "of",
+          "",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Tower",
+          "",
+          "Tower"
+        ],
+        [
+          "&",
+          "",
+          "&"
+        ],
+        [
+          "Parke",
+          "",
+          "Parke"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.9,
+      "consensus_text": "been becalm'd - The Gunns of <brev-y>th</brev-y><sl>e</sl> Tower & Parke",
+      "line_slope": -0.7733321735967491,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        31,
+        32,
+        29
+      ],
+      "user_ids": [
+        null,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 7,
+  "transcribed_lines": 7,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

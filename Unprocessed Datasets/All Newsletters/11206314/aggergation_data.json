@@ -1,0 +1,288 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        199.125,
+        225.91000000000003
+      ],
+      "clusters_y": [
+        39.614999999999995,
+        1481.255
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "contents",
+          "contents"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "which",
+          "which"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "14",
+          "14"
+        ],
+        [
+          "chap",
+          "chap<sw-ex>ter</sw-ex>"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Isaiah",
+          "Isaiah"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "verse",
+          "verse"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "3",
+          "3"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9411764705882353,
+      "consensus_text": "the contents of which were that the 14 chap of Isaiah from verse the 3 to the",
+      "line_slope": 89.12488958425944,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.11,
+        918.375
+      ],
+      "clusters_y": [
+        327.22,
+        294.765
+      ],
+      "clusters_text": [
+        [
+          "apartments",
+          "apartments"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "any",
+          "any"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Queenes",
+          "Queenes"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "apartments of any of the Queenes",
+      "line_slope": -1.855505899336392,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        273.46000000000004,
+        892.945
+      ],
+      "clusters_y": [
+        503.75,
+        487.79499999999996
+      ],
+      "clusters_text": [
+        [
+          "say",
+          "say"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Stafford",
+          "Stafford"
+        ],
+        [
+          "Staireborne",
+          "Staireborne"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "say that S<sw-ex>i</sw-ex><sl>r</sl> Stafford Staireborne",
+      "line_slope": -1.855505899336392,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        8
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.71,
+        913.28
+      ],
+      "clusters_y": [
+        1161.94,
+        1145.0
+      ],
+      "clusters_text": [
+        [
+          "Isle",
+          "Isle"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Wight",
+          "wight"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "private",
+          "private"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "Isle of Wight - - by a private",
+      "line_slope": -1.855505899336392,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        15
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

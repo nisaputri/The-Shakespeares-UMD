@@ -1,0 +1,275 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        232.44,
+        236.34
+      ],
+      "clusters_y": [
+        320.21500000000003,
+        1340.51
+      ],
+      "clusters_text": [
+        [
+          "on",
+          "Parkham"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "on",
+      "line_slope": 89.83149259744219,
+      "slope_label": 7,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        48,
+        53
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        473.695,
+        885.5
+      ],
+      "clusters_y": [
+        92.83,
+        83.83
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "Febr<sw-ex>uary</sw-ex>",
+          "ffebr<sw-ex>uary</sw-ex>"
+        ],
+        [
+          "16<sw-sup>th</sw-sup>1696",
+          "16<sw-sup>th</sw-sup>"
+        ],
+        [
+          "",
+          "1696"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "London Febr<sw-ex>uary</sw-ex> 16<sw-sup>th</sw-sup>1696 1696",
+      "line_slope": -0.6442321781052435,
+      "slope_label": 19,
+      "gutter_label": 2,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        359.38,
+        975.85
+      ],
+      "clusters_y": [
+        164.02,
+        154.57
+      ],
+      "clusters_text": [
+        [
+          "Since"
+        ],
+        [
+          "my"
+        ],
+        [
+          "Last"
+        ],
+        [
+          "we"
+        ],
+        [
+          "haue"
+        ],
+        [
+          "rec<sw-ex>eive</sw-ex>d"
+        ],
+        [
+          "2"
+        ],
+        [
+          "Holl<sw-ex>an</sw-ex>d"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Since my Last we haue rec<sw-ex>eive</sw-ex>d 2 Holl<sw-ex>an</sw-ex>d",
+      "line_slope": -0.6442321781052435,
+      "slope_label": 19,
+      "gutter_label": 2,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        93,
+        2
+      ],
+      "user_ids": [
+        null,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        292.37,
+        982.2
+      ],
+      "clusters_y": [
+        969.79,
+        924.77
+      ],
+      "clusters_text": [
+        [
+          "offer",
+          "be"
+        ],
+        [
+          "",
+          "addressed"
+        ],
+        [
+          "",
+          "to"
+        ],
+        [
+          "",
+          "all"
+        ],
+        [
+          "",
+          "<sw-ex>Chri</sw-ex>stian"
+        ],
+        [
+          "",
+          "Princes"
+        ],
+        [
+          "",
+          "but"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "offer addressed to all <sw-ex>Chri</sw-ex>stian Princes but",
+      "line_slope": -4.516452698534354,
+      "slope_label": 15,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        143,
+        20
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        292.37,
+        958.08
+      ],
+      "clusters_y": [
+        1014.01,
+        971.4
+      ],
+      "clusters_text": [
+        [
+          "",
+          "tis"
+        ],
+        [
+          "",
+          "beleived"
+        ],
+        [
+          "",
+          "will"
+        ],
+        [
+          "",
+          "meet"
+        ],
+        [
+          "",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "",
+          "noe"
+        ],
+        [
+          "better",
+          "better"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1428571428571428,
+      "consensus_text": "tis beleived will meet w<sw-ex>i</sw-ex><sl>th</sl> noe better",
+      "line_slope": -4.516452698534354,
+      "slope_label": 15,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        117,
+        21
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

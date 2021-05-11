@@ -1,0 +1,126 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        274.27,
+        900.26
+      ],
+      "clusters_y": [
+        308.915,
+        322.395
+      ],
+      "clusters_text": [
+        [
+          "High",
+          "High"
+        ],
+        [
+          "Treasurer",
+          "Treasurer"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "borrow",
+          "borrow"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "High Treasurer is to borrow",
+      "line_slope": 0.4735092861830011,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.79499999999996,
+        975.9749999999999
+      ],
+      "clusters_y": [
+        783.48,
+        782.305
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Quality",
+          "Quality"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "been",
+          "been"
+        ],
+        [
+          "some",
+          "some"
+        ],
+        [
+          "time",
+          "time"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "of Quality have been some time",
+      "line_slope": 0.4735092861830011,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        8
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

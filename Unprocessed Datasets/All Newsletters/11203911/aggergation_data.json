@@ -1,0 +1,216 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        360.425,
+        927.4849999999999
+      ],
+      "clusters_y": [
+        163.14,
+        168.91
+      ],
+      "clusters_text": [
+        [
+          "Plym<sw-sup>o</sw-sup><sw-ex>uth</sw-ex>",
+          "Plymouth"
+        ],
+        [
+          "18<sw-sup>th</sw-sup>",
+          "18<sw-sup>th</sw-sup>"
+        ],
+        [
+          "yestrday",
+          "yesterday"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Adventur",
+          "Adventure"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "Plym<sw-sup>o</sw-sup><sw-ex>uth</sw-ex> 18<sw-sup>th</sw-sup> yestrday <brev-y>th</brev-y><sl>e</sl> Adventur",
+      "line_slope": -0.9670444734404811,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.49,
+        928.31
+      ],
+      "clusters_y": [
+        786.7850000000001,
+        786.81
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Virginia",
+          "Virginia"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "",
+          "?"
+        ],
+        [
+          "",
+          "fleets"
+        ],
+        [
+          "Canarie",
+          "sailed"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> Virginia and ? fleets Canarie",
+      "line_slope": -0.9670444734404811,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        17
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        454.995,
+        924.63
+      ],
+      "clusters_y": [
+        1012.615,
+        1003.17
+      ],
+      "clusters_text": [
+        [
+          "Yestrday",
+          "Yesterday"
+        ],
+        [
+          "",
+          "being"
+        ],
+        [
+          "",
+          "S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup>"
+        ],
+        [
+          "",
+          "?"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Yestrday being S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup> ?",
+      "line_slope": -0.9670444734404811,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        22
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        452.58500000000004,
+        921.12
+      ],
+      "clusters_y": [
+        1376.445,
+        1362.09
+      ],
+      "clusters_text": [
+        [
+          "Yestrday",
+          "Yesterday"
+        ],
+        [
+          "",
+          "Capt<sw-ex>ai</sw-ex><sw-sup>n</sw-sup>"
+        ],
+        [
+          "",
+          "Lilleston"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Yestrday Capt<sw-ex>ai</sw-ex><sw-sup>n</sw-sup> Lilleston",
+      "line_slope": -0.9670444734404811,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        30
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

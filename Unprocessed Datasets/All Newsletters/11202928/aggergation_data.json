@@ -1,0 +1,518 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        380.7866666666667,
+        372.3633333333334
+      ],
+      "clusters_y": [
+        788.59,
+        1235.8933333333334
+      ],
+      "clusters_text": [
+        [
+          "Baron<sw-ex>e</sw-ex><sw-sup>t</sw-sup>",
+          "Baron<sw-ex>e</sw-ex>t",
+          "Baron<sw-sup>t</sw-sup>"
+        ],
+        [
+          "at",
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.3333333333333335,
+      "consensus_text": "Baron<sw-ex>e</sw-ex><sw-sup>t</sw-sup> at Arbury",
+      "line_slope": 91.02083614966043,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        9,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        352990.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.97500000000002,
+        235.7
+      ],
+      "clusters_y": [
+        798.0899999999999,
+        1224.43
+      ],
+      "clusters_text": [
+        [
+          "per",
+          "per"
+        ],
+        [
+          "Litchfeild",
+          "Litchfeild"
+        ],
+        [
+          "Bag",
+          "Bag"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "per Litchfeild Bag",
+      "line_slope": 91.02083614966043,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        5
+      ],
+      "user_ids": [
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        306.07,
+        307.905
+      ],
+      "clusters_y": [
+        875.585,
+        1201.005
+      ],
+      "clusters_text": [
+        [
+          "near",
+          "near"
+        ],
+        [
+          "Coventree",
+          "Coventree"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "near Coventree",
+      "line_slope": 89.74657193681585,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        4
+      ],
+      "user_ids": [
+        352990.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.6066666666666,
+        953.7233333333334
+      ],
+      "clusters_y": [
+        83.77,
+        86.96
+      ],
+      "clusters_text": [
+        [
+          "on",
+          "on",
+          "on"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Highwayes",
+          "Highwayes",
+          "Highwayes"
+        ],
+        [
+          "=",
+          "=",
+          "="
+        ],
+        [
+          "The",
+          "The",
+          "The"
+        ],
+        [
+          "h<sw-ex>ouse</sw-ex>:",
+          "h<sw-ex>ouse</sw-ex>",
+          "h<sw-ex>ouse</sw-ex>"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Comons",
+          "Com<sw-ex>m</sw-ex>ons",
+          "Com<sw-ex>m</sw-ex>ons"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.75,
+      "consensus_text": "on <brev-y>th</brev-y><sl>e</sl> Highwayes = The h<sw-ex>ouse</sw-ex> of Com<sw-ex>m</sw-ex>ons",
+      "line_slope": 0.338799355486667,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        12
+      ],
+      "user_ids": [
+        3697.0,
+        352990.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        268.73333333333335,
+        926.46
+      ],
+      "clusters_y": [
+        143.07333333333332,
+        141.76666666666668
+      ],
+      "clusters_text": [
+        [
+          "read",
+          "read",
+          "read"
+        ],
+        [
+          "this",
+          "this",
+          "this"
+        ],
+        [
+          "day",
+          "day",
+          "day"
+        ],
+        [
+          "a",
+          "and",
+          "a"
+        ],
+        [
+          "2<sw-sup>d</sw-sup>",
+          "",
+          "2<sw-sup>d</sw-sup>"
+        ],
+        [
+          "time",
+          "time",
+          "time"
+        ],
+        [
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "Bill",
+          "Bill",
+          "Bill"
+        ],
+        [
+          "ag<sw-ex>ain</sw-ex>ste",
+          "ag<sw-ex>ain</sw-ex>ste",
+          "ag<sw-ex>ain</sw-ex>st"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6666666666666665,
+      "consensus_text": "read this day a 2<sw-sup>d</sw-sup> time a Bill ag<sw-ex>ain</sw-ex>ste",
+      "line_slope": 0.338799355486667,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        7
+      ],
+      "user_ids": [
+        3697.0,
+        352990.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.52666666666664,
+        983.4300000000001
+      ],
+      "clusters_y": [
+        198.85,
+        206.55
+      ],
+      "clusters_text": [
+        [
+          "Poaching",
+          "Poaching",
+          "Poaching"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Game",
+          "Game",
+          "Game"
+        ],
+        [
+          "&",
+          "&",
+          "&"
+        ],
+        [
+          "went",
+          "went",
+          "went"
+        ],
+        [
+          "thro",
+          "thro",
+          "thro"
+        ],
+        [
+          "p<sw-ex>ar</sw-ex>te",
+          "p<sw-ex>ar</sw-ex>te",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.875,
+      "consensus_text": "Poaching of <brev-y>th</brev-y><sl>e</sl> Game & went thro p<sw-ex>ar</sw-ex>te",
+      "line_slope": 0.338799355486667,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2,
+        8
+      ],
+      "user_ids": [
+        3697.0,
+        352990.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        270.485,
+        976.19
+      ],
+      "clusters_y": [
+        252.32999999999998,
+        262.125
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "new",
+          "new"
+        ],
+        [
+          "",
+          "Inn"
+        ],
+        [
+          "Impost",
+          "of"
+        ],
+        [
+          "Bill",
+          "Bill"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "of <brev-y>th</brev-y><sl>e</sl> new Inn Impost Bill & they are to",
+      "line_slope": 0.338799355486667,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        352990.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        268.7966666666667,
+        934.0166666666665
+      ],
+      "clusters_y": [
+        305.99,
+        305.25666666666666
+      ],
+      "clusters_text": [
+        [
+          "bee",
+          "bee",
+          "bee"
+        ],
+        [
+          "on",
+          "on",
+          "on"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "same",
+          "same",
+          "same"
+        ],
+        [
+          "againe",
+          "againe",
+          "againe"
+        ],
+        [
+          "on",
+          "on",
+          "on"
+        ],
+        [
+          "Munday",
+          "Munday",
+          "Munday"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "bee on <brev-y>th</brev-y><sl>e</sl> same againe on Munday",
+      "line_slope": 0.338799355486667,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4,
+        11
+      ],
+      "user_ids": [
+        3697.0,
+        352990.0,
+        1627866.0
+      ],
+      "low_consensus": false
+    }
+  ],
+  "low_consensus_lines": 7,
+  "transcribed_lines": 8,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

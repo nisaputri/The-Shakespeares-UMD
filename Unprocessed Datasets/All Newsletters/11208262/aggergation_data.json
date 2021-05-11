@@ -1,0 +1,419 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        69.95,
+        746.395
+      ],
+      "clusters_y": [
+        70.645,
+        71.3775
+      ],
+      "clusters_text": [
+        [
+          "S<sw-sup>i</sw-sup>r",
+          "",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          ""
+        ],
+        [
+          "London",
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "May",
+          "May",
+          "May",
+          "May"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "9th",
+          "5<sw-sup>th</sw-sup>",
+          "8<sw-sup>th</sw-sup>.",
+          "5<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1719",
+          "1719",
+          "1719",
+          "1713"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.0,
+      "consensus_text": "S<sw-sup>i</sw-sup>r London May <brev-y>th</brev-y><sl>e</sl> 5<sw-sup>th</sw-sup> 1719",
+      "line_slope": -0.034657381175483545,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "user_ids": [
+        1325251.0,
+        1708223.0,
+        428231.0,
+        1347003.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        86.39,
+        915.81
+      ],
+      "clusters_y": [
+        148.69,
+        117.45
+      ],
+      "clusters_text": [
+        [
+          "Hague",
+          "Hague"
+        ],
+        [
+          "May",
+          "May"
+        ],
+        [
+          "9<sw-sup>th",
+          "9th"
+        ],
+        [
+          "</sw-sup>The",
+          "The"
+        ],
+        [
+          "Earle",
+          "Earle"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Orrery",
+          "Orrery"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Arrived",
+          "Arrived"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "Hague May 9<sw-sup>th </sw-sup>The Earle of Orrery is Arrived",
+      "line_slope": -2.0380660239778097,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        92.27,
+        902.455
+      ],
+      "clusters_y": [
+        321.66,
+        292.105
+      ],
+      "clusters_text": [
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "Sweedish"
+        ],
+        [
+          "Resident",
+          "Resident"
+        ],
+        [
+          "here",
+          "here"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "Signifyed",
+          "Signifyed"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> Sweedish Resident here has Signifyed to the",
+      "line_slope": -2.0380660239778097,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        1325251.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        92.27,
+        905.53
+      ],
+      "clusters_y": [
+        485.74,
+        467.9
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Men"
+        ],
+        [
+          "",
+          "on"
+        ],
+        [
+          "board",
+          "Board"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "Sweedish"
+        ],
+        [
+          "the",
+          "ffleet"
+        ],
+        [
+          "",
+          "was"
+        ],
+        [
+          "",
+          "Sayled"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Men on board <brev-y>th</brev-y><sl>e</sl> Sweedish the was Sayled",
+      "line_slope": -2.0380660239778097,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        7
+      ],
+      "user_ids": [
+        1325251.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        92.56,
+        931.5
+      ],
+      "clusters_y": [
+        912.99,
+        869.4549999999999
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Succeeded",
+          "succeeded"
+        ],
+        [
+          "",
+          "in",
+          "in"
+        ],
+        [
+          "",
+          "Hon",
+          "?"
+        ],
+        [
+          "by",
+          "by",
+          "by"
+        ],
+        [
+          "his",
+          "his",
+          "his"
+        ],
+        [
+          "brother",
+          "Brother",
+          "Brother"
+        ],
+        [
+          "",
+          "M<sw-sup>r</sw-sup>",
+          "m<sw-sup>r</sw-sup>"
+        ],
+        [
+          "",
+          "Willoughby",
+          "Willoughby"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.875,
+      "consensus_text": "Succeeded in Hon by his Brother M<sw-sup>r</sw-sup> Willoughby",
+      "line_slope": -2.0380660239778097,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        14,
+        15
+      ],
+      "user_ids": [
+        1325251.0,
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        95.84,
+        919.7149999999999
+      ],
+      "clusters_y": [
+        1036.23,
+        1004.3050000000001
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Discourst"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "",
+          "M<sw-sup>r"
+        ],
+        [
+          "",
+          "</sw-sup>Serjeant"
+        ],
+        [
+          "",
+          "<sw-unclear>Bannistre</sw-unclear>"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "succeed",
+          "Succeed"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1428571428571428,
+      "consensus_text": "Discourst <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> M<sw-sup>r </sw-sup>Serjeant <sw-unclear>Bannistre</sw-unclear> will succeed",
+      "line_slope": -2.0380660239778097,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        16
+      ],
+      "user_ids": [
+        1325251.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 6,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

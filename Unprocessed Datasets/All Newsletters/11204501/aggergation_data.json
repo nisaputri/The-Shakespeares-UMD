@@ -1,0 +1,1167 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        108.25,
+        914.95
+      ],
+      "clusters_y": [
+        110.0,
+        114.71
+      ],
+      "clusters_text": [
+        [
+          "",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "London",
+          "London"
+        ],
+        [
+          "",
+          "December"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "24<sw-sup>th</sw-sup>"
+        ],
+        [
+          "",
+          "1695"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> London December <brev-y>th</brev-y><sl>e</sl> 24<sw-sup>th</sw-sup> 1695",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        230.93,
+        915.4666666666667
+      ],
+      "clusters_y": [
+        130.55,
+        122.29666666666667
+      ],
+      "clusters_text": [
+        [
+          "",
+          "London",
+          "London"
+        ],
+        [
+          "",
+          "Decembr",
+          "Decembr"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "24",
+          "24th",
+          "24<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1695",
+          "1695",
+          "1695"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "London Decembr <brev-y>th</brev-y><sl>e</sl> 24 1695",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        9,
+        0
+      ],
+      "user_ids": [
+        null,
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        460.14000000000004,
+        899.8033333333333
+      ],
+      "clusters_y": [
+        206.91333333333333,
+        213.0666666666667
+      ],
+      "clusters_text": [
+        [
+          "yesterday",
+          "Yesterday",
+          "yesterday"
+        ],
+        [
+          "13",
+          "13",
+          "13"
+        ],
+        [
+          "Regim<sw-sup>ts",
+          "Regimts",
+          "Regim<sw-ex>en</sw-ex><sl>t</sl>s"
+        ],
+        [
+          "</sw-sup>of",
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "yesterday 13 Regim<sw-sup>ts of",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        14,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        280.5566666666667,
+        902.6866666666666
+      ],
+      "clusters_y": [
+        264.20666666666665,
+        272.64000000000004
+      ],
+      "clusters_text": [
+        [
+          "Foote",
+          "ffoot",
+          "Foote"
+        ],
+        [
+          "appeared",
+          "appeared",
+          "appeared"
+        ],
+        [
+          "before",
+          "before",
+          "before"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "King",
+          "King",
+          "King"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "Foote appeared before the King",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        2,
+        15
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        278.65,
+        906.345
+      ],
+      "clusters_y": [
+        326.66999999999996,
+        322.295
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Hide",
+          "Hide"
+        ],
+        [
+          "Parke",
+          "Parke"
+        ],
+        [
+          "where",
+          "where"
+        ],
+        [
+          "hee",
+          "hee"
+        ],
+        [
+          "viewed",
+          "uiewed"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "in Hide Parke where hee viewed",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        2
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        281.31333333333333,
+        922.7066666666666
+      ],
+      "clusters_y": [
+        388.32666666666665,
+        391.7033333333333
+      ],
+      "clusters_text": [
+        [
+          "Each",
+          "Each",
+          "Each"
+        ],
+        [
+          "particular",
+          "perticular",
+          "particular"
+        ],
+        [
+          "Rank",
+          "Rank",
+          "Rank"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "tis",
+          "tis",
+          "tis"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "Each particular Rank and tis",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        12,
+        3
+      ],
+      "user_ids": [
+        null,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        282.54999999999995,
+        924.135
+      ],
+      "clusters_y": [
+        435.83500000000004,
+        439.09000000000003
+      ],
+      "clusters_text": [
+        [
+          "Said",
+          "said"
+        ],
+        [
+          "7",
+          "7"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "goe",
+          "goe"
+        ],
+        [
+          "for",
+          "for"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "Said 7 of them are to goe for",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        4
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        283.19,
+        553.73
+      ],
+      "clusters_y": [
+        503.4266666666667,
+        498.96500000000003
+      ],
+      "clusters_text": [
+        [
+          "fflanders",
+          "Flanders",
+          "fflanders-"
+        ],
+        [
+          "-",
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.5,
+      "consensus_text": "fflanders -",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        11,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        435.765,
+        927.985
+      ],
+      "clusters_y": [
+        557.04,
+        544.575
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "2",
+          "2"
+        ],
+        [
+          "Regiments",
+          "Regiments"
+        ],
+        [
+          "that",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "The 2 Regiments that",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        6
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.4266666666667,
+        925.5066666666667
+      ],
+      "clusters_y": [
+        798.6999999999999,
+        783.7033333333333
+      ],
+      "clusters_text": [
+        [
+          "doeing",
+          "doeing",
+          "doeing"
+        ],
+        [
+          "duty",
+          "Duty",
+          "Duty"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "there",
+          "there",
+          "there"
+        ],
+        [
+          "Roomes",
+          "Roomes",
+          "Roomes-"
+        ],
+        [
+          "-",
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "doeing Duty in there Roomes -",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        2,
+        10
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        454.61999999999995,
+        932.6966666666667
+      ],
+      "clusters_y": [
+        864.5666666666666,
+        851.18
+      ],
+      "clusters_text": [
+        [
+          "And",
+          "And",
+          "And"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Tower",
+          "Tower",
+          "Tower"
+        ],
+        [
+          "Hamletts",
+          "Hamletts",
+          "Hainletts"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.75,
+      "consensus_text": "And the Tower Hamletts",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        3,
+        11
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        276.695,
+        938.095
+      ],
+      "clusters_y": [
+        918.155,
+        903.875
+      ],
+      "clusters_text": [
+        [
+          "Guarding",
+          "Guarding"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "tower",
+          "tower"
+        ],
+        [
+          "all",
+          "all"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Armed",
+          "Armed"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Guarding the tower all the Armed",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        12
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        270.9433333333333,
+        940.96
+      ],
+      "clusters_y": [
+        975.1466666666666,
+        963.21
+      ],
+      "clusters_text": [
+        [
+          "Souldiers",
+          "Sentreis",
+          "Souldiers"
+        ],
+        [
+          "were",
+          "were",
+          "were"
+        ],
+        [
+          "drawn",
+          "drawne",
+          "drawne"
+        ],
+        [
+          "out",
+          "out",
+          "out"
+        ],
+        [
+          "ffriday",
+          "Friday",
+          "ffriday"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.4,
+      "consensus_text": "Souldiers were drawne out ffriday",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        5,
+        13
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        275.365,
+        542.31
+      ],
+      "clusters_y": [
+        1021.95,
+        1018.95
+      ],
+      "clusters_text": [
+        [
+          "Last",
+          "Last"
+        ],
+        [
+          "-",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Last -",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        14
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        445.21999999999997,
+        925.6033333333334
+      ],
+      "clusters_y": [
+        1065.7466666666667,
+        1052.5633333333333
+      ],
+      "clusters_text": [
+        [
+          "4",
+          "4",
+          "4"
+        ],
+        [
+          "Boys",
+          "Boys",
+          "Boys"
+        ],
+        [
+          "Ventering",
+          "<sw-unclear>????i</sw-unclear>ng",
+          "Ventering"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "goe",
+          "goe",
+          "goe"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "4 Boys Ventering to goe",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        10,
+        18
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.5,
+        929.635
+      ],
+      "clusters_y": [
+        1183.365,
+        1168.5749999999998
+      ],
+      "clusters_text": [
+        [
+          "Cannall",
+          "Cannall"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "S<sw-sup>t",
+          "St"
+        ],
+        [
+          "</sw-sup>James's",
+          "Iames"
+        ],
+        [
+          "",
+          "?"
+        ],
+        [
+          "Park",
+          "Parke"
+        ],
+        [
+          "fell",
+          "fell"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "Cannall in S<sw-sup>t </sw-sup>James's ? Park fell",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        16
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        272.0733333333333,
+        899.1233333333333
+      ],
+      "clusters_y": [
+        1232.2533333333333,
+        1219.7766666666666
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "but",
+          "but",
+          "but"
+        ],
+        [
+          "by",
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Helpe",
+          "Helpe",
+          "Helpe"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Soldiers",
+          "Soldiers",
+          "Soldiers"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "in but by the Helpe of Soldiers",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        7,
+        17
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        268.25333333333333,
+        932.38
+      ],
+      "clusters_y": [
+        1285.76,
+        1277.12
+      ],
+      "clusters_text": [
+        [
+          "",
+          "3",
+          "3",
+          "3"
+        ],
+        [
+          "",
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "them",
+          "them",
+          "them",
+          "them"
+        ],
+        [
+          "were",
+          "were",
+          "were",
+          "were"
+        ],
+        [
+          "",
+          "Saved",
+          "Saved",
+          "saued"
+        ],
+        [
+          "",
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "",
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "",
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.875,
+      "consensus_text": "3 of them were Saved and the -",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        11,
+        8,
+        18
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.06333333333333,
+        697.6700000000001
+      ],
+      "clusters_y": [
+        1343.43,
+        1329.27
+      ],
+      "clusters_text": [
+        [
+          "other",
+          "other",
+          "other"
+        ],
+        [
+          "was",
+          "was",
+          "was"
+        ],
+        [
+          "drowned",
+          "Drowned",
+          "drownd"
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "other was drowned -",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        12,
+        9
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        271.35,
+        928.88
+      ],
+      "clusters_y": [
+        1413.98,
+        1413.3449999999998
+      ],
+      "clusters_text": [
+        [
+          "being",
+          "being"
+        ],
+        [
+          "handed",
+          "hand<sw-ex>e</sw-ex>d"
+        ],
+        [
+          "about",
+          "about"
+        ],
+        [
+          "agt",
+          "ag<sw-ex>ains</sw-ex>t"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Govermt",
+          "Gouernm<sw-ex>en</sw-ex><sl>t</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "being handed about agt <brev-y>th</brev-y><sl>e</sl> Govermt",
+      "line_slope": -0.6782492383593843,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        20
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 19,
+  "transcribed_lines": 20,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

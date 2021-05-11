@@ -1,0 +1,182 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        59.53,
+        942.11
+      ],
+      "clusters_y": [
+        368.52,
+        374.63
+      ],
+      "clusters_text": [
+        [
+          "",
+          "last"
+        ],
+        [
+          "",
+          "at"
+        ],
+        [
+          "",
+          "10"
+        ],
+        [
+          "",
+          "a"
+        ],
+        [
+          "",
+          "Clock"
+        ],
+        [
+          "",
+          "in"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "morning",
+          "Morning"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "",
+          "this"
+        ],
+        [
+          "",
+          "day"
+        ],
+        [
+          "",
+          "came"
+        ],
+        [
+          "",
+          "in"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "last at 10 a Clock in <brev-y>th</brev-y><sl>e</sl> morning - this day came in",
+      "line_slope": 0.14516954934380547,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        6
+      ],
+      "user_ids": [
+        null,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        57.84,
+        934.98
+      ],
+      "clusters_y": [
+        424.935,
+        430.62
+      ],
+      "clusters_text": [
+        [
+          "Lettres",
+          "",
+          "Letters"
+        ],
+        [
+          "from",
+          "",
+          "from"
+        ],
+        [
+          "Scotland",
+          "",
+          "scotland"
+        ],
+        [
+          "",
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "",
+          "an",
+          "an"
+        ],
+        [
+          "",
+          "Acco<sw-sup>tt</sw-sup>",
+          "Acco<sw-ex>un</sw-ex>tt"
+        ],
+        [
+          "",
+          "",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "",
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "",
+          "Highlanders"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "Lettres from Scotland w<sw-ex>i</sw-ex><sl>th</sl> an Acco<sw-sup>tt</sw-sup> <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl> Highlanders",
+      "line_slope": 0.14516954934380547,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3,
+        7
+      ],
+      "user_ids": [
+        null,
+        null,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

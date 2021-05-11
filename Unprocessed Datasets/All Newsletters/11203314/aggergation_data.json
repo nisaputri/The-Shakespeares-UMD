@@ -1,0 +1,150 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        476.145,
+        950.2249999999999
+      ],
+      "clusters_y": [
+        396.89,
+        414.77
+      ],
+      "clusters_text": [
+        [
+          "On",
+          "On"
+        ],
+        [
+          "Saturday",
+          "Saturday"
+        ],
+        [
+          "Evening",
+          "evening"
+        ],
+        [
+          "one",
+          "one"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "On Saturday Evening one of <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": 1.961410987010499,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        1676308.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.26999999999998,
+        963.03
+      ],
+      "clusters_y": [
+        636.02,
+        646.78
+      ],
+      "clusters_text": [
+        [
+          "all",
+          "all"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Com<sw-ex>m</sw-ex>and<sw-ex>er</sw-ex>s",
+          "Comand<sw-sup>ers</sw-sup>"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "M<sw-ex>en</sw-ex>",
+          "M"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Warr",
+          "Warr"
+        ],
+        [
+          "whose",
+          "whose"
+        ],
+        [
+          "ships",
+          "ships"
+        ],
+        [
+          "lye",
+          "lye"
+        ],
+        [
+          "att",
+          "att"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8181818181818181,
+      "consensus_text": "all <brev-y>th</brev-y><sl>e</sl> Com<sw-ex>m</sw-ex>and<sw-ex>er</sw-ex>s of M<sw-ex>en</sw-ex> of Warr whose ships lye att",
+      "line_slope": 0.3274501062270106,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        1676308.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

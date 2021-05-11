@@ -1,0 +1,71 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        498.155,
+        997.135
+      ],
+      "clusters_y": [
+        714.19,
+        721.0699999999999
+      ],
+      "clusters_text": [
+        [
+          "On",
+          "On"
+        ],
+        [
+          "Satturday",
+          "satturday"
+        ],
+        [
+          "3",
+          "3"
+        ],
+        [
+          "highway",
+          "highwaymen"
+        ],
+        [
+          "men",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "On Satturday 3 highway men",
+      "line_slope": 0.7754625354302583,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        0
+      ],
+      "user_ids": [
+        1891145.0,
+        303191.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

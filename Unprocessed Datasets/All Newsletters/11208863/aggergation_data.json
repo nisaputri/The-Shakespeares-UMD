@@ -1,0 +1,245 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        108.25,
+        951.845
+      ],
+      "clusters_y": [
+        104.50999999999999,
+        96.14500000000001
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Articles",
+          "articles"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "High",
+          "High"
+        ],
+        [
+          "Treason",
+          "Treason"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "High",
+          "High"
+        ],
+        [
+          "Crimes",
+          "Crime"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Misdemeanors",
+          "murderwa??"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7,
+      "consensus_text": "The Articles of High Treason and High Crimes and Misdemeanors",
+      "line_slope": -0.36904840151145607,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        19
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        98.52,
+        950.76
+      ],
+      "clusters_y": [
+        152.25,
+        148.57999999999998
+      ],
+      "clusters_text": [
+        [
+          "ag<sw-sup>st</sw-sup>",
+          "ag<sw-ex>ain</sw-ex>st"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "L<sw-ex>ord</sw-ex>s",
+          "Lds"
+        ],
+        [
+          "Bolingbrook",
+          "Bolingbrook"
+        ],
+        [
+          "and",
+          "&"
+        ],
+        [
+          "Oxford,",
+          "Oxford,"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Ormond",
+          "Ormond"
+        ],
+        [
+          "and",
+          "&"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "L<sw-ex>ord</sw-ex>",
+          "Ld"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6153846153846154,
+      "consensus_text": "ag<sw-sup>st</sw-sup> <brev-y>th</brev-y><sl>e</sl> L<sw-ex>ord</sw-ex>s Bolingbrook and Oxford, <brev-y>th</brev-y><sl>e</sl> Duke of Ormond and <brev-y>th</brev-y><sl>e</sl> L<sw-ex>ord</sw-ex>",
+      "line_slope": -0.36904840151145607,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        102.97999999999999,
+        940.8
+      ],
+      "clusters_y": [
+        923.88,
+        921.425
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "&"
+        ],
+        [
+          "the",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Abbot",
+          "Abbot"
+        ],
+        [
+          "Gantiers",
+          "Gautiers"
+        ],
+        [
+          "private",
+          "private"
+        ],
+        [
+          "negotiations.",
+          "Negotiations"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "This",
+          "This"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "the",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "and the Abbot Gantiers private negotiations. - This day the",
+      "line_slope": -0.36904840151145607,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        14
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

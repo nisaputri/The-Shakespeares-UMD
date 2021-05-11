@@ -1,0 +1,654 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        387.8233333333333,
+        813.7866666666665
+      ],
+      "clusters_y": [
+        111.77666666666666,
+        120.39666666666666
+      ],
+      "clusters_text": [
+        [
+          "London.",
+          "London",
+          "London."
+        ],
+        [
+          "May",
+          "May",
+          "May"
+        ],
+        [
+          "5th",
+          "5th",
+          "5th"
+        ],
+        [
+          "1696.",
+          "1696",
+          "1696"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "London. May 5th 1696",
+      "line_slope": -0.0030516482213153355,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1,
+        0
+      ],
+      "user_ids": [
+        null,
+        1664391.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        465.16999999999996,
+        932.6033333333334
+      ],
+      "clusters_y": [
+        177.43,
+        186.5
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Paris",
+          "Paris"
+        ],
+        [
+          "",
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "8th",
+          "8th"
+        ],
+        [
+          "",
+          "wee",
+          "wee"
+        ],
+        [
+          "are",
+          "are",
+          "are"
+        ],
+        [
+          "makeing",
+          "making",
+          "makeing"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.1666666666666665,
+      "consensus_text": "Paris the 8th wee are makeing",
+      "line_slope": -0.0030516482213153355,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        1,
+        6
+      ],
+      "user_ids": [
+        1664391.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.56,
+        910.4233333333333
+      ],
+      "clusters_y": [
+        224.97,
+        224.26
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Grand",
+          "Grand"
+        ],
+        [
+          "",
+          "preparacions",
+          "preparac<sw-ex>i</sw-ex>ons"
+        ],
+        [
+          "for",
+          "for",
+          "for"
+        ],
+        [
+          "bringing",
+          "bringing",
+          "bringing"
+        ],
+        [
+          "our",
+          "our",
+          "our"
+        ],
+        [
+          "Army",
+          "Armys",
+          "Armys"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.3333333333333335,
+      "consensus_text": "Grand preparacions for bringing our Armys",
+      "line_slope": -0.0030516482213153355,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        2,
+        7
+      ],
+      "user_ids": [
+        1664391.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.835,
+        914.44
+      ],
+      "clusters_y": [
+        271.975,
+        273.5
+      ],
+      "clusters_text": [
+        [
+          "into",
+          "into"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "field",
+          "field"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Duke",
+          "D<sw-ex>uke</sw-ex>"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "orleans",
+          "orleans"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "gone",
+          "gone"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "into the field the Duke of orleans is gone to",
+      "line_slope": -0.0030516482213153355,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        8
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.34333333333333,
+        670.295
+      ],
+      "clusters_y": [
+        312.88,
+        308.595
+      ],
+      "clusters_text": [
+        [
+          "Brittany",
+          "",
+          "Brittany",
+          "Brittany"
+        ],
+        [
+          "",
+          "",
+          "to",
+          "to"
+        ],
+        [
+          "",
+          "",
+          "see",
+          "see"
+        ],
+        [
+          "",
+          "all",
+          "all",
+          "all"
+        ],
+        [
+          "",
+          "things",
+          "",
+          "things"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.4,
+      "consensus_text": "Brittany to see all things",
+      "line_slope": -0.0030516482213153355,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "user_ids": [
+        null,
+        null,
+        1664391.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.37,
+        906.2733333333334
+      ],
+      "clusters_y": [
+        357.21500000000003,
+        353.0733333333333
+      ],
+      "clusters_text": [
+        [
+          "",
+          "then",
+          "then"
+        ],
+        [
+          "",
+          "his",
+          "tis"
+        ],
+        [
+          "",
+          "said",
+          "Sayd"
+        ],
+        [
+          "",
+          "will",
+          "will"
+        ],
+        [
+          "",
+          "take",
+          "take"
+        ],
+        [
+          "",
+          "a",
+          "a"
+        ],
+        [
+          "",
+          "tripp",
+          "tripp"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "Piedmont",
+          "Piedmont",
+          "Piedmont"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "then his said will take a tripp to Piedmont",
+      "line_slope": -0.0030516482213153355,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        5,
+        9
+      ],
+      "user_ids": [
+        null,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.82,
+        890.76
+      ],
+      "clusters_y": [
+        498.54999999999995,
+        498.9
+      ],
+      "clusters_text": [
+        [
+          "with",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "child",
+          "Child"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "",
+          "The"
+        ],
+        [
+          "",
+          "Pope"
+        ],
+        [
+          "",
+          "has"
+        ],
+        [
+          "",
+          "Sent"
+        ],
+        [
+          "",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "with child - The Pope has Sent a",
+      "line_slope": -0.0030516482213153355,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        13
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.76999999999998,
+        584.28
+      ],
+      "clusters_y": [
+        891.375,
+        887.5999999999999
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "out"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Kingdom",
+          "Kingdome"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "and the Kingdom",
+      "line_slope": -0.0030516482213153355,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        21
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.79,
+        855.3199999999999
+      ],
+      "clusters_y": [
+        978.53,
+        969.005
+      ],
+      "clusters_text": [
+        [
+          "",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "",
+          "miles"
+        ],
+        [
+          "looks",
+          "Cooke"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "arraigned",
+          "arraigned"
+        ],
+        [
+          "at",
+          "at"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> miles looks was arraigned at",
+      "line_slope": -0.0030516482213153355,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        23
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.965,
+        918.53
+      ],
+      "clusters_y": [
+        1019.5550000000001,
+        1013.51
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "",
+          "the"
+        ],
+        [
+          "old",
+          "",
+          "old"
+        ],
+        [
+          "Bayly",
+          "",
+          "Bayly"
+        ],
+        [
+          "and",
+          "",
+          "and"
+        ],
+        [
+          "will",
+          "",
+          "will"
+        ],
+        [
+          "",
+          "be",
+          "be"
+        ],
+        [
+          "",
+          "tryed",
+          "tryd"
+        ],
+        [
+          "",
+          "on",
+          "on"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.875,
+      "consensus_text": "the old Bayly and will be tryed on",
+      "line_slope": -0.0030516482213153355,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        11,
+        24
+      ],
+      "user_ids": [
+        null,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 10,
+  "transcribed_lines": 10,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

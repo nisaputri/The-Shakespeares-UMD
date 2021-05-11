@@ -1,0 +1,252 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        252.9466666666667,
+        248.2975
+      ],
+      "clusters_y": [
+        1210.31,
+        583.3125
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To",
+          "",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "Sr.",
+          "S<sw-ex>i</sw-ex>r"
+        ],
+        [
+          "Richard",
+          "Richard",
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate",
+          "Nendigate",
+          "Newdigate"
+        ],
+        [
+          "Bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+          "Bar<sw-sup>t</sw-sup>.",
+          "<sw-ex>Bart.</sw-ex>",
+          "Bar<sw-sup>t</sw-sup>"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.6,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate Bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+      "line_slope": -90.02797837544631,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        190714.0,
+        null,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        353.46500000000003,
+        346.51
+      ],
+      "clusters_y": [
+        1208.635,
+        719.89
+      ],
+      "clusters_text": [
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "near"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "at Arbury near",
+      "line_slope": -90.02797837544631,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        474.1000000000001,
+        469.58666666666664
+      ],
+      "clusters_y": [
+        1206.7966666666666,
+        612.9533333333333
+      ],
+      "clusters_text": [
+        [
+          "Returnd",
+          "Returned",
+          "Returned"
+        ],
+        [
+          "with",
+          "with",
+          "with"
+        ],
+        [
+          "humble",
+          "humble",
+          "humble"
+        ],
+        [
+          "thankes",
+          "thanks",
+          "thanks"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "Returned with humble thanks",
+      "line_slope": -90.02797837544631,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        3,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        190714.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        508.68999999999994,
+        514.6
+      ],
+      "clusters_y": [
+        1201.948,
+        664.49
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from",
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "yours",
+          "yours",
+          "yours",
+          "yours",
+          "yours"
+        ],
+        [
+          "will:",
+          "Watt",
+          "Witt",
+          "Will<sw-ex>iam</sw-ex>",
+          "Witt"
+        ],
+        [
+          "Dudbury",
+          "Dudley",
+          "<sw-unclear>Dadbry</sw-unclear>",
+          "Dudley",
+          "Dudley"
+        ]
+      ],
+      "number_views": 5,
+      "consensus_score": 3.75,
+      "consensus_text": "from yours Witt Dudley",
+      "line_slope": -90.02797837544631,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4,
+        3,
+        4,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        190714.0,
+        null,
+        1682843.0,
+        1680081.0
+      ],
+      "low_consensus": false
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

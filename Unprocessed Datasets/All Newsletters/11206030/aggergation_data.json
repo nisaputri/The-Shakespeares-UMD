@@ -1,0 +1,716 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        311.2833333333333,
+        796.9966666666666
+      ],
+      "clusters_y": [
+        59.42333333333334,
+        53.23333333333333
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "November",
+          "November",
+          "November"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "6th",
+          "6th",
+          "6<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1705",
+          "17<sw-unclear>0</sw-unclear>5",
+          "1705"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6,
+      "consensus_text": "London November the 6th 1705",
+      "line_slope": -0.7682611716065941,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0,
+        3
+      ],
+      "user_ids": [
+        864398.0,
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        272.34000000000003,
+        890.44
+      ],
+      "clusters_y": [
+        159.415,
+        135.04500000000002
+      ],
+      "clusters_text": [
+        [
+          "Rotterdam",
+          "Rotterdam"
+        ],
+        [
+          "November",
+          "November"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "11<sw-sup>th</sw-sup>",
+          "11<sw-sup>th"
+        ],
+        [
+          "-",
+          "</sw-sup>-"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "fleet",
+          "fleet"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "Rotterdam November the 11<sw-sup>th</sw-sup> - the fleet",
+      "line_slope": -3.6785685592798365,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        4
+      ],
+      "user_ids": [
+        864398.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.03499999999997,
+        904.44
+      ],
+      "clusters_y": [
+        289.19,
+        253.755
+      ],
+      "clusters_text": [
+        [
+          "provision",
+          "provision"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "board",
+          "board"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "intend",
+          "intend"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Sayle",
+          "Sayle"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "provision on board and intend to Sayle",
+      "line_slope": -3.6785685592798365,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        6
+      ],
+      "user_ids": [
+        864398.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.25,
+        889.69
+      ],
+      "clusters_y": [
+        565.4300000000001,
+        532.9300000000001
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "reside",
+          "reside"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "look",
+          "look"
+        ],
+        [
+          "after",
+          "after"
+        ],
+        [
+          "winter",
+          "winter"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "to reside there and look after winter",
+      "line_slope": -3.6785685592798365,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        0
+      ],
+      "user_ids": [
+        864398.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.71,
+        862.535
+      ],
+      "clusters_y": [
+        653.15,
+        610.4649999999999
+      ],
+      "clusters_text": [
+        [
+          "quarters",
+          "quarters"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "army",
+          "army"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "The",
+          "The"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "quarters for their army - The",
+      "line_slope": -3.6785685592798365,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        1
+      ],
+      "user_ids": [
+        864398.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.205,
+        856.72
+      ],
+      "clusters_y": [
+        797.53,
+        748.64
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "arrivall",
+          "arrivall"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "Velt"
+        ],
+        [
+          "",
+          "Marshall"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "the arrivall of the Velt Marshall",
+      "line_slope": -3.6785685592798365,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        10
+      ],
+      "user_ids": [
+        864398.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.885,
+        906.3
+      ],
+      "clusters_y": [
+        869.865,
+        810.9649999999999
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "present",
+          "present"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "great",
+          "great"
+        ],
+        [
+          "Councell",
+          "Councell"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "to be present at a great Councell of",
+      "line_slope": -3.6785685592798365,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        11
+      ],
+      "user_ids": [
+        864398.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.135,
+        946.9100000000001
+      ],
+      "clusters_y": [
+        934.99,
+        881.095
+      ],
+      "clusters_text": [
+        [
+          "warr",
+          "warr"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "bills",
+          "bills"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "two",
+          "two"
+        ],
+        [
+          "hundred",
+          "hundred"
+        ],
+        [
+          "thousand",
+          "thousand"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "warr - bills for two hundred thousand",
+      "line_slope": -3.6785685592798365,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        12
+      ],
+      "user_ids": [
+        864398.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.59000000000003,
+        910.8699999999999
+      ],
+      "clusters_y": [
+        1013.125,
+        958.095
+      ],
+      "clusters_text": [
+        [
+          "pound",
+          "pound"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "remitted",
+          "remitted"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "England",
+          "England"
+        ],
+        [
+          "for",
+          "for"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "pound are remitted from England for",
+      "line_slope": -3.6785685592798365,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        13
+      ],
+      "user_ids": [
+        864398.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.355,
+        887.63
+      ],
+      "clusters_y": [
+        1092.875,
+        1039.995
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "use",
+          "use"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "Charles",
+          "Charles"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "third",
+          "third"
+        ],
+        [
+          "in",
+          "in"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the use of King Charles the third in",
+      "line_slope": -3.6785685592798365,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        14
+      ],
+      "user_ids": [
+        864398.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.51,
+        908.95
+      ],
+      "clusters_y": [
+        1237.895,
+        1194.5700000000002
+      ],
+      "clusters_text": [
+        [
+          "Baron",
+          "Baron"
+        ],
+        [
+          "de",
+          "de"
+        ],
+        [
+          "Plesse",
+          "Plesse"
+        ],
+        [
+          "Envoy",
+          "Envoy"
+        ],
+        [
+          "extraordinary",
+          "extraordinary"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Baron de Plesse Envoy extraordinary",
+      "line_slope": -3.6785685592798365,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        16
+      ],
+      "user_ids": [
+        864398.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.92,
+        891.735
+      ],
+      "clusters_y": [
+        1403.58,
+        1349.49
+      ],
+      "clusters_text": [
+        [
+          "audience",
+          "audience"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Queen",
+          "Queen"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "royall",
+          "royall"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "audience of the Queen and his royall",
+      "line_slope": -3.6785685592798365,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        18
+      ],
+      "user_ids": [
+        864398.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 12,
+  "transcribed_lines": 12,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

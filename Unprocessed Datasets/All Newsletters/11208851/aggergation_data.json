@@ -1,0 +1,91 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        27.07,
+        942.67
+      ],
+      "clusters_y": [
+        498.6,
+        506.02
+      ],
+      "clusters_text": [
+        [
+          "",
+          "of"
+        ],
+        [
+          "Secreecy",
+          "secrecy"
+        ],
+        [
+          "do",
+          "do"
+        ],
+        [
+          "Draw",
+          "Draw"
+        ],
+        [
+          "up",
+          "up"
+        ],
+        [
+          "Articles",
+          "Articles"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Impeachm<sw-ex>en</sw-ex>t.",
+          "Impeachm<sw-sup>t</sw-sup>."
+        ],
+        [
+          "",
+          "Also"
+        ],
+        [
+          "",
+          "Ord<sw-ex>ere</sw-ex>d"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "of Secreecy do Draw up Articles of Impeachm<sw-ex>en</sw-ex>t. Also Ord<sw-ex>ere</sw-ex>d",
+      "line_slope": 0.17955619574033904,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        8
+      ],
+      "user_ids": [
+        367.0,
+        1878771.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

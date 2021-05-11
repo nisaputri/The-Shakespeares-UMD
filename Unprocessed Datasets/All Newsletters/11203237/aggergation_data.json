@@ -1,0 +1,118 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        226.49,
+        230.97
+      ],
+      "clusters_y": [
+        996.25,
+        1488.7
+      ],
+      "clusters_text": [
+        [
+          "expossed",
+          "He"
+        ],
+        [
+          "[exposed]",
+          ""
+        ],
+        [
+          "his",
+          "Has"
+        ],
+        [
+          "Royall",
+          ""
+        ],
+        [
+          "[Royal]",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "expossed [exposed] his Royall [Royal]",
+      "line_slope": 88.64475248584951,
+      "slope_label": 4,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        40,
+        42
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.6,
+        922.07
+      ],
+      "clusters_y": [
+        1156.57,
+        1103.42
+      ],
+      "clusters_text": [
+        [
+          "4000",
+          ""
+        ],
+        [
+          "among",
+          "benefited"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>e</sw-ex><sl>m</sl>",
+          "Ticketts"
+        ],
+        [
+          "7",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "4000 among <brev-y>th</brev-y><sw-ex>e</sw-ex><sl>m</sl> 7",
+      "line_slope": -4.613409979509023,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        29,
+        30
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

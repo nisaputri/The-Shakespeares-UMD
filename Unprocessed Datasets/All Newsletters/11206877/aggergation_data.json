@@ -1,0 +1,761 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        240.04000000000002,
+        946.825
+      ],
+      "clusters_y": [
+        137.99,
+        127.80000000000001
+      ],
+      "clusters_text": [
+        [
+          "This",
+          "This"
+        ],
+        [
+          "Day",
+          "Day"
+        ],
+        [
+          "Arrived",
+          "Arrived"
+        ],
+        [
+          "3",
+          "3"
+        ],
+        [
+          "Holland",
+          "Holland"
+        ],
+        [
+          "Mailes",
+          "Mailes"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "This Day Arrived 3 Holland Mailes",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.125,
+        941.25
+      ],
+      "clusters_y": [
+        147.35000000000002,
+        136.655
+      ],
+      "clusters_text": [
+        [
+          "This",
+          "This"
+        ],
+        [
+          "Day",
+          "Day"
+        ],
+        [
+          "Arrived",
+          "Arrived"
+        ],
+        [
+          "<sw-ex>and</sw-ex>",
+          "3"
+        ],
+        [
+          "Holland",
+          "Holland"
+        ],
+        [
+          "<sw-unclear>Meicles</sw-unclear>",
+          "Mailes"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "This Day Arrived <sw-ex>and</sw-ex> Holland <sw-unclear>Meicles</sw-unclear>",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.54250000000002,
+        932.995
+      ],
+      "clusters_y": [
+        226.54500000000002,
+        200.23000000000002
+      ],
+      "clusters_text": [
+        [
+          "which",
+          "which",
+          "which",
+          "which"
+        ],
+        [
+          "brings",
+          "bring",
+          "bring",
+          "brings"
+        ],
+        [
+          "the",
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "following",
+          "following",
+          "following",
+          "following"
+        ],
+        [
+          "News",
+          "News",
+          "News",
+          "New"
+        ],
+        [
+          "--",
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.3333333333333335,
+      "consensus_text": "which brings the following News -",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        7,
+        2,
+        2
+      ],
+      "user_ids": [
+        null,
+        1347003.0,
+        null,
+        null
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        245.785,
+        948.98
+      ],
+      "clusters_y": [
+        298.87,
+        275.25
+      ],
+      "clusters_text": [
+        [
+          "Madrid",
+          "Madrid"
+        ],
+        [
+          "February",
+          "feb<sw-sup>r</sw-sup>"
+        ],
+        [
+          "3rd",
+          "3<sw-ex>r</sw-ex><sw-sup>d</sw-sup>"
+        ],
+        [
+          "The",
+          "the"
+        ],
+        [
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<sw-unclear>Korwich</sw-unclear>",
+          "Berwick"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "Madrid February 3rd The Duke of <sw-unclear>Korwich</sw-unclear>",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        3
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.195,
+        960.595
+      ],
+      "clusters_y": [
+        371.62,
+        352.565
+      ],
+      "clusters_text": [
+        [
+          "haveing",
+          "haveing"
+        ],
+        [
+          "held",
+          "held"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Counsell",
+          "Councell"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "warr",
+          "Warr"
+        ],
+        [
+          "with",
+          "with"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "haveing held a Counsell of warr with",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.78,
+        941.78
+      ],
+      "clusters_y": [
+        576.2650000000001,
+        558.7
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "way",
+          "way"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "ffrance",
+          "ffrance"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "the",
+          "The"
+        ],
+        [
+          "Marquess",
+          "Marquess"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "in his way to ffrance - the Marquess",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.345,
+        939.8599999999999
+      ],
+      "clusters_y": [
+        713.9449999999999,
+        703.845
+      ],
+      "clusters_text": [
+        [
+          "Almeida",
+          "Almeida"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Portugall",
+          "Portugall"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Letters",
+          "Letters"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Almeida in Portugall - Letters",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.56,
+        942.95
+      ],
+      "clusters_y": [
+        878.42,
+        857.085
+      ],
+      "clusters_text": [
+        [
+          "Jsland",
+          "Island"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Ponza",
+          "Ponza"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Example",
+          "Example"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Jsland of Ponza by the Example",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        11
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.715,
+        949.0
+      ],
+      "clusters_y": [
+        947.88,
+        928.46
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Piombino",
+          "Piombino"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "surrounded",
+          "surrendred"
+        ],
+        [
+          "so",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "of Piombino has surrounded so",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        12
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.525,
+        954.17
+      ],
+      "clusters_y": [
+        1025.885,
+        996.88
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Imperialist",
+          "Jmperialists"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Warfare",
+          "Warsaw"
+        ],
+        [
+          "feb<sw-sup>re</sw-sup>.",
+          "febr<sw-ex>uary</sw-ex>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "the Imperialist - Warfare feb<sw-sup>re</sw-sup>.",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        13
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.555,
+        951.9749999999999
+      ],
+      "clusters_y": [
+        1103.405,
+        1075.8
+      ],
+      "clusters_text": [
+        [
+          "3<sw-ex>r</sw-ex><sw-sup>d</sw-sup>",
+          "3<sw-sup>d</sw-sup>."
+        ],
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Sweeds",
+          "sweeds"
+        ],
+        [
+          "march",
+          "march"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "are",
+          "are"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "3<sw-ex>r</sw-ex><sw-sup>d</sw-sup> The Sweeds march on and are",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.22,
+        962.035
+      ],
+      "clusters_y": [
+        1174.01,
+        1155.305
+      ],
+      "clusters_text": [
+        [
+          "come",
+          "come"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "ffrontiers",
+          "ffrontiers"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Lithuania",
+          "Lithuania"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "come to the ffrontiers of Lithuania",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        15
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.70499999999998,
+        961.8050000000001
+      ],
+      "clusters_y": [
+        1252.2849999999999,
+        1221.835
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "marching",
+          "marching"
+        ],
+        [
+          "towards",
+          "towards"
+        ],
+        [
+          "Minski.",
+          "Minski"
+        ],
+        [
+          "",
+          ","
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "and are marching towards Minski. ,",
+      "line_slope": -1.701280287345767,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        16
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 12,
+  "transcribed_lines": 13,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

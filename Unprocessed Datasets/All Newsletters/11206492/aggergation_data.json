@@ -1,0 +1,593 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        343.4466666666667,
+        838.18
+      ],
+      "clusters_y": [
+        80.20333333333333,
+        73.85000000000001
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "October",
+          "October",
+          "October"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "31.",
+          "31.",
+          "31."
+        ],
+        [
+          "1706",
+          "1706",
+          "1706"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "London October the 31. 1706",
+      "line_slope": -1.8731946846959853,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        367.0,
+        1884324.0,
+        1708223.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        261.9,
+        935.435
+      ],
+      "clusters_y": [
+        209.82999999999998,
+        199.365
+      ],
+      "clusters_text": [
+        [
+          "There",
+          "There"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "letters",
+          "letters"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "???",
+          "Hague"
+        ],
+        [
+          "which",
+          "which"
+        ],
+        [
+          "say",
+          "say"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "There are letters from the ??? which say",
+      "line_slope": -1.8731946846959853,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1501415.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.7733333333333,
+        941.0600000000001
+      ],
+      "clusters_y": [
+        282.8533333333333,
+        262.46000000000004
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "",
+          "that",
+          "that"
+        ],
+        [
+          "",
+          "",
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "",
+          "Seague",
+          "League"
+        ],
+        [
+          "",
+          "",
+          "ordered",
+          "entered"
+        ],
+        [
+          "",
+          "",
+          "into",
+          "into"
+        ],
+        [
+          "",
+          "",
+          "lately",
+          "lately"
+        ],
+        [
+          "",
+          "by",
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the",
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.25,
+      "consensus_text": "that the Seague ordered into lately by the",
+      "line_slope": -1.8731946846959853,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        4,
+        2,
+        2
+      ],
+      "user_ids": [
+        1884324.0,
+        1884324.0,
+        1501415.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.71,
+        914.1800000000001
+      ],
+      "clusters_y": [
+        353.3666666666666,
+        333.185
+      ],
+      "clusters_text": [
+        [
+          "Kings",
+          "Kings",
+          "Kings"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Sweden",
+          "Sweeden",
+          "Sweeden"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "Prussia,",
+          "Prussia,",
+          "Prussia,"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "Cle???",
+          "Elector"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5714285714285716,
+      "consensus_text": "Kings of Sweeden and Prussia, the Cle???",
+      "line_slope": -1.8731946846959853,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        3,
+        3
+      ],
+      "user_ids": [
+        1884324.0,
+        1501415.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.96499999999997,
+        872.24
+      ],
+      "clusters_y": [
+        435.415,
+        410.35
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Hannover",
+          "Hannover"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Langraue",
+          "Langrave"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "???",
+          "Hesse"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "of Hannover and Langraue of ???",
+      "line_slope": -1.8731946846959853,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        1501415.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.355,
+        905.47
+      ],
+      "clusters_y": [
+        521.65,
+        501.31
+      ],
+      "clusters_text": [
+        [
+          "Carroll",
+          "Cassell"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "entered",
+          "entered"
+        ],
+        [
+          "into",
+          "into"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "League",
+          "League"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "Carroll are entered into a League to",
+      "line_slope": -1.8731946846959853,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        1501415.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.26,
+        920.5
+      ],
+      "clusters_y": [
+        1015.435,
+        989.25
+      ],
+      "clusters_text": [
+        [
+          "into",
+          "into"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "same",
+          "same"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "",
+          "letter"
+        ],
+        [
+          "",
+          "from"
+        ],
+        [
+          "",
+          "Jamaica"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "into the same by letter from Jamaica",
+      "line_slope": -1.8731946846959853,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        11
+      ],
+      "user_ids": [
+        1884324.0,
+        1501415.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.65,
+        883.47
+      ],
+      "clusters_y": [
+        1111.925,
+        1082.98
+      ],
+      "clusters_text": [
+        [
+          "which",
+          "which"
+        ],
+        [
+          "came",
+          "came"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "yesterday",
+          "yesterday"
+        ],
+        [
+          "",
+          "wee"
+        ],
+        [
+          "",
+          "hear"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "which came in yesterday wee hear",
+      "line_slope": -1.8731946846959853,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        12
+      ],
+      "user_ids": [
+        1884324.0,
+        1501415.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.65,
+        871.38
+      ],
+      "clusters_y": [
+        1199.88,
+        1172.155
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "",
+          "that"
+        ],
+        [
+          "only",
+          "",
+          "only"
+        ],
+        [
+          "the",
+          "",
+          "the"
+        ],
+        [
+          "",
+          "",
+          "Gov."
+        ],
+        [
+          "",
+          "of",
+          "of"
+        ],
+        [
+          "",
+          "Havanna",
+          "Havanna"
+        ],
+        [
+          "",
+          "has",
+          "has"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "that only the Gov. of Havanna has",
+      "line_slope": -1.8731946846959853,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        14,
+        13
+      ],
+      "user_ids": [
+        1884324.0,
+        1884324.0,
+        1501415.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 8,
+  "transcribed_lines": 9,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        136.14999999999998,
+        132.61
+      ],
+      "clusters_y": [
+        35.894999999999996,
+        1492.42
+      ],
+      "clusters_text": [
+        [
+          "Concerning",
+          "Concerning"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Union",
+          "Union"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Ordered",
+          "Ordered"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Bill",
+          "Bill"
+        ],
+        [
+          "be",
+          "be"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Concerning the Union - Ordered that a Bill be",
+      "line_slope": 89.67336328995985,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        18
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.18,
+        951.605
+      ],
+      "clusters_y": [
+        1268.12,
+        1273.835
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Lords",
+          "Lords"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "<sw-del>The",
+          "<sw-del>The"
+        ],
+        [
+          "Petition</sw-del>",
+          "Petition</sw-del>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "to the Lords - <sw-del>The Petition</sw-del>",
+      "line_slope": 0.37087505509546,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.89,
+        970.72
+      ],
+      "clusters_y": [
+        1448.545,
+        1450.505
+      ],
+      "clusters_text": [
+        [
+          "<sw-del>a",
+          "<sw-del>a"
+        ],
+        [
+          "longer",
+          "Longer"
+        ],
+        [
+          "?time",
+          "?"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "defeated</sw-del>",
+          "?</sw-del>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "<sw-del>a longer ?time was defeated</sw-del>",
+      "line_slope": 0.37087505509546,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        16
+      ],
+      "user_ids": [
+        428120.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

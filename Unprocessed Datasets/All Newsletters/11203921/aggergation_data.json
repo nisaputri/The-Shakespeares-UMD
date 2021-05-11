@@ -1,0 +1,126 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        241.55,
+        884.81
+      ],
+      "clusters_y": [
+        1187.75,
+        1176.74
+      ],
+      "clusters_text": [
+        [
+          "came",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "in",
+          "such"
+        ],
+        [
+          "here",
+          "a"
+        ],
+        [
+          "fro",
+          "prize"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "came in here fro",
+      "line_slope": -1.195512366234516,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        36,
+        37
+      ],
+      "user_ids": [
+        864398.0,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.74,
+        862.22
+      ],
+      "clusters_y": [
+        1290.94,
+        1272.22
+      ],
+      "clusters_text": [
+        [
+          "this",
+          ""
+        ],
+        [
+          "side",
+          ""
+        ],
+        [
+          "2",
+          ""
+        ],
+        [
+          "mailes",
+          ""
+        ],
+        [
+          "for",
+          ""
+        ],
+        [
+          "Holld",
+          ""
+        ],
+        [
+          "are",
+          "here"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "this side 2 mailes for Holld are",
+      "line_slope": -1.195512366234516,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        39,
+        40
+      ],
+      "user_ids": [
+        864398.0,
+        864398.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

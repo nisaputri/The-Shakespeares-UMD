@@ -1,0 +1,131 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        451.04499999999996,
+        450.06
+      ],
+      "clusters_y": [
+        720.335,
+        1292.3400000000001
+      ],
+      "clusters_text": [
+        [
+          "Barr<sw-ex>is</sw-ex><sw-sup>t</sw-sup><sw-ex>er</sw-ex>",
+          "Barro<sw-ex>ne</sw-ex>t"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "neare",
+          "neare"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Barr<sw-ex>is</sw-ex><sw-sup>t</sw-sup><sw-ex>er</sw-ex> at Arbury neare",
+      "line_slope": 90.065948359569,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1891145.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        511.01,
+        521.9366666666666
+      ],
+      "clusters_y": [
+        693.375,
+        1348.1666666666667
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To",
+          "To"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Ho<sw-ex>norable</sw-ex>",
+          "Ho<sw-ex>norable</sw-ex>",
+          "Hono<sw-ex>ura</sw-ex>ble"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate",
+          "Newdigate"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8333333333333335,
+      "consensus_text": "To the Ho<sw-ex>norable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate",
+      "line_slope": 88.67368708159192,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

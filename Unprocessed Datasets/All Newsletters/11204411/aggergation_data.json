@@ -1,0 +1,1528 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        476.2,
+        934.8733333333333
+      ],
+      "clusters_y": [
+        146.9,
+        153.08666666666667
+      ],
+      "clusters_text": [
+        [
+          "Some",
+          "Some",
+          "Some"
+        ],
+        [
+          "members",
+          "members",
+          "members"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Parliam<sw-ex>en</sw-ex>t",
+          "Parlim<sw-ex>en</sw-ex><sl>t</sl>.",
+          "Parli<sw-ex>amen</sw-ex>t"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "Some members of Parliam<sw-ex>en</sw-ex>t",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        0,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        291.3833333333333,
+        915.36
+      ],
+      "clusters_y": [
+        194.5633333333333,
+        199.84666666666666
+      ],
+      "clusters_text": [
+        [
+          "Chosen",
+          "Chosen",
+          "Chosen",
+          ""
+        ],
+        [
+          "for",
+          "for",
+          "for",
+          ""
+        ],
+        [
+          "the",
+          "the",
+          "the",
+          ""
+        ],
+        [
+          "Ensueing",
+          "Ensueing",
+          "",
+          "Ensueing"
+        ],
+        [
+          "Sessions",
+          "Sessions",
+          "",
+          "Sessions"
+        ],
+        [
+          "vizt.",
+          "vizt.",
+          "",
+          "vizt"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.8333333333333335,
+      "consensus_text": "Chosen for the Ensueing Sessions vizt.",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        1,
+        0,
+        2
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        280.595,
+        923.2333333333332
+      ],
+      "clusters_y": [
+        247.95499999999998,
+        249.0233333333333
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "?",
+          "Rie",
+          "",
+          "Rie",
+          "",
+          ""
+        ],
+        [
+          "John",
+          "John",
+          "",
+          "John",
+          "",
+          ""
+        ],
+        [
+          "Austyn",
+          "Austyn",
+          "Austyn",
+          "",
+          "",
+          ""
+        ],
+        [
+          "&",
+          "&",
+          "&",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Esq<sw-ex>uire</sw-ex>s",
+          "Esq<sw-sup>r</sw-sup>",
+          "",
+          "",
+          "Esq<sw-ex>uire</sw-ex>s",
+          ""
+        ],
+        [
+          "ffrenen",
+          "ffrewen",
+          "",
+          "",
+          "",
+          "ffremen"
+        ]
+      ],
+      "number_views": 6,
+      "consensus_score": 2.2857142857142856,
+      "consensus_text": "for Rie John Austyn & Esq<sw-ex>uire</sw-ex>s ffrenen",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        2,
+        4,
+        42,
+        43,
+        44
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0,
+        1627866.0,
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        283.79333333333335,
+        913.4233333333333
+      ],
+      "clusters_y": [
+        298.5166666666667,
+        298.8066666666667
+      ],
+      "clusters_text": [
+        [
+          "Breckneck",
+          "Brecknock",
+          "",
+          "Brecknock"
+        ],
+        [
+          "Jeoffery",
+          "Jeoffery",
+          "Ieoffrey",
+          ""
+        ],
+        [
+          "Jefferys",
+          "Jefferys",
+          "Iefferys",
+          ""
+        ],
+        [
+          "Esq<sw-ex>uire</sw-ex>s",
+          "Esq<sw-sup>r</sw-sup>",
+          "Esq<sw-ex>uire</sw-ex>s",
+          ""
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.0,
+      "consensus_text": "Brecknock Jeoffery Jefferys Esq<sw-ex>uire</sw-ex>s",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        3,
+        5,
+        45
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        282.13333333333327,
+        921.1933333333333
+      ],
+      "clusters_y": [
+        355.91333333333336,
+        349.85999999999996
+      ],
+      "clusters_text": [
+        [
+          "ffor",
+          "ffor",
+          "ffor",
+          ""
+        ],
+        [
+          "East",
+          "East",
+          "East",
+          ""
+        ],
+        [
+          "Looe",
+          "Lord",
+          "",
+          "Looe"
+        ],
+        [
+          "Major",
+          "Major",
+          "",
+          "Major"
+        ],
+        [
+          "Generall",
+          "Generall",
+          "",
+          "Generall"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.8,
+      "consensus_text": "ffor East Looe Major Generall",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        4,
+        6,
+        46
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        283.3733333333334,
+        923.91
+      ],
+      "clusters_y": [
+        412.6833333333334,
+        405.35999999999996
+      ],
+      "clusters_text": [
+        [
+          "Trelawney",
+          "Trelmoney",
+          "Trelawney"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "Coll<sw-ex>onell</sw-ex>",
+          "Coll<sw-ex>onell</sw-ex>",
+          "Coll<sw-ex>onell</sw-ex>"
+        ],
+        [
+          "Trelawney",
+          "Trelawney",
+          "Trelawney"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.75,
+      "consensus_text": "Trelawney and Coll<sw-ex>onell</sw-ex> Trelawney",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        5,
+        7
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        297.25,
+        924.88
+      ],
+      "clusters_y": [
+        464.0,
+        461.5
+      ],
+      "clusters_text": [
+        [
+          "ffor",
+          ""
+        ],
+        [
+          "West",
+          ""
+        ],
+        [
+          "Looe",
+          "Looe"
+        ],
+        [
+          "James",
+          "James"
+        ],
+        [
+          "Kendall",
+          "Kendall"
+        ],
+        [
+          "Esq<sw-ex>uire</sw-ex>",
+          "Esq<sw-ex>uire</sw-ex>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "ffor West Looe James Kendall Esq<sw-ex>uire</sw-ex>",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        9
+      ],
+      "user_ids": [
+        1347003.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        285.16333333333336,
+        923.96
+      ],
+      "clusters_y": [
+        525.6166666666667,
+        517.49
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "Esq<sw-ex>uire</sw-ex>",
+          "Esq<sw-sup>r</sw-sup>",
+          "Esq<sw-ex>uire</sw-ex>"
+        ],
+        [
+          "Mount",
+          "mountstephens",
+          "Mountstephens"
+        ],
+        [
+          "Stephens",
+          "",
+          ""
+        ],
+        [
+          "for",
+          "for",
+          "for"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "and Esq<sw-ex>uire</sw-ex> Mount Stephens for",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        7,
+        47
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        292.57,
+        869.29
+      ],
+      "clusters_y": [
+        579.72,
+        575.2249999999999
+      ],
+      "clusters_text": [
+        [
+          "Taunton",
+          "Taunton"
+        ],
+        [
+          "Edward",
+          "Edward"
+        ],
+        [
+          "Clarke",
+          "Clarke"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Taunton Edward Clarke and",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        10
+      ],
+      "user_ids": [
+        1347003.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        284.0566666666667,
+        925.0166666666668
+      ],
+      "clusters_y": [
+        697.9566666666666,
+        706.7400000000001
+      ],
+      "clusters_text": [
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-sup>r"
+        ],
+        [
+          "Thomas",
+          "Thomas",
+          "</sw-sup>Thomas"
+        ],
+        [
+          "Mompesson",
+          "Mompesson",
+          "Mompesson"
+        ],
+        [
+          "Thomas",
+          "Thomas",
+          "Thomas"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> Thomas Mompesson Thomas",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        10,
+        12
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        275.66,
+        930.23
+      ],
+      "clusters_y": [
+        750.02,
+        741.27
+      ],
+      "clusters_text": [
+        [
+          "Esq<sw-sup>r</sw-sup>",
+          ""
+        ],
+        [
+          "for",
+          ""
+        ],
+        [
+          "Hundon",
+          "Hundon"
+        ],
+        [
+          "robert",
+          ""
+        ],
+        [
+          "Hide",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "Esq<sw-sup>r</sw-sup> for Hundon robert Hide",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        48
+      ],
+      "user_ids": [
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        295.75,
+        908.07
+      ],
+      "clusters_y": [
+        755.385,
+        754.56
+      ],
+      "clusters_text": [
+        [
+          "Esq<sw-ex>uire</sw-ex>",
+          "Esq<sw-ex>uire</sw-ex>"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Hundon",
+          ""
+        ],
+        [
+          "Robert",
+          ""
+        ],
+        [
+          "Hide",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "Esq<sw-ex>uire</sw-ex> for Hundon Robert Hide",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        13
+      ],
+      "user_ids": [
+        1347003.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        286.71999999999997,
+        918.56
+      ],
+      "clusters_y": [
+        813.52,
+        813.43
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "Morley",
+          "morley",
+          "Mosley"
+        ],
+        [
+          "Esq<sw-ex>uire</sw-ex>s",
+          "Esq<sw-sup>rs</sw-sup>.",
+          "Esq<sw-ex>uires</sw-ex>"
+        ],
+        [
+          "for",
+          "for",
+          "for"
+        ],
+        [
+          "Croft",
+          "Croft",
+          "Croft"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.2,
+      "consensus_text": "and Morley Esq<sw-ex>uire</sw-ex>s for Croft",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        12,
+        15
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        275.7366666666667,
+        921.5233333333334
+      ],
+      "clusters_y": [
+        868.0033333333334,
+        864.5033333333334
+      ],
+      "clusters_text": [
+        [
+          "Castle",
+          "Castle",
+          "Castle",
+          ""
+        ],
+        [
+          "Thomas",
+          "Thomas",
+          "Thomas",
+          ""
+        ],
+        [
+          "?",
+          "ffunds",
+          "",
+          ""
+        ],
+        [
+          "and",
+          "and",
+          "",
+          "and"
+        ],
+        [
+          "William",
+          "Will<sw-ex>ia</sw-ex>m",
+          "",
+          "Will<sw-ex>iam</sw-ex>"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.2,
+      "consensus_text": "Castle Thomas ? and William",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        13,
+        16,
+        17
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        280.06,
+        918.2
+      ],
+      "clusters_y": [
+        921.32,
+        921.24
+      ],
+      "clusters_text": [
+        [
+          "Culliford",
+          "Culliford",
+          "Culliford"
+        ],
+        [
+          "Esq<sw-ex>uire</sw-ex>s",
+          "Esq<sw-sup>rs</sw-sup>",
+          "Esq<sw-ex>uire</sw-ex>s"
+        ],
+        [
+          "for",
+          "for",
+          "for"
+        ],
+        [
+          "Worham",
+          "Warham",
+          "Warham"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "Culliford Esq<sw-ex>uire</sw-ex>s for Warham",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        14,
+        18
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        282.67,
+        924.03
+      ],
+      "clusters_y": [
+        971.9566666666666,
+        963.52
+      ],
+      "clusters_text": [
+        [
+          "Briggad<sw-ex>ee</sw-ex>r",
+          "Briggad<sw-ex>ee</sw-ex><sw-sup>r</sw-sup>",
+          "Briggad<sw-ex>er</sw-ex>"
+        ],
+        [
+          "Earle",
+          "Earle",
+          "Earle"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "Coll<sw-ex>onell</sw-ex>",
+          "Coll<sw-ex>onell</sw-ex>",
+          "Coll<sw-ex>onell</sw-ex>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "Briggad<sw-ex>ee</sw-ex>r Earle and Coll<sw-ex>onell</sw-ex>",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        15,
+        19
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        290.2,
+        936.815
+      ],
+      "clusters_y": [
+        1036.3400000000001,
+        1028.4499999999998
+      ],
+      "clusters_text": [
+        [
+          "Trenchard",
+          "Trenchard"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Leinster",
+          "Lemster"
+        ],
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Lord",
+          "Lord"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Trenchard for Leinster The Lord",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        20
+      ],
+      "user_ids": [
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        282.115,
+        893.42
+      ],
+      "clusters_y": [
+        1096.5,
+        1094.68
+      ],
+      "clusters_text": [
+        [
+          "Counisby",
+          "Coninsby"
+        ],
+        [
+          "and",
+          ""
+        ],
+        [
+          "John",
+          ""
+        ],
+        [
+          "Dubton",
+          ""
+        ],
+        [
+          "Colt",
+          ""
+        ],
+        [
+          "Esq<sw-ex>uire</sw-ex>s",
+          ""
+        ],
+        [
+          "for",
+          ""
+        ],
+        [
+          "Kull",
+          ""
+        ],
+        [
+          "Alexander",
+          ""
+        ],
+        [
+          "osburne",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Counisby and John Dubton Colt Esq<sw-ex>uire</sw-ex>s for Kull Alexander osburne",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        51
+      ],
+      "user_ids": [
+        1347003.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        279.67,
+        923.21
+      ],
+      "clusters_y": [
+        1155.22,
+        1144.2800000000002
+      ],
+      "clusters_text": [
+        [
+          "Esq<sw-sup>r</sw-sup>",
+          ""
+        ],
+        [
+          "for",
+          ""
+        ],
+        [
+          "Hull",
+          ""
+        ],
+        [
+          "Alexand<sw-ex>e</sw-ex><sw-sup>r</sw-sup>",
+          ""
+        ],
+        [
+          "osburne",
+          "Osburne"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Esq<sw-sup>r</sw-sup> for Hull Alexand<sw-ex>e</sw-ex><sw-sup>r</sw-sup> osburne",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        23
+      ],
+      "user_ids": [
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        280.19,
+        886.905
+      ],
+      "clusters_y": [
+        1219.805,
+        1207.77
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "William",
+          "Will<sw-ex>iam</sw-ex>"
+        ],
+        [
+          "S<sw-sup>t</sw-sup>",
+          "S<sw-sup>t</sw-sup>"
+        ],
+        [
+          "Quinton",
+          "Quinton"
+        ],
+        [
+          "Esq<sw-ex>uire</sw-ex>s",
+          "Esq<sw-ex>uire</sw-ex>s"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "and William S<sw-sup>t</sw-sup> Quinton Esq<sw-ex>uire</sw-ex>s",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        23,
+        24
+      ],
+      "user_ids": [
+        1347003.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        278.5,
+        860.2
+      ],
+      "clusters_y": [
+        1268.92,
+        1277.06
+      ],
+      "clusters_text": [
+        [
+          "for",
+          ""
+        ],
+        [
+          "Theden",
+          ""
+        ],
+        [
+          "Lord",
+          "Lord"
+        ],
+        [
+          "Spencer",
+          "Spencer"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "for Theden Lord Spencer and",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        26
+      ],
+      "user_ids": [
+        1347003.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.15,
+        935.91
+      ],
+      "clusters_y": [
+        1327.2366666666667,
+        1341.1
+      ],
+      "clusters_text": [
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-sup>r</sw-sup>"
+        ],
+        [
+          "w<sw-sup>m</sw-sup>",
+          "will<sw-ex>ia</sw-ex><sw-sup>m</sw-sup>.",
+          "W<sw-ex>illia</sw-ex>m"
+        ],
+        [
+          "Trumball",
+          "Trumball",
+          "Trumball"
+        ],
+        [
+          "new",
+          "new",
+          "new"
+        ],
+        [
+          "Castle",
+          "Castle",
+          "Castle"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.4,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> w<sw-sup>m</sw-sup> Trumball new Castle",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        25,
+        20,
+        27
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.3533333333333,
+        929.16
+      ],
+      "clusters_y": [
+        1377.58,
+        1392.9433333333334
+      ],
+      "clusters_text": [
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-sup>r</sw-sup>"
+        ],
+        [
+          "John",
+          "John",
+          "John"
+        ],
+        [
+          "Levison",
+          "Levison",
+          "Levison"
+        ],
+        [
+          "Gower",
+          "Gower",
+          "Gower"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "John",
+          "John",
+          "John"
+        ],
+        [
+          "Levison",
+          "Levison",
+          "Levison"
+        ],
+        [
+          "",
+          "Gower",
+          ""
+        ],
+        [
+          "",
+          "for",
+          ""
+        ],
+        [
+          "",
+          "Huntington",
+          ""
+        ],
+        [
+          "",
+          "<sw-del>Stuart</sw-del>",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.1818181818181817,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> John Levison Gower and John Levison Gower for Huntington <sw-del>Stuart</sw-del>",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        26,
+        21,
+        28
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        280.775,
+        911.1800000000001
+      ],
+      "clusters_y": [
+        1445.345,
+        1446.165
+      ],
+      "clusters_text": [
+        [
+          "Gower",
+          "Gower"
+        ],
+        [
+          "Esq<sw-ex>uire</sw-ex>s",
+          "Esq<sw-ex>uire</sw-ex>s"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Huntington",
+          "Huntington"
+        ],
+        [
+          "<sw-del>Shire</sw-del>",
+          "Shire"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Gower Esq<sw-ex>uire</sw-ex>s for Huntington <sw-del>Shire</sw-del>",
+      "line_slope": 0.09786339840378673,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        27,
+        29
+      ],
+      "user_ids": [
+        1347003.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        204.675,
+        211.60500000000002
+      ],
+      "clusters_y": [
+        1478.505,
+        152.71499999999997
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Charles",
+          "Charles"
+        ],
+        [
+          "Becke",
+          "Bertie"
+        ],
+        [
+          "Esq<sw-ex>uire</sw-ex>s",
+          "Esq<sw-sup>rs</sw-sup>"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Cambridge",
+          "Cambridge"
+        ],
+        [
+          "Citty",
+          "Citty"
+        ],
+        [
+          "John",
+          "John"
+        ],
+        [
+          "Peppys",
+          "Pepys"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Isaack",
+          "Isack"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6363636363636365,
+      "consensus_text": "and Charles Becke Esq<sw-ex>uire</sw-ex>s for Cambridge Citty John Peppys and Isaack",
+      "line_slope": -89.7032754186045,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        23
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 25,
+  "transcribed_lines": 25,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

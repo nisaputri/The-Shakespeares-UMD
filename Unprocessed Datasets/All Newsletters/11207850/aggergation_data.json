@@ -1,0 +1,149 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        60.85,
+        55.57
+      ],
+      "clusters_y": [
+        357.725,
+        65.91
+      ],
+      "clusters_text": [
+        [
+          "1709",
+          "1709"
+        ],
+        [
+          "July",
+          "July"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "</sl>26<sw-sup>th",
+          "26<sw-sup>th</sw-sup>"
+        ],
+        [
+          "</sw-sup>D.N",
+          "S."
+        ],
+        [
+          "",
+          "N."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "1709 July <brev-y>th</brev-y><sl>e </sl>26<sw-sup>th </sw-sup>D.N N.",
+      "line_slope": -91.01171103597746,
+      "slope_label": 2,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1627866.0,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        443.62,
+        426.795
+      ],
+      "clusters_y": [
+        833.755,
+        576.67
+      ],
+      "clusters_text": [
+        [
+          "Warwickshire",
+          "Warwickshire"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Warwickshire",
+      "line_slope": -93.89162928485366,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        1627866.0,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        391.23,
+        361.985
+      ],
+      "clusters_y": [
+        892.8499999999999,
+        619.47
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "Att"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "At Arbury",
+      "line_slope": -96.18403247147008,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        254.66,
+        944.905
+      ],
+      "clusters_y": [
+        336.39,
+        341.21000000000004
+      ],
+      "clusters_text": [
+        [
+          "Generall",
+          "Generall"
+        ],
+        [
+          "as",
+          "as"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "next",
+          "next"
+        ],
+        [
+          "years",
+          "years"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Generall as to the next years",
+      "line_slope": 0.4249271329006215,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        7
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.425,
+        973.0450000000001
+      ],
+      "clusters_y": [
+        720.1600000000001,
+        727.0250000000001
+      ],
+      "clusters_text": [
+        [
+          "Convoy",
+          "Convoy"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "five",
+          "five"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "Majesty's",
+          "Majestys"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Convoy of five of her Majesty's",
+      "line_slope": 0.4249271329006215,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        13
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

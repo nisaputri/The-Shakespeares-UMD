@@ -1,0 +1,126 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        83.66,
+        889.7249999999999
+      ],
+      "clusters_y": [
+        60.93,
+        60.43
+      ],
+      "clusters_text": [
+        [
+          "shall",
+          "shall"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "new",
+          "now"
+        ],
+        [
+          "power",
+          "power"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Jncorporate",
+          "Incorporate"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "shall have new power to Jncorporate the",
+      "line_slope": -0.19364026171652282,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        352990.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        90.025,
+        577.05
+      ],
+      "clusters_y": [
+        152.48,
+        141.775
+      ],
+      "clusters_text": [
+        [
+          "Sum<sw-ex>m</sw-ex>er",
+          "Sum<sw-ex>m</sw-ex>er"
+        ],
+        [
+          "att",
+          "att"
+        ],
+        [
+          "Tower",
+          "Dower"
+        ],
+        [
+          "Castle",
+          "Castle"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Sum<sw-ex>m</sw-ex>er att Tower Castle",
+      "line_slope": -1.2576192386016312,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        2
+      ],
+      "user_ids": [
+        1347003.0,
+        352990.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

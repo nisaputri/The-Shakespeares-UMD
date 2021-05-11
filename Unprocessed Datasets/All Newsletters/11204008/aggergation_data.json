@@ -1,0 +1,150 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        67.0,
+        962.6800000000001
+      ],
+      "clusters_y": [
+        1088.7849999999999,
+        1121.4099999999999
+      ],
+      "clusters_text": [
+        [
+          "Thursday",
+          "Thursday"
+        ],
+        [
+          "night",
+          "night"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Appointed",
+          "Appointed"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Queens",
+          "Queens"
+        ],
+        [
+          "Lying",
+          "Lying"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Thursday night is Appointed for the Queens Lying",
+      "line_slope": 2.1731332740449165,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        64.45,
+        944.71
+      ],
+      "clusters_y": [
+        1138.27,
+        1176.74
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "Interrment",
+          "Interrment"
+        ],
+        [
+          "friday",
+          "ffriday"
+        ],
+        [
+          "",
+          "7"
+        ],
+        [
+          "night",
+          "night"
+        ],
+        [
+          "affter",
+          "After"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5555555555555556,
+      "consensus_text": "in State and her Interrment friday 7 night affter",
+      "line_slope": 2.1731332740449165,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        4
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

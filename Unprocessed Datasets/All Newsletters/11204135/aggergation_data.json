@@ -1,0 +1,127 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        910.135,
+        906.0799999999999
+      ],
+      "clusters_y": [
+        78.99,
+        318.775
+      ],
+      "clusters_text": [
+        [
+          "4",
+          "4"
+        ],
+        [
+          "May",
+          "May"
+        ],
+        [
+          "95",
+          "95"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "4 May 95",
+      "line_slope": 90.94285481505653,
+      "slope_label": 4,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        219.99333333333334,
+        208.0666666666667
+      ],
+      "clusters_y": [
+        1313.2566666666664,
+        641.3233333333333
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The",
+          "The"
+        ],
+        [
+          "Knoble",
+          "Hon<sw-ex>oura</sw-ex>ble",
+          "Ho<sw-ex>norable</sw-ex>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richd",
+          "Rich<sw-ex>ar</sw-ex>d",
+          "Rich<sw-ex>ar</sw-ex>d"
+        ],
+        [
+          "Rudigawor",
+          "Nudigate",
+          "Nudigate"
+        ],
+        [
+          "",
+          "Bar<sw-ex>one</sw-ex>t",
+          "Bar<sw-ex>one</sw-ex>t"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.1666666666666665,
+      "consensus_text": "The Knoble S<sw-ex>i</sw-ex><sl>r</sl> Rich<sw-ex>ar</sw-ex>d Nudigate Bar<sw-ex>one</sw-ex>t",
+      "line_slope": -90.94114433090061,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        429539.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

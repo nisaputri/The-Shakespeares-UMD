@@ -1,0 +1,201 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        255.11,
+        871.87
+      ],
+      "clusters_y": [
+        511.6,
+        482.05
+      ],
+      "clusters_text": [
+        [
+          "who",
+          "who"
+        ],
+        [
+          "vpon",
+          "upon"
+        ],
+        [
+          "advice",
+          "advice"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Carriars",
+          ""
+        ],
+        [
+          "be<sw-unclear>ing</sw-unclear>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "who vpon advice of the Carriars be<sw-unclear>ing</sw-unclear>",
+      "line_slope": -2.7249793220695264,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        3697.0,
+        1916027.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.88,
+        889.61
+      ],
+      "clusters_y": [
+        643.78,
+        619.31
+      ],
+      "clusters_text": [
+        [
+          "Trade",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "On",
+          "On"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "29<sw-sup>th</sw-sup>",
+          "29th"
+        ],
+        [
+          "past",
+          "past"
+        ],
+        [
+          "Came",
+          ""
+        ],
+        [
+          "in<sw-unclear>",
+          ""
+        ],
+        [
+          "here</sw-unclear>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "Trade - On the 29<sw-sup>th</sw-sup> past Came in<sw-unclear> here</sw-unclear>",
+      "line_slope": -2.7249793220695264,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        1916027.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        357.73,
+        928.255
+      ],
+      "clusters_y": [
+        1090.375,
+        1069.02
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "E<sw-ex>arle</sw-ex>.",
+          "E."
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Galloway",
+          "Galloway"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "Received",
+          "Received"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "The E<sw-ex>arle</sw-ex>. of Galloway has Received",
+      "line_slope": -2.7249793220695264,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

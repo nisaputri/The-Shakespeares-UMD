@@ -1,0 +1,409 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        289.51,
+        926.675
+      ],
+      "clusters_y": [
+        145.96,
+        115.715
+      ],
+      "clusters_text": [
+        [
+          "John",
+          ""
+        ],
+        [
+          "<sw-unclear>Seuk</sw-unclear>",
+          ""
+        ],
+        [
+          "being",
+          "being"
+        ],
+        [
+          "joyned",
+          "Ioyned"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "Sir",
+          "S<sw-sup>r</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "John <sw-unclear>Seuk</sw-unclear> being joyned with Sir",
+      "line_slope": -3.269723753989198,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2
+      ],
+      "user_ids": [
+        771205.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.17,
+        946.075
+      ],
+      "clusters_y": [
+        228.1,
+        191.135
+      ],
+      "clusters_text": [
+        [
+          "Thomas",
+          ""
+        ],
+        [
+          "Dylkes",
+          ""
+        ],
+        [
+          "would",
+          "would"
+        ],
+        [
+          "meet",
+          "meet"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "him",
+          "him"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Thomas Dylkes would meet with him",
+      "line_slope": -3.269723753989198,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        4
+      ],
+      "user_ids": [
+        771205.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        268.78999999999996,
+        912.24
+      ],
+      "clusters_y": [
+        707.655,
+        673.9449999999999
+      ],
+      "clusters_text": [
+        [
+          "Mallborough",
+          "Mallborough"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "we",
+          "we"
+        ],
+        [
+          "hear",
+          "hear"
+        ],
+        [
+          "from",
+          "from"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Mallborough - we hear from",
+      "line_slope": -3.269723753989198,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        10
+      ],
+      "user_ids": [
+        771205.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        278.565,
+        920.1600000000001
+      ],
+      "clusters_y": [
+        976.5150000000001,
+        932.1800000000001
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Queen",
+          "Queen"
+        ],
+        [
+          "",
+          "("
+        ],
+        [
+          "(by",
+          "by"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "inter<sw-unclear>....</sw-unclear>",
+          "intercession"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "of the Queen ( (by the inter<sw-unclear>....</sw-unclear>",
+      "line_slope": -3.269723753989198,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        13
+      ],
+      "user_ids": [
+        771205.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.28,
+        899.88
+      ],
+      "clusters_y": [
+        1131.185,
+        1101.23
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "ffrance",
+          "ffrance"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "three",
+          "three"
+        ],
+        [
+          "months<sw-del>.....</sw-del>passed",
+          "months"
+        ],
+        [
+          "",
+          "passed"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "to ffrance for three months<sw-del>.....</sw-del>passed passed",
+      "line_slope": -3.269723753989198,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        15
+      ],
+      "user_ids": [
+        771205.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.5,
+        891.69
+      ],
+      "clusters_y": [
+        1219.88,
+        1175.105
+      ],
+      "clusters_text": [
+        [
+          "thro",
+          "thro"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "place",
+          "place"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "order",
+          "order"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "goe",
+          "goe"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "thro that place in order to goe to",
+      "line_slope": -3.269723753989198,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        16
+      ],
+      "user_ids": [
+        771205.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        276.075,
+        881.0699999999999
+      ],
+      "clusters_y": [
+        1407.5900000000001,
+        1356.0349999999999
+      ],
+      "clusters_text": [
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "parole",
+          "parole"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "honour.",
+          "honour"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "upon their parole of honour.",
+      "line_slope": -3.269723753989198,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        0
+      ],
+      "user_ids": [
+        771205.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 7,
+  "transcribed_lines": 7,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

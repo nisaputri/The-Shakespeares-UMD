@@ -1,0 +1,1357 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        202.55000000000004,
+        216.72000000000003
+      ],
+      "clusters_y": [
+        38.699999999999996,
+        1493.9166666666667
+      ],
+      "clusters_text": [
+        [
+          "down",
+          "down",
+          "down"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "Harwich",
+          "Harwich",
+          "Harwich"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "Embarque",
+          "Embarque",
+          "Embarque"
+        ],
+        [
+          "for",
+          "for",
+          "for"
+        ],
+        [
+          "fflanders",
+          "fflanders",
+          "Flanders"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "Serve",
+          "serve",
+          "Serve"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Army",
+          "Army",
+          "Army"
+        ],
+        [
+          "under",
+          "under",
+          "under"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8461538461538463,
+      "consensus_text": "down to Harwich to Embarque for fflanders to Serve in the Army under",
+      "line_slope": 89.40066542846559,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        19,
+        19
+      ],
+      "user_ids": [
+        1708223.0,
+        1627866.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        135.015,
+        158.865
+      ],
+      "clusters_y": [
+        41.489999999999995,
+        1506.0149999999999
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Marlborough",
+          "Marlborough"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Marquess",
+          "Marquess"
+        ],
+        [
+          "De",
+          "De"
+        ],
+        [
+          "Quesne",
+          "Quesne"
+        ],
+        [
+          "haveing",
+          "haveing"
+        ],
+        [
+          "Received",
+          "Received"
+        ],
+        [
+          "a",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the Duke of Marlborough - The Marquess De Quesne haveing Received a",
+      "line_slope": 89.40066542846559,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        0
+      ],
+      "user_ids": [
+        1682843.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.79500000000002,
+        952.8575000000001
+      ],
+      "clusters_y": [
+        87.115,
+        87.8025
+      ],
+      "clusters_text": [
+        [
+          "ffrench",
+          "French",
+          "ffrench",
+          "ffrench"
+        ],
+        [
+          "Troopes",
+          "Trooped",
+          "Troopes",
+          "Troopes"
+        ],
+        [
+          "are",
+          "are",
+          "are",
+          "are"
+        ],
+        [
+          "on",
+          "on",
+          "on",
+          "on"
+        ],
+        [
+          "their",
+          "their",
+          "their",
+          "their"
+        ],
+        [
+          "March",
+          "March",
+          "March",
+          "March"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.6666666666666665,
+      "consensus_text": "ffrench Troopes are on their March",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        0,
+        0,
+        1
+      ],
+      "user_ids": [
+        1627866.0,
+        1682843.0,
+        1386627.0,
+        1347003.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        257.22,
+        928.8733333333333
+      ],
+      "clusters_y": [
+        189.99333333333334,
+        176.96
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "Alsace",
+          "Alsace",
+          "Alsace"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "fflanders",
+          "fflanders",
+          "Flanders"
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "The",
+          "The",
+          "The"
+        ],
+        [
+          "loss",
+          "loss",
+          "loss"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.857142857142857,
+      "consensus_text": "from Alsace to fflanders - The loss",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        9,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        1627866.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.06333333333336,
+        956.5233333333334
+      ],
+      "clusters_y": [
+        260.46666666666664,
+        263.04
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Confederates",
+          "Confederates",
+          "Confederates"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "seige",
+          "Seige",
+          "Siege"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.7142857142857144,
+      "consensus_text": "of the Confederates in the seige of",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        2,
+        1
+      ],
+      "user_ids": [
+        1627866.0,
+        1682843.0,
+        1386627.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.6825,
+        949.0325
+      ],
+      "clusters_y": [
+        354.845,
+        350.95
+      ],
+      "clusters_text": [
+        [
+          "Tournay",
+          "Tournay",
+          "Tournay",
+          "Tournay"
+        ],
+        [
+          "to",
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "24th",
+          "24<sw-sup>th</sw-sup>.",
+          "24.<sw-sup>th</sw-sup>",
+          "24<sw-sup>th</sw-sup>"
+        ],
+        [
+          "Instant",
+          "Instant",
+          "Instant",
+          "Instant"
+        ],
+        [
+          "Appears",
+          "Appears",
+          "Appears",
+          "Appears"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.5,
+      "consensus_text": "Tournay to the 24th Instant Appears",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        11,
+        3,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        1627866.0,
+        1682843.0,
+        1386627.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        249.88333333333333,
+        946.8233333333334
+      ],
+      "clusters_y": [
+        438.91,
+        434.3566666666666
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be",
+          "be"
+        ],
+        [
+          "only",
+          "only",
+          "only"
+        ],
+        [
+          "238",
+          "238",
+          "238"
+        ],
+        [
+          "Men",
+          "Men",
+          "Men"
+        ],
+        [
+          "killed",
+          "killed",
+          "killed"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "489",
+          "489",
+          "489"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "to be only 238 Men killed and 489",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        12,
+        4
+      ],
+      "user_ids": [
+        1708223.0,
+        1627866.0,
+        1682843.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        246.1866666666667,
+        954.9033333333333
+      ],
+      "clusters_y": [
+        518.2566666666667,
+        516.52
+      ],
+      "clusters_text": [
+        [
+          "Men",
+          "men",
+          "Men"
+        ],
+        [
+          "Wounded",
+          "Wounded",
+          "Wounded"
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "A",
+          "A",
+          "A"
+        ],
+        [
+          "Design",
+          "Design",
+          "Design"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "betray",
+          "betray",
+          "betray"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.857142857142857,
+      "consensus_text": "Men Wounded - A Design to betray",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        13,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        1627866.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.49,
+        946.665
+      ],
+      "clusters_y": [
+        589.145,
+        580.67
+      ],
+      "clusters_text": [
+        [
+          "Antwerp",
+          "Antwerp"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "he",
+          "the"
+        ],
+        [
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Bavaria",
+          "Bavaria"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Antwerp to he Duke of Bavaria",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        6
+      ],
+      "user_ids": [
+        1627866.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.605,
+        958.79
+      ],
+      "clusters_y": [
+        668.9949999999999,
+        654.1600000000001
+      ],
+      "clusters_text": [
+        [
+          "has",
+          "has"
+        ],
+        [
+          "been",
+          "been"
+        ],
+        [
+          "Discovered",
+          "Discovered"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "severall",
+          "Severall"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "has been Discovered and severall",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        7
+      ],
+      "user_ids": [
+        1627866.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.09666666666666,
+        960.2800000000001
+      ],
+      "clusters_y": [
+        673.57,
+        664.6766666666667
+      ],
+      "clusters_text": [
+        [
+          "has",
+          "has",
+          "has"
+        ],
+        [
+          "been",
+          "been",
+          "been"
+        ],
+        [
+          "Discovered",
+          "Discovered",
+          "Discovered"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "Severall",
+          "severall",
+          "severall"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "has been Discovered and severall",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        3,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        1386627.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.76,
+        965.2333333333332
+      ],
+      "clusters_y": [
+        741.1199999999999,
+        735.9699999999999
+      ],
+      "clusters_text": [
+        [
+          "persons",
+          "persons",
+          "persons"
+        ],
+        [
+          "on",
+          "on",
+          "on"
+        ],
+        [
+          "that",
+          "that",
+          "that"
+        ],
+        [
+          "Account",
+          "Account",
+          "Account"
+        ],
+        [
+          "are",
+          "are",
+          "are"
+        ],
+        [
+          "secured",
+          "Secured",
+          "secured"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8333333333333335,
+      "consensus_text": "persons on that Account are secured",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        8,
+        4
+      ],
+      "user_ids": [
+        1627866.0,
+        1682843.0,
+        1386627.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.64666666666665,
+        962.7999999999998
+      ],
+      "clusters_y": [
+        820.4733333333334,
+        812.18
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "under",
+          "under",
+          "under"
+        ],
+        [
+          "Examination",
+          "Examination",
+          "Examination"
+        ],
+        [
+          "--",
+          "-",
+          "-"
+        ],
+        [
+          "Monsieur",
+          "Monsieur",
+          "Monsieur"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "and under Examination - Monsieur",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        17,
+        9
+      ],
+      "user_ids": [
+        1708223.0,
+        1627866.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.89,
+        938.26
+      ],
+      "clusters_y": [
+        875.595,
+        874.815
+      ],
+      "clusters_text": [
+        [
+          "surville",
+          "Surville"
+        ],
+        [
+          "Governour",
+          "Governor"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Tournay",
+          "Tournay"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "surville Governour of Tournay",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        5
+      ],
+      "user_ids": [
+        1627866.0,
+        1386627.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.8,
+        935.62
+      ],
+      "clusters_y": [
+        891.3,
+        885.2950000000001
+      ],
+      "clusters_text": [
+        [
+          "Surville",
+          "Turville"
+        ],
+        [
+          "Governour",
+          "Governour"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Tournay",
+          "Tournay"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Surville Governour of Tournay",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        10
+      ],
+      "user_ids": [
+        1708223.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.565,
+        936.5325
+      ],
+      "clusters_y": [
+        958.0374999999999,
+        958.46
+      ],
+      "clusters_text": [
+        [
+          "having",
+          "having",
+          "haveing",
+          "having"
+        ],
+        [
+          "opened",
+          "Opened",
+          "Opened",
+          "Opened"
+        ],
+        [
+          "the",
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "the",
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "sluices",
+          "sluices",
+          "Sluices",
+          "sluices"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.4,
+      "consensus_text": "having Opened the the sluices",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        6,
+        11,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        1627866.0,
+        1682843.0,
+        1386627.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        268.89,
+        958.77
+      ],
+      "clusters_y": [
+        1031.3899999999999,
+        1031.105
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "<sw-unclear>Schold</sw-unclear>",
+          "schold"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "almost",
+          "almost"
+        ],
+        [
+          "drowned",
+          "drowned"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "of the <sw-unclear>Schold</sw-unclear> has almost drowned",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        7
+      ],
+      "user_ids": [
+        1708223.0,
+        1386627.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.37,
+        935.845
+      ],
+      "clusters_y": [
+        1174.705,
+        1173.945
+      ],
+      "clusters_text": [
+        [
+          "so",
+          "So"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "severall",
+          "Severall"
+        ],
+        [
+          "places",
+          "places"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "so that in severall places the",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        14
+      ],
+      "user_ids": [
+        1627866.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.375,
+        951.495
+      ],
+      "clusters_y": [
+        1322.4499999999998,
+        1328.275
+      ],
+      "clusters_text": [
+        [
+          "is",
+          "is"
+        ],
+        [
+          "feared",
+          "feared"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "Retard",
+          "Retard"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "takeing",
+          "takeing"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "is feared will Retard the takeing of",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        16
+      ],
+      "user_ids": [
+        1627866.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        256.195,
+        968.125
+      ],
+      "clusters_y": [
+        1396.88,
+        1412.71
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Town",
+          "Town"
+        ],
+        [
+          "7",
+          "7"
+        ],
+        [
+          "Dayes",
+          "Dayes"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Last",
+          "Last"
+        ],
+        [
+          "Week",
+          "Week"
+        ],
+        [
+          "about",
+          "about"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the Town 7 Dayes - Last Week about",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        17
+      ],
+      "user_ids": [
+        1708223.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.865,
+        971.645
+      ],
+      "clusters_y": [
+        1470.58,
+        1476.9850000000001
+      ],
+      "clusters_text": [
+        [
+          "60",
+          "60"
+        ],
+        [
+          "Engineers",
+          "Engineers"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Bombardeers",
+          "Bombardeers"
+        ],
+        [
+          "were",
+          "went"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "60 Engineers and Bombardeers were",
+      "line_slope": -0.1409556493757133,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        18
+      ],
+      "user_ids": [
+        1708223.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 17,
+  "transcribed_lines": 21,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

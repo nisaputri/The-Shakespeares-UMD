@@ -1,0 +1,296 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        217.755,
+        945.11
+      ],
+      "clusters_y": [
+        101.475,
+        91.93
+      ],
+      "clusters_text": [
+        [
+          "But",
+          "But"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "result",
+          "result"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "kept",
+          "kept"
+        ],
+        [
+          "private",
+          "private"
+        ],
+        [
+          "however",
+          "however"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "But the result of them is kept private however",
+      "line_slope": -0.09262738673604791,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        352990.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        219.20499999999998,
+        946.6949999999999
+      ],
+      "clusters_y": [
+        146.405,
+        135.01
+      ],
+      "clusters_text": [
+        [
+          "there",
+          "there"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "no",
+          "no"
+        ],
+        [
+          "talk",
+          "talk"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Peace",
+          "Peace"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "so",
+          "so"
+        ],
+        [
+          "much",
+          "much"
+        ],
+        [
+          "desired",
+          "desired"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "there is no talk of a Peace w<sw-ex>hi</sw-ex><sl>ch</sl> is so much desired",
+      "line_slope": -0.09262738673604791,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        352990.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        343.05999999999995,
+        966.855
+      ],
+      "clusters_y": [
+        622.31,
+        625.47
+      ],
+      "clusters_text": [
+        [
+          "There",
+          "There"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "advice",
+          "advice"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Spain",
+          "Spain"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "K<sw-ex>ing</sw-ex>",
+          "K."
+        ],
+        [
+          "Phillip",
+          "Phillip"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "There is advice from Spain that K<sw-ex>ing</sw-ex> Phillip",
+      "line_slope": -0.09262738673604791,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        2
+      ],
+      "user_ids": [
+        352990.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        224.875,
+        963.89
+      ],
+      "clusters_y": [
+        675.9300000000001,
+        672.965
+      ],
+      "clusters_text": [
+        [
+          "has",
+          "has"
+        ],
+        [
+          "ordered",
+          "ordered"
+        ],
+        [
+          "sev<sw-ex>er</sw-ex>all",
+          "Sev<sw-sup>ll</sw-sup>"
+        ],
+        [
+          "Grandees",
+          "Grandees"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "retired",
+          "retired"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "Country",
+          "Country"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "has ordered sev<sw-ex>er</sw-ex>all Grandees that retired to their Country",
+      "line_slope": -0.09262738673604791,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        3
+      ],
+      "user_ids": [
+        352990.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

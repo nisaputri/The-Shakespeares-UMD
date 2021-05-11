@@ -1,0 +1,205 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        106.025,
+        113.88
+      ],
+      "clusters_y": [
+        362.77,
+        20.485
+      ],
+      "clusters_text": [
+        [
+          "March",
+          "March"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "31<sw-sup>th</sw-sup>",
+          "31<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1709",
+          "1709"
+        ],
+        [
+          "D",
+          "D"
+        ],
+        [
+          "N",
+          "N"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "March <brev-y>th</brev-y><sl>e</sl> 31<sw-sup>th</sw-sup> 1709 D N",
+      "line_slope": -88.68539742488223,
+      "slope_label": 5,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        190714.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        516.615,
+        508.01
+      ],
+      "clusters_y": [
+        1007.97,
+        723.735
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ],
+        [
+          "Bag.",
+          "Bag."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry Bag.",
+      "line_slope": -91.73720075987484,
+      "slope_label": 4,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        3697.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        275.91,
+        244.995
+      ],
+      "clusters_y": [
+        1032.21,
+        545.3199999999999
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Rich<sw-sup>d</sw-sup>",
+          "Rich<sw-ex>ard</sw-ex>"
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Rich<sw-sup>d</sw-sup> Newdigate",
+      "line_slope": -93.7170699410343,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        404.53,
+        367.22
+      ],
+      "clusters_y": [
+        911.83,
+        564.66
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "At Arbury",
+      "line_slope": -95.76086748262597,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3,
+        4
+      ],
+      "user_ids": [
+        1708223.0,
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": false
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

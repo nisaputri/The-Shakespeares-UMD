@@ -1,0 +1,79 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        258.34000000000003,
+        946.005
+      ],
+      "clusters_y": [
+        170.43,
+        163.135
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "towne",
+          "Towne"
+        ],
+        [
+          "",
+          "[Town]"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Spayne",
+          "Spayne"
+        ],
+        [
+          "",
+          "[Spain]"
+        ],
+        [
+          "Importing",
+          "Importing"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "in towne [Town] from Spayne [Spain] Importing",
+      "line_slope": -0.10744250458064276,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

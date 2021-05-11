@@ -1,0 +1,296 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        250.10999999999999,
+        930.86
+      ],
+      "clusters_y": [
+        180.72,
+        183.24
+      ],
+      "clusters_text": [
+        [
+          "Satisfaction",
+          "satisfaction"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "the",
+          "this"
+        ],
+        [
+          "Murther",
+          "murthor"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "Satisfaction for the Murther of",
+      "line_slope": -0.10876359294484768,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.8166666666667,
+        943.1033333333334
+      ],
+      "clusters_y": [
+        253.88666666666668,
+        261.74
+      ],
+      "clusters_text": [
+        [
+          "two",
+          "two",
+          "two"
+        ],
+        [
+          "Turkey",
+          "Turkey",
+          "Turkey"
+        ],
+        [
+          "Merchants",
+          "Merchants",
+          "merchants"
+        ],
+        [
+          "by",
+          "by",
+          "by"
+        ],
+        [
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "party",
+          "party",
+          "party"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8333333333333335,
+      "consensus_text": "two Turkey Merchants by a party",
+      "line_slope": -0.10876359294484768,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.48,
+        915.06
+      ],
+      "clusters_y": [
+        420.15,
+        427.32500000000005
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Commanding",
+          "Commanding"
+        ],
+        [
+          "Officer",
+          "Officer"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "that",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the Commanding Officer of that",
+      "line_slope": -0.10876359294484768,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.31,
+        922.03
+      ],
+      "clusters_y": [
+        501.1,
+        504.38
+      ],
+      "clusters_text": [
+        [
+          "party",
+          "party"
+        ],
+        [
+          "then",
+          "than"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Town",
+          "Town"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "after",
+          "after"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "party then in Town and after",
+      "line_slope": -0.10876359294484768,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        234.28,
+        950.815
+      ],
+      "clusters_y": [
+        568.015,
+        578.95
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "a"
+        ],
+        [
+          "full",
+          "full"
+        ],
+        [
+          "Examination",
+          "Examination,"
+        ],
+        [
+          "he",
+          "he"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "Beheaded",
+          "beheaded"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "a full Examination he was Beheaded",
+      "line_slope": -0.10876359294484768,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        4
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

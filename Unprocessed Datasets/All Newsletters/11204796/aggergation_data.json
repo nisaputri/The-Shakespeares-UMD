@@ -1,0 +1,108 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        294.51,
+        281.85
+      ],
+      "clusters_y": [
+        1004.09,
+        1210.02
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At",
+          "At"
+        ],
+        [
+          "Azbury",
+          "Azbury",
+          "Azbury"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "At Azbury",
+      "line_slope": 93.62819772350934,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        1
+      ],
+      "user_ids": [
+        753654.0,
+        753654.0,
+        753654.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        214.33,
+        196.61
+      ],
+      "clusters_y": [
+        980.46,
+        1237.03
+      ],
+      "clusters_text": [
+        [
+          "near",
+          "near",
+          "near"
+        ],
+        [
+          "Covenfry",
+          "Covenfry",
+          "Covenfry"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "near Covenfry",
+      "line_slope": 93.62819772350934,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        753654.0,
+        753654.0,
+        753654.0
+      ],
+      "low_consensus": false
+    }
+  ],
+  "low_consensus_lines": 0,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        330.325,
+        326.145
+      ],
+      "clusters_y": [
+        1167.6100000000001,
+        732.975
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At",
+          ""
+        ],
+        [
+          "Arbury",
+          "Arbury",
+          ""
+        ],
+        [
+          "near",
+          "",
+          "noar"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "At Arbury near",
+      "line_slope": -90.93289317717577,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        2
+      ],
+      "user_ids": [
+        null,
+        1907746.0,
+        1907746.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        413.735,
+        409.39
+      ],
+      "clusters_y": [
+        922.205,
+        682.325
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": -90.93289317717577,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        1907746.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

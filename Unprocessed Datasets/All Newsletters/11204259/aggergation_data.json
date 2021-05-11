@@ -1,0 +1,450 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        233.82,
+        942.2866666666667
+      ],
+      "clusters_y": [
+        141.26,
+        146.09
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Pacqu<sw-ex>e</sw-ex>t",
+          ""
+        ],
+        [
+          "boat",
+          "boat",
+          "boat"
+        ],
+        [
+          "is",
+          "is",
+          "is"
+        ],
+        [
+          "arrived",
+          "arrived",
+          "arrived"
+        ],
+        [
+          "borne",
+          "here",
+          "home"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "with"
+        ],
+        [
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "<sw-unclear><sw-unclear>???</sw-unclear></sw-unclear>",
+          "maile",
+          "mail"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.125,
+      "consensus_text": "Pacqu<sw-ex>e</sw-ex>t boat is arrived borne w<sw-ex>i</sw-ex><sl>th</sl> a <sw-unclear><sw-unclear>???</sw-unclear></sw-unclear>",
+      "line_slope": 0.15764479013347096,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1,
+        3
+      ],
+      "user_ids": [
+        1810830.0,
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.74,
+        903.75
+      ],
+      "clusters_y": [
+        182.54666666666665,
+        182.49
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "Holland",
+          "Holland",
+          "Holland"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "on",
+          "on",
+          "on"
+        ],
+        [
+          "board",
+          "board",
+          "board"
+        ],
+        [
+          "him",
+          "him",
+          "him"
+        ],
+        [
+          "",
+          "3",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.7142857142857144,
+      "consensus_text": "from Holland and on board him 3",
+      "line_slope": 0.15764479013347096,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2,
+        4
+      ],
+      "user_ids": [
+        1810830.0,
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.99,
+        906.645
+      ],
+      "clusters_y": [
+        224.29,
+        220.18
+      ],
+      "clusters_text": [
+        [
+          "Mast<sw-ex>er</sw-ex>s",
+          "",
+          ""
+        ],
+        [
+          "from",
+          "from",
+          ""
+        ],
+        [
+          "Dunkirk",
+          "Dunkirk",
+          ""
+        ],
+        [
+          "who",
+          "",
+          "who"
+        ],
+        [
+          "had",
+          "",
+          "had"
+        ],
+        [
+          "payd",
+          "",
+          "said"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Mast<sw-ex>er</sw-ex>s from Dunkirk who had payd",
+      "line_slope": 0.15764479013347096,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        0,
+        6
+      ],
+      "user_ids": [
+        429539.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        239.55,
+        932.38
+      ],
+      "clusters_y": [
+        352.55,
+        348.54
+      ],
+      "clusters_text": [
+        [
+          "Castle",
+          ""
+        ],
+        [
+          "was",
+          ""
+        ],
+        [
+          "bombing",
+          "bombing"
+        ],
+        [
+          "and",
+          ""
+        ],
+        [
+          "tis",
+          ""
+        ],
+        [
+          "believed",
+          ""
+        ],
+        [
+          "would",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1428571428571428,
+      "consensus_text": "Castle was bombing and tis believed would",
+      "line_slope": 0.15764479013347096,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.18666666666664,
+        614.3166666666667
+      ],
+      "clusters_y": [
+        395.53,
+        390.73
+      ],
+      "clusters_text": [
+        [
+          "Surrender",
+          "surrender",
+          "surrender"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "2",
+          "2",
+          "2"
+        ],
+        [
+          "days",
+          "days./",
+          "days."
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.25,
+      "consensus_text": "surrender in 2 days",
+      "line_slope": 0.15764479013347096,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        7,
+        1
+      ],
+      "user_ids": [
+        1810830.0,
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.435,
+        920.9449999999999
+      ],
+      "clusters_y": [
+        788.1700000000001,
+        789.9549999999999
+      ],
+      "clusters_text": [
+        [
+          "they",
+          "they"
+        ],
+        [
+          "flung",
+          "flung"
+        ],
+        [
+          "him",
+          "him"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "ground",
+          "ground"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "broke",
+          "beate"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "they flung him on the ground and broke",
+      "line_slope": 0.15764479013347096,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        16
+      ],
+      "user_ids": [
+        1810830.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        479.08500000000004,
+        925.51
+      ],
+      "clusters_y": [
+        1031.56,
+        1046.53
+      ],
+      "clusters_text": [
+        [
+          "On",
+          "On"
+        ],
+        [
+          "Monday",
+          "monday"
+        ],
+        [
+          "night",
+          "night"
+        ],
+        [
+          "2",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "On Monday night 2",
+      "line_slope": 0.15764479013347096,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        8
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 7,
+  "transcribed_lines": 7,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

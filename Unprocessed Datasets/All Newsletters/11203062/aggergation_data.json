@@ -1,0 +1,204 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        327.1,
+        301.96
+      ],
+      "clusters_y": [
+        722.8,
+        1106.82
+      ],
+      "clusters_text": [
+        [
+          "near",
+          "near"
+        ],
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "near Coventry",
+      "line_slope": 93.83746784016398,
+      "slope_label": 2,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        6
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        496.33,
+        468.355
+      ],
+      "clusters_y": [
+        663.625,
+        1291.73
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ],
+        [
+          "the",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Ho<sw-ex>norable</sw-ex>",
+          "ho<sw-ex>norable</sw-ex>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "Sir"
+        ],
+        [
+          "Rich:",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "To the Ho<sw-ex>norable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl> Rich: Newdigate",
+      "line_slope": 92.21975738826804,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        975.3199999999999,
+        980.05
+      ],
+      "clusters_y": [
+        78.445,
+        323.5
+      ],
+      "clusters_text": [
+        [
+          "48",
+          "48"
+        ],
+        [
+          "",
+          "6)56(9"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "48 6)56(9",
+      "line_slope": 89.02101975842338,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        97.765,
+        201.725
+      ],
+      "clusters_y": [
+        49.81,
+        46.21
+      ],
+      "clusters_text": [
+        [
+          "",
+          ":"
+        ],
+        [
+          "10:10:3",
+          "10"
+        ],
+        [
+          "",
+          ":"
+        ],
+        [
+          "",
+          "10"
+        ],
+        [
+          "",
+          "3"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": ": 10:10:3 : 10 3",
+      "line_slope": -1.9853215199564664,
+      "slope_label": 4,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        352990.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

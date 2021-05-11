@@ -1,0 +1,623 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        52.084999999999994,
+        936.7349999999999
+      ],
+      "clusters_y": [
+        64.155,
+        71.86
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Brittish",
+          "Brittish"
+        ],
+        [
+          "Nation",
+          "Nation"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Yesterday",
+          "Yesterday"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Duke",
+          "Duke"
+        ],
+        [
+          "D<sw-sup>e</sw-sup>.",
+          ""
+        ],
+        [
+          "Aumont",
+          "D'Aumont"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "to <brev-y>th</brev-y><sl>e</sl> Brittish Nation - Yesterday <brev-y>th</brev-y><sl>e</sl> Duke D<sw-sup>e</sw-sup>. Aumont",
+      "line_slope": 0.25775763895516485,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        46.61,
+        921.0699999999999
+      ],
+      "clusters_y": [
+        116.35499999999999,
+        125.1
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "ffrench",
+          "ffrench"
+        ],
+        [
+          "Emb<sw-ex>assa</sw-ex>d<sw-ex>ou</sw-ex><sw-sup>r</sw-sup>.",
+          "Emb<sw-sup>dr</sw-sup>"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "Magnifycently",
+          "Magnifycently"
+        ],
+        [
+          "Entertained",
+          "Entertained"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> ffrench Emb<sw-ex>assa</sw-ex>d<sw-ex>ou</sw-ex><sw-sup>r</sw-sup>. was Magnifycently Entertained",
+      "line_slope": 0.25775763895516485,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        4
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        45.635000000000005,
+        925.415
+      ],
+      "clusters_y": [
+        174.51,
+        171.82
+      ],
+      "clusters_text": [
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Dinner",
+          "Dinner"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Buckingham",
+          "Buckingham"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "House",
+          "House"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "at Dinner by <brev-y>th</brev-y><sl>e</sl> Duke of Buckingham at his House",
+      "line_slope": 0.25775763895516485,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        5
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        40.864999999999995,
+        932.92
+      ],
+      "clusters_y": [
+        314.43,
+        320.095
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "a"
+        ],
+        [
+          "short",
+          "Short"
+        ],
+        [
+          "stay",
+          "Stay"
+        ],
+        [
+          "Returned",
+          "Returned"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "private",
+          "private"
+        ],
+        [
+          "Appartm<sw-ex>en</sw-ex><sl>t</sl>s",
+          "Appartm<sw-sup>ts</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "a short stay Returned to her private Appartm<sw-ex>en</sw-ex><sl>t</sl>s",
+      "line_slope": 0.25775763895516485,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        8
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        44.629999999999995,
+        937.7249999999999
+      ],
+      "clusters_y": [
+        418.96,
+        425.245
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Belcony",
+          "Balcony"
+        ],
+        [
+          "belonging",
+          "belonging"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Gloucester",
+          "Gloucester"
+        ],
+        [
+          "Tavern",
+          "Tavern"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> Belcony belonging to <brev-y>th</brev-y><sl>e</sl> Duke of Gloucester Tavern",
+      "line_slope": 0.25775763895516485,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        11
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        47.035,
+        916.6600000000001
+      ],
+      "clusters_y": [
+        468.485,
+        466.20000000000005
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Pall",
+          "Pall"
+        ],
+        [
+          "Mall",
+          "Mall"
+        ],
+        [
+          "over",
+          "over"
+        ],
+        [
+          "ag<sw-ex>ain</sw-ex><sw-sup>st</sw-sup>",
+          "ag<sw-sup>st</sw-sup>"
+        ],
+        [
+          "S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup>.",
+          "St"
+        ],
+        [
+          "James's",
+          "James's"
+        ],
+        [
+          "House",
+          "House"
+        ],
+        [
+          "being",
+          "being"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "in Pall Mall over ag<sw-ex>ain</sw-ex><sw-sup>st</sw-sup> S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup>. James's House being",
+      "line_slope": 0.25775763895516485,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        10
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        42.3,
+        915.465
+      ],
+      "clusters_y": [
+        519.5450000000001,
+        514.815
+      ],
+      "clusters_text": [
+        [
+          "Crowded",
+          "Crowded"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>.",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "Gent<sw-ex>le</sw-ex>men",
+          "Gent<sw-sup>men</sw-sup>"
+        ],
+        [
+          "fell",
+          "fell"
+        ],
+        [
+          "down",
+          "down"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "2",
+          "2"
+        ],
+        [
+          "Hosiers",
+          "Hosiers"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "Crowded w<sw-ex>i</sw-ex><sl>th</sl>. Gent<sw-ex>le</sw-ex>men fell down & 2 Hosiers of",
+      "line_slope": 0.25775763895516485,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        12
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        39.525,
+        920.2149999999999
+      ],
+      "clusters_y": [
+        661.69,
+        658.315
+      ],
+      "clusters_text": [
+        [
+          "Recover",
+          "Recover"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Horatio",
+          "Horatio"
+        ],
+        [
+          "Walpole",
+          "Walpole"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Modliset",
+          "<sw-unclear>M?????</sw-unclear>"
+        ],
+        [
+          "Esq<sw-ex>uie</sw-ex><sw-sup>rs</sw-sup>",
+          "Esq<sw-ex>uire</sw-ex>s"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "mad",
+          "made"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Recover - Horatio Walpole & Modliset Esq<sw-ex>uie</sw-ex><sw-sup>rs</sw-sup> are mad",
+      "line_slope": 0.25775763895516485,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        15
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        65.385,
+        911.145
+      ],
+      "clusters_y": [
+        775.5350000000001,
+        788.8399999999999
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "room",
+          "room"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "William",
+          "William"
+        ],
+        [
+          "S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup>",
+          "St"
+        ],
+        [
+          "Quintin",
+          "Quintin"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "James",
+          "James"
+        ],
+        [
+          "Southwell",
+          "Southwell"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8181818181818181,
+      "consensus_text": "in the room of S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup> William S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup> Quintin & James Southwell",
+      "line_slope": 0.25775763895516485,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        17
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 9,
+  "transcribed_lines": 9,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

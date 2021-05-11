@@ -1,0 +1,189 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        228.31,
+        215.29
+      ],
+      "clusters_y": [
+        42.36,
+        1457.99
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "with"
+        ],
+        [
+          "the",
+          "ringing"
+        ],
+        [
+          "next",
+          "of"
+        ],
+        [
+          "being",
+          "Bells"
+        ],
+        [
+          "Monday",
+          "&"
+        ],
+        [
+          "is",
+          "Bonfires"
+        ],
+        [
+          "begun",
+          "&"
+        ],
+        [
+          "and",
+          "drinking"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "and the next being Monday is begun and",
+      "line_slope": 90.44378768297979,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        25
+      ],
+      "user_ids": [
+        1664391.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        77.97,
+        63.96
+      ],
+      "clusters_y": [
+        56.79,
+        1403.81
+      ],
+      "clusters_text": [
+        [
+          "last",
+          "of"
+        ],
+        [
+          "dyed",
+          "Trade"
+        ],
+        [
+          "the",
+          "&"
+        ],
+        [
+          "Ld",
+          ""
+        ],
+        [
+          "herbert",
+          ""
+        ],
+        [
+          "of",
+          "Plantations"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "last dyed the Ld herbert of",
+      "line_slope": 90.44378768297979,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        30,
+        32
+      ],
+      "user_ids": [
+        1664391.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.42,
+        887.55
+      ],
+      "clusters_y": [
+        1269.91,
+        1266.44
+      ],
+      "clusters_text": [
+        [
+          "2000,",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "Circle"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "other",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "2000, the Circle of other",
+      "line_slope": -0.020779789050341266,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        18
+      ],
+      "user_ids": [
+        1664391.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

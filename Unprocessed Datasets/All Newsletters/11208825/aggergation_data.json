@@ -1,0 +1,166 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        36.06,
+        947.385
+      ],
+      "clusters_y": [
+        193.975,
+        194.83
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "120000",
+          "120000"
+        ],
+        [
+          "Livers",
+          "Lirers"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Year",
+          "yeare"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Spain",
+          "Spain"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "ffleet",
+          "Fleet"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Land",
+          "Land"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7692307692307692,
+      "consensus_text": "of 120000 Livers a Year - from Spain <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl> ffleet & Land",
+      "line_slope": 0.5868311161969527,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        41.845,
+        945.3050000000001
+      ],
+      "clusters_y": [
+        469.21000000000004,
+        484.265
+      ],
+      "clusters_text": [
+        [
+          "8",
+          "8"
+        ],
+        [
+          "Malefactors",
+          "malefactors"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "Executed",
+          "Executed"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Tyburne",
+          "Tyburne"
+        ],
+        [
+          "am<sw-ex>on</sw-ex>gst",
+          "amgst."
+        ],
+        [
+          "whom",
+          "whom"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "8 Malefactors were Executed at Tyburne am<sw-ex>on</sw-ex>gst whom",
+      "line_slope": 0.5868311161969527,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        6
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

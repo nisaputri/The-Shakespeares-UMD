@@ -1,0 +1,248 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        205.63,
+        210.8
+      ],
+      "clusters_y": [
+        17.14,
+        1499.385
+      ],
+      "clusters_text": [
+        [
+          "",
+          "And"
+        ],
+        [
+          "",
+          "<sw-unclear>L???</sw-unclear>;"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "is",
+          "Garrison"
+        ],
+        [
+          "",
+          "of<sw-unclear>"
+        ],
+        [
+          "",
+          "D???"
+        ],
+        [
+          "",
+          "is</sw-unclear>"
+        ],
+        [
+          "Reinforced",
+          "Reinforced"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Battalion",
+          "Battallion"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "ffoot",
+          "ffoot"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3846153846153846,
+      "consensus_text": "And <sw-unclear>L???</sw-unclear>; <brev-y>th</brev-y><sl>e</sl> is of<sw-unclear> D??? is</sw-unclear> Reinforced by a Battalion of ffoot",
+      "line_slope": 89.43869698212978,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        23
+      ],
+      "user_ids": [
+        1790401.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.23,
+        633.69
+      ],
+      "clusters_y": [
+        736.46,
+        856.95
+      ],
+      "clusters_text": [
+        [
+          "taken",
+          "Lewis"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "taken",
+      "line_slope": 16.30230930671215,
+      "slope_label": 5,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        59,
+        68
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.70499999999998,
+        942.125
+      ],
+      "clusters_y": [
+        144.525,
+        157.18
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "Recalled",
+          "Recalled"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Com<sw-ex>m</sw-ex>and",
+          "Comand"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "to be Recalled from his Com<sw-ex>m</sw-ex>and",
+      "line_slope": 1.4320001003453415,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        12
+      ],
+      "user_ids": [
+        1790401.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.03,
+        952.14
+      ],
+      "clusters_y": [
+        962.78,
+        978.9549999999999
+      ],
+      "clusters_text": [
+        [
+          "&",
+          "Discretion"
+        ],
+        [
+          "",
+          "and"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Garrison",
+          "Garrison"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "400",
+          "400"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "& and <brev-y>th</brev-y><sl>e</sl> Garrison of 400",
+      "line_slope": 1.4320001003453415,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        19
+      ],
+      "user_ids": [
+        1790401.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        432.88,
+        925.2950000000001
+      ],
+      "clusters_y": [
+        112.745,
+        108.41
+      ],
+      "clusters_text": [
+        [
+          "There",
+          "There"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "now",
+          "now"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Tower",
+          "Tower"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "There is now in the Tower",
+      "line_slope": -1.147138942506742,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1851566.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.085,
+        935.385
+      ],
+      "clusters_y": [
+        325.74,
+        316.70000000000005
+      ],
+      "clusters_text": [
+        [
+          "manner",
+          "manner"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "ammunitions",
+          "munitions"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "warr",
+          "warr"
+        ],
+        [
+          "but",
+          "but"
+        ],
+        [
+          "whether",
+          "whither"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "manner of ammunitions of warr but whether",
+      "line_slope": -1.147138942506742,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        1851566.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.62,
+        930.2049999999999
+      ],
+      "clusters_y": [
+        479.17,
+        466.655
+      ],
+      "clusters_text": [
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "10000"
+        ],
+        [
+          "",
+          "souldiers"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "board",
+          "board"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "the 10000 souldiers they have on board",
+      "line_slope": -1.147138942506742,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7
+      ],
+      "user_ids": [
+        1851566.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.235,
+        924.445
+      ],
+      "clusters_y": [
+        917.76,
+        897.65
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Gally",
+          "Gally"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "he",
+          "he"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "Engage",
+          "Engage"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "build",
+          "build"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "a Gally w<sw-ex>hi</sw-ex><sl>ch</sl> he will Engage to build",
+      "line_slope": -1.147138942506742,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        16
+      ],
+      "user_ids": [
+        1851566.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

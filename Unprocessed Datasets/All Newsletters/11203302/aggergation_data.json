@@ -1,0 +1,142 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        278.235,
+        906.245
+      ],
+      "clusters_y": [
+        1275.395,
+        1259.255
+      ],
+      "clusters_text": [
+        [
+          "here",
+          "here"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "27",
+          "27"
+        ],
+        [
+          "Dayes",
+          "Dayes"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Malaga",
+          "Malaga"
+        ],
+        [
+          "who",
+          "who"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "here in 27 Dayes from Malaga who",
+      "line_slope": -0.6171340970153446,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        6
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        283.83,
+        932.3
+      ],
+      "clusters_y": [
+        1317.885,
+        1308.26
+      ],
+      "clusters_text": [
+        [
+          "came",
+          "came"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Company",
+          "Company"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "8",
+          "8"
+        ],
+        [
+          "others",
+          "others"
+        ],
+        [
+          "one",
+          "one"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "came in Company of 8 others one of",
+      "line_slope": -0.6171340970153446,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        7
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

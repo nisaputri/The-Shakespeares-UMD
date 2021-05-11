@@ -1,0 +1,992 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        421.505,
+        393.23
+      ],
+      "clusters_y": [
+        733.5699999999999,
+        1389.38
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "The"
+        ],
+        [
+          "Ho<sw-ex>norable</sw-ex>",
+          "hon<sw-sup>ble</sw-sup>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Rich<sw-ex>ard</sw-ex>",
+          "Rich:"
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+          "bar<sw-sup>t</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "the Ho<sw-ex>norable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl> Rich<sw-ex>ard</sw-ex> Newdigate bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+      "line_slope": 92.85971688817915,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        10
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        341.975,
+        329.435
+      ],
+      "clusters_y": [
+        814.03,
+        1028.4850000000001
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "At Arbury",
+      "line_slope": 92.85971688817915,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        11
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        274.01,
+        258.27
+      ],
+      "clusters_y": [
+        861.2,
+        1151.7350000000001
+      ],
+      "clusters_text": [
+        [
+          "near",
+          ""
+        ],
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "near Coventry",
+      "line_slope": 92.85971688817915,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        12
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        46.94333333333333,
+        991.7566666666667
+      ],
+      "clusters_y": [
+        88.75666666666666,
+        104.08999999999999
+      ],
+      "clusters_text": [
+        [
+          "Kings",
+          "Kings",
+          "Kings"
+        ],
+        [
+          "bench",
+          "bench",
+          "bench"
+        ],
+        [
+          "Court",
+          "barr",
+          "bare"
+        ],
+        [
+          "for",
+          "for",
+          "for"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Estate",
+          "Estate",
+          "Estate"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "late",
+          "late",
+          "late"
+        ],
+        [
+          "Mr",
+          "M<sw-sup>r</sw-sup>",
+          "M<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Honnywood",
+          "Honnywood",
+          "Honnywood"
+        ],
+        [
+          "who",
+          "who",
+          "who"
+        ],
+        [
+          "hanged",
+          "hang<sw-sup>d</sw-sup>",
+          "Rang<sw-ex>e</sw-ex><sw-sup>d</sw-sup>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6153846153846154,
+      "consensus_text": "Kings bench Court for the Estate of the late M<sw-sup>r</sw-sup> Honnywood who hanged",
+      "line_slope": 0.12898767241873033,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0,
+        0
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        61.279999999999994,
+        970.8966666666666
+      ],
+      "clusters_y": [
+        136.69,
+        156.00666666666666
+      ],
+      "clusters_text": [
+        [
+          "himself",
+          "himself",
+          "himself"
+        ],
+        [
+          "ag<sw-ex>ain</sw-ex>st",
+          "ag<sw-ex>ain</sw-ex>st",
+          "ag<sw-ex>ain</sw-ex>st"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Isaack",
+          "Isaack",
+          "Isaack"
+        ],
+        [
+          "Robee",
+          "Robee",
+          "Robee"
+        ],
+        [
+          "who",
+          "who",
+          "who"
+        ],
+        [
+          "married",
+          "married",
+          "married"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "widd",
+          "widd",
+          "widd<sw-ex>ow</sw-ex>"
+        ],
+        [
+          "but",
+          "but",
+          "but"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.909090909090909,
+      "consensus_text": "himself ag<sw-ex>ain</sw-ex>st S<sw-ex>i</sw-ex><sl>r</sl> Isaack Robee who married the widd but the",
+      "line_slope": 0.12898767241873033,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        1,
+        1
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        58.870000000000005,
+        981.88
+      ],
+      "clusters_y": [
+        198.72500000000002,
+        196.08499999999998
+      ],
+      "clusters_text": [
+        [
+          "Plaintiff",
+          "Plaintiff"
+        ],
+        [
+          "Suffered",
+          "suffered"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "nonsuite",
+          "nonsuite"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "one",
+          "one"
+        ],
+        [
+          "M<sw-sup>r</sw-sup>",
+          "M<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Kidd",
+          "Kidd"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "Citty",
+          "Citty"
+        ],
+        [
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Plaintiff Suffered a nonsuite and one M<sw-sup>r</sw-sup> Kidd of this Citty -",
+      "line_slope": 0.12898767241873033,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        2
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        69.44333333333333,
+        991.1366666666667
+      ],
+      "clusters_y": [
+        257.78333333333336,
+        265.31333333333333
+      ],
+      "clusters_text": [
+        [
+          "wittness",
+          "wittness",
+          "witness"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "will",
+          "will",
+          "will"
+        ],
+        [
+          "now",
+          "now",
+          "now"
+        ],
+        [
+          "declareing",
+          "declareing",
+          "declareing"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "Honnywood",
+          "Honnywood",
+          "Honnywood"
+        ],
+        [
+          "was",
+          "was",
+          "was"
+        ],
+        [
+          "not",
+          "not",
+          "not"
+        ],
+        [
+          "Comp<sw-sup>os</sw-sup>",
+          "comp<sw-sup>os</sw-sup>",
+          "Comp<sw-sup>os</sw-sup>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8181818181818183,
+      "consensus_text": "wittness to the will now declareing <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> Honnywood was not Comp<sw-sup>os</sw-sup>",
+      "line_slope": 0.12898767241873033,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        3,
+        3
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        68.41333333333334,
+        986.89
+      ],
+      "clusters_y": [
+        314.53000000000003,
+        316.98
+      ],
+      "clusters_text": [
+        [
+          "mentis",
+          "mentis",
+          "mentis"
+        ],
+        [
+          "when",
+          "when",
+          "when"
+        ],
+        [
+          "hee",
+          "hee",
+          "hee"
+        ],
+        [
+          "made",
+          "made",
+          "made"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "will",
+          "will",
+          "will"
+        ],
+        [
+          "is",
+          "is",
+          "is"
+        ],
+        [
+          "ord<sw-ex>ere</sw-ex>d",
+          "ord<sw-ex>ere</sw-ex>d",
+          "ord<sw-ex>ere</sw-ex>d"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "attend",
+          "attend",
+          "attend"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Court",
+          "Court",
+          "Court"
+        ],
+        [
+          "tomor",
+          "tomor-",
+          "tomor"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.923076923076923,
+      "consensus_text": "mentis when hee made the will is ord<sw-ex>ere</sw-ex>d to attend the Court tomor",
+      "line_slope": 0.12898767241873033,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        4,
+        4
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        57.66,
+        990.845
+      ],
+      "clusters_y": [
+        364.16499999999996,
+        359.205
+      ],
+      "clusters_text": [
+        [
+          "-row",
+          "=row"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "theyle",
+          "theyle"
+        ],
+        [
+          "proffer",
+          "proffer"
+        ],
+        [
+          "an",
+          "an"
+        ],
+        [
+          "Infor<sw-unclear>mac</sw-unclear>on",
+          "Informac<sw-ex>i</sw-ex>on"
+        ],
+        [
+          "ag<sw-ex>ain</sw-ex>st",
+          "against"
+        ],
+        [
+          "him",
+          "him"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "The",
+          "The="
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "-row and theyle proffer an Infor<sw-unclear>mac</sw-unclear>on ag<sw-ex>ain</sw-ex>st him - The",
+      "line_slope": 0.12898767241873033,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        5
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        60.985,
+        987.0450000000001
+      ],
+      "clusters_y": [
+        422.06,
+        419.66499999999996
+      ],
+      "clusters_text": [
+        [
+          "House",
+          "House"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Lords",
+          "L<sw-ex>o</sw-ex>rds"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "been",
+          "been"
+        ],
+        [
+          "all",
+          "all"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "bussiness",
+          "bussiness"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9166666666666667,
+      "consensus_text": "House of Lords have been all this day upon the bussiness of",
+      "line_slope": 0.12898767241873033,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        6
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        77.39,
+        973.365
+      ],
+      "clusters_y": [
+        427.905,
+        432.495
+      ],
+      "clusters_text": [
+        [
+          "House",
+          "House"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Lords",
+          "Lords"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "been",
+          "been"
+        ],
+        [
+          "all",
+          "all"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "bussiness",
+          "business"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9166666666666667,
+      "consensus_text": "House of Lords have been all this day upon the bussiness of",
+      "line_slope": 0.12898767241873033,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        71.61500000000001,
+        980.55
+      ],
+      "clusters_y": [
+        483.16499999999996,
+        471.28
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Admirallty",
+          "Admirallty"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "ord<sw-ex>ere</sw-ex>d",
+          "ord<sw-ex>ere</sw-ex>d"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Com<sw-ex>m</sw-ex>issioners",
+          "Comission<sw-ex>e</sw-ex>rs"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "bring",
+          "bring"
+        ],
+        [
+          "them",
+          "them"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "the Admirallty and have ord<sw-ex>ere</sw-ex>d the Com<sw-ex>m</sw-ex>issioners to bring them",
+      "line_slope": 0.12898767241873033,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        7
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        77.00333333333333,
+        956.09
+      ],
+      "clusters_y": [
+        532.9466666666667,
+        525.6466666666666
+      ],
+      "clusters_text": [
+        [
+          "Coppies",
+          "Coppies",
+          "Coppies"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "all",
+          "all",
+          "all"
+        ],
+        [
+          "their",
+          "their",
+          "their"
+        ],
+        [
+          "Instrucons",
+          "Instruc<sw-ex>i</sw-ex>ons",
+          "Instrucons"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Commissioners",
+          "Com<sw-ex>m</sw-ex>issioners",
+          "Comissioners"
+        ],
+        [
+          "last",
+          "last",
+          "last"
+        ],
+        [
+          "year",
+          "yeare",
+          "yeare"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6,
+      "consensus_text": "Coppies of all their Instrucons to the Commissioners last yeare",
+      "line_slope": 0.12898767241873033,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        8,
+        8
+      ],
+      "user_ids": [
+        1779578.0,
+        218285.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 13,
+  "transcribed_lines": 13,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

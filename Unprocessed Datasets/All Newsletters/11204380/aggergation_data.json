@@ -1,0 +1,169 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        474.04499999999996,
+        485.775
+      ],
+      "clusters_y": [
+        793.735,
+        1386.905
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Ho<sw-ex>norable</sw-ex>",
+          "Ho<sw-ex>norable</sw-ex>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>.",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "newdigate"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "To the Ho<sw-ex>norable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl>. Richard Newdigate",
+      "line_slope": 88.7066229591096,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.385,
+        240.8
+      ],
+      "clusters_y": [
+        984.875,
+        1155.45
+      ],
+      "clusters_text": [
+        [
+          "4",
+          "4"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "4",
+      "line_slope": 88.7066229591096,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        228.1,
+        855.22
+      ],
+      "clusters_y": [
+        122.61,
+        94.44
+      ],
+      "clusters_text": [
+        [
+          "Post",
+          ""
+        ],
+        [
+          "script",
+          ""
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "King",
+          "king"
+        ],
+        [
+          "is",
+          ""
+        ],
+        [
+          "Landed",
+          ""
+        ],
+        [
+          "and",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1428571428571428,
+      "consensus_text": "Post script the King is Landed and",
+      "line_slope": -2.854138679565793,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

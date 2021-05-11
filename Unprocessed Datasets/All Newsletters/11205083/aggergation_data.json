@@ -1,0 +1,204 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        672.64,
+        984.56
+      ],
+      "clusters_y": [
+        350.14,
+        359.91
+      ],
+      "clusters_text": [
+        [
+          "in",
+          ""
+        ],
+        [
+          "York=",
+          "Alborrow"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "in York=",
+      "line_slope": 1.6194365159387103,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        34
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        293.17,
+        940.25
+      ],
+      "clusters_y": [
+        500.81,
+        516.9
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "Election",
+          ""
+        ],
+        [
+          "wide",
+          ""
+        ],
+        [
+          "Then",
+          "they"
+        ],
+        [
+          "the",
+          "Voted"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> Election wide Then the",
+      "line_slope": 1.6194365159387103,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        28,
+        35
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        294.63,
+        901.92
+      ],
+      "clusters_y": [
+        663.18,
+        674.5
+      ],
+      "clusters_text": [
+        [
+          "without",
+          "vpp"
+        ],
+        [
+          "coming",
+          ""
+        ],
+        [
+          "to",
+          ""
+        ],
+        [
+          "any",
+          ""
+        ],
+        [
+          "resolution",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "without coming to any resolution",
+      "line_slope": 1.6194365159387103,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        30
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        305.61,
+        850.61
+      ],
+      "clusters_y": [
+        1472.72,
+        1491.93
+      ],
+      "clusters_text": [
+        [
+          "Grand",
+          "<sw-del>encourgge</sw-del>"
+        ],
+        [
+          "Committe",
+          "<sw-ins>encourage</sw-ins>"
+        ],
+        [
+          "to",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Grand Committe to",
+      "line_slope": 1.6194365159387103,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        32
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

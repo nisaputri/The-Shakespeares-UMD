@@ -1,0 +1,236 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        245.62,
+        885.76
+      ],
+      "clusters_y": [
+        82.145,
+        57.63
+      ],
+      "clusters_text": [
+        [
+          "Duty",
+          "Duty"
+        ],
+        [
+          "on",
+          ""
+        ],
+        [
+          "malt,",
+          ""
+        ],
+        [
+          "<sw-unclear>Mumm",
+          ""
+        ],
+        [
+          "</sw-unclear>&c",
+          ""
+        ],
+        [
+          "be",
+          ""
+        ],
+        [
+          "continued",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1428571428571428,
+      "consensus_text": "Duty on malt, <sw-unclear>Mumm </sw-unclear>&c be continued",
+      "line_slope": -2.9702183832630737,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1682843.0,
+        1870082.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        273.445,
+        888.1099999999999
+      ],
+      "clusters_y": [
+        710.19,
+        675.355
+      ],
+      "clusters_text": [
+        [
+          "ordered",
+          "ordered"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "bill",
+          "bill"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "brought",
+          "brought"
+        ],
+        [
+          "in",
+          "in"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "ordered that a bill be brought in",
+      "line_slope": -2.9702183832630737,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        3
+      ],
+      "user_ids": [
+        18403.0,
+        1870082.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.6,
+        896.1500000000001
+      ],
+      "clusters_y": [
+        895.83,
+        864.885
+      ],
+      "clusters_text": [
+        [
+          "of",
+          ""
+        ],
+        [
+          "Luggershall",
+          ""
+        ],
+        [
+          "and",
+          ""
+        ],
+        [
+          "Montgomery",
+          "Montgomery"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "of Luggershall and Montgomery",
+      "line_slope": -2.9702183832630737,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        1
+      ],
+      "user_ids": [
+        1682843.0,
+        1870082.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        294.09,
+        874.19
+      ],
+      "clusters_y": [
+        1008.43,
+        976.84
+      ],
+      "clusters_text": [
+        [
+          "elections",
+          ""
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Thursday.",
+          "Thursday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "elections be made on Thursday.",
+      "line_slope": -2.9702183832630737,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        6
+      ],
+      "user_ids": [
+        18403.0,
+        1870082.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

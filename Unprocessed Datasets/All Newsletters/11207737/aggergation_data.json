@@ -1,0 +1,224 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        421.19,
+        915.15
+      ],
+      "clusters_y": [
+        130.86666666666665,
+        125.29
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "June",
+          "June",
+          "June"
+        ],
+        [
+          "2nd",
+          "2<sw-sup>d</sw-sup>",
+          "2"
+        ],
+        [
+          "1709",
+          "1709",
+          "1709"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "London June 2nd 1709",
+      "line_slope": -1.241569437261913,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        4,
+        0
+      ],
+      "user_ids": [
+        1600443.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.925,
+        965.37
+      ],
+      "clusters_y": [
+        202.37,
+        194.28
+      ],
+      "clusters_text": [
+        [
+          "Since",
+          "Since"
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "last",
+          "last"
+        ],
+        [
+          "",
+          "we"
+        ],
+        [
+          "",
+          "Rec<sw-ex>eive</sw-ex><sw-sup>d</sw-sup>"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "Holl<sw-ex>an</sw-ex><sw-sup>d</sw-sup>"
+        ],
+        [
+          "",
+          "maile"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "",
+          "fryday"
+        ],
+        [
+          "",
+          "Past"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2727272727272727,
+      "consensus_text": "Since my last we Rec<sw-ex>eive</sw-ex><sw-sup>d</sw-sup> the Holl<sw-ex>an</sw-ex><sw-sup>d</sw-sup> maile of fryday Past",
+      "line_slope": -1.241569437261913,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        5
+      ],
+      "user_ids": [
+        1600443.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.06,
+        961.54
+      ],
+      "clusters_y": [
+        771.71,
+        749.05
+      ],
+      "clusters_text": [
+        [
+          "Another",
+          "anothor"
+        ],
+        [
+          "gr<sw-ex>ea</sw-ex><sw-sup>t</sw-sup>",
+          ""
+        ],
+        [
+          "Councill",
+          ""
+        ],
+        [
+          "was",
+          ""
+        ],
+        [
+          "held",
+          ""
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          ""
+        ],
+        [
+          "sett",
+          ""
+        ],
+        [
+          "long",
+          ""
+        ],
+        [
+          "after",
+          ""
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          ""
+        ],
+        [
+          "a",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Another gr<sw-ex>ea</sw-ex><sw-sup>t</sw-sup> Councill was held w<sw-ex>hi</sw-ex><sl>ch</sl> sett long after w<sw-ex>hi</sw-ex><sl>ch</sl> a",
+      "line_slope": -1.241569437261913,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        1
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,980 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        273.64,
+        903.11
+      ],
+      "clusters_y": [
+        155.7733333333333,
+        131.22
+      ],
+      "clusters_text": [
+        [
+          "hearing",
+          "hearing",
+          "hearing"
+        ],
+        [
+          "that",
+          "that",
+          "that"
+        ],
+        [
+          "10000",
+          "10000",
+          "10000"
+        ],
+        [
+          "Portugueze",
+          "Portugheze",
+          "Portugheze"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.75,
+      "consensus_text": "hearing that 10000 Portugheze",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        0,
+        1
+      ],
+      "user_ids": [
+        819334.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.11333333333334,
+        912.4499999999999
+      ],
+      "clusters_y": [
+        236.43666666666664,
+        202.35666666666668
+      ],
+      "clusters_text": [
+        [
+          "had",
+          "had",
+          "had"
+        ],
+        [
+          "joyned",
+          "joined",
+          "joyned"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Marquin<sw-unclear>e</sw-unclear>",
+          "Marquis",
+          "Marquise"
+        ],
+        [
+          "de",
+          "de",
+          "de"
+        ],
+        [
+          "Minas",
+          "Minas",
+          "Minas"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "had joyned the Marquin<sw-unclear>e</sw-unclear> de Minas",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        2,
+        2
+      ],
+      "user_ids": [
+        819334.0,
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.155,
+        942.74
+      ],
+      "clusters_y": [
+        328.89,
+        310.92
+      ],
+      "clusters_text": [
+        [
+          "decamped",
+          "decamped"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "marching",
+          "marching"
+        ],
+        [
+          "toward",
+          "toward"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "decamped and are marching toward",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        3
+      ],
+      "user_ids": [
+        819334.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.9433333333333,
+        933.675
+      ],
+      "clusters_y": [
+        393.93333333333334,
+        383.44
+      ],
+      "clusters_text": [
+        [
+          "Burgosso",
+          "Burgosse",
+          "Burgosso"
+        ],
+        [
+          "--",
+          "-",
+          "-"
+        ],
+        [
+          "<sw-unclear>???</sw-unclear>",
+          "my",
+          "my"
+        ],
+        [
+          "Lord",
+          "Lord",
+          "Lord"
+        ],
+        [
+          "<sw-unclear>H</sw-unclear>alloway",
+          "Palloway",
+          "Galloway"
+        ],
+        [
+          "follows",
+          "follows",
+          "follows"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.1666666666666665,
+      "consensus_text": "Burgosso - my Lord <sw-unclear>H</sw-unclear>alloway follows",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        4,
+        4
+      ],
+      "user_ids": [
+        819334.0,
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.84999999999997,
+        917.8133333333334
+      ],
+      "clusters_y": [
+        491.03666666666663,
+        458.4066666666666
+      ],
+      "clusters_text": [
+        [
+          "them",
+          "whom",
+          "them"
+        ],
+        [
+          "haveing",
+          "having",
+          "haveing"
+        ],
+        [
+          "sent",
+          "sent",
+          "sent"
+        ],
+        [
+          "away",
+          "away",
+          "away"
+        ],
+        [
+          "his",
+          "his",
+          "his"
+        ],
+        [
+          "baggage",
+          "luggage",
+          "baggage"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "them haveing sent away his baggage",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        3,
+        5
+      ],
+      "user_ids": [
+        819334.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        275.85,
+        911.9200000000001
+      ],
+      "clusters_y": [
+        565.6949999999999,
+        550.4000000000001
+      ],
+      "clusters_text": [
+        [
+          "being",
+          "being"
+        ],
+        [
+          "resolved",
+          "resolved"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "engage",
+          "engage"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "in",
+          "in"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "being resolved to engage them in",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        6
+      ],
+      "user_ids": [
+        819334.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.77000000000004,
+        896.5466666666667
+      ],
+      "clusters_y": [
+        748.68,
+        728.6166666666668
+      ],
+      "clusters_text": [
+        [
+          "Italy",
+          "Jtaly",
+          "Italy"
+        ],
+        [
+          "which",
+          "which",
+          "which"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "States",
+          "States",
+          "States"
+        ],
+        [
+          "received",
+          "received",
+          "received"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "Italy which the States received",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        8,
+        8
+      ],
+      "user_ids": [
+        819334.0,
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.1,
+        901.6
+      ],
+      "clusters_y": [
+        825.91,
+        810.37
+      ],
+      "clusters_text": [
+        [
+          "",
+          "yesterday"
+        ],
+        [
+          "",
+          "it"
+        ],
+        [
+          "",
+          "is"
+        ],
+        [
+          "",
+          "said"
+        ],
+        [
+          "",
+          "that"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "action",
+          "action"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1428571428571428,
+      "consensus_text": "yesterday it is said that the action",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        9
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.30999999999997,
+        885.6066666666667
+      ],
+      "clusters_y": [
+        850.07,
+        808.6566666666666
+      ],
+      "clusters_text": [
+        [
+          "yesterday",
+          "yesterday",
+          "yesterday"
+        ],
+        [
+          "it",
+          "it",
+          "it"
+        ],
+        [
+          "is",
+          "is",
+          "is"
+        ],
+        [
+          "said",
+          "said",
+          "said"
+        ],
+        [
+          "that",
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "action",
+          "action",
+          "action"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "yesterday it is said that the action",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        9,
+        1
+      ],
+      "user_ids": [
+        819334.0,
+        1347003.0,
+        null
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        260.04,
+        893.1300000000001
+      ],
+      "clusters_y": [
+        915.5433333333334,
+        885.9066666666666
+      ],
+      "clusters_text": [
+        [
+          "between",
+          "between",
+          "",
+          "between"
+        ],
+        [
+          "Count",
+          "Count",
+          "",
+          "Count"
+        ],
+        [
+          "Med<sw-unclear>avi</sw-unclear>",
+          "Medavi",
+          "madawi",
+          "Medavi"
+        ],
+        [
+          "and",
+          "and",
+          "",
+          "and"
+        ],
+        [
+          "the",
+          "the",
+          "",
+          "the"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.8,
+      "consensus_text": "between Count Medavi and the",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        10,
+        4,
+        10
+      ],
+      "user_ids": [
+        819334.0,
+        1347003.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.9666666666667,
+        892.1700000000001
+      ],
+      "clusters_y": [
+        986.79,
+        961.7000000000002
+      ],
+      "clusters_text": [
+        [
+          "<sw-unclear>Ro</sw-unclear>sian",
+          "Hessian",
+          "Hessian"
+        ],
+        [
+          "Prince",
+          "Prince",
+          "Prince"
+        ],
+        [
+          "was",
+          "was",
+          "was"
+        ],
+        [
+          "inconsiderable",
+          "inconsiderable",
+          "inconsiderable"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.75,
+      "consensus_text": "Hessian Prince was inconsiderable",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        11,
+        11
+      ],
+      "user_ids": [
+        819334.0,
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        256.38000000000005,
+        942.4133333333334
+      ],
+      "clusters_y": [
+        1090.36,
+        1063.5833333333333
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "that",
+          "that",
+          "that"
+        ],
+        [
+          "his",
+          "his",
+          "his"
+        ],
+        [
+          "Highnesse",
+          "Highnesse",
+          "Highnesse"
+        ],
+        [
+          "<sw-unclear>?o??</sw-unclear>",
+          "lost",
+          "lost"
+        ],
+        [
+          "between",
+          "between",
+          "between"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8333333333333335,
+      "consensus_text": "and that his Highnesse lost between",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        12,
+        12
+      ],
+      "user_ids": [
+        819334.0,
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.12,
+        919.24
+      ],
+      "clusters_y": [
+        1185.74,
+        1157.665
+      ],
+      "clusters_text": [
+        [
+          "4",
+          "4"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "500",
+          "500"
+        ],
+        [
+          "men",
+          "men"
+        ],
+        [
+          "&",
+          "@"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "ffrench",
+          "ffrench"
+        ],
+        [
+          "more",
+          "more"
+        ],
+        [
+          "-",
+          "_"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "4 and 500 men & the ffrench more -",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        13
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.265,
+        898.9300000000001
+      ],
+      "clusters_y": [
+        1279.155,
+        1255.5149999999999
+      ],
+      "clusters_text": [
+        [
+          "Count",
+          "Count"
+        ],
+        [
+          "Medavi",
+          "Medavi"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "taken",
+          "taken"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Count Medavi had taken out of",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.41333333333336,
+        909.6
+      ],
+      "clusters_y": [
+        1374.2166666666665,
+        1350.8833333333334
+      ],
+      "clusters_text": [
+        [
+          "Cremona",
+          "Cremona",
+          "Cremona"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "Mantua",
+          "Mantua",
+          "Mantua"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "French",
+          "ffrench",
+          "ffrench"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "Cremona and Mantua the ffrench",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        15,
+        15
+      ],
+      "user_ids": [
+        819334.0,
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.20000000000005,
+        884.935
+      ],
+      "clusters_y": [
+        1457.1,
+        1444.085
+      ],
+      "clusters_text": [
+        [
+          "troopes",
+          "troopes"
+        ],
+        [
+          "which",
+          "which"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "up",
+          "up"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "body",
+          "body"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "troopes which made up a body",
+      "line_slope": -2.1239426653965814,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        16
+      ],
+      "user_ids": [
+        819334.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 15,
+  "transcribed_lines": 16,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

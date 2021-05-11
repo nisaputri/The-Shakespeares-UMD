@@ -1,0 +1,168 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        438.1366666666666,
+        446.54
+      ],
+      "clusters_y": [
+        769.5333333333333,
+        1280.1566666666668
+      ],
+      "clusters_text": [
+        [
+          "Barr<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+          "Barrt",
+          "Bar<sw-ex>one</sw-ex>t"
+        ],
+        [
+          "at",
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "neare",
+          "near",
+          "neare"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.25,
+      "consensus_text": "Barr<sw-ex>one</sw-ex><sw-sup>t</sw-sup> at Arbury neare",
+      "line_slope": 89.36993863957309,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        1,
+        1
+      ],
+      "user_ids": [
+        520397.0,
+        18403.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        367.59,
+        367.7966666666666
+      ],
+      "clusters_y": [
+        988.6833333333334,
+        1174.3266666666666
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry.",
+          "Coventry"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": 89.36993863957309,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        2,
+        2
+      ],
+      "user_ids": [
+        520397.0,
+        18403.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        481.98,
+        512.515
+      ],
+      "clusters_y": [
+        706.91,
+        1403.31
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Hon.",
+          "Ho<sw-ex>norable</sw-ex>"
+        ],
+        [
+          "Sr.",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "To the Hon. Sr. Richard Newdigate",
+      "line_slope": 87.59751418067052,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        18403.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

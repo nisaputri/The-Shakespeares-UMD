@@ -1,0 +1,192 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        268.69,
+        984.67
+      ],
+      "clusters_y": [
+        702.74,
+        708.08
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "that"
+        ],
+        [
+          "the",
+          "they"
+        ],
+        [
+          "",
+          "will"
+        ],
+        [
+          "Lord",
+          "surrend<sw-sup>er</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "to the will Lord",
+      "line_slope": 0.26850728435259097,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        16
+      ],
+      "user_ids": [
+        1538048.0,
+        1538048.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        271.74,
+        967.88
+      ],
+      "clusters_y": [
+        753.12,
+        753.88
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "but"
+        ],
+        [
+          "place",
+          "his"
+        ],
+        [
+          "upon",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "that place upon",
+      "line_slope": 0.26850728435259097,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        18
+      ],
+      "user_ids": [
+        1538048.0,
+        1538048.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.99,
+        506.1033333333333
+      ],
+      "clusters_y": [
+        898.4533333333334,
+        896.6566666666666
+      ],
+      "clusters_text": [
+        [
+          "Exchanged.",
+          "Exchainged",
+          "Exchanged"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.0,
+      "consensus_text": "Exchanged.",
+      "line_slope": 0.26850728435259097,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        21
+      ],
+      "user_ids": [
+        1708223.0,
+        1501614.0,
+        1538048.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        271.74,
+        990.01
+      ],
+      "clusters_y": [
+        1366.05,
+        1372.16
+      ],
+      "clusters_text": [
+        [
+          "Churchill",
+          "were"
+        ],
+        [
+          "&",
+          ""
+        ],
+        [
+          "Capt",
+          "appointed"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Churchill & Capt",
+      "line_slope": 0.26850728435259097,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        23,
+        24
+      ],
+      "user_ids": [
+        1538048.0,
+        1538048.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

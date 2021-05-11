@@ -1,0 +1,110 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        263.78,
+        793.0
+      ],
+      "clusters_y": [
+        1101.55,
+        1093.81
+      ],
+      "clusters_text": [
+        [
+          "as",
+          ""
+        ],
+        [
+          "that",
+          "the"
+        ],
+        [
+          "was",
+          ""
+        ],
+        [
+          "Compleated",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "as that was Compleated",
+      "line_slope": -0.534324086893816,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        22
+      ],
+      "user_ids": [
+        864398.0,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.88,
+        912.07
+      ],
+      "clusters_y": [
+        1347.12,
+        1338.8
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "to"
+        ],
+        [
+          "night",
+          ""
+        ],
+        [
+          "was",
+          "send"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "that night was",
+      "line_slope": -0.534324086893816,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        26,
+        27
+      ],
+      "user_ids": [
+        864398.0,
+        864398.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

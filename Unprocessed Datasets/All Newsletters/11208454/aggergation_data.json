@@ -1,0 +1,272 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        115.58500000000001,
+        913.45
+      ],
+      "clusters_y": [
+        138.37,
+        131.55
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "letters",
+          "Letters"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "Way"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "",
+          "ffrance"
+        ],
+        [
+          "",
+          "say"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "The letters by <brev-y>th</brev-y><sl>e</sl> Way of ffrance say <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> the",
+      "line_slope": -0.5589482847838376,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1577042.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        102.99,
+        909.0699999999999
+      ],
+      "clusters_y": [
+        210.46,
+        198.79000000000002
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Barcelonians"
+        ],
+        [
+          "",
+          "Continue"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "give",
+          "give"
+        ],
+        [
+          "no",
+          "no"
+        ],
+        [
+          "quarter",
+          "Quarter"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Barcelonians Continue to give no quarter",
+      "line_slope": -0.5589482847838376,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        2
+      ],
+      "user_ids": [
+        1577042.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        106.94,
+        918.64
+      ],
+      "clusters_y": [
+        1004.91,
+        1000.29
+      ],
+      "clusters_text": [
+        [
+          "",
+          "of"
+        ],
+        [
+          "",
+          "Commerce"
+        ],
+        [
+          "",
+          "_"
+        ],
+        [
+          "Paris",
+          "Paris"
+        ],
+        [
+          "",
+          "ffeb<sw-sup>r</sw-sup><sw-ex>uary</sw-ex>"
+        ],
+        [
+          "",
+          "24th."
+        ],
+        [
+          "",
+          "His"
+        ],
+        [
+          "",
+          "Excellency"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.125,
+      "consensus_text": "of Commerce _ Paris ffeb<sw-sup>r</sw-sup><sw-ex>uary</sw-ex> 24th. His Excellency",
+      "line_slope": -0.5589482847838376,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        14
+      ],
+      "user_ids": [
+        1577042.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        104.855,
+        916.79
+      ],
+      "clusters_y": [
+        1074.485,
+        1062.23
+      ],
+      "clusters_text": [
+        [
+          "Matthew",
+          "Matthew"
+        ],
+        [
+          "",
+          "Prior"
+        ],
+        [
+          "",
+          "Esq<sw-ex>uire</sw-ex>"
+        ],
+        [
+          "",
+          "on"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "17th"
+        ],
+        [
+          "",
+          "being"
+        ],
+        [
+          "",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.125,
+      "consensus_text": "Matthew Prior Esq<sw-ex>uire</sw-ex> on <brev-y>th</brev-y><sl>e</sl> 17th being the",
+      "line_slope": -0.5589482847838376,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        15
+      ],
+      "user_ids": [
+        1577042.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

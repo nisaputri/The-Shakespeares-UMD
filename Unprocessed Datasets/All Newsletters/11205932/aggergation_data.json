@@ -1,0 +1,298 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        282.94,
+        860.31
+      ],
+      "clusters_y": [
+        67.25,
+        51.91
+      ],
+      "clusters_text": [
+        [
+          "That",
+          ""
+        ],
+        [
+          "number",
+          "being"
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "his",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "That number of his",
+      "line_slope": -2.671931544857156,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        2
+      ],
+      "user_ids": [
+        759600.0,
+        759600.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.72,
+        493.7
+      ],
+      "clusters_y": [
+        542.88,
+        529.15
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "General"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "and",
+      "line_slope": -2.671931544857156,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        19
+      ],
+      "user_ids": [
+        759600.0,
+        759600.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.57,
+        942.68
+      ],
+      "clusters_y": [
+        609.9,
+        572.75
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "(which"
+        ],
+        [
+          "the",
+          "was"
+        ],
+        [
+          "Army",
+          "done"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.0,
+      "consensus_text": "in the Army",
+      "line_slope": -2.671931544857156,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        23,
+        24,
+        25
+      ],
+      "user_ids": [
+        759600.0,
+        759600.0,
+        759600.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        503.39,
+        895.84
+      ],
+      "clusters_y": [
+        811.78,
+        801.28
+      ],
+      "clusters_text": [
+        [
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "of",
+      "line_slope": -2.671931544857156,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        33,
+        34
+      ],
+      "user_ids": [
+        759600.0,
+        759600.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.72,
+        878.88
+      ],
+      "clusters_y": [
+        1052.41,
+        1020.92
+      ],
+      "clusters_text": [
+        [
+          "of"
+        ],
+        [
+          "an"
+        ],
+        [
+          "hundred"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "of an hundred",
+      "line_slope": -2.671931544857156,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        39,
+        40
+      ],
+      "user_ids": [
+        759600.0,
+        759600.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        551.84,
+        899.07
+      ],
+      "clusters_y": [
+        1130.74,
+        1117.82
+      ],
+      "clusters_text": [
+        [
+          "and"
+        ],
+        [
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "and the",
+      "line_slope": -2.671931544857156,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        43,
+        44
+      ],
+      "user_ids": [
+        759600.0,
+        759600.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.56,
+        648.74
+      ],
+      "clusters_y": [
+        1238.14,
+        1214.72
+      ],
+      "clusters_text": [
+        [
+          "for",
+          ""
+        ],
+        [
+          "the",
+          "place"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "for the",
+      "line_slope": -2.671931544857156,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        45,
+        47
+      ],
+      "user_ids": [
+        759600.0,
+        759600.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 7,
+  "transcribed_lines": 7,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

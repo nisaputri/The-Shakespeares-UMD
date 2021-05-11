@@ -1,0 +1,138 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        452.6666666666667,
+        926.29
+      ],
+      "clusters_y": [
+        184.54666666666665,
+        187.51333333333332
+      ],
+      "clusters_text": [
+        [
+          "Letters",
+          "Letters",
+          "Letters"
+        ],
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "Paris",
+          "Paris",
+          "Paris"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "Letters from Paris of the",
+      "line_slope": 0.39763200732370774,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        2
+      ],
+      "user_ids": [
+        1576515.0,
+        null,
+        429539.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        348.86666666666673,
+        861.735
+      ],
+      "clusters_y": [
+        113.45333333333333,
+        102.245
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "",
+          "March",
+          "March"
+        ],
+        [
+          "",
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "31st",
+          "31<sw-sup>th</sw-sup>"
+        ],
+        [
+          "",
+          "1696",
+          "1696."
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.8,
+      "consensus_text": "London March the 31st 1696",
+      "line_slope": -2.0891188567382697,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        1
+      ],
+      "user_ids": [
+        1576515.0,
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

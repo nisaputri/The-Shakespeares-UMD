@@ -1,0 +1,158 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        44.84,
+        930.6800000000001
+      ],
+      "clusters_y": [
+        173.92000000000002,
+        153.54500000000002
+      ],
+      "clusters_text": [
+        [
+          "as",
+          "as"
+        ],
+        [
+          "soon",
+          "Soon"
+        ],
+        [
+          "as",
+          "as"
+        ],
+        [
+          "he",
+          "he"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "Raised",
+          "Raised"
+        ],
+        [
+          "Contributions",
+          "Contributions"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Holstein",
+          "Holstein"
+        ],
+        [
+          "will",
+          "will"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "as soon as he has Raised Contributions in Holstein will",
+      "line_slope": -1.107289954535331,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        165259.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        53.58,
+        923.775
+      ],
+      "clusters_y": [
+        938.21,
+        915.26
+      ],
+      "clusters_text": [
+        [
+          "has",
+          "has"
+        ],
+        [
+          "Rec<sw-ex>eiv</sw-ex>ed",
+          "Reced"
+        ],
+        [
+          "3",
+          "3"
+        ],
+        [
+          "Expresses",
+          "Expresses"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Vienna",
+          "Vienna"
+        ],
+        [
+          "ab<sw-ex>ou</sw-ex>t",
+          "ab<sw-sup>t</sw-sup>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "peace",
+          "peace"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "has Rec<sw-ex>eiv</sw-ex>ed 3 Expresses from Vienna ab<sw-ex>ou</sw-ex>t <brev-y>th</brev-y><sl>e</sl> peace",
+      "line_slope": -1.107289954535331,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        20
+      ],
+      "user_ids": [
+        165259.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

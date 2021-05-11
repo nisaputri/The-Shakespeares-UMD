@@ -1,0 +1,149 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        661.33,
+        945.78
+      ],
+      "clusters_y": [
+        359.92,
+        353.38
+      ],
+      "clusters_text": [
+        [
+          "<sw-ex>there",
+          "<sw-unclear>1<sw-sup>mo</sw-sup>"
+        ],
+        [
+          "</sw-ex>are",
+          "Inst</sw-unclear>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "<sw-ex>there </sw-ex>are",
+      "line_slope": -0.4735114817881631,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        37,
+        46
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        272.21,
+        713.87
+      ],
+      "clusters_y": [
+        855.72,
+        849.61
+      ],
+      "clusters_text": [
+        [
+          "Indies",
+          "<sw-unclear>?opsham</sw-unclear>"
+        ],
+        [
+          "2",
+          ""
+        ],
+        [
+          "for",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Indies 2 for",
+      "line_slope": -0.4735114817881631,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        45
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        433.1,
+        945.09
+      ],
+      "clusters_y": [
+        900.03,
+        894.14
+      ],
+      "clusters_text": [
+        [
+          "&",
+          "Cadiz"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "rest",
+          ""
+        ],
+        [
+          "for",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "& <brev-y>th</brev-y><sl>e</sl> rest for",
+      "line_slope": -0.4735114817881631,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        40
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

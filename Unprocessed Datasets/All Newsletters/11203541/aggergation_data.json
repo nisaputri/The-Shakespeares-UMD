@@ -1,0 +1,189 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        391.615,
+        921.94
+      ],
+      "clusters_y": [
+        96.8,
+        95.565
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "May",
+          "May"
+        ],
+        [
+          "10th",
+          "10th:"
+        ],
+        [
+          "1694",
+          "1694"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "London May 10th 1694",
+      "line_slope": -0.09578530200352493,
+      "slope_label": 0,
+      "gutter_label": 2,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.035,
+        774.2049999999999
+      ],
+      "clusters_y": [
+        214.315,
+        211.305
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "13",
+          "13"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "these",
+          "these"
+        ],
+        [
+          "remarks",
+          "remarks"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "of the 13 with these remarks",
+      "line_slope": -0.09578530200352493,
+      "slope_label": 0,
+      "gutter_label": 2,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.47500000000002,
+        937.0450000000001
+      ],
+      "clusters_y": [
+        1137.385,
+        1138.88
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "29<sw-sup>th</sw-sup>",
+          "29<sw-sup>th</sw-sup>"
+        ],
+        [
+          "arrivd",
+          "arrivd"
+        ],
+        [
+          "nigh",
+          "nigh"
+        ],
+        [
+          "300",
+          "300"
+        ],
+        [
+          "shipps",
+          "shipps"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "and <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> on the 29<sw-sup>th</sw-sup> arrivd nigh 300 shipps",
+      "line_slope": -0.09578530200352493,
+      "slope_label": 0,
+      "gutter_label": 2,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        4
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

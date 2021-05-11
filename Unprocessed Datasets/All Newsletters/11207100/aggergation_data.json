@@ -1,0 +1,147 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        311.43,
+        328.92
+      ],
+      "clusters_y": [
+        1000.645,
+        550.46
+      ],
+      "clusters_text": [
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "Fr."
+        ],
+        [
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate",
+      "line_slope": -88.0690358979414,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        0
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        379.99,
+        385.62
+      ],
+      "clusters_y": [
+        964.82,
+        591.63
+      ],
+      "clusters_text": [
+        [
+          "Arbury",
+          "Baron"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Arbury",
+      "line_slope": -89.71778265931457,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        508.8333333333333,
+        502.37
+      ],
+      "clusters_y": [
+        1041.7233333333334,
+        519.9449999999999
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry",
+          "Coventry"
+        ],
+        [
+          "",
+          "Bag",
+          ""
+        ],
+        [
+          "Warwickshire",
+          "Warwickshire",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry Bag Warwickshire",
+      "line_slope": -90.97473357979865,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        4,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

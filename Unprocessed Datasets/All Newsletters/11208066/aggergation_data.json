@@ -1,0 +1,158 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        47.68,
+        920.775
+      ],
+      "clusters_y": [
+        58.69,
+        67.94
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "12",
+          "12"
+        ],
+        [
+          "Cannon",
+          "Cannon"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Dismounted",
+          "Dismounted"
+        ],
+        [
+          "most",
+          "most"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "them,",
+          "them."
+        ],
+        [
+          "He",
+          "He"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "of 12 Cannon & Dismounted most of them, He",
+      "line_slope": -0.12398038155308817,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        41.82,
+        933.56
+      ],
+      "clusters_y": [
+        108.365,
+        114.095
+      ],
+      "clusters_text": [
+        [
+          "fires",
+          "fires"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Town",
+          "Town"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "80",
+          "80"
+        ],
+        [
+          "peices",
+          "peices"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Cannon",
+          "Cannon"
+        ],
+        [
+          "on",
+          "on"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "fires from <brev-y>th</brev-y><sl>e</sl> Town w<sw-ex>i</sw-ex><sl>th</sl> 80 peices of Cannon on",
+      "line_slope": -0.12398038155308817,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        303191.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

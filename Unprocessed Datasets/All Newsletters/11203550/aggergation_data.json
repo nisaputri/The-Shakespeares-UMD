@@ -1,0 +1,110 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        256.31,
+        621.6700000000001
+      ],
+      "clusters_y": [
+        544.2950000000001,
+        546.2
+      ],
+      "clusters_text": [
+        [
+          "not",
+          "not"
+        ],
+        [
+          "know",
+          "know"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "result",
+          "result"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "not know their result",
+      "line_slope": -0.005754573439086553,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        4
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.95000000000002,
+        600.38
+      ],
+      "clusters_y": [
+        766.5150000000001,
+        765.5250000000001
+      ],
+      "clusters_text": [
+        [
+          "Satterday",
+          "Satturday"
+        ],
+        [
+          "next",
+          "next"
+        ],
+        [
+          "terme",
+          "Terme"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "Satterday next terme",
+      "line_slope": -0.005754573439086553,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

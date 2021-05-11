@@ -1,0 +1,658 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        254.51999999999998,
+        705.08
+      ],
+      "clusters_y": [
+        67.85499999999999,
+        69.67
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "Nov.<sw-sup>re</sw-sup>",
+          "Nov"
+        ],
+        [
+          "23<sw-sup>d</sw-sup>",
+          "23<sw-sup>rd"
+        ],
+        [
+          "17111",
+          "</sw-sup>1711"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "London Nov.<sw-sup>re</sw-sup> 23<sw-sup>d</sw-sup> 17111",
+      "line_slope": -0.17156408380530683,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        367.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        97.94999999999999,
+        919.05
+      ],
+      "clusters_y": [
+        201.47,
+        184.345
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "<sw-ex>and</sw-ex>"
+        ],
+        [
+          "ffrance",
+          "France"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "those",
+          "those"
+        ],
+        [
+          "particulars",
+          "particulars"
+        ],
+        [
+          "-",
+          "_"
+        ],
+        [
+          "Letters",
+          "Letters"
+        ],
+        [
+          "from",
+          "from"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "and ffrance w<sw-ex>i</sw-ex><sl>th</sl> those particulars - Letters from",
+      "line_slope": -0.17156408380530683,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        95.08999999999999,
+        931.4933333333333
+      ],
+      "clusters_y": [
+        375.3566666666666,
+        362.6766666666667
+      ],
+      "clusters_text": [
+        [
+          "on",
+          "on",
+          "on"
+        ],
+        [
+          "the",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "ffrontiers",
+          "Frontiers",
+          "ffrontiers"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Estramadura",
+          "Estramaduras",
+          "Eftramaduras"
+        ],
+        [
+          "and",
+          "<sw-ex>and</sw-ex>",
+          "and"
+        ],
+        [
+          "they",
+          "they",
+          "thay"
+        ],
+        [
+          "are",
+          "are",
+          "are"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.3333333333333335,
+      "consensus_text": "on <brev-y>th</brev-y><sl>e</sl> ffrontiers of Estramadura and they are in",
+      "line_slope": -0.17156408380530683,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        6,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        1501117.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        90.705,
+        935.35
+      ],
+      "clusters_y": [
+        428.895,
+        422.32
+      ],
+      "clusters_text": [
+        [
+          "danger",
+          "Danger"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "swallowed",
+          "swallowed"
+        ],
+        [
+          "up",
+          "up"
+        ],
+        [
+          "before",
+          "before"
+        ],
+        [
+          "any",
+          "any"
+        ],
+        [
+          "Ally",
+          "Ally"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "danger to be swallowed up before any Ally",
+      "line_slope": -0.17156408380530683,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        6
+      ],
+      "user_ids": [
+        1501117.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        91.82499999999999,
+        933.9849999999999
+      ],
+      "clusters_y": [
+        494.41499999999996,
+        481.55
+      ],
+      "clusters_text": [
+        [
+          "can",
+          "can"
+        ],
+        [
+          "send",
+          "send"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "any",
+          "any"
+        ],
+        [
+          "suceours",
+          "succours"
+        ],
+        [
+          "_",
+          "-"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Gov<sw-ex>er</sw-ex>nor",
+          "Govn<sw-sup>t</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "can send them any suceours _ that <brev-y>th</brev-y><sl>e</sl> Gov<sw-ex>er</sw-ex>nor",
+      "line_slope": -0.17156408380530683,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        7
+      ],
+      "user_ids": [
+        1501117.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        95.54499999999999,
+        941.3050000000001
+      ],
+      "clusters_y": [
+        553.355,
+        550.62
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Majorca",
+          "Majorca"
+        ],
+        [
+          "having",
+          "having"
+        ],
+        [
+          "refused",
+          "refused"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "submit",
+          "submit"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "King",
+          "King"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "of Majorca having refused to submit to King",
+      "line_slope": -0.17156408380530683,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        8
+      ],
+      "user_ids": [
+        1501117.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        102.015,
+        934.19
+      ],
+      "clusters_y": [
+        674.2950000000001,
+        668.765
+      ],
+      "clusters_text": [
+        [
+          "him",
+          "him"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "Men",
+          "men"
+        ],
+        [
+          "and",
+          "<sw-ex>and</sw-ex>"
+        ],
+        [
+          "Ships",
+          "ships"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Oppose",
+          "oppose"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Spaniards",
+          "Spaniards"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5555555555555556,
+      "consensus_text": "him w<sw-ex>i</sw-ex><sl>th</sl> Men and Ships to Oppose <brev-y>th</brev-y><sl>e</sl> Spaniards",
+      "line_slope": -0.17156408380530683,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        11
+      ],
+      "user_ids": [
+        1708223.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        99.025,
+        951.4549999999999
+      ],
+      "clusters_y": [
+        846.085,
+        859.34
+      ],
+      "clusters_text": [
+        [
+          "before",
+          "before"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "George",
+          "George"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "case",
+          "case"
+        ],
+        [
+          "<sw-ex>and</sw-ex>",
+          "and"
+        ],
+        [
+          "Implore",
+          "Implore"
+        ],
+        [
+          "his",
+          "his"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "before King George their case <sw-ex>and</sw-ex> Implore his",
+      "line_slope": -0.17156408380530683,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        13
+      ],
+      "user_ids": [
+        1501117.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        102.59,
+        949.88
+      ],
+      "clusters_y": [
+        938.565,
+        948.155
+      ],
+      "clusters_text": [
+        [
+          "Aid",
+          "Aid"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "protection",
+          "protection"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Letters",
+          "letters"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Hamburgh",
+          "Hamburgh"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "Aid and protection - Letters from Hamburgh",
+      "line_slope": -0.17156408380530683,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        88.775,
+        941.585
+      ],
+      "clusters_y": [
+        1407.8,
+        1398.435
+      ],
+      "clusters_text": [
+        [
+          "Majesty",
+          "majesty"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "year",
+          "year"
+        ],
+        [
+          "1715",
+          "1715"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Enable",
+          "enable"
+        ],
+        [
+          "him",
+          "him"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "Majesty for the year 1715 to Enable him to",
+      "line_slope": -0.17156408380530683,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        21
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 10,
+  "transcribed_lines": 10,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

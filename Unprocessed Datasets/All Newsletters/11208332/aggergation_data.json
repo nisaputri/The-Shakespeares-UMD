@@ -1,0 +1,189 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        199.61,
+        666.18
+      ],
+      "clusters_y": [
+        78.32,
+        84.36
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "July",
+          "july"
+        ],
+        [
+          "25<sw-sup>th</sw-sup>",
+          "25th"
+        ],
+        [
+          "1713",
+          "1713"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "London July 25<sw-sup>th</sw-sup> 1713",
+      "line_slope": 0.3430964780600643,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        2
+      ],
+      "user_ids": [
+        1173743.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        82.885,
+        934.815
+      ],
+      "clusters_y": [
+        133.125,
+        112.31
+      ],
+      "clusters_text": [
+        [
+          "Letters",
+          "Letters"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Dunkirk",
+          "Dunkirk"
+        ],
+        [
+          "Informe",
+          "Informe"
+        ],
+        [
+          "us",
+          "us"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "Brigadeer",
+          "Brigadeer"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Letters from Dunkirk Informe us that Brigadeer",
+      "line_slope": -1.9064124297882132,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1173743.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        84.9,
+        927.54
+      ],
+      "clusters_y": [
+        201.49,
+        179.155
+      ],
+      "clusters_text": [
+        [
+          "Clayton",
+          "Clayton"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Arrived",
+          "Arrived"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "England",
+          "England"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<sw-unclear>Lee</sw-unclear>",
+          "see"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "Clayton is Arrived there from England to <sw-unclear>Lee</sw-unclear>",
+      "line_slope": -1.9064124297882132,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1173743.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

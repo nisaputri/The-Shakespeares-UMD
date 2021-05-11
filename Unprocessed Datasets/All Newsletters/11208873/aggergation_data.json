@@ -1,0 +1,241 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        38.185,
+        941.985
+      ],
+      "clusters_y": [
+        203.33999999999997,
+        217.675
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Household",
+          "Household"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "This",
+          "this"
+        ],
+        [
+          "day",
+          "Day"
+        ],
+        [
+          "before",
+          "before"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "L<sw-ex>ord</sw-ex>",
+          "L<sw-ex>or</sw-ex>d"
+        ],
+        [
+          "Ch:",
+          "Ch<sw-ex>ief</sw-ex>"
+        ],
+        [
+          "Justice",
+          "Justice"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5454545454545454,
+      "consensus_text": "of the Household - This day before <brev-y>th</brev-y><sl>e</sl> L<sw-ex>ord</sw-ex> Ch: Justice",
+      "line_slope": 1.2710024143014182,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        14
+      ],
+      "user_ids": [
+        1708223.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        43.09,
+        940.535
+      ],
+      "clusters_y": [
+        368.415,
+        396.84000000000003
+      ],
+      "clusters_text": [
+        [
+          "King",
+          "King"
+        ],
+        [
+          "George",
+          "George"
+        ],
+        [
+          "and",
+          "&"
+        ],
+        [
+          "drinking",
+          "drinking"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Pretenders",
+          "Pretenders"
+        ],
+        [
+          "Health",
+          "Health"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "King George and drinking <brev-y>th</brev-y><sl>e</sl> Pretenders Health by the",
+      "line_slope": 1.2710024143014182,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        35.92,
+        945.3299999999999
+      ],
+      "clusters_y": [
+        663.91,
+        686.605
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "&"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "places",
+          "places"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Court",
+          "Court"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "ord<sw-sup>d</sw-sup>",
+          "ord<sw-ex>er</sw-ex>ed"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "Sworn",
+          "sworn"
+        ],
+        [
+          "into",
+          "into"
+        ],
+        [
+          "their",
+          "their"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "and have places at Court are ord<sw-sup>d</sw-sup> to be Sworn into their",
+      "line_slope": 1.2710024143014182,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        7
+      ],
+      "user_ids": [
+        1708223.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

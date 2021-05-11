@@ -1,0 +1,146 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        242.325,
+        949.96
+      ],
+      "clusters_y": [
+        350.33,
+        352.515
+      ],
+      "clusters_text": [
+        [
+          "taken",
+          "taken"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "ffr<sw-ex>ench</sw-ex>",
+          "Fr"
+        ],
+        [
+          "shipp",
+          "shipp"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "60",
+          "60"
+        ],
+        [
+          "Gunes",
+          "Gunes"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "taken by a ffr<sw-ex>ench</sw-ex> shipp of 60 Gunes and <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+      "line_slope": -0.27777255859341443,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        1501614.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        239.54,
+        749.9849999999999
+      ],
+      "clusters_y": [
+        969.3399999999999,
+        967.565
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "first",
+          "first"
+        ],
+        [
+          "time",
+          "time"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Poll",
+          "Poll"
+        ],
+        [
+          "Bill",
+          "Bill"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the first time the Poll Bill",
+      "line_slope": -0.27777255859341443,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        5
+      ],
+      "user_ids": [
+        3697.0,
+        1501614.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        58.96,
+        929.38
+      ],
+      "clusters_y": [
+        279.98,
+        302.3
+      ],
+      "clusters_text": [
+        [
+          "roar",
+          "for"
+        ],
+        [
+          "has",
+          ""
+        ],
+        [
+          "latly",
+          "want"
+        ],
+        [
+          "been",
+          ""
+        ],
+        [
+          "among",
+          ""
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "ffr<sw-ex>ench",
+          ""
+        ],
+        [
+          "</sw-ex>in",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "roar has latly been among the ffr<sw-ex>ench </sw-ex>in",
+      "line_slope": 1.9339305888039056,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        14
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        50.78,
+        836.39
+      ],
+      "clusters_y": [
+        323.88,
+        349.92
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "kill<sw-ex>e</sw-ex>d"
+        ],
+        [
+          "provisions",
+          "therein"
+        ],
+        [
+          "and",
+          ""
+        ],
+        [
+          "sev<sw-ex>er</sw-ex>all",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "of provisions and sev<sw-ex>er</sw-ex>all",
+      "line_slope": 1.9339305888039056,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        20
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        230.07,
+        829.69
+      ],
+      "clusters_y": [
+        370.0,
+        390.83
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "has"
+        ],
+        [
+          "is",
+          "been"
+        ],
+        [
+          "now",
+          "at"
+        ],
+        [
+          "gone",
+          "Lisle"
+        ],
+        [
+          "for",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "and is now gone for",
+      "line_slope": 1.9339305888039056,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        18
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

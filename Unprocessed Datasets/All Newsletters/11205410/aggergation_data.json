@@ -1,0 +1,333 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        127.335,
+        155.29500000000002
+      ],
+      "clusters_y": [
+        36.36,
+        1517.415
+      ],
+      "clusters_text": [
+        [
+          "430",
+          "",
+          "430"
+        ],
+        [
+          "Men",
+          "",
+          "Men"
+        ],
+        [
+          "before",
+          "",
+          "before"
+        ],
+        [
+          "he",
+          "",
+          "he"
+        ],
+        [
+          "was",
+          "",
+          "was"
+        ],
+        [
+          "Reinforced",
+          "forced",
+          "Reinforced"
+        ],
+        [
+          "by",
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Gallies",
+          "Galhias",
+          "Gallies"
+        ],
+        [
+          "-",
+          "",
+          "-"
+        ],
+        [
+          "It",
+          "",
+          "It"
+        ],
+        [
+          "is",
+          "",
+          "is"
+        ],
+        [
+          "Said",
+          "",
+          "Said"
+        ],
+        [
+          "that",
+          "",
+          "that"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.142857142857143,
+      "consensus_text": "430 Men before he was Reinforced by the Gallies - It is Said that",
+      "line_slope": 89.26119833829411,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        1,
+        20
+      ],
+      "user_ids": [
+        3697.0,
+        null,
+        1851566.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        70.46000000000001,
+        85.78999999999999
+      ],
+      "clusters_y": [
+        37.519999999999996,
+        1504.815
+      ],
+      "clusters_text": [
+        [
+          "Cap<sw-sup>t</sw-sup><sw-ex>ain</sw-ex>.",
+          "Capt<sw-ex>ain</sw-ex>"
+        ],
+        [
+          "Jennings",
+          "Jennings"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup>.",
+          "St."
+        ],
+        [
+          "George",
+          "George"
+        ],
+        [
+          "Boarded",
+          "Boarded"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Royall",
+          "Roayll"
+        ],
+        [
+          "Sun",
+          "Sun"
+        ],
+        [
+          "but",
+          "but"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7272727272727273,
+      "consensus_text": "Cap<sw-sup>t</sw-sup><sw-ex>ain</sw-ex>. Jennings in the S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup>. George Boarded the Royall Sun but",
+      "line_slope": 89.26119833829411,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        21
+      ],
+      "user_ids": [
+        3697.0,
+        1851566.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.09,
+        965.03
+      ],
+      "clusters_y": [
+        1230.4850000000001,
+        1201.8899999999999
+      ],
+      "clusters_text": [
+        [
+          "last",
+          "last"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Grand",
+          "Grand"
+        ],
+        [
+          "Daughter",
+          "Daughter"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "last to the Grand Daughter of the",
+      "line_slope": -3.697135907559389,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        15
+      ],
+      "user_ids": [
+        3697.0,
+        1851566.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        207.01,
+        191.55
+      ],
+      "clusters_y": [
+        1523.28,
+        36.14
+      ],
+      "clusters_text": [
+        [
+          "Admirall",
+          ""
+        ],
+        [
+          "Tholouse",
+          ""
+        ],
+        [
+          "in",
+          ""
+        ],
+        [
+          "his",
+          ""
+        ],
+        [
+          "Ship",
+          ""
+        ],
+        [
+          "called",
+          "called"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Royall",
+          ""
+        ],
+        [
+          "Sun",
+          ""
+        ],
+        [
+          "lost",
+          ""
+        ],
+        [
+          "above",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1818181818181819,
+      "consensus_text": "Admirall Tholouse in his Ship called the Royall Sun lost above",
+      "line_slope": -90.52072656640766,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

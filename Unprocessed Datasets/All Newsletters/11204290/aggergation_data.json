@@ -1,0 +1,79 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        291.9,
+        947.11
+      ],
+      "clusters_y": [
+        892.1,
+        876.21
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "a"
+        ],
+        [
+          "powerful",
+          "powerfull"
+        ],
+        [
+          "",
+          "deversion"
+        ],
+        [
+          "",
+          "="
+        ],
+        [
+          "",
+          "we"
+        ],
+        [
+          "",
+          "have"
+        ],
+        [
+          "",
+          "advise"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1428571428571428,
+      "consensus_text": "a powerful deversion = we have advise",
+      "line_slope": -1.3600018977235266,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        18
+      ],
+      "user_ids": [
+        478471.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

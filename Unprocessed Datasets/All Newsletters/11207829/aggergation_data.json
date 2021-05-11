@@ -1,0 +1,103 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        757.4649999999999,
+        769.95
+      ],
+      "clusters_y": [
+        73.125,
+        1092.8249999999998
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "a"
+        ],
+        [
+          "triple",
+          "triple"
+        ],
+        [
+          "Allyance",
+          "Allyance"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Made",
+          "Made"
+        ],
+        [
+          "between",
+          "between"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Ma<sw-ex>ies</sw-ex><sl>ty",
+          "Ma<sw-ex>ie<sw-ex>s</sw-ex></sw-ex>ty"
+        ],
+        [
+          "Denmarke",
+          "Denmarke"
+        ],
+        [
+          "and",
+          "&"
+        ],
+        [
+          "Prussia",
+          "Prussia"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Order</sl>",
+          "Order"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7692307692307692,
+      "consensus_text": "a triple Allyance is Made between his Ma<sw-ex>ies</sw-ex><sl>ty Denmarke and Prussia in Order</sl>",
+      "line_slope": 89.75658641940447,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        64
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

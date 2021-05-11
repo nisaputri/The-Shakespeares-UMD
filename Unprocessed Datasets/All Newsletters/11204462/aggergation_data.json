@@ -1,0 +1,154 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        228.75,
+        232.37
+      ],
+      "clusters_y": [
+        93.78999999999999,
+        1491.55
+      ],
+      "clusters_text": [
+        [
+          "",
+          "o<sw-ex>u</sw-ex><sl>r</sl>"
+        ],
+        [
+          "ordered",
+          "old"
+        ],
+        [
+          "that",
+          "thed"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "protecions",
+          "protection"
+        ],
+        [
+          "formerly",
+          "formerly"
+        ],
+        [
+          "Granted",
+          "granted"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "memb<sw-ex>e</sw-ex>rs",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "Parliament",
+          ""
+        ],
+        [
+          "be",
+          ""
+        ],
+        [
+          "now",
+          "an"
+        ],
+        [
+          "renued",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2142857142857142,
+      "consensus_text": "o<sw-ex>u</sw-ex><sl>r</sl> ordered that the protecions formerly Granted by memb<sw-ex>e</sw-ex>rs of Parliament be now renued",
+      "line_slope": 90.07661872505463,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        3
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        471.65,
+        952.02
+      ],
+      "clusters_y": [
+        1309.08,
+        1299.59
+      ],
+      "clusters_text": [
+        [
+          "Yesterday",
+          "Yesterday"
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "Speaker",
+          ""
+        ],
+        [
+          "reported",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "Yesterday the Speaker reported",
+      "line_slope": -0.6889215342913743,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        30,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

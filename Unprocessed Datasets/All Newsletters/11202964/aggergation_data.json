@@ -1,0 +1,212 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        284.24,
+        873.67
+      ],
+      "clusters_y": [
+        1087.3,
+        1071.81
+      ],
+      "clusters_text": [
+        [
+          "",
+          "with"
+        ],
+        [
+          "",
+          "all"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "Leading"
+        ],
+        [
+          "been",
+          "Men"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "with all <brev-y>th</brev-y><sl>e</sl> Leading been",
+      "line_slope": -1.9972816209595705,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        37
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        279.72,
+        940.17
+      ],
+      "clusters_y": [
+        1129.91,
+        1116.35
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "Queen",
+          "Design"
+        ],
+        [
+          "whilst",
+          "was"
+        ],
+        [
+          "some",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> Queen whilst some",
+      "line_slope": -1.9972816209595705,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        22
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        464.36,
+        976.32
+      ],
+      "clusters_y": [
+        1229.33,
+        1211.9
+      ],
+      "clusters_text": [
+        [
+          "There",
+          "seal"
+        ],
+        [
+          "is",
+          "made"
+        ],
+        [
+          "now",
+          "to"
+        ],
+        [
+          "a",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "There is now a",
+      "line_slope": -1.9972816209595705,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        25
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        282.3,
+        927.9
+      ],
+      "clusters_y": [
+        1423.01,
+        1398.48
+      ],
+      "clusters_text": [
+        [
+          "an",
+          "of"
+        ],
+        [
+          "Impression",
+          "a"
+        ],
+        [
+          "on",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "an Impression on <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -1.9972816209595705,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        29,
+        31
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

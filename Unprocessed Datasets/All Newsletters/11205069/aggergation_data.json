@@ -1,0 +1,467 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        202.535,
+        182.47
+      ],
+      "clusters_y": [
+        74.7,
+        1483.07
+      ],
+      "clusters_text": [
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "John",
+          "John"
+        ],
+        [
+          "ffenwick",
+          "ffenwick"
+        ],
+        [
+          "Lady",
+          "Lady"
+        ],
+        [
+          "Dyed",
+          "Dyed"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "this",
+          ""
+        ],
+        [
+          "afternoon",
+          ""
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "Coroners",
+          ""
+        ],
+        [
+          "Inquest",
+          ""
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "sat",
+          "sa<sw-unclear>??</sw-unclear>"
+        ],
+        [
+          "on",
+          "on"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> John ffenwick Lady Dyed - this afternoon the Coroners Inquest w<sw-ex>hi</sw-ex><sl>ch</sl> sat on",
+      "line_slope": 90.90145350116518,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        34,
+        7
+      ],
+      "user_ids": [
+        190714.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        408.40999999999997,
+        929.965
+      ],
+      "clusters_y": [
+        583.7750000000001,
+        629.885
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "house",
+          "house"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Comones",
+          "Comons"
+        ],
+        [
+          "this",
+          "this"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "The house of Comones this",
+      "line_slope": 4.820476061484756,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        0
+      ],
+      "user_ids": [
+        190714.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        427.415,
+        910.2149999999999
+      ],
+      "clusters_y": [
+        898.1600000000001,
+        938.125
+      ],
+      "clusters_text": [
+        [
+          "Ordered",
+          "ordered"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "house",
+          "house"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Ordered that the house",
+      "line_slope": 4.820476061484756,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        2
+      ],
+      "user_ids": [
+        190714.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        415.69,
+        904.75
+      ],
+      "clusters_y": [
+        1272.42,
+        1312.3600000000001
+      ],
+      "clusters_text": [
+        [
+          "Then",
+          "Then"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "House",
+          "House"
+        ],
+        [
+          "went",
+          "went"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Then the House went",
+      "line_slope": 4.820476061484756,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        29,
+        5
+      ],
+      "user_ids": [
+        190714.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        435.68333333333334,
+        903.685
+      ],
+      "clusters_y": [
+        52.71,
+        63.805
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "15",
+          "15<sw-sup>th</sw-sup>",
+          "15th"
+        ],
+        [
+          "",
+          "December",
+          "December"
+        ],
+        [
+          "",
+          "1696",
+          "1696"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "London 15 December 1696",
+      "line_slope": 2.0298991590805424,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        190714.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        429.645,
+        908.55
+      ],
+      "clusters_y": [
+        153.835,
+        170.46
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "L<sw-ex>ord</sw-ex>s",
+          ""
+        ],
+        [
+          "<sw-del>the</sw-del>",
+          ""
+        ],
+        [
+          "Yesterday",
+          ""
+        ],
+        [
+          "ordered",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "The L<sw-ex>ord</sw-ex>s <sw-del>the</sw-del> Yesterday ordered",
+      "line_slope": 2.0298991590805424,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        190714.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.665,
+        918.1
+      ],
+      "clusters_y": [
+        732.09,
+        757.165
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Creditors",
+          "Credetors"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "ordered",
+          "ordered"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "bill",
+          "bill"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "of Creditors and ordered the bill to",
+      "line_slope": 2.0298991590805424,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        1
+      ],
+      "user_ids": [
+        190714.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.83999999999997,
+        895.31
+      ],
+      "clusters_y": [
+        1365.745,
+        1401.11
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "meanes",
+          "meanes"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Debated",
+          "Debated"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "and meanes and Debated the",
+      "line_slope": 2.0298991590805424,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        31,
+        6
+      ],
+      "user_ids": [
+        190714.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 8,
+  "transcribed_lines": 8,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

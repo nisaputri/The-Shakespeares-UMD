@@ -1,0 +1,197 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        273.57,
+        938.7449999999999
+      ],
+      "clusters_y": [
+        1005.685,
+        998.5699999999999
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "letter",
+          "letter"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Governour",
+          "Govevnour"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "and a letter to the Governour of",
+      "line_slope": -0.18912736225429447,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        6
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        277.09000000000003,
+        957.4949999999999
+      ],
+      "clusters_y": [
+        1208.105,
+        1213.26
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Gov<sw-ex>er</sw-ex>no<sw-sup>r</sw-sup>",
+          "GovnR."
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Ostend",
+          "Ostend"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "same",
+          "Same"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "for <brev-y>th</brev-y><sl>e</sl> Gov<sw-ex>er</sw-ex>no<sw-sup>r</sw-sup> of Ostend to <brev-y>th</brev-y><sl>e</sl> same",
+      "line_slope": -0.18912736225429447,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        9
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.28,
+        944.56
+      ],
+      "clusters_y": [
+        1490.23,
+        1468.19
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Joyn",
+          "Joyn"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "18",
+          "18"
+        ],
+        [
+          "Battallions",
+          "Battallions"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "to Joyn them with 18 Battallions",
+      "line_slope": -0.18912736225429447,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        25,
+        11
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

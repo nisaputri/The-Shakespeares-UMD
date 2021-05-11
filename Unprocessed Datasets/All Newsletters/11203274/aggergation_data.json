@@ -1,0 +1,216 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        444.17,
+        440.72
+      ],
+      "clusters_y": [
+        860.18,
+        982.97
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "To",
+      "line_slope": 91.67996292220708,
+      "slope_label": 5,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        12
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        294.245,
+        295.555
+      ],
+      "clusters_y": [
+        713.78,
+        905.1600000000001
+      ],
+      "clusters_text": [
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "at Arbury",
+      "line_slope": 89.80397968404353,
+      "slope_label": 6,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.635,
+        900.3050000000001
+      ],
+      "clusters_y": [
+        244.335,
+        207.155
+      ],
+      "clusters_text": [
+        [
+          "this",
+          "This"
+        ],
+        [
+          "Day",
+          "Day"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "House",
+          "H<sw-ex>ouse</sw-ex>"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Com<sw-ex>m</sw-ex>ons",
+          "Com<sw-ex>m</sw-ex>ons"
+        ],
+        [
+          "Ressolued",
+          "Ressolued"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "this Day <brev-y>th</brev-y><sl>e</sl> House of Com<sw-ex>m</sw-ex>ons Ressolued",
+      "line_slope": -3.049423099741945,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        5
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        49.55,
+        931.44
+      ],
+      "clusters_y": [
+        405.865,
+        338.19
+      ],
+      "clusters_text": [
+        [
+          "house",
+          "House"
+        ],
+        [
+          "adjourned",
+          "adjournd"
+        ],
+        [
+          "as",
+          "as"
+        ],
+        [
+          "did",
+          "did"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Lords",
+          "Lords"
+        ],
+        [
+          "without",
+          "without"
+        ],
+        [
+          "Doeing",
+          "Doeing"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "house adjourned as did <brev-y>th</brev-y><sl>e</sl> Lords without Doeing",
+      "line_slope": -4.663066806168838,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        8
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,1021 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        17.993333333333332,
+        926.7833333333334
+      ],
+      "clusters_y": [
+        75.1,
+        64.21333333333334
+      ],
+      "clusters_text": [
+        [
+          "Last",
+          "Last",
+          "Last"
+        ],
+        [
+          "Night",
+          "Night",
+          "Night"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Com<sw-ex>m</sw-ex>ittee",
+          "</sl>Comittee",
+          "Comittee"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Elections",
+          "Elections",
+          "Elections"
+        ],
+        [
+          "proceeded",
+          "proceeded",
+          "proceeded"
+        ],
+        [
+          "on",
+          "on",
+          "on"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y><sl><brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl></sl></brev-y>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5555555555555554,
+      "consensus_text": "Last Night <brev-y>th</brev-y><sl>e</sl> Com<sw-ex>m</sw-ex>ittee of Elections proceeded on <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        17.665,
+        946.98
+      ],
+      "clusters_y": [
+        210.93,
+        185.05
+      ],
+      "clusters_text": [
+        [
+          "Gape",
+          "Gape"
+        ],
+        [
+          "petitioner",
+          "petitioner"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "m<sw-sup>r</sw-sup>",
+          "M<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Hale",
+          "Hale"
+        ],
+        [
+          "sitting",
+          "Sitting"
+        ],
+        [
+          "Member",
+          "member"
+        ],
+        [
+          "went",
+          "went"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "Gape petitioner & m<sw-sup>r</sw-sup> Hale sitting Member went",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        22.836666666666662,
+        921.81
+      ],
+      "clusters_y": [
+        271.92,
+        251.90333333333334
+      ],
+      "clusters_text": [
+        [
+          "thro",
+          "thr",
+          "thro"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "same",
+          "same",
+          "same"
+        ],
+        [
+          "&",
+          "and",
+          "&"
+        ],
+        [
+          "upon",
+          "upon",
+          "upon"
+        ],
+        [
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "Division",
+          "Division",
+          "Division"
+        ],
+        [
+          "Carryed",
+          "Carryed",
+          "Carryed"
+        ],
+        [
+          "it",
+          "it",
+          "it"
+        ],
+        [
+          "by",
+          "by",
+          "by"
+        ],
+        [
+          "<sw-del>8</sw-del>",
+          "",
+          "<sw-del>?</sw-del>"
+        ],
+        [
+          "<sw-ins>10</sw-ins>",
+          "10",
+          "^<sw-sup>10</sw-sup>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "thro <brev-y>th</brev-y><sl>e</sl> same & upon a Division Carryed it by <sw-del>8</sw-del> <sw-ins>10</sw-ins>",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        15,
+        3
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        23.14,
+        926.62
+      ],
+      "clusters_y": [
+        323.375,
+        313.565
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for"
+        ],
+        [
+          "m<sw-sup>r</sw-sup>",
+          "M<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Gape",
+          "Gape"
+        ],
+        [
+          "ag<sw-ex>ain</sw-ex>st",
+          "against"
+        ],
+        [
+          "m<sw-sup>r</sw-sup>",
+          "M<sw-sup>r</sw-sup>"
+        ],
+        [
+          "hale",
+          "Hale"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Yesterday",
+          "Yesterday"
+        ],
+        [
+          "Com<sw-ex>m</sw-ex>enced",
+          "Comenced"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4444444444444444,
+      "consensus_text": "for m<sw-sup>r</sw-sup> Gape ag<sw-ex>ain</sw-ex>st m<sw-sup>r</sw-sup> hale - Yesterday Com<sw-ex>m</sw-ex>enced",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        13.875,
+        926.315
+      ],
+      "clusters_y": [
+        435.375,
+        431.935
+      ],
+      "clusters_text": [
+        [
+          "on",
+          "on"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Tryall",
+          "Tryall"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "m<sw-sup>r</sw-sup>",
+          "M<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Plunket",
+          "Plunket"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Murther",
+          "Murther"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "m<sw-sup>r</sw-sup>",
+          "mr"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8181818181818181,
+      "consensus_text": "on <brev-y>th</brev-y><sl>e</sl> Tryall of m<sw-sup>r</sw-sup> Plunket for <brev-y>th</brev-y><sl>e</sl> Murther of m<sw-sup>r</sw-sup>",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        20.775,
+        931.5550000000001
+      ],
+      "clusters_y": [
+        540.475,
+        540.99
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "is"
+        ],
+        [
+          "Guilty",
+          "Guilty"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Manslaughter",
+          "Manslaughter"
+        ],
+        [
+          "only",
+          "only"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "It",
+          "It"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "said",
+          "said"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9090909090909092,
+      "consensus_text": "in Guilty of Manslaughter only - It is said <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        8
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        23.735,
+        926.3050000000001
+      ],
+      "clusters_y": [
+        602.7149999999999,
+        602.25
+      ],
+      "clusters_text": [
+        [
+          "Widdow",
+          "Widdow"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Dece<sw-ex>ase</sw-ex>d",
+          "dec<sw-ex>eas</sw-ex>ed"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "Lodge",
+          "Lodge"
+        ],
+        [
+          "an",
+          "an"
+        ],
+        [
+          "Appeale",
+          "Appeale"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "Widdow of <brev-y>th</brev-y><sl>e</sl> Dece<sw-ex>ase</sw-ex>d will Lodge an Appeale",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        29.355,
+        932.775
+      ],
+      "clusters_y": [
+        657.185,
+        660.23
+      ],
+      "clusters_text": [
+        [
+          "against",
+          "ag<sw-ex>ain</sw-ex><sw-sup>st</sw-sup>"
+        ],
+        [
+          "m<sw-sup>r</sw-sup>",
+          "m<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Plunket",
+          "Plunket"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "This",
+          "this"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "the"
+        ],
+        [
+          "Lds",
+          "L<sw-ex>or</sw-ex><sw-sup>ds</sw-sup>"
+        ],
+        [
+          "Agreed",
+          "Agreed"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "their",
+          "their"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6363636363636365,
+      "consensus_text": "against m<sw-sup>r</sw-sup> Plunket - This day <brev-y>th</brev-y><sl>e</sl> Lds Agreed to their",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        10
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        23.68,
+        924.1800000000001
+      ],
+      "clusters_y": [
+        703.085,
+        708.7650000000001
+      ],
+      "clusters_text": [
+        [
+          "address",
+          "address"
+        ],
+        [
+          "ag<sw-ex>ain</sw-ex>st",
+          "ag<sw-ex>ain</sw-ex><sw-sup>st</sw-sup>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Pretender",
+          "Pretender"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "left",
+          "left"
+        ],
+        [
+          "it",
+          "it"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Queen",
+          "Queen"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9090909090909092,
+      "consensus_text": "address ag<sw-ex>ain</sw-ex>st <brev-y>th</brev-y><sl>e</sl> Pretender & left it to <brev-y>th</brev-y><sl>e</sl> Queen to",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        11
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        28.465,
+        924.35
+      ],
+      "clusters_y": [
+        763.105,
+        764.365
+      ],
+      "clusters_text": [
+        [
+          "Issue",
+          "Issue"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "R<sw-ex>oyall</sw-ex>:",
+          "R<sw-ex>oyall</sw-ex>"
+        ],
+        [
+          "Proclamation",
+          "Proclamation"
+        ],
+        [
+          "when",
+          "when"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "Ma<sw-ex>ies</sw-ex><sl>ty</sl>",
+          "Maj<sw-ex>es</sw-ex><sw-sup>ty</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Issue out her R<sw-ex>oyall</sw-ex>: Proclamation when her Ma<sw-ex>ies</sw-ex><sl>ty</sl>",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        12
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        30.46,
+        925.115
+      ],
+      "clusters_y": [
+        810.67,
+        813.095
+      ],
+      "clusters_text": [
+        [
+          "shall",
+          "shall"
+        ],
+        [
+          "please",
+          "please"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "think",
+          "think"
+        ],
+        [
+          "fit",
+          "fit"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "proceed",
+          "proceed"
+        ],
+        [
+          "further",
+          "further"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "shall please to think fit - proceed further to",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        13
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        26.025,
+        882.48
+      ],
+      "clusters_y": [
+        860.825,
+        870.9649999999999
+      ],
+      "clusters_text": [
+        [
+          "Morrow",
+          "Morrow"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "State",
+          "State"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Nation",
+          "Nation"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "The",
+          "the"
+        ],
+        [
+          "Com<sw-ex>m</sw-ex>ons",
+          "Comons"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Morrow on <brev-y>th</brev-y><sl>e</sl> State of <brev-y>th</brev-y><sl>e</sl> Nation - The Com<sw-ex>m</sw-ex>ons",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        30.865000000000002,
+        917.38
+      ],
+      "clusters_y": [
+        917.48,
+        922.1199999999999
+      ],
+      "clusters_text": [
+        [
+          "went",
+          "went"
+        ],
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "hearing",
+          "hearing"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Barr",
+          "Barr"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "House",
+          "House"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "went upon hearing at <brev-y>th</brev-y><sl>e</sl> Barr of <brev-y>th</brev-y><sl>e</sl> House the",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        15
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        29.03,
+        926.115
+      ],
+      "clusters_y": [
+        965.87,
+        976.2
+      ],
+      "clusters_text": [
+        [
+          "Election",
+          "Election"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Linlithgow",
+          "Linlithgow"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Scotland",
+          "Scotland"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "like",
+          "like"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Election for Linlithgow in Scotland & are like",
+      "line_slope": -0.27949811882080094,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        16
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 14,
+  "transcribed_lines": 14,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

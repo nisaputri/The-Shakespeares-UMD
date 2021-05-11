@@ -1,0 +1,265 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        265.68,
+        819.51
+      ],
+      "clusters_y": [
+        127.135,
+        136.98
+      ],
+      "clusters_text": [
+        [
+          "But",
+          "But",
+          "Maleiout."
+        ],
+        [
+          "after",
+          "after",
+          ""
+        ],
+        [
+          "all",
+          "all",
+          ""
+        ],
+        [
+          "t'is",
+          "i'c's",
+          ""
+        ],
+        [
+          "believed",
+          "believed",
+          ""
+        ],
+        [
+          "",
+          "of",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "But after all t'is believed of",
+      "line_slope": 0.24186931189228905,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0,
+        1
+      ],
+      "user_ids": [
+        1627866.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.01,
+        959.26
+      ],
+      "clusters_y": [
+        192.7,
+        187.21
+      ],
+      "clusters_text": [
+        [
+          "grant",
+          "grant"
+        ],
+        [
+          "th<sw-ex>eir</sw-ex>",
+          ""
+        ],
+        [
+          "Passports",
+          ""
+        ],
+        [
+          "nor",
+          ""
+        ],
+        [
+          "Receive",
+          ""
+        ],
+        [
+          "this",
+          ""
+        ],
+        [
+          "Deputation",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1428571428571428,
+      "consensus_text": "grant th<sw-ex>eir</sw-ex> Passports nor Receive this Deputation",
+      "line_slope": 0.24186931189228905,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        4
+      ],
+      "user_ids": [
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.31,
+        949.45
+      ],
+      "clusters_y": [
+        243.02,
+        251.6
+      ],
+      "clusters_text": [
+        [
+          "upon",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "whole",
+          "whole"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "of"
+        ],
+        [
+          "Court",
+          "Court"
+        ],
+        [
+          "begins",
+          "begins"
+        ],
+        [
+          "Every",
+          ""
+        ],
+        [
+          "day",
+          ""
+        ],
+        [
+          "more",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "upon <brev-y>th</brev-y><sl>e</sl> whole <brev-y>th</brev-y><sl>e</sl> Court begins Every day more",
+      "line_slope": 0.24186931189228905,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        6
+      ],
+      "user_ids": [
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.57,
+        917.56
+      ],
+      "clusters_y": [
+        1107.67,
+        1111.96
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "same",
+          ""
+        ],
+        [
+          "in",
+          ""
+        ],
+        [
+          "favour",
+          ""
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "silesia"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> same in favour of <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": 0.24186931189228905,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        26,
+        27
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

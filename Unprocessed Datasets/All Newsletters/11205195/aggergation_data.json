@@ -1,0 +1,134 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        221.97,
+        227.03
+      ],
+      "clusters_y": [
+        166.44,
+        1498.92
+      ],
+      "clusters_text": [
+        [
+          "goeing",
+          "ships"
+        ],
+        [
+          "out",
+          "was"
+        ],
+        [
+          "to",
+          "sufficient"
+        ],
+        [
+          "intercept",
+          "Ground"
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "sail",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "goeing out to intercept the sail",
+      "line_slope": 89.68646581501795,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        25,
+        26
+      ],
+      "user_ids": [
+        864398.0,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        58.8,
+        72.37
+      ],
+      "clusters_y": [
+        190.68,
+        1466.34
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "to"
+        ],
+        [
+          "Committee",
+          "be"
+        ],
+        [
+          "Resolved",
+          "Raised"
+        ],
+        [
+          "a",
+          "for"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "Civill"
+        ],
+        [
+          "supply",
+          "List"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "a Committee Resolved a the Civill supply",
+      "line_slope": 89.68646581501795,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        31,
+        32
+      ],
+      "user_ids": [
+        864398.0,
+        864398.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        929.2249999999999,
+        919.715
+      ],
+      "clusters_y": [
+        29.605,
+        356.575
+      ],
+      "clusters_text": [
+        [
+          "15",
+          "15"
+        ],
+        [
+          "Iune",
+          "June"
+        ],
+        [
+          "1708",
+          "1708"
+        ],
+        [
+          "o",
+          "o"
+        ],
+        [
+          "N.",
+          "N.P"
+        ],
+        [
+          "l",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "15 Iune 1708 o N. l",
+      "line_slope": 91.66636554004262,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        5
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

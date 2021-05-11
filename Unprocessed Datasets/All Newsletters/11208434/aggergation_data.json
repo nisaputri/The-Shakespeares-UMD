@@ -1,0 +1,623 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        85.28999999999999,
+        930.935
+      ],
+      "clusters_y": [
+        262.44,
+        251.88
+      ],
+      "clusters_text": [
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Prussian",
+          "Prussian"
+        ],
+        [
+          "Ma<sw-ex>ies</sw-ex><sl>ty",
+          "Maj<sw-ex>es</sw-ex>ty"
+        ],
+        [
+          "&",
+          "<sw-ex>and</sw-ex>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Landgrave",
+          "Landgrave"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Hesse",
+          "Hesse"
+        ],
+        [
+          "Capell</sl>",
+          "Cassell"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "his Prussian Ma<sw-ex>ies</sw-ex><sl>ty & <brev-y>th</brev-y><sl>e</sl> Landgrave of Hesse Capell</sl>",
+      "line_slope": -0.43582068173799277,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        1347003.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        92.08000000000001,
+        937.8399999999999
+      ],
+      "clusters_y": [
+        321.355,
+        315.37
+      ],
+      "clusters_text": [
+        [
+          "are",
+          "are"
+        ],
+        [
+          "Raiseing",
+          "raiseing"
+        ],
+        [
+          "70000",
+          "70000"
+        ],
+        [
+          "Men,",
+          "men,"
+        ],
+        [
+          "but",
+          "but"
+        ],
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "what",
+          "what"
+        ],
+        [
+          "design",
+          "design"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "are Raiseing 70000 Men, but upon what design",
+      "line_slope": -0.43582068173799277,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        1347003.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        95.72,
+        936.315
+      ],
+      "clusters_y": [
+        559.635,
+        544.26
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Road",
+          "road"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Grand",
+          "Grand"
+        ],
+        [
+          "Segnior",
+          "Segnior"
+        ],
+        [
+          "past",
+          "past"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Constantinople",
+          "Constantinople"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> Road w<sw-ex>hi</sw-ex><sl>ch</sl> <brev-y>th</brev-y><sl>e</sl> Grand Segnior past to Constantinople",
+      "line_slope": -0.43582068173799277,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        1347003.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        105.81,
+        938.95
+      ],
+      "clusters_y": [
+        606.14,
+        610.495
+      ],
+      "clusters_text": [
+        [
+          "Alighted",
+          "Alighted"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Horse",
+          "Horse"
+        ],
+        [
+          "&",
+          "<sw-ex>and</sw-ex>"
+        ],
+        [
+          "Thankt",
+          "Thankt"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Highness",
+          "Highness"
+        ],
+        [
+          "for",
+          "for"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "Alighted from his Horse & Thankt his Highness for",
+      "line_slope": -0.43582068173799277,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        10
+      ],
+      "user_ids": [
+        1347003.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        94.35499999999999,
+        937.3
+      ],
+      "clusters_y": [
+        670.49,
+        672.01
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Kindnesses",
+          "kindnesses"
+        ],
+        [
+          "shewn",
+          "shown"
+        ],
+        [
+          "him,",
+          "him,"
+        ],
+        [
+          "where",
+          "where"
+        ],
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Sultan",
+          "Sultan"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> Kindnesses shewn him, where upon <brev-y>th</brev-y><sl>e</sl> Sultan",
+      "line_slope": -0.43582068173799277,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        11
+      ],
+      "user_ids": [
+        1347003.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        89.735,
+        915.24
+      ],
+      "clusters_y": [
+        855.855,
+        852.415
+      ],
+      "clusters_text": [
+        [
+          "Interest",
+          "Interest"
+        ],
+        [
+          "&",
+          "<sw-ex>and</sw-ex>"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "given",
+          "given"
+        ],
+        [
+          "Orders",
+          "orders"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "being",
+          "being"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Interest & had given Orders for his being",
+      "line_slope": -0.43582068173799277,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        1347003.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        88.55,
+        910.5999999999999
+      ],
+      "clusters_y": [
+        969.56,
+        976.51
+      ],
+      "clusters_text": [
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Residence",
+          "residence"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Dominions.",
+          "dominions."
+        ],
+        [
+          "That",
+          "That"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "King",
+          "King"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "his Residence in his Dominions. That <brev-y>th</brev-y><sl>e</sl> King",
+      "line_slope": -0.43582068173799277,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        16
+      ],
+      "user_ids": [
+        1347003.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        88.55,
+        936.19
+      ],
+      "clusters_y": [
+        1033.7150000000001,
+        1038.46
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Prussia",
+          "Prussia"
+        ],
+        [
+          "uses",
+          "uses"
+        ],
+        [
+          "great",
+          "great"
+        ],
+        [
+          "Instances",
+          "sustance"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Sultan",
+          "Sultan"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "favour",
+          "favour"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "of Prussia uses great Instances w<sw-ex>i</sw-ex><sl>th</sl> <brev-y>th</brev-y><sl>e</sl> Sultan in favour",
+      "line_slope": -0.43582068173799277,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        17
+      ],
+      "user_ids": [
+        1347003.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        80.705,
+        923.375
+      ],
+      "clusters_y": [
+        1460.585,
+        1449.345
+      ],
+      "clusters_text": [
+        [
+          "not",
+          "not"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "able",
+          "able"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "save",
+          "save"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "fury",
+          "fury"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "Phillip",
+          "Phillip"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "not be able to save them from <brev-y>th</brev-y><sl>e</sl> fury of King Phillip",
+      "line_slope": -0.43582068173799277,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        24
+      ],
+      "user_ids": [
+        1347003.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 9,
+  "transcribed_lines": 9,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

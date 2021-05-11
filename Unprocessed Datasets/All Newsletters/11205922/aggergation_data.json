@@ -1,0 +1,260 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        141.8,
+        201.555
+      ],
+      "clusters_y": [
+        21.095,
+        1495.4
+      ],
+      "clusters_text": [
+        [
+          "appearance",
+          "appearance"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "declared",
+          "declared"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "Charles",
+          "Chales"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "third",
+          "third"
+        ],
+        [
+          "as",
+          "as"
+        ],
+        [
+          "did",
+          "did"
+        ],
+        [
+          "also",
+          "allso"
+        ],
+        [
+          "Acscient",
+          "Alsciant"
+        ],
+        [
+          "about",
+          "ab<sw-ex>ou</sw-ex>t"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6923076923076923,
+      "consensus_text": "appearance there declared for King Charles the third as did also Acscient about",
+      "line_slope": 87.88924155939576,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        21
+      ],
+      "user_ids": [
+        null,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.79,
+        954.825
+      ],
+      "clusters_y": [
+        493.74,
+        443.27
+      ],
+      "clusters_text": [
+        [
+          "particular",
+          "particular"
+        ],
+        [
+          "thankes",
+          "thankes"
+        ],
+        [
+          "should",
+          "should"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "given",
+          "given"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "particular thankes should be given",
+      "line_slope": -4.037548177890415,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6
+      ],
+      "user_ids": [
+        null,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.95,
+        900.0250000000001
+      ],
+      "clusters_y": [
+        1130.52,
+        1084.79
+      ],
+      "clusters_text": [
+        [
+          "returned",
+          "returned"
+        ],
+        [
+          "him",
+          "him"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "thankes",
+          "thankes"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "returned him the thankes of",
+      "line_slope": -4.037548177890415,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        null,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.61,
+        944.9649999999999
+      ],
+      "clusters_y": [
+        1209.2849999999999,
+        1156.5900000000001
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "citty",
+          "citty"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "his",
+          ""
+        ],
+        [
+          "Sermon:",
+          "Sermon."
+        ],
+        [
+          "<sw-del>Preacht</sw-del>",
+          "preacht"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "the citty for his Sermon: <sw-del>Preacht</sw-del>",
+      "line_slope": -4.037548177890415,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        15
+      ],
+      "user_ids": [
+        null,
+        1501117.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

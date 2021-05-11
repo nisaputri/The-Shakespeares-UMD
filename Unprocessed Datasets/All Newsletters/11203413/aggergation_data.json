@@ -1,0 +1,252 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        266.55,
+        950.7850000000001
+      ],
+      "clusters_y": [
+        620.5999999999999,
+        544.4300000000001
+      ],
+      "clusters_text": [
+        [
+          "Ralph",
+          "Ralph"
+        ],
+        [
+          "Ashton",
+          "Ashton"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Ellected",
+          "Ellected"
+        ],
+        [
+          "Kt.",
+          "K<sw-sup>t</sw-sup>"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Shire",
+          "Shire"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "Ralph Ashton is Ellected Kt. of the Shire",
+      "line_slope": -6.347755992684163,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        9
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        353.5,
+        937.5150000000001
+      ],
+      "clusters_y": [
+        691.71,
+        632.7
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Lord",
+          "Lord"
+        ],
+        [
+          "Keeper",
+          "Keeper"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "all",
+          "all"
+        ],
+        [
+          "yesterday",
+          "yesterday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "The Lord Keeper was all yesterday",
+      "line_slope": -6.347755992684163,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        7
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        283.89,
+        830.86
+      ],
+      "clusters_y": [
+        924.395,
+        853.12
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "debate",
+          "debate"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Subject",
+          "Subject"
+        ],
+        [
+          "matter",
+          "matter"
+        ],
+        [
+          "thereof",
+          "thereof"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "to debate the Subject matter thereof -",
+      "line_slope": -6.347755992684163,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        1
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        427.96000000000004,
+        933.565
+      ],
+      "clusters_y": [
+        949.13,
+        903.105
+      ],
+      "clusters_text": [
+        [
+          "Letters",
+          "Letters"
+        ],
+        [
+          "Since",
+          "since"
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "Last",
+          "Last"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Dublin",
+          "Dublin"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Letters Since my Last from Dublin",
+      "line_slope": -6.347755992684163,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

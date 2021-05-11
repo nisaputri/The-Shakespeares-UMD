@@ -1,0 +1,166 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        310.235,
+        909.23
+      ],
+      "clusters_y": [
+        497.735,
+        477.3
+      ],
+      "clusters_text": [
+        [
+          "<sw-unclear>Eught</sw-unclear>",
+          "Engl<sw-ex>an</sw-ex>d"
+        ],
+        [
+          "doth",
+          "doth"
+        ],
+        [
+          "very",
+          "very"
+        ],
+        [
+          "much",
+          "Much"
+        ],
+        [
+          "affect",
+          "affect"
+        ],
+        [
+          "them",
+          "them"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "<sw-unclear>Eught</sw-unclear> doth very much affect them",
+      "line_slope": -2.063467931118779,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        12
+      ],
+      "user_ids": [
+        1919763.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        304.09999999999997,
+        916.7866666666665
+      ],
+      "clusters_y": [
+        609.63,
+        587.8566666666667
+      ],
+      "clusters_text": [
+        [
+          "So",
+          "So",
+          "so",
+          "so"
+        ],
+        [
+          "what",
+          "that",
+          "that",
+          "that"
+        ],
+        [
+          "they",
+          "they",
+          "they",
+          "they"
+        ],
+        [
+          "do",
+          "do",
+          "do",
+          "do"
+        ],
+        [
+          "not",
+          "not",
+          "not",
+          "not"
+        ],
+        [
+          "know",
+          "know",
+          "know",
+          "know"
+        ],
+        [
+          "when",
+          "when",
+          "when",
+          "when"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "-",
+          "",
+          ""
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.2222222222222223,
+      "consensus_text": "So that they do not know when <brev-y>th</brev-y><sl>e</sl> -",
+      "line_slope": -2.063467931118779,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        2,
+        3,
+        14
+      ],
+      "user_ids": [
+        null,
+        null,
+        1919763.0,
+        1347003.0
+      ],
+      "low_consensus": false
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        320.51,
+        589.65
+      ],
+      "clusters_y": [
+        1223.4099999999999,
+        1219.945
+      ],
+      "clusters_text": [
+        [
+          "King",
+          "King"
+        ],
+        [
+          "James",
+          "James"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "King James",
+      "line_slope": -0.954269658427252,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        25,
+        9
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        447.82,
+        945.96
+      ],
+      "clusters_y": [
+        320.28999999999996,
+        284.19
+      ],
+      "clusters_text": [
+        [
+          "Plimmouth",
+          "Plimmouth's"
+        ],
+        [
+          "15",
+          ""
+        ],
+        [
+          "yesterday",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Plimmouth 15 yesterday",
+      "line_slope": -3.2231157840930416,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        2
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

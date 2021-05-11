@@ -1,0 +1,157 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        499.68,
+        526.365
+      ],
+      "clusters_y": [
+        716.2850000000001,
+        1325.705
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To",
+          "To"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Ho<sw-ex>norable</sw-ex>",
+          "Ho<sw-ex>norable</sw-ex>",
+          "Ho<sw-ex>norable</sw-ex>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard",
+          "Richard"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "To the Ho<sw-ex>norable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl> Richard",
+      "line_slope": 87.35187945512486,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0,
+        0
+      ],
+      "user_ids": [
+        165259.0,
+        null,
+        2790.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        441.135,
+        467.105
+      ],
+      "clusters_y": [
+        734.835,
+        1258.725
+      ],
+      "clusters_text": [
+        [
+          "newdigate",
+          "newdigate"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "newdigate at Arbury",
+      "line_slope": 87.35187945512486,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        165259.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        276.26,
+        281.645
+      ],
+      "clusters_y": [
+        862.315,
+        959.4300000000001
+      ],
+      "clusters_text": [
+        [
+          "2",
+          "2"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "2",
+      "line_slope": 87.35187945512486,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        3
+      ],
+      "user_ids": [
+        165259.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

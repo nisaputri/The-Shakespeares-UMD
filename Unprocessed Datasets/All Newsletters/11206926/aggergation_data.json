@@ -1,0 +1,510 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        377.41999999999996,
+        931.9399999999999
+      ],
+      "clusters_y": [
+        81.33,
+        71.68
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "",
+          "London"
+        ],
+        [
+          "May",
+          "",
+          "May"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "6<sw-sup>th</sw-sup>",
+          "",
+          "6<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1708",
+          "1708",
+          "1708"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.2,
+      "consensus_text": "London May <brev-y>th</brev-y><sl>e</sl> 6<sw-sup>th</sw-sup> 1708",
+      "line_slope": -0.8455280779476434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1,
+        0
+      ],
+      "user_ids": [
+        367.0,
+        1858880.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.845,
+        933.8
+      ],
+      "clusters_y": [
+        258.68,
+        247.75
+      ],
+      "clusters_text": [
+        [
+          "Wirtembergh",
+          "Wirtembergh"
+        ],
+        [
+          "",
+          "Generall"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "Wirtembergh Generall of the",
+      "line_slope": -0.8455280779476434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        2
+      ],
+      "user_ids": [
+        1858880.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.6,
+        922.73
+      ],
+      "clusters_y": [
+        418.73,
+        394.99
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Brussells"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "ordered",
+          "Ordered"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "Brussells and has ordered the",
+      "line_slope": -0.8455280779476434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        4
+      ],
+      "user_ids": [
+        1858880.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.805,
+        944.42
+      ],
+      "clusters_y": [
+        638.9000000000001,
+        616.83
+      ],
+      "clusters_text": [
+        [
+          "with",
+          "",
+          "",
+          "with"
+        ],
+        [
+          "",
+          "",
+          "",
+          "the"
+        ],
+        [
+          "",
+          "",
+          "",
+          "English"
+        ],
+        [
+          "",
+          "to",
+          "",
+          "to"
+        ],
+        [
+          "",
+          "",
+          "",
+          "take"
+        ],
+        [
+          "the",
+          "",
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "",
+          "",
+          "field"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "with the English to take the field",
+      "line_slope": -0.8455280779476434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        10,
+        11,
+        7
+      ],
+      "user_ids": [
+        1858880.0,
+        1858880.0,
+        1858880.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.6,
+        950.115
+      ],
+      "clusters_y": [
+        1021.29,
+        1014.67
+      ],
+      "clusters_text": [
+        [
+          "",
+          "to"
+        ],
+        [
+          "",
+          "enter"
+        ],
+        [
+          "",
+          "on"
+        ],
+        [
+          "",
+          "Action"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "21<sw-sup>st</sw-sup>.",
+          "21<sw-sup>st</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2857142857142858,
+      "consensus_text": "to enter on Action by the 21<sw-sup>st</sw-sup>.",
+      "line_slope": -0.8455280779476434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        12
+      ],
+      "user_ids": [
+        1858880.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        256.96,
+        963.28
+      ],
+      "clusters_y": [
+        1107.37,
+        1090.86
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Instant"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "",
+          "Letters"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "",
+          "Scotland"
+        ],
+        [
+          "",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "Instant - Letters from Scotland of",
+      "line_slope": -0.8455280779476434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        13
+      ],
+      "user_ids": [
+        1858880.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.97,
+        936.44
+      ],
+      "clusters_y": [
+        1176.625,
+        1170.635
+      ],
+      "clusters_text": [
+        [
+          "",
+          "",
+          "",
+          "the"
+        ],
+        [
+          "",
+          "",
+          "",
+          "1<sw-sup>st</sw-sup>"
+        ],
+        [
+          "",
+          "of",
+          "",
+          "of"
+        ],
+        [
+          "",
+          "May",
+          "",
+          "May"
+        ],
+        [
+          "",
+          "",
+          "say",
+          "say"
+        ],
+        [
+          "",
+          "",
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "",
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "",
+          "two",
+          "two"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 1.875,
+      "consensus_text": "the 1<sw-sup>st</sw-sup> of May say that the two",
+      "line_slope": -0.8455280779476434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        21,
+        22,
+        14
+      ],
+      "user_ids": [
+        1858880.0,
+        1858880.0,
+        1858880.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.7,
+        945.6
+      ],
+      "clusters_y": [
+        1344.38,
+        1324.33
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Sterling"
+        ],
+        [
+          "Castle",
+          "Castle"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "",
+          "Body"
+        ],
+        [
+          "",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Sterling Castle and a Body of",
+      "line_slope": -0.8455280779476434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        25,
+        16
+      ],
+      "user_ids": [
+        1858880.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 8,
+  "transcribed_lines": 8,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

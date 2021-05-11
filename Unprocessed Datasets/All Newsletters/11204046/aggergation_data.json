@@ -1,0 +1,71 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        248.2,
+        633.99
+      ],
+      "clusters_y": [
+        988.16,
+        979.07
+      ],
+      "clusters_text": [
+        [
+          "",
+          "late"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "S<sw-sup>t</sw-sup>",
+          "S<sw-ex>ain</sw-ex><sw-sup>t</sw-sup>"
+        ],
+        [
+          "James",
+          "James"
+        ],
+        [
+          "",
+          "--"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "late of S<sw-sup>t</sw-sup> James --",
+      "line_slope": -1.949219832652884,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        16
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

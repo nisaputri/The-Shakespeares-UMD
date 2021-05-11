@@ -1,0 +1,830 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        68.08,
+        749.95
+      ],
+      "clusters_y": [
+        76.98,
+        59.545
+      ],
+      "clusters_text": [
+        [
+          "",
+          "London",
+          "London"
+        ],
+        [
+          "",
+          "July",
+          "July<sw-unclear>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "1<sw-sup>st</sw-sup>",
+          "<sw-unclear>14t</sw-unclear>h</sw-unclear>"
+        ],
+        [
+          "",
+          "1712",
+          "1712"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.5,
+      "consensus_text": "London July S<sw-ex>i</sw-ex><sl>r</sl> 1712",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        119.46000000000001,
+        937.7149999999999
+      ],
+      "clusters_y": [
+        247.55,
+        206.21
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "the"
+        ],
+        [
+          "13th",
+          "13th"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "May",
+          "May"
+        ],
+        [
+          "broke",
+          "Grohe"
+        ],
+        [
+          "out",
+          "and"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Terrible",
+          "terrible"
+        ],
+        [
+          "ffire",
+          "hire"
+        ],
+        [
+          "there",
+          "here"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> 13th of May broke out a Terrible ffire there",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        113.53999999999999,
+        941.365
+      ],
+      "clusters_y": [
+        344.25,
+        296.045
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "Citty;",
+          "City."
+        ],
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Russian",
+          "Rulian"
+        ],
+        [
+          "pallace",
+          "Palace"
+        ],
+        [
+          "",
+          "was"
+        ],
+        [
+          "narrowly",
+          "narrowly"
+        ],
+        [
+          "Escaped",
+          "heaped"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.375,
+      "consensus_text": "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> Citty; The Russian pallace was narrowly Escaped",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        5
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        114.4,
+        923.8
+      ],
+      "clusters_y": [
+        445.265,
+        395.77
+      ],
+      "clusters_text": [
+        [
+          "42",
+          "42"
+        ],
+        [
+          "Soldiers",
+          "powders"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "lost",
+          "lost"
+        ],
+        [
+          "&",
+          ""
+        ],
+        [
+          "above",
+          "above"
+        ],
+        [
+          "1000",
+          "1000"
+        ],
+        [
+          "persons",
+          "persons"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "42 Soldiers were lost & above 1000 persons",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        7
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        113.42,
+        929.91
+      ],
+      "clusters_y": [
+        499.235,
+        449.74
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "both",
+          "both"
+        ],
+        [
+          "sexes",
+          "sexes"
+        ],
+        [
+          "perished",
+          "perished"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "fflames",
+          "flames,"
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "The",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "of both sexes perished in <brev-y>th</brev-y><sl>e</sl> fflames - The",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        8
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        121.055,
+        921.13
+      ],
+      "clusters_y": [
+        548.24,
+        510.39
+      ],
+      "clusters_text": [
+        [
+          "Earle",
+          "Earle"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Peterbrow",
+          "Pelerbron"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Arrived",
+          "Arrived"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Vienna",
+          "Vienna"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "Earle of Peterbrow is Arrived at Vienna",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        9
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        116.44,
+        929.11
+      ],
+      "clusters_y": [
+        705.8599999999999,
+        656.8
+      ],
+      "clusters_text": [
+        [
+          "His",
+          "the"
+        ],
+        [
+          "L<sw-ex>or</sw-ex>dship",
+          "Lordship"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "Received",
+          "received"
+        ],
+        [
+          "fresh",
+          "forth"
+        ],
+        [
+          "Jnstructions",
+          "information"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "His L<sw-ex>or</sw-ex>dship has Received fresh Jnstructions",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        12
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        108.935,
+        939.255
+      ],
+      "clusters_y": [
+        753.72,
+        711.575
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Negotiate",
+          "negotiate"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "with"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Imp<sw-ex>eria</sw-ex>ll",
+          "<sw-unclear>Jump</sw-unclear>."
+        ],
+        [
+          "Ma<sw-ex>ies</sw-ex><sl>ty",
+          ""
+        ],
+        [
+          "-",
+          "May-"
+        ],
+        [
+          "On",
+          "On"
+        ],
+        [
+          "Sunday</sl>",
+          "Sunday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "to Negotiate w<sw-ex>i</sw-ex><sl>th</sl> his Imp<sw-ex>eria</sw-ex>ll Ma<sw-ex>ies</sw-ex><sl>ty - On Sunday</sl>",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        13
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        114.55,
+        931.465
+      ],
+      "clusters_y": [
+        866.385,
+        821.645
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Goverm<sw-ex>en</sw-ex>t",
+          "governor<sw-ins>!</sw-ins>"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Dunkirk",
+          "Dunkirk"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "to",
+          ""
+        ],
+        [
+          "Morrow",
+          "tomorrow"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "for <brev-y>th</brev-y><sl>e</sl> Goverm<sw-ex>en</sw-ex>t of Dunkirk & to Morrow",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        15
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        121.50999999999999,
+        932.665
+      ],
+      "clusters_y": [
+        966.19,
+        931.585
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "goe",
+          "go"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Board",
+          "board"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "ffleet",
+          "feet"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Adm<sw-ex>ira</sw-ex>ll",
+          "Admiral"
+        ],
+        [
+          "Leake",
+          "Leahe"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4444444444444444,
+      "consensus_text": "to goe on Board <brev-y>th</brev-y><sl>e</sl> ffleet of Adm<sw-ex>ira</sw-ex>ll Leake",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        17
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        108.9,
+        935.3199999999999
+      ],
+      "clusters_y": [
+        1020.0149999999999,
+        981.2950000000001
+      ],
+      "clusters_text": [
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "y<sw-ex>ou</sw-ex><sl>r</sl>"
+        ],
+        [
+          "John",
+          "John"
+        ],
+        [
+          "Leake",
+          "Leahe"
+        ],
+        [
+          "proposes",
+          "propose"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "take",
+          "<sw-unclear>lahe</sw-unclear>"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Board",
+          "board"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4444444444444444,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> John Leake proposes to take on Board <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        18
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        113.245,
+        939.095
+      ],
+      "clusters_y": [
+        1130.8,
+        1095.635
+      ],
+      "clusters_text": [
+        [
+          "ffleet",
+          "forest"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Land",
+          "Land"
+        ],
+        [
+          "fforces",
+          "Forest"
+        ],
+        [
+          "of",
+          "on"
+        ],
+        [
+          "ffryday",
+          "Friday"
+        ],
+        [
+          "Morning",
+          "morning"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2857142857142858,
+      "consensus_text": "ffleet & Land fforces of ffryday Morning",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        20
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        108.785,
+        927.275
+      ],
+      "clusters_y": [
+        1415.815,
+        1377.9299999999998
+      ],
+      "clusters_text": [
+        [
+          "Mohun",
+          "Mohur"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Gibraltar",
+          "fibrillar-"
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "Baron",
+          "Barn"
+        ],
+        [
+          "Hoffman",
+          "Hoffina"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "Mohun & Gibraltar - Baron Hoffman",
+      "line_slope": -2.729723873321138,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        26,
+        25
+      ],
+      "user_ids": [
+        1347003.0,
+        1910552.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 13,
+  "transcribed_lines": 13,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

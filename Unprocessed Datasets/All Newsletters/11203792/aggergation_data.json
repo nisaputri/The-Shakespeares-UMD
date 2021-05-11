@@ -1,0 +1,123 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        255.86,
+        244.76
+      ],
+      "clusters_y": [
+        858.325,
+        1114.455
+      ],
+      "clusters_text": [
+        [
+          "near",
+          "near"
+        ],
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "near Coventry",
+      "line_slope": 92.10105303439303,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        2
+      ],
+      "user_ids": [
+        352990.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        63.035,
+        889.07
+      ],
+      "clusters_y": [
+        81.185,
+        75.36
+      ],
+      "clusters_text": [
+        [
+          "This",
+          "",
+          "this"
+        ],
+        [
+          "day",
+          "",
+          "day"
+        ],
+        [
+          "both",
+          "",
+          "both"
+        ],
+        [
+          "houses",
+          "houses",
+          "houses"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "",
+          "Parlmt",
+          "aucdaud"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "This day both houses of Parlmt",
+      "line_slope": -0.27014930165040635,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        0
+      ],
+      "user_ids": [
+        null,
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

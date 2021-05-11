@@ -1,0 +1,162 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        98.205,
+        876.395
+      ],
+      "clusters_y": [
+        373.335,
+        377.375
+      ],
+      "clusters_text": [
+        [
+          "who",
+          "who"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "comand",
+          "comand"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "army",
+          "army"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Mozelle",
+          "Mozelle"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "sett",
+          "sett"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "who is to comand the army on the Mozelle to sett",
+      "line_slope": 0.18416722468702795,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        100.34,
+        893.52
+      ],
+      "clusters_y": [
+        425.75,
+        427.21000000000004
+      ],
+      "clusters_text": [
+        [
+          "out",
+          "out"
+        ],
+        [
+          "25<sw-sup>th</sw-sup>",
+          "25th"
+        ],
+        [
+          "instant",
+          "instant"
+        ],
+        [
+          "and",
+          ""
+        ],
+        [
+          "the",
+          "The"
+        ],
+        [
+          "Marshall",
+          "Marshalls"
+        ],
+        [
+          "Villars",
+          "Villars"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Hartcourt",
+          "Hartcourt"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5555555555555556,
+      "consensus_text": "out 25<sw-sup>th</sw-sup> instant and the Marshall Villars and Hartcourt",
+      "line_slope": 0.18416722468702795,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

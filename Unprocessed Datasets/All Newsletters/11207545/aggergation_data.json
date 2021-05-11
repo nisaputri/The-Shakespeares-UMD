@@ -1,0 +1,526 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        326.95,
+        910.63
+      ],
+      "clusters_y": [
+        413.76000000000005,
+        382.345
+      ],
+      "clusters_text": [
+        [
+          "Letters",
+          "Letters",
+          "Letters",
+          "Letters"
+        ],
+        [
+          "fro<sw-ex>m</sw-ex>",
+          "from",
+          "fro",
+          ""
+        ],
+        [
+          "Milan",
+          "Milan",
+          "Milan",
+          ""
+        ],
+        [
+          "of",
+          "of",
+          "",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "",
+          ""
+        ],
+        [
+          "12",
+          "12",
+          "",
+          ""
+        ],
+        [
+          "say",
+          "say",
+          "",
+          ""
+        ],
+        [
+          "-",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.125,
+      "consensus_text": "Letters fro<sw-ex>m</sw-ex> Milan of <brev-y>th</brev-y><sl>e</sl> 12 say -",
+      "line_slope": -3.6586909551104174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        4,
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        1577042.0,
+        1561060.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.025,
+        902.56
+      ],
+      "clusters_y": [
+        473.725,
+        430.44000000000005
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "that"
+        ],
+        [
+          "Generall",
+          "Generall"
+        ],
+        [
+          "Visconti",
+          "Visconti"
+        ],
+        [
+          "arrived",
+          "arrival"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "that Generall Visconti arrived there on <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -3.6586909551104174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        6
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.35,
+        932.59
+      ],
+      "clusters_y": [
+        519.71,
+        478.15
+      ],
+      "clusters_text": [
+        [
+          "9<sw-sup>th</sw-sup>.",
+          ""
+        ],
+        [
+          "from",
+          ""
+        ],
+        [
+          "Vienna",
+          "Vienna"
+        ],
+        [
+          "&",
+          ""
+        ],
+        [
+          "fro<sw-ex>m</sw-ex>",
+          ""
+        ],
+        [
+          "thence",
+          ""
+        ],
+        [
+          "were",
+          ""
+        ],
+        [
+          "proceeding",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1111111111111112,
+      "consensus_text": "9<sw-sup>th</sw-sup>. from Vienna & fro<sw-ex>m</sw-ex> thence were proceeding -",
+      "line_slope": -3.6586909551104174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3
+      ],
+      "user_ids": [
+        null,
+        1561060.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        343.745,
+        934.665
+      ],
+      "clusters_y": [
+        892.5999999999999,
+        847.095
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Imperiall",
+          "Imperiall"
+        ],
+        [
+          "Court",
+          "Court"
+        ],
+        [
+          "continues",
+          "continues"
+        ],
+        [
+          "more",
+          "more"
+        ],
+        [
+          "&",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "The Imperiall Court continues more &",
+      "line_slope": -3.6586909551104174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        0
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.58,
+        909.59
+      ],
+      "clusters_y": [
+        948.94,
+        901.28
+      ],
+      "clusters_text": [
+        [
+          "more",
+          ""
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "mistrust",
+          "mistrust"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "Pope",
+          "the"
+        ],
+        [
+          "notwithstanding",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2857142857142858,
+      "consensus_text": "more to mistrust <brev-y>th</brev-y><sl>e</sl> Pope notwithstanding <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -3.6586909551104174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        4
+      ],
+      "user_ids": [
+        1708223.0,
+        1577042.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.055,
+        920.235
+      ],
+      "clusters_y": [
+        991.27,
+        945.255
+      ],
+      "clusters_text": [
+        [
+          "Accomodation",
+          "Accomodation"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "with"
+        ],
+        [
+          "him",
+          "him"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "reason",
+          "reason"
+        ],
+        [
+          "he",
+          "he"
+        ],
+        [
+          "disto=",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Accomodation made w<sw-ex>i</sw-ex><sl>th</sl> him by reason he disto=",
+      "line_slope": -3.6586909551104174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        2
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        304.28,
+        833.19
+      ],
+      "clusters_y": [
+        1140.86,
+        1106.7
+      ],
+      "clusters_text": [
+        [
+          "upon",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "Court"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "",
+          "Rome"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "upon the Court of Rome",
+      "line_slope": -3.6586909551104174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        7
+      ],
+      "user_ids": [
+        1577042.0,
+        1577042.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.78,
+        950.67
+      ],
+      "clusters_y": [
+        1283.4250000000002,
+        1240.68
+      ],
+      "clusters_text": [
+        [
+          "made",
+          "made"
+        ],
+        [
+          "some",
+          ""
+        ],
+        [
+          "propositions",
+          ""
+        ],
+        [
+          "upon",
+          ""
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          ""
+        ],
+        [
+          "he",
+          ""
+        ],
+        [
+          "has",
+          ""
+        ],
+        [
+          "named",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1111111111111112,
+      "consensus_text": "made some propositions upon w<sw-ex>hi</sw-ex><sl>ch</sl> he has named -",
+      "line_slope": -3.6586909551104174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        11
+      ],
+      "user_ids": [
+        null,
+        1577042.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 8,
+  "transcribed_lines": 8,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

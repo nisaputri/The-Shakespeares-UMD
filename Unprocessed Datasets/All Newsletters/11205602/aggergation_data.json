@@ -1,0 +1,214 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        241.58749999999998,
+        244.075
+      ],
+      "clusters_y": [
+        1186.6025,
+        556.81
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To",
+          "To",
+          "To"
+        ],
+        [
+          "Mr",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "Sr."
+        ],
+        [
+          "Richard",
+          "Richard",
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Howdigato",
+          "Newdigate",
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "Bart",
+          "Bar<sw-ex>one</sw-ex>t",
+          "Bar<sw-ex>one</sw-ex>t",
+          ""
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.0,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate Bar<sw-ex>one</sw-ex>t",
+      "line_slope": -89.2578628055173,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        1347003.0,
+        429539.0,
+        1561060.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        381.6033333333333,
+        384.47333333333336
+      ],
+      "clusters_y": [
+        850.2766666666666,
+        645.6466666666666
+      ],
+      "clusters_text": [
+        [
+          "Covontry",
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": -89.2578628055173,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2,
+        2
+      ],
+      "user_ids": [
+        null,
+        1664391.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        532.99,
+        537.1800000000001
+      ],
+      "clusters_y": [
+        1136.08,
+        910.355
+      ],
+      "clusters_text": [
+        [
+          "Will<sw-ex>iam</sw-ex>",
+          "Will<sw-ex>iam</sw-ex>"
+        ],
+        [
+          "Stephens",
+          "Stephens"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Will<sw-ex>iam</sw-ex> Stephens",
+      "line_slope": -89.2578628055173,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        5
+      ],
+      "user_ids": [
+        1664391.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        323.56333333333333,
+        315.7366666666667
+      ],
+      "clusters_y": [
+        1097.1233333333332,
+        747.54
+      ],
+      "clusters_text": [
+        [
+          "at",
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "near",
+          "near"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "at Arbury near",
+      "line_slope": -91.61749839611961,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        1347003.0,
+        429539.0
+      ],
+      "low_consensus": false
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

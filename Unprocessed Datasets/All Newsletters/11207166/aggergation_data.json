@@ -1,0 +1,232 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        75.78,
+        61.4
+      ],
+      "clusters_y": [
+        61.14,
+        1410.98
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "accordingly"
+        ],
+        [
+          "first",
+          "S<sw-sup>r</sw-sup>"
+        ],
+        [
+          "as",
+          "Charles"
+        ],
+        [
+          "eldest",
+          "was"
+        ],
+        [
+          "Alderman",
+          "declar<sw-ex>e</sw-ex>d"
+        ],
+        [
+          "&",
+          "L<sw-ex>or</sw-ex>d"
+        ],
+        [
+          "",
+          "Mayor"
+        ],
+        [
+          "",
+          "elect"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> first as eldest Alderman & Mayor elect",
+      "line_slope": 90.33432698305755,
+      "slope_label": 4,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        30,
+        35
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.49,
+        910.76
+      ],
+      "clusters_y": [
+        215.64,
+        180.4
+      ],
+      "clusters_text": [
+        [
+          "several",
+          "ffalsities"
+        ],
+        [
+          "",
+          "in"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "other",
+          "same"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "several in <brev-y>th</brev-y><sl>e</sl> other",
+      "line_slope": -3.336393937593852,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        10
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        406.64,
+        827.63
+      ],
+      "clusters_y": [
+        887.32,
+        863.68
+      ],
+      "clusters_text": [
+        [
+          "ffrom",
+          "Roncq"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "Camp",
+          ""
+        ],
+        [
+          "at",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "ffrom <brev-y>th</brev-y><sl>e</sl> Camp at",
+      "line_slope": -3.336393937593852,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        40,
+        49
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.37,
+        903.57
+      ],
+      "clusters_y": [
+        947.01,
+        912.49
+      ],
+      "clusters_text": [
+        [
+          "are",
+          "8"
+        ],
+        [
+          "sent",
+          "Bat<sw-ex>talion</sw-ex>s"
+        ],
+        [
+          "from",
+          ""
+        ],
+        [
+          "our",
+          ""
+        ],
+        [
+          "Army",
+          ""
+        ],
+        [
+          "to",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "are sent from our Army to",
+      "line_slope": -3.336393937593852,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        42
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

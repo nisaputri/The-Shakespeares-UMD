@@ -1,0 +1,556 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        49.655,
+        932.31
+      ],
+      "clusters_y": [
+        91.425,
+        101.62
+      ],
+      "clusters_text": [
+        [
+          "It",
+          "It"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "wrote",
+          "wrote"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Franckfort",
+          "Frankfort"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "GovnR",
+          "<brev-y>Govnr"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Friburgh",
+          "Friburgh"
+        ],
+        [
+          "has",
+          "has</brev-y>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7272727272727273,
+      "consensus_text": "It is wrote from Franckfort <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl> GovnR of Friburgh has",
+      "line_slope": 0.12322390904899216,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        20.316666666666666,
+        939.185
+      ],
+      "clusters_y": [
+        138.04,
+        138.125
+      ],
+      "clusters_text": [
+        [
+          "offered",
+          "Offered",
+          "offered"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "capitulate,",
+          "Capitulate,",
+          "capitulate,"
+        ],
+        [
+          "",
+          "But",
+          "But"
+        ],
+        [
+          "",
+          "Marsh",
+          "Marsh"
+        ],
+        [
+          "",
+          "Villarssss",
+          "Villars"
+        ],
+        [
+          "",
+          "will",
+          "will"
+        ],
+        [
+          "",
+          "Agree",
+          "Agree"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "offered to capitulate, But Marsh Villarssss will Agree",
+      "line_slope": 0.12322390904899216,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1,
+        0
+      ],
+      "user_ids": [
+        null,
+        null,
+        1681829.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        22.805,
+        921.865
+      ],
+      "clusters_y": [
+        191.39499999999998,
+        204.185
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "no",
+          "no"
+        ],
+        [
+          "other",
+          "other"
+        ],
+        [
+          "Terms",
+          "terms"
+        ],
+        [
+          "than",
+          "than"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "Prisoners",
+          "Prisoners"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Warr",
+          "Warr"
+        ],
+        [
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "to no other Terms than to be made Prisoners of Warr -",
+      "line_slope": 0.12322390904899216,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        1681829.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        28.740000000000002,
+        925.04
+      ],
+      "clusters_y": [
+        203.5,
+        211.22
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "no",
+          "no"
+        ],
+        [
+          "other",
+          "other"
+        ],
+        [
+          "Termes",
+          "Termes"
+        ],
+        [
+          "then",
+          "then"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "Prisoners",
+          "Prisoners"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Warr",
+          "Warr"
+        ],
+        [
+          "-",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "to no other Termes then to be made Prisoners of Warr -",
+      "line_slope": 0.12322390904899216,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        32.193333333333335,
+        907.0566666666667
+      ],
+      "clusters_y": [
+        293.5466666666667,
+        288.47666666666663
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for",
+          "for"
+        ],
+        [
+          "some",
+          "some",
+          "some"
+        ],
+        [
+          "Remittances",
+          "Remittances",
+          "Remittances"
+        ],
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "ffrance",
+          "France",
+          "France"
+        ],
+        [
+          "and",
+          "&",
+          "&"
+        ],
+        [
+          "then",
+          "then",
+          "then"
+        ],
+        [
+          "he",
+          "he",
+          "he"
+        ],
+        [
+          "will",
+          "will",
+          "will"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.7777777777777777,
+      "consensus_text": "for some Remittances from France & then he will",
+      "line_slope": 0.12322390904899216,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        35.41,
+        928.0350000000001
+      ],
+      "clusters_y": [
+        403.885,
+        397.51
+      ],
+      "clusters_text": [
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Expected",
+          "Expected"
+        ],
+        [
+          "over",
+          "over"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Paris",
+          "Paris"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "middle",
+          "middle"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "next",
+          "next"
+        ],
+        [
+          "Month",
+          "month"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9090909090909092,
+      "consensus_text": "is Expected over from Paris by <brev-y>th</brev-y><sl>e</sl> middle of next Month",
+      "line_slope": 0.12322390904899216,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        6
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        36.59,
+        902.62
+      ],
+      "clusters_y": [
+        876.92,
+        884.37
+      ],
+      "clusters_text": [
+        [
+          "",
+          "of"
+        ],
+        [
+          "",
+          "State"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "Judges,"
+        ],
+        [
+          "",
+          "most"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "nobility",
+          "Nobillity"
+        ],
+        [
+          "",
+          "&"
+        ],
+        [
+          "",
+          "Sevll."
+        ],
+        [
+          "",
+          "Forren"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1818181818181819,
+      "consensus_text": "of State <brev-y>th</brev-y><sl>e</sl> Judges, most of <brev-y>th</brev-y><sl>e</sl> nobility & Sevll. Forren",
+      "line_slope": 0.12322390904899216,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        9
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 7,
+  "transcribed_lines": 7,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

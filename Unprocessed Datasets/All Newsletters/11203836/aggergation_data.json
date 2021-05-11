@@ -1,0 +1,225 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        278.72,
+        931.65
+      ],
+      "clusters_y": [
+        138.56,
+        137.3
+      ],
+      "clusters_text": [
+        [
+          "Wee",
+          ""
+        ],
+        [
+          "had",
+          ""
+        ],
+        [
+          "yesterd<sw-ex>ay</sw-ex>",
+          ""
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "forraign<sw-del>e</sw-del>",
+          "foreign"
+        ],
+        [
+          "maile",
+          "mail"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          ""
+        ],
+        [
+          "af",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.125,
+      "consensus_text": "Wee had yesterd<sw-ex>ay</sw-ex> a forraign<sw-del>e</sw-del> maile w<sw-ex>hi</sw-ex><sl>ch</sl> af",
+      "line_slope": -0.5054657557070481,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.26,
+        921.985
+      ],
+      "clusters_y": [
+        924.56,
+        919.775
+      ],
+      "clusters_text": [
+        [
+          "first",
+          ""
+        ],
+        [
+          "in",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "P<sw-ex>er</sw-ex>formance",
+          ""
+        ],
+        [
+          "being",
+          ""
+        ],
+        [
+          "resolved",
+          ""
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "send",
+          "force"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.125,
+      "consensus_text": "first in <brev-y>th</brev-y><sl>e</sl> P<sw-ex>er</sw-ex>formance being resolved to send",
+      "line_slope": -0.5054657557070481,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.375,
+        946.1
+      ],
+      "clusters_y": [
+        1203.595,
+        1187.43
+      ],
+      "clusters_text": [
+        [
+          "was",
+          "was",
+          ""
+        ],
+        [
+          "not",
+          "not",
+          ""
+        ],
+        [
+          "dead",
+          "",
+          ""
+        ],
+        [
+          "but",
+          "",
+          ""
+        ],
+        [
+          "Judged",
+          "",
+          ""
+        ],
+        [
+          "past",
+          "",
+          "past"
+        ],
+        [
+          "recovery",
+          "",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "was not dead but Judged past recovery <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -0.5054657557070481,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        6,
+        8
+      ],
+      "user_ids": [
+        3697.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

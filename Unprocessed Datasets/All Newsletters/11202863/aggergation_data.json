@@ -1,0 +1,122 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        357.735,
+        376.21500000000003
+      ],
+      "clusters_y": [
+        839.04,
+        1114.8400000000001
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "year",
+          "year"
+        ],
+        [
+          "1692",
+          "1692"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "for <brev-y>th</brev-y><sl>e</sl> year 1692",
+      "line_slope": 86.06471588469874,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        1501614.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        46.4,
+        940.89
+      ],
+      "clusters_y": [
+        296.48,
+        289.24
+      ],
+      "clusters_text": [
+        [
+          "any",
+          "brought"
+        ],
+        [
+          "office",
+          "in"
+        ],
+        [
+          "at",
+          "to"
+        ],
+        [
+          "Court",
+          ""
+        ],
+        [
+          "severall",
+          "be"
+        ],
+        [
+          "[several]",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "any office at Court severall [several]",
+      "line_slope": -0.24395971850701667,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        8
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        321.72333333333336,
+        324.46
+      ],
+      "clusters_y": [
+        1164.37,
+        608.58
+      ],
+      "clusters_text": [
+        [
+          "att",
+          "att",
+          "att"
+        ],
+        [
+          "Arbury",
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "neare",
+          "near"
+        ],
+        [
+          "Coventry",
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.75,
+      "consensus_text": "att Arbury near Coventry",
+      "line_slope": -89.68192502063957,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2,
+        2
+      ],
+      "user_ids": [
+        null,
+        3697.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        479.645,
+        479.89
+      ],
+      "clusters_y": [
+        1158.33,
+        1062.4299999999998
+      ],
+      "clusters_text": [
+        [
+          "Frank",
+          "Frank"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Frank",
+      "line_slope": -89.68192502063957,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        4
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        537.07,
+        527.495
+      ],
+      "clusters_y": [
+        1127.53,
+        914.86
+      ],
+      "clusters_text": [
+        [
+          "Witt.",
+          "Will<sw-ex>iam</sw-ex>"
+        ],
+        [
+          "Stephens",
+          "Stephens"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Witt. Stephens",
+      "line_slope": -92.25309228746991,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        5
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

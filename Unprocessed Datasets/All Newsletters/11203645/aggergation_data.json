@@ -1,0 +1,123 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        120.88,
+        146.96
+      ],
+      "clusters_y": [
+        47.56,
+        1492.49
+      ],
+      "clusters_text": [
+        [
+          "",
+          "place"
+        ],
+        [
+          "him",
+          "had"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Saturday",
+          "saturday"
+        ],
+        [
+          "",
+          "last"
+        ],
+        [
+          "",
+          "bro<sw-ex>ugh</sw-ex>t"
+        ],
+        [
+          "",
+          "in"
+        ],
+        [
+          "",
+          "there"
+        ],
+        [
+          "",
+          "a"
+        ],
+        [
+          "",
+          "fr<sw-ex>ench</sw-ex>"
+        ],
+        [
+          "",
+          "prize"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "Master"
+        ],
+        [
+          "",
+          "whereof"
+        ],
+        [
+          "",
+          "reported"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "",
+          "there"
+        ],
+        [
+          "",
+          "had"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0555555555555556,
+      "consensus_text": "place him on Saturday last bro<sw-ex>ugh</sw-ex>t in there a fr<sw-ex>ench</sw-ex> prize the Master whereof reported <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> there had",
+      "line_slope": 89.0424742604014,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        36
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

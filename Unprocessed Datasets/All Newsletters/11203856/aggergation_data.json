@@ -1,0 +1,216 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        79.55,
+        97.16
+      ],
+      "clusters_y": [
+        214.01,
+        921.52
+      ],
+      "clusters_text": [
+        [
+          "out",
+          "Barbadoes"
+        ],
+        [
+          "in",
+          ""
+        ],
+        [
+          "Company",
+          ""
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "out in Company w<sw-ex>i</sw-ex><sl>th</sl>",
+      "line_slope": 89.0623820717706,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        36,
+        37
+      ],
+      "user_ids": [
+        1664391.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        440.26,
+        909.83
+      ],
+      "clusters_y": [
+        155.97,
+        160.01
+      ],
+      "clusters_text": [
+        [
+          "on",
+          "birth"
+        ],
+        [
+          "mond<sw-ex>ay</sw-ex>",
+          "day"
+        ],
+        [
+          "last",
+          "was"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "on mond<sw-ex>ay</sw-ex> last <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": 0.10950140728811557,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        1664391.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        426.32,
+        920.3
+      ],
+      "clusters_y": [
+        252.17,
+        247.85
+      ],
+      "clusters_text": [
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "fed"
+        ],
+        [
+          "wine",
+          "one"
+        ],
+        [
+          "&c",
+          "of"
+        ],
+        [
+          "butt",
+          ""
+        ],
+        [
+          "a",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "w<sw-ex>i</sw-ex><sl>th</sl> wine &c butt a",
+      "line_slope": 0.10950140728811557,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        31,
+        32
+      ],
+      "user_ids": [
+        1664391.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.91,
+        842.69
+      ],
+      "clusters_y": [
+        1153.76,
+        1151.42
+      ],
+      "clusters_text": [
+        [
+          "there",
+          "11"
+        ],
+        [
+          "are",
+          ""
+        ],
+        [
+          "now",
+          ""
+        ],
+        [
+          "in",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "Dutch"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "there are now in <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": 0.10950140728811557,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        23
+      ],
+      "user_ids": [
+        1664391.0,
+        1664391.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

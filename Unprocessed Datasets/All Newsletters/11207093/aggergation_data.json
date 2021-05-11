@@ -1,0 +1,239 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        64.41499999999999,
+        66.28999999999999
+      ],
+      "clusters_y": [
+        372.765,
+        176.83499999999998
+      ],
+      "clusters_text": [
+        [
+          "1708",
+          "1708"
+        ],
+        [
+          "Aug<sw-ex>us</sw-ex><sw-sup>t</sw-sup>",
+          "Aug<sw-sup>t</sw-sup>"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "21<sw-sup>th</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "1708 Aug<sw-ex>us</sw-ex><sw-sup>t</sw-sup> <brev-y>th</brev-y><sl>e</sl> 21<sw-sup>th</sw-sup>",
+      "line_slope": -89.38579389221555,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        5
+      ],
+      "user_ids": [
+        44825.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        346.40999999999997,
+        346.79
+      ],
+      "clusters_y": [
+        890.685,
+        738.0
+      ],
+      "clusters_text": [
+        [
+          "Bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+          "Bar<sw-sup>t</sw-sup>."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+      "line_slope": -91.40795135086276,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        44825.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        63.88,
+        55.953333333333326
+      ],
+      "clusters_y": [
+        374.865,
+        72.82666666666667
+      ],
+      "clusters_text": [
+        [
+          "",
+          "1708",
+          "1708"
+        ],
+        [
+          "",
+          "Aug<sw-ex>us</sw-ex>t",
+          "Aug<sw-sup>t</sw-sup>"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "21<sw-sup>th</sw-sup>",
+          "21<sw-sup>th</sw-sup>"
+        ],
+        [
+          "d:n",
+          "D:N",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.6,
+      "consensus_text": "1708 Aug<sw-ex>us</sw-ex>t <brev-y>th</brev-y><sl>e</sl> 21<sw-sup>th</sw-sup> d:n",
+      "line_slope": -91.40795135086276,
+      "slope_label": 1,
+      "gutter_label": 2,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0,
+        0
+      ],
+      "user_ids": [
+        1627866.0,
+        190714.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        500.53999999999996,
+        471.11
+      ],
+      "clusters_y": [
+        1078.25,
+        587.25
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ],
+        [
+          "Bag.",
+          "Bag"
+        ],
+        [
+          "",
+          "Warwickshire"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "Coventry Bag. Warwickshire",
+      "line_slope": -93.55598063368501,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        190714.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        507.66,
+        475.12
+      ],
+      "clusters_y": [
+        852.02,
+        583.6099999999999
+      ],
+      "clusters_text": [
+        [
+          "Warwickshire",
+          "Warwickshire"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Warwickshire",
+      "line_slope": -96.9147734204989,
+      "slope_label": 4,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        5
+      ],
+      "user_ids": [
+        1627866.0,
+        190714.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

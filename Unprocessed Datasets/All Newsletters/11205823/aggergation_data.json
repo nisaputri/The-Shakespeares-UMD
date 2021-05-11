@@ -1,0 +1,126 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        215.18,
+        226.43
+      ],
+      "clusters_y": [
+        59.09,
+        1390.26
+      ],
+      "clusters_text": [
+        [
+          "",
+          "we"
+        ],
+        [
+          "feareing",
+          "have"
+        ],
+        [
+          "still",
+          "advice"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "place",
+          ""
+        ],
+        [
+          "will",
+          "Marshall"
+        ],
+        [
+          "be",
+          ""
+        ],
+        [
+          "besieged",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.125,
+      "consensus_text": "we feareing still that place will be besieged",
+      "line_slope": 89.36740885638949,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        20
+      ],
+      "user_ids": [
+        1501117.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.0,
+        885.96
+      ],
+      "clusters_y": [
+        523.11,
+        497.14
+      ],
+      "clusters_text": [
+        [
+          "army",
+          "the"
+        ],
+        [
+          "on",
+          "baggage"
+        ],
+        [
+          "the",
+          "past"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "army on the",
+      "line_slope": -2.2488496739618196,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        5
+      ],
+      "user_ids": [
+        1501117.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

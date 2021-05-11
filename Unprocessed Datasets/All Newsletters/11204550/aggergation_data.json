@@ -1,0 +1,295 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        278.52,
+        956.3
+      ],
+      "clusters_y": [
+        124.35,
+        112.58
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "a"
+        ],
+        [
+          "2",
+          "2<sw-sup>d</sw-sup>"
+        ],
+        [
+          "d",
+          ""
+        ],
+        [
+          "bill",
+          "bill"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Establishing",
+          "Establishing"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Coyne",
+          "Coyne"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "a 2 d bill for Establishing the Coyne",
+      "line_slope": -0.9370037383552607,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        5
+      ],
+      "user_ids": [
+        1891145.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        275.12,
+        935.89
+      ],
+      "clusters_y": [
+        757.35,
+        748.365
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "that"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "should",
+          "should"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "power",
+          "power"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "determine",
+          "determine"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "that they should have power to determine",
+      "line_slope": -0.9370037383552607,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        17
+      ],
+      "user_ids": [
+        1891145.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        276.95,
+        923.185
+      ],
+      "clusters_y": [
+        931.61,
+        917.875
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Kingdome",
+          "Kingdome"
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "goe",
+          "goe"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "of the Kingdome - and goe",
+      "line_slope": -0.9370037383552607,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        20
+      ],
+      "user_ids": [
+        1891145.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        439.89,
+        928.72
+      ],
+      "clusters_y": [
+        1033.33,
+        1018.0
+      ],
+      "clusters_text": [
+        [
+          "A",
+          "A"
+        ],
+        [
+          "messenger",
+          "messenger"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "A messenger from the",
+      "line_slope": -0.9370037383552607,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        22
+      ],
+      "user_ids": [
+        1891145.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        285.52,
+        907.6
+      ],
+      "clusters_y": [
+        1086.0149999999999,
+        1066.36
+      ],
+      "clusters_text": [
+        [
+          "King",
+          "King"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Command",
+          "Com<sw-ex>m</sw-ex>and"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "House",
+          "House"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "King to Command the House",
+      "line_slope": -0.9370037383552607,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        23
+      ],
+      "user_ids": [
+        1891145.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

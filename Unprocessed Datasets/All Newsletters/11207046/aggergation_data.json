@@ -1,0 +1,311 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        38.62,
+        825.27
+      ],
+      "clusters_y": [
+        76.32,
+        81.28
+      ],
+      "clusters_text": [
+        [
+          "",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "London",
+          "London"
+        ],
+        [
+          "July",
+          "Iuly"
+        ],
+        [
+          "29<sw-sup>th",
+          "29<sw-sup>th</sw-sup>"
+        ],
+        [
+          "</sw-sup>1708",
+          "1708."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> London July 29<sw-sup>th </sw-sup>1708",
+      "line_slope": -0.08730267667814857,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.425,
+        928.9200000000001
+      ],
+      "clusters_y": [
+        166.635,
+        163.49
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Reverend",
+          "Reverend"
+        ],
+        [
+          "Doctor",
+          "Doctor"
+        ],
+        [
+          "Trumball",
+          "Trumball"
+        ],
+        [
+          "Rector",
+          "Rector"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "The Reverend Doctor Trumball Rector",
+      "line_slope": -0.08730267667814857,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.70999999999998,
+        935.33
+      ],
+      "clusters_y": [
+        408.795,
+        415.07
+      ],
+      "clusters_text": [
+        [
+          "Vallued",
+          "Vallued"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "800",
+          "800<sw-sup>li</sw-sup>"
+        ],
+        [
+          "$",
+          ""
+        ],
+        [
+          "P.",
+          "P<sw-ex>er</sw-ex>"
+        ],
+        [
+          "Ann.",
+          "Ann<sw-ex>um</sw-ex>."
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Gift",
+          "Gift"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5555555555555556,
+      "consensus_text": "Vallued at 800 $ P. Ann. in the Gift",
+      "line_slope": -0.08730267667814857,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.765,
+        946.52
+      ],
+      "clusters_y": [
+        1170.135,
+        1177.35
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Parliament",
+          "Parliament"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Cirencester",
+          "?"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "of Parliament for Cirencester in the",
+      "line_slope": -0.08730267667814857,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        15
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.655,
+        930.355
+      ],
+      "clusters_y": [
+        1337.125,
+        1332.095
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "26<sw-sup>th</sw-sup>",
+          "26<sw-sup>th</sw-sup>"
+        ],
+        [
+          "About",
+          "About"
+        ],
+        [
+          "2",
+          "2"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Clock",
+          "Clock"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "Day,",
+          "Day,"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the 26<sw-sup>th</sw-sup> About 2 a Clock this Day, the",
+      "line_slope": -0.08730267667814857,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        17
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

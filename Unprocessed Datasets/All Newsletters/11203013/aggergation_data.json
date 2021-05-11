@@ -1,0 +1,133 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        439.63,
+        432.345
+      ],
+      "clusters_y": [
+        644.74,
+        1309.595
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "",
+          "To"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "ho<sw-ex>norable</sw-ex>",
+          "",
+          "ho<sw-ex>norable</sw-ex>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Rich<sw-ex>ard</sw-ex>:",
+          "Rich<sw-ex>ard</sw-ex>",
+          "Rich<sw-ex>ard</sw-ex>:"
+        ],
+        [
+          "Newdigate",
+          "",
+          "Newdigate"
+        ],
+        [
+          "bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+          "",
+          "bar<sw-ex>one</sw-ex>t"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "To <brev-y>th</brev-y><sl>e</sl> ho<sw-ex>norable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl> Rich<sw-ex>ard</sw-ex>: Newdigate bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+      "line_slope": 90.93479202977096,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        339.87999999999994,
+        337.49333333333334
+      ],
+      "clusters_y": [
+        697.3466666666667,
+        924.2399999999999
+      ],
+      "clusters_text": [
+        [
+          "at",
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "at Arbury",
+      "line_slope": 90.93479202977096,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": false
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

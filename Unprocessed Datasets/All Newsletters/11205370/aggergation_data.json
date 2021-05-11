@@ -1,0 +1,746 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        34.675,
+        149.865
+      ],
+      "clusters_y": [
+        706.52,
+        703.6949999999999
+      ],
+      "clusters_text": [
+        [
+          "Kent",
+          "Kent"
+        ],
+        [
+          "Earl",
+          "Earl"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Kent Earl",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        20
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        35.3,
+        121.36
+      ],
+      "clusters_y": [
+        783.4300000000001,
+        780.7850000000001
+      ],
+      "clusters_text": [
+        [
+          "Death",
+          "Death"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Death",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        22
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        314.045,
+        968.4666666666667
+      ],
+      "clusters_y": [
+        159.875,
+        146.35999999999999
+      ],
+      "clusters_text": [
+        [
+          "It",
+          "It",
+          "It"
+        ],
+        [
+          "is",
+          "is",
+          "is"
+        ],
+        [
+          "said",
+          "said",
+          "said"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Queen",
+          "Queen",
+          "Queen"
+        ],
+        [
+          "has",
+          "has",
+          "has"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "It is said the Queen has",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        12,
+        1
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        262.04,
+        954.02
+      ],
+      "clusters_y": [
+        248.615,
+        213.325
+      ],
+      "clusters_text": [
+        [
+          "wrote",
+          "wrote"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Letter",
+          "Letter"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Czar",
+          "Czar"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "wrote a Letter to the Czar",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.92,
+        905.5366666666665
+      ],
+      "clusters_y": [
+        391.4633333333333,
+        358.6266666666667
+      ],
+      "clusters_text": [
+        [
+          "push",
+          "push",
+          "push"
+        ],
+        [
+          "on",
+          "n",
+          "on"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "war",
+          "war",
+          "warr"
+        ],
+        [
+          "with",
+          "with",
+          "with"
+        ],
+        [
+          "vigor",
+          "vigor",
+          "vigor"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6666666666666665,
+      "consensus_text": "push on the war with vigor",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        9,
+        4
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.265,
+        956.49
+      ],
+      "clusters_y": [
+        459.25,
+        429.79
+      ],
+      "clusters_text": [
+        [
+          "against",
+          "against"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Swedeland",
+          "Swedeland"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "against the King of Swedeland -",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        324.72,
+        946.25
+      ],
+      "clusters_y": [
+        530.8,
+        512.98
+      ],
+      "clusters_text": [
+        [
+          "Yesterday",
+          "Yesterday"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Earl",
+          "Earl"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Yesterday the Earl of",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        290.95000000000005,
+        954.385
+      ],
+      "clusters_y": [
+        634.9,
+        634.69
+      ],
+      "clusters_text": [
+        [
+          "Kent",
+          "Kent"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "seized",
+          "Seized"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "a",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Kent was seized with a",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        0
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        271.495,
+        974.665
+      ],
+      "clusters_y": [
+        709.49,
+        708.94
+      ],
+      "clusters_text": [
+        [
+          "Violent",
+          "Violent"
+        ],
+        [
+          "Fitt",
+          "Fitt"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "an",
+          ""
+        ],
+        [
+          "Apoplexy",
+          "Apoplexy"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Violent Fitt of an Apoplexy",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        8
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.1,
+        960.26
+      ],
+      "clusters_y": [
+        882.31,
+        881.77
+      ],
+      "clusters_text": [
+        [
+          "Green",
+          "Green"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Sunbridge",
+          "Sunbridge"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Green at Sunbridge and",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        10
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        269.34999999999997,
+        965.6733333333333
+      ],
+      "clusters_y": [
+        1060.1466666666665,
+        1074.74
+      ],
+      "clusters_text": [
+        [
+          "Yesterday",
+          "Yesterday",
+          "Yesterday"
+        ],
+        [
+          "Morning",
+          "Morning",
+          "Morning"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Duke",
+          "Duke",
+          "Duke"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "Yesterday Morning the Duke",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        6,
+        12
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        279.10999999999996,
+        948.265
+      ],
+      "clusters_y": [
+        1149.0966666666668,
+        1155.7649999999999
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Queensbury",
+          "Queensbury",
+          "Queensbury"
+        ],
+        [
+          "went",
+          "went",
+          "went"
+        ],
+        [
+          "for",
+          "for",
+          "for"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "of Queensbury went for",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        7,
+        13
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        274.72,
+        966.875
+      ],
+      "clusters_y": [
+        1218.17,
+        1225.4650000000001
+      ],
+      "clusters_text": [
+        [
+          "Windsor",
+          "Windsor"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "give",
+          "Give"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "Maj<sw-ex>es</sw-ex>ty",
+          "Maj<sw-ex>es</sw-ex><sw-sup>ty</sw-sup>."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "Windsor to give her Maj<sw-ex>es</sw-ex>ty",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        274.9633333333333,
+        978.7133333333333
+      ],
+      "clusters_y": [
+        1315.1766666666665,
+        1313.33
+      ],
+      "clusters_text": [
+        [
+          "an",
+          "an",
+          "and"
+        ],
+        [
+          "Account",
+          "Account",
+          "Account"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "???",
+          "<sw-unclear><sw-unclear>Poss</sw-unclear></sw-unclear>",
+          "Posture"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.4,
+      "consensus_text": "an Account of the ???",
+      "line_slope": -0.7409550529681497,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        19,
+        15
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 11,
+  "transcribed_lines": 14,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

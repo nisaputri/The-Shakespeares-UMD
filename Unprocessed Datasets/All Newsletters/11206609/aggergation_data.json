@@ -1,0 +1,275 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        240.06,
+        915.635
+      ],
+      "clusters_y": [
+        274.77,
+        268.885
+      ],
+      "clusters_text": [
+        [
+          "Thursday",
+          "Thursday"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "2<sw-sup>d.</sw-sup>",
+          "2<sw-sup>nd</sw-sup>"
+        ],
+        [
+          "Instant,",
+          "Instant,"
+        ],
+        [
+          "but",
+          "but"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Thursday the 2<sw-sup>d.</sw-sup> Instant, but",
+      "line_slope": -0.5085069047612121,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1851566.0,
+        720118.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.615,
+        922.84
+      ],
+      "clusters_y": [
+        426.995,
+        423.38
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Number",
+          "Number"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "their",
+          "Their"
+        ],
+        [
+          "Lords",
+          "Lords"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "to the Number of their Lords",
+      "line_slope": -0.5085069047612121,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        4
+      ],
+      "user_ids": [
+        null,
+        1851566.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.885,
+        910.69
+      ],
+      "clusters_y": [
+        577.16,
+        566.8299999999999
+      ],
+      "clusters_text": [
+        [
+          "sitt",
+          "Sitt"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Parliament",
+          "Parliament"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "sitt in the Parliament of",
+      "line_slope": -0.5085069047612121,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        6
+      ],
+      "user_ids": [
+        null,
+        1851566.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.92499999999998,
+        921.47
+      ],
+      "clusters_y": [
+        644.615,
+        632.21
+      ],
+      "clusters_text": [
+        [
+          "Great",
+          "Great"
+        ],
+        [
+          "Brittain,",
+          "Brittain,"
+        ],
+        [
+          "its",
+          "its"
+        ],
+        [
+          "beleived",
+          "beleived"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Great Brittain, its beleived",
+      "line_slope": -0.5085069047612121,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        7
+      ],
+      "user_ids": [
+        null,
+        1851566.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.03,
+        936.625
+      ],
+      "clusters_y": [
+        893.38,
+        889.175
+      ],
+      "clusters_text": [
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "John",
+          "John"
+        ],
+        [
+          "Rotheram",
+          "Rotheram,"
+        ],
+        [
+          "K<sw-sup>t</sw-sup>",
+          "K<sw-ex>night"
+        ],
+        [
+          "one",
+          "</sw-ex>one"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> John Rotheram K<sw-sup>t</sw-sup> one",
+      "line_slope": -0.5085069047612121,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        10
+      ],
+      "user_ids": [
+        null,
+        1851566.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

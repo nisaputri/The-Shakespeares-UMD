@@ -1,0 +1,127 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        399.28999999999996,
+        399.22
+      ],
+      "clusters_y": [
+        959.4033333333333,
+        1226.8966666666665
+      ],
+      "clusters_text": [
+        [
+          "neare",
+          "neare",
+          "neare"
+        ],
+        [
+          "Coventry",
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "neare Coventry",
+      "line_slope": 90.18354127860901,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2,
+        2
+      ],
+      "user_ids": [
+        1501614.0,
+        1538048.0,
+        1347003.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        512.74,
+        519.75
+      ],
+      "clusters_y": [
+        784.815,
+        1391.83
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Ho<sw-ex>norable</sw-ex>",
+          "Hono<sw-sup>ble</sw-sup>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "Barr<sw-sup>t",
+          ""
+        ],
+        [
+          "</sw-sup>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "To the Ho<sw-ex>norable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate Barr<sw-sup>t </sw-sup>",
+      "line_slope": 89.17574031177062,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1501614.0,
+        1538048.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

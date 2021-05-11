@@ -1,0 +1,252 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        251.28,
+        938.06
+      ],
+      "clusters_y": [
+        355.64,
+        356.46
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "36",
+          "36"
+        ],
+        [
+          "Gunns",
+          "Gunns"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "100",
+          "100"
+        ],
+        [
+          "men",
+          "men"
+        ],
+        [
+          "<sw-unclear>Risly</sw-unclear>",
+          "Richly"
+        ],
+        [
+          "Laden",
+          "Laden"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "of 36 Gunns and 100 men <sw-unclear>Risly</sw-unclear> Laden",
+      "line_slope": -0.4041928100298097,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.985,
+        930.8299999999999
+      ],
+      "clusters_y": [
+        458.905,
+        449.695
+      ],
+      "clusters_text": [
+        [
+          "<sw-unclear>Sande</sw-unclear>",
+          "Sands"
+        ],
+        [
+          "however",
+          "however"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "good",
+          "good"
+        ],
+        [
+          "fortune",
+          "fortune"
+        ],
+        [
+          "all",
+          "all"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "<sw-unclear>Sande</sw-unclear> however by good fortune all",
+      "line_slope": -0.4041928100298097,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        5
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        256.49,
+        924.31
+      ],
+      "clusters_y": [
+        507.855,
+        506.15
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "men",
+          "men"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "<sw-unclear>Sabed</sw-unclear>",
+          "Saved"
+        ],
+        [
+          "<sw-unclear>????t</sw-unclear>",
+          "Except"
+        ],
+        [
+          "3",
+          "3"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "the men were <sw-unclear>Sabed</sw-unclear> <sw-unclear>????t</sw-unclear> 3 -",
+      "line_slope": -0.4041928100298097,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        1
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        433.6,
+        943.0350000000001
+      ],
+      "clusters_y": [
+        558.765,
+        554.7149999999999
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Lords",
+          "L<sw-ex>ord</sw-ex>s"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Admilly",
+          "Admil<sw-sup>lt</sw-sup>y"
+        ],
+        [
+          "have",
+          "have"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "The Lords of the Admilly have",
+      "line_slope": -0.4041928100298097,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        0
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

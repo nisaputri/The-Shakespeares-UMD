@@ -1,0 +1,126 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        977.38,
+        1497.33
+      ],
+      "clusters_y": [
+        184.22,
+        176.21499999999997
+      ],
+      "clusters_text": [
+        [
+          "Com<sw-ex>m</sw-ex>itted",
+          "Comitted"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "refuseing",
+          "refuseing"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "40"
+        ],
+        [
+          "oathes",
+          "Oathes"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "Com<sw-ex>m</sw-ex>itted for refuseing <brev-y>th</brev-y><sl>e</sl> oathes",
+      "line_slope": -1.648476522541392,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        38,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        980.16,
+        1491.64
+      ],
+      "clusters_y": [
+        228.33999999999997,
+        219.135
+      ],
+      "clusters_text": [
+        [
+          "are",
+          "are"
+        ],
+        [
+          "not",
+          "not"
+        ],
+        [
+          "yet",
+          "yet"
+        ],
+        [
+          "enlarged",
+          "enlarged"
+        ],
+        [
+          "tho'",
+          "tho"
+        ],
+        [
+          "they",
+          "they"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "are not yet enlarged tho' they",
+      "line_slope": -1.648476522541392,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        39,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

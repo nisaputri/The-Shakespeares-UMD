@@ -1,0 +1,185 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        268.88,
+        895.3499999999999
+      ],
+      "clusters_y": [
+        1412.5149999999999,
+        1399.22
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "it",
+          "it"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "above",
+          "above"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "and that it will be above",
+      "line_slope": -1.0432471614744958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        29,
+        5
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.735,
+        935.24
+      ],
+      "clusters_y": [
+        1458.165,
+        1445.335
+      ],
+      "clusters_text": [
+        [
+          "A",
+          "A"
+        ],
+        [
+          "month",
+          "month"
+        ],
+        [
+          "Eare",
+          "ere"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "arrive",
+          "arrive"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "A month Eare they arrive in <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -1.0432471614744958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        30,
+        6
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        270.42,
+        736.47
+      ],
+      "clusters_y": [
+        798.0350000000001,
+        775.45
+      ],
+      "clusters_text": [
+        [
+          "was",
+          "was"
+        ],
+        [
+          "sayled",
+          "Sayled"
+        ],
+        [
+          "form",
+          "from"
+        ],
+        [
+          "Brest",
+          "Brest"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "was sayled form Brest -",
+      "line_slope": -2.857138071566733,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        2
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        269.24,
+        959.675
+      ],
+      "clusters_y": [
+        656.855,
+        636.915
+      ],
+      "clusters_text": [
+        [
+          "Troops",
+          "Troops"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "fresh",
+          "fresh"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "shew",
+          "show"
+        ],
+        [
+          "great",
+          "great"
+        ],
+        [
+          "desire",
+          "desire"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "give",
+          "give"
+        ],
+        [
+          "proof",
+          "proof"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "Troops are fresh and shew great desire to give proof",
+      "line_slope": -0.703527167484879,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        2
+      ],
+      "user_ids": [
+        1347003.0,
+        1600443.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.305,
+        912.5
+      ],
+      "clusters_y": [
+        769.29,
+        744.06
+      ],
+      "clusters_text": [
+        [
+          "provisions",
+          "provisions"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "all",
+          "all"
+        ],
+        [
+          "necessaries",
+          "necessaries"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "above",
+          "above"
+        ],
+        [
+          "3",
+          ""
+        ],
+        [
+          "months",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "provisions and all necessaries for above 3 months -",
+      "line_slope": -0.703527167484879,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        1600443.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

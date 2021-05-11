@@ -1,0 +1,303 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        244.185,
+        956.1949999999999
+      ],
+      "clusters_y": [
+        493.285,
+        514.345
+      ],
+      "clusters_text": [
+        [
+          "him",
+          "him"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "goe",
+          "goe"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Pallace",
+          "Pallace"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "him to goe to his Pallace in the",
+      "line_slope": 1.6369386932489203,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        4
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.005,
+        946.435
+      ],
+      "clusters_y": [
+        577.16,
+        602.08
+      ],
+      "clusters_text": [
+        [
+          "Kingdom",
+          "Kingdom"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Algarva",
+          "Algarva"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Yesterday",
+          "yesterday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Kingdom of Algarva - Yesterday",
+      "line_slope": 1.6369386932489203,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        5
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        236.425,
+        950.655
+      ],
+      "clusters_y": [
+        668.6400000000001,
+        688.2249999999999
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Comittee",
+          "Comittee"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Grand",
+          "Grand"
+        ],
+        [
+          "Supply",
+          "Supply"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the Comittee on the Grand Supply",
+      "line_slope": 1.6369386932489203,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        6
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.605,
+        937.355
+      ],
+      "clusters_y": [
+        837.4449999999999,
+        850.2049999999999
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Land",
+          "Land"
+        ],
+        [
+          "Service",
+          "Service"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "for the Land Service for the",
+      "line_slope": 1.6369386932489203,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        8
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        229.23000000000002,
+        939.5999999999999
+      ],
+      "clusters_y": [
+        1248.995,
+        1274.275
+      ],
+      "clusters_text": [
+        [
+          "Continued",
+          "Continued"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "said",
+          "said"
+        ],
+        [
+          "year",
+          "year"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "That",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "Continued for the said year - That",
+      "line_slope": 1.6369386932489203,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        10
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

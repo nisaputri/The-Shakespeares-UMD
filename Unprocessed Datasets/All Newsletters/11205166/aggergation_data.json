@@ -1,0 +1,236 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        459.04499999999996,
+        458.43
+      ],
+      "clusters_y": [
+        788.51,
+        1337.6100000000001
+      ],
+      "clusters_text": [
+        [
+          "newdigate",
+          "newdigate"
+        ],
+        [
+          "Barr<sw-ex>one</sw-ex><sw-sup>t</sw-sup>",
+          "Barr<sw-ex>one</sw-ex>t"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "newdigate Barr<sw-ex>one</sw-ex><sw-sup>t</sw-sup> at Arbury",
+      "line_slope": 89.80146480804392,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        356.7033333333333,
+        357.8333333333333
+      ],
+      "clusters_y": [
+        1016.5500000000001,
+        1190.97
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "Coventry",
+      "line_slope": 89.80146480804392,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        352990.0,
+        1347003.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        516.9649999999999,
+        533.29
+      ],
+      "clusters_y": [
+        768.5150000000001,
+        1308.09
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Ho<sw-ex>norable</sw-ex>",
+          "Ho<sw-ex>norable</sw-ex>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "To the Ho<sw-ex>norable</sw-ex> S<sw-ex>i</sw-ex><sl>r</sl> Richard",
+      "line_slope": 88.39456019952749,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        167.00666666666666,
+        911.0500000000001
+      ],
+      "clusters_y": [
+        135.97,
+        179.45666666666662
+      ],
+      "clusters_text": [
+        [
+          "so",
+          "so",
+          "so"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>e</sw-ex>re",
+          "<sw-ex>the</sw-ex>re",
+          "<sw-ex>the</sw-ex>re"
+        ],
+        [
+          "wants",
+          "wants",
+          "wants"
+        ],
+        [
+          "only",
+          "only",
+          "only"
+        ],
+        [
+          "2",
+          "2",
+          "2"
+        ],
+        [
+          "Millions",
+          "Millions",
+          "Millions"
+        ],
+        [
+          "And",
+          "And",
+          "And"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "House",
+          "House",
+          "House"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.888888888888889,
+      "consensus_text": "so <sw-ex>the</sw-ex>re wants only 2 Millions And <brev-y>th</brev-y><sl>e</sl> House",
+      "line_slope": 3.344535226699004,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        6
+      ],
+      "user_ids": [
+        3697.0,
+        352990.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        97.29499999999999,
+        920.53
+      ],
+      "clusters_y": [
+        386.99,
+        391.6
+      ],
+      "clusters_text": [
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>all"
+        ],
+        [
+          "",
+          "Expedition"
+        ],
+        [
+          "",
+          "for"
+        ],
+        [
+          "",
+          "Barcelona,"
+        ],
+        [
+          "",
+          "But"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "all",
+          "Catalans"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "w<sw-ex>i</sw-ex><sl>th</sl> Expedition for Barcelona, But <brev-y>th</brev-y><sl>e</sl> all",
+      "line_slope": 0.9379654132574945,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        105.42500000000001,
+        927.495
+      ],
+      "clusters_y": [
+        450.11,
+        461.73
+      ],
+      "clusters_text": [
+        [
+          "are",
+          "are"
+        ],
+        [
+          "resolved",
+          "Resolved"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "hold",
+          "hold"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "last,",
+          "Last"
+        ],
+        [
+          "unless",
+          "unless"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "ancient",
+          "Ancient"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6363636363636365,
+      "consensus_text": "are resolved to hold out to the last, unless their ancient",
+      "line_slope": 0.9379654132574945,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        111.85,
+        934.67
+      ],
+      "clusters_y": [
+        1022.27,
+        1050.57
+      ],
+      "clusters_text": [
+        [
+          "",
+          "have"
+        ],
+        [
+          "",
+          "an"
+        ],
+        [
+          "",
+          "Equivalent"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "Spanish"
+        ],
+        [
+          "",
+          "Netherlands"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "have an Equivalent out of <brev-y>th</brev-y><sl>e</sl> Spanish Netherlands",
+      "line_slope": 0.9379654132574945,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        7
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        108.31,
+        899.915
+      ],
+      "clusters_y": [
+        1280.44,
+        1291.0349999999999
+      ],
+      "clusters_text": [
+        [
+          "",
+          "that"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "Pretender"
+        ],
+        [
+          "",
+          "is"
+        ],
+        [
+          "",
+          "to"
+        ],
+        [
+          "",
+          "be"
+        ],
+        [
+          "",
+          "Marryed"
+        ],
+        [
+          "",
+          "to"
+        ],
+        [
+          "",
+          "one"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1,
+      "consensus_text": "that the Pretender is to be Marryed to one of",
+      "line_slope": 0.9379654132574945,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        8
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

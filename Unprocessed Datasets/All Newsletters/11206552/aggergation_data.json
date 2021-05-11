@@ -1,0 +1,717 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        204.19,
+        208.31
+      ],
+      "clusters_y": [
+        71.855,
+        1506.8400000000001
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "??",
+          "60"
+        ],
+        [
+          "Clerks",
+          "Clerks"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "the"
+        ],
+        [
+          "Chancery",
+          "Chancery"
+        ],
+        [
+          "Office",
+          "Office"
+        ],
+        [
+          "have<sw-del>ing</sw-del>",
+          "havei<sw-del>ng"
+        ],
+        [
+          "a",
+          "</sw-del><sw-ins>a</sw-ins>"
+        ],
+        [
+          "petition",
+          "petition"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "presented",
+          "presented"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7333333333333334,
+      "consensus_text": "the ?? Clerks of <brev-y>th</brev-y><sl>e</sl> Chancery Office have<sw-del>ing</sw-del> a petition to be presented to the",
+      "line_slope": 89.94780690344568,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        17
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        146.075,
+        145.69
+      ],
+      "clusters_y": [
+        43.34,
+        1476.29
+      ],
+      "clusters_text": [
+        [
+          "Housee",
+          "House"
+        ],
+        [
+          "ag<sw-sup>th</sw-sup>",
+          "ag<sw-sup>st</sw-sup>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "6",
+          "6"
+        ],
+        [
+          "Clerks",
+          "Clerks"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "define",
+          "define"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "may",
+          "may"
+        ],
+        [
+          "doe",
+          "doe"
+        ],
+        [
+          "<sw-unclear>busineh</sw-unclear>",
+          "business"
+        ],
+        [
+          "without",
+          "without"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Housee ag<sw-sup>th</sw-sup> <brev-y>th</brev-y><sl>e</sl> 6 Clerks in w<sw-ex>hi</sw-ex><sl>ch</sl> they define <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> they may doe <sw-unclear>busineh</sw-unclear> without",
+      "line_slope": 89.94780690344568,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        18
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        95.63,
+        101.03999999999999
+      ],
+      "clusters_y": [
+        42.09,
+        1494.84
+      ],
+      "clusters_text": [
+        [
+          "them",
+          "them"
+        ],
+        [
+          "&",
+          "and"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "<sw-unclear>Comideration</sw-unclear>",
+          "Consideration"
+        ],
+        [
+          "thereof",
+          "thereof"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "offer",
+          "offer"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<sw-unclear>Bes?en</sw-unclear>",
+          "lessen"
+        ],
+        [
+          "Most",
+          "most"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "fees",
+          "fees"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "them & in <sw-unclear>Comideration</sw-unclear> thereof they offer to <sw-unclear>Bes?en</sw-unclear> Most of their fees and",
+      "line_slope": 89.94780690344568,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        19
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.565,
+        943.03
+      ],
+      "clusters_y": [
+        146.3,
+        157.91
+      ],
+      "clusters_text": [
+        [
+          "Yesterday",
+          "Yesterday"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Lords",
+          "Lords"
+        ],
+        [
+          "ordered",
+          "ordered"
+        ],
+        [
+          "their",
+          "their"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Yesterday the Lords ordered their",
+      "line_slope": 0.5474211037594765,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.635,
+        938.95
+      ],
+      "clusters_y": [
+        223.925,
+        239.735
+      ],
+      "clusters_text": [
+        [
+          "Address",
+          "Address"
+        ],
+        [
+          "bee",
+          "be"
+        ],
+        [
+          "Presented",
+          "presented"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "Majesty",
+          "Majesty"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Address bee Presented to her Majesty",
+      "line_slope": 0.5474211037594765,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.38,
+        929.77
+      ],
+      "clusters_y": [
+        386.125,
+        393.92
+      ],
+      "clusters_text": [
+        [
+          "Officers",
+          "Officers"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Ordered",
+          "Ordered"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Clause",
+          "Clause"
+        ],
+        [
+          "be",
+          "be"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Officers - Ordered that a Clause be",
+      "line_slope": 0.5474211037594765,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        239.61,
+        926.53
+      ],
+      "clusters_y": [
+        471.83500000000004,
+        476.70500000000004
+      ],
+      "clusters_text": [
+        [
+          "<sw-unclear>In???ed</sw-unclear>",
+          "Inserted"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "give",
+          "give"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "Majesty",
+          "Majesty"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "<sw-unclear>In???ed</sw-unclear> to give her Majesty the",
+      "line_slope": 0.5474211037594765,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.055,
+        916.04
+      ],
+      "clusters_y": [
+        812.5899999999999,
+        820.89
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "letter",
+          "letter"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "late",
+          "late"
+        ],
+        [
+          "Elector",
+          "Elector"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the letter of the late Elector of",
+      "line_slope": 0.5474211037594765,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.075,
+        917.7
+      ],
+      "clusters_y": [
+        897.105,
+        900.155
+      ],
+      "clusters_text": [
+        [
+          "Bavaria",
+          "Bavaria"
+        ],
+        [
+          "Concerning",
+          "Concerning"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "french",
+          "french"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Bavaria Concerning the french",
+      "line_slope": 0.5474211037594765,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        10
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.24,
+        921.495
+      ],
+      "clusters_y": [
+        1152.76,
+        1150.2649999999999
+      ],
+      "clusters_text": [
+        [
+          "Lord",
+          "Lord"
+        ],
+        [
+          "Viscount",
+          "Viscount"
+        ],
+        [
+          "Walden",
+          "Walden"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Created",
+          "Created"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Lord Viscount Walden is Created",
+      "line_slope": 0.5474211037594765,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        13
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        231.49,
+        919.27
+      ],
+      "clusters_y": [
+        1436.915,
+        1441.9299999999998
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "bill",
+          "bill"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Indictment",
+          "Indictment"
+        ],
+        [
+          "Against",
+          "Against"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the bill of Indictment Against",
+      "line_slope": 0.5474211037594765,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        16
+      ],
+      "user_ids": [
+        1501614.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 11,
+  "transcribed_lines": 11,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

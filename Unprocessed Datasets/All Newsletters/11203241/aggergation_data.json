@@ -1,0 +1,244 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        195.72,
+        733.21
+      ],
+      "clusters_y": [
+        173.74,
+        135.87
+      ],
+      "clusters_text": [
+        [
+          "",
+          "that"
+        ],
+        [
+          "",
+          "Tis"
+        ],
+        [
+          "",
+          "beleived"
+        ],
+        [
+          "",
+          "5"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "Lords"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2222222222222223,
+      "consensus_text": "that Tis beleived 5 of the Lords of the",
+      "line_slope": -3.8632997306759003,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        3
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        196.61,
+        757.21
+      ],
+      "clusters_y": [
+        316.36,
+        268.82
+      ],
+      "clusters_text": [
+        [
+          "",
+          "account"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "pr<sw-ex>e</sw-ex>sent"
+        ],
+        [
+          "",
+          "State"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "",
+          "affairs"
+        ],
+        [
+          "",
+          "in"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "account of the pr<sw-ex>e</sw-ex>sent State of affairs in",
+      "line_slope": -3.8632997306759003,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        7
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        938.6700000000001,
+        1505.26
+      ],
+      "clusters_y": [
+        627.3199999999999,
+        581.42
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "Mediteranean"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "",
+          "they"
+        ],
+        [
+          "",
+          "may"
+        ],
+        [
+          "",
+          "Ryde"
+        ],
+        [
+          "",
+          "Masters"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1428571428571428,
+      "consensus_text": "the Mediteranean <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> they may Ryde Masters",
+      "line_slope": -3.8632997306759003,
+      "slope_label": 0,
+      "gutter_label": 2,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        52
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        1211.89,
+        1365.85
+      ],
+      "clusters_y": [
+        629.99,
+        623.5
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "favour"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "the",
+      "line_slope": -3.8632997306759003,
+      "slope_label": 0,
+      "gutter_label": 2,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

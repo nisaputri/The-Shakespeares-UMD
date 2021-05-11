@@ -1,0 +1,118 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        248.38,
+        940.745
+      ],
+      "clusters_y": [
+        864.27,
+        857.0350000000001
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Portugall",
+          "Portugall"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "Collonell",
+          "Collonell"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "of Portugall with Collonell",
+      "line_slope": -0.11804857105401406,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        3
+      ],
+      "user_ids": [
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.985,
+        955.7850000000001
+      ],
+      "clusters_y": [
+        1262.74,
+        1262.585
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Town",
+          "Town"
+        ],
+        [
+          "which",
+          "which"
+        ],
+        [
+          "Affirmes",
+          "Affirmes"
+        ],
+        [
+          "that",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "in Town which Affirmes that",
+      "line_slope": -0.11804857105401406,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        6
+      ],
+      "user_ids": [
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        369.855,
+        887.12
+      ],
+      "clusters_y": [
+        67.195,
+        58.49
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "September",
+          "September"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "10.<sw-sup>th</sw-sup>",
+          "10th"
+        ],
+        [
+          "1706",
+          "1706"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "London September the 10.<sw-sup>th</sw-sup> 1706",
+      "line_slope": -0.9335859580093201,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0
+      ],
+      "user_ids": [
+        819334.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.175,
+        944.37
+      ],
+      "clusters_y": [
+        363.69500000000005,
+        319.74
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Marqui<sw-unclear>se</sw-unclear>",
+          "Marquisse"
+        ],
+        [
+          "Das",
+          "Das"
+        ],
+        [
+          "Minas",
+          "Minas"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Earl",
+          "Earl"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "to the Marqui<sw-unclear>se</sw-unclear> Das Minas and the Earl",
+      "line_slope": -3.3339372564654095,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3
+      ],
+      "user_ids": [
+        819334.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.16,
+        902.075
+      ],
+      "clusters_y": [
+        449.375,
+        406.065
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Galloway",
+          "Galloway"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "e<sw-unclear>x</sw-unclear>traordinary",
+          "extraordinary"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "of Galloway for their e<sw-unclear>x</sw-unclear>traordinary",
+      "line_slope": -3.3339372564654095,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        4
+      ],
+      "user_ids": [
+        819334.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.59,
+        922.56
+      ],
+      "clusters_y": [
+        537.835,
+        491.22
+      ],
+      "clusters_text": [
+        [
+          "services",
+          "services"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "campaine",
+          "campaine"
+        ],
+        [
+          "--",
+          "--"
+        ],
+        [
+          "500",
+          "500"
+        ],
+        [
+          "waggons",
+          "waggons"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "services this campaine -- 500 waggons",
+      "line_slope": -3.3339372564654095,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        5
+      ],
+      "user_ids": [
+        819334.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

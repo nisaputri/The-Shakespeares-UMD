@@ -1,0 +1,79 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        302.5,
+        975.19
+      ],
+      "clusters_y": [
+        315.845,
+        308.08500000000004
+      ],
+      "clusters_text": [
+        [
+          "40",
+          "40"
+        ],
+        [
+          "or",
+          "or"
+        ],
+        [
+          "50000",
+          "50000"
+        ],
+        [
+          "men",
+          "men"
+        ],
+        [
+          "may",
+          "may"
+        ],
+        [
+          "suddenly",
+          "suddenly"
+        ],
+        [
+          "draw",
+          "draw"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "40 or 50000 men may suddenly draw",
+      "line_slope": -1.7847113874058953,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        0
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

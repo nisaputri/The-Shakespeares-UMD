@@ -1,0 +1,114 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        501.4,
+        492.9
+      ],
+      "clusters_y": [
+        621.9749999999999,
+        1258.0100000000002
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard"
+        ],
+        [
+          "",
+          "Newdigate"
+        ],
+        [
+          "<sw-unclear>???</sw-unclear>",
+          "Ba<sw-sup>rt</sw-sup>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate <sw-unclear>???</sw-unclear>",
+      "line_slope": 90.76535846932865,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        396.615,
+        425.19
+      ],
+      "clusters_y": [
+        621.575,
+        1066.72
+      ],
+      "clusters_text": [
+        [
+          "att",
+          "att"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "<sw-unclear>???</sw-unclear>",
+          "near"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "att Arbury <sw-unclear>???</sw-unclear>",
+      "line_slope": 86.52387461603533,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,967 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        229.9766666666667,
+        886.5033333333332
+      ],
+      "clusters_y": [
+        601.5466666666666,
+        593.1999999999999
+      ],
+      "clusters_text": [
+        [
+          "Elizabeth",
+          "Elizabeth",
+          "Elizabeth"
+        ],
+        [
+          "Hastings",
+          "hastings",
+          "Hastings"
+        ],
+        [
+          "Daughter",
+          "Daughter",
+          "Daughter"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "Theophilus",
+          "Theophilus",
+          "Theophilus"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "Elizabeth Hastings Daughter to Theophilus",
+      "line_slope": -0.7704737863083565,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        3,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.375,
+        883.9
+      ],
+      "clusters_y": [
+        687.435,
+        682.23
+      ],
+      "clusters_text": [
+        [
+          "late",
+          "late"
+        ],
+        [
+          "Earl",
+          "Earl"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Huntington.",
+          "huntington"
+        ],
+        [
+          "A",
+          "-"
+        ],
+        [
+          "",
+          "a"
+        ],
+        [
+          "great",
+          "great"
+        ],
+        [
+          "many",
+          "many"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "late Earl of Huntington. A a great many",
+      "line_slope": -0.7704737863083565,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        4
+      ],
+      "user_ids": [
+        18403.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.825,
+        891.59
+      ],
+      "clusters_y": [
+        221.435,
+        190.08
+      ],
+      "clusters_text": [
+        [
+          "Northumberland",
+          "Northumberland"
+        ],
+        [
+          "being",
+          "being"
+        ],
+        [
+          "now",
+          "now"
+        ],
+        [
+          "c<sw-unclear>loathed</sw-unclear>",
+          ""
+        ],
+        [
+          "were",
+          ""
+        ],
+        [
+          "last",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Northumberland being now c<sw-unclear>loathed</sw-unclear> were last",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        18403.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        239.0533333333333,
+        913.4375
+      ],
+      "clusters_y": [
+        308.71666666666664,
+        264.14000000000004
+      ],
+      "clusters_text": [
+        [
+          "viewed",
+          "",
+          "viewed",
+          "viewed"
+        ],
+        [
+          "on",
+          "",
+          "on",
+          "on"
+        ],
+        [
+          "Hounslow",
+          "",
+          "hounslow",
+          "Hounslow"
+        ],
+        [
+          "heath",
+          "",
+          "heath",
+          "Heath"
+        ],
+        [
+          "-",
+          "",
+          "-",
+          "-"
+        ],
+        [
+          "and",
+          "And",
+          "and",
+          "and"
+        ],
+        [
+          "they",
+          "they",
+          "they",
+          "they"
+        ],
+        [
+          "are",
+          "are",
+          "are",
+          "are"
+        ],
+        [
+          "to",
+          "to",
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.111111111111111,
+      "consensus_text": "viewed on Hounslow heath - and they are to",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        5,
+        0,
+        10
+      ],
+      "user_ids": [
+        1708223.0,
+        18403.0,
+        1891145.0,
+        null
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        237.76333333333335,
+        904.5500000000001
+      ],
+      "clusters_y": [
+        390.67,
+        344.28999999999996
+      ],
+      "clusters_text": [
+        [
+          "attend",
+          "attend",
+          "attend"
+        ],
+        [
+          "her",
+          "her",
+          "her"
+        ],
+        [
+          "maj<sw-sup><sw-unclear>ty</sw-unclear></sw-sup>",
+          "Majesty",
+          "maj<sw-ex>es</sw-ex><sw-sup>ty</sw-sup>"
+        ],
+        [
+          "on",
+          "on",
+          "on"
+        ],
+        [
+          "this",
+          "this",
+          "this"
+        ],
+        [
+          "day",
+          "day",
+          "day"
+        ],
+        [
+          "seven",
+          "seven",
+          "seven"
+        ],
+        [
+          "night",
+          "night",
+          "night"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.7777777777777777,
+      "consensus_text": "attend her maj<sw-sup><sw-unclear>ty</sw-unclear></sw-sup> on this day seven night to",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        6,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        18403.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.685,
+        892.63
+      ],
+      "clusters_y": [
+        473.83,
+        445.705
+      ],
+      "clusters_text": [
+        [
+          "Saint",
+          "Saint"
+        ],
+        [
+          "Pauls",
+          "Paules"
+        ],
+        [
+          "Cathedrall",
+          "Cathedrall"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "Lord",
+          "Lord"
+        ],
+        [
+          "<sw-unclear>Sherrard</sw-unclear>",
+          "Sherrard"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "Saint Pauls Cathedrall - my Lord <sw-unclear>Sherrard</sw-unclear>",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.16333333333333,
+        857.0366666666667
+      ],
+      "clusters_y": [
+        546.7833333333333,
+        515.2633333333333
+      ],
+      "clusters_text": [
+        [
+          "is",
+          "is",
+          "is"
+        ],
+        [
+          "shortly",
+          "shortly",
+          "shortly"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be",
+          "be"
+        ],
+        [
+          "marryed",
+          "marryed",
+          "marryed"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Lady",
+          "Lady",
+          "Lady"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "is shortly to be marryed to the Lady",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        10,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        18403.0,
+        null
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        239.76,
+        857.5250000000001
+      ],
+      "clusters_y": [
+        703.605,
+        675.885
+      ],
+      "clusters_text": [
+        [
+          "late",
+          "late"
+        ],
+        [
+          "Earl",
+          "Earl"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Burlington",
+          "Huntington"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "great",
+          "great"
+        ],
+        [
+          "many",
+          "many"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "late Earl of Burlington - a great many",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.25,
+        879.01
+      ],
+      "clusters_y": [
+        933.04,
+        895.0999999999999
+      ],
+      "clusters_text": [
+        [
+          "",
+          "entered"
+        ],
+        [
+          "themselves",
+          "themselves"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "Majesty",
+          "Ma<sw-ex>ies</sw-ex><sl>ties"
+        ],
+        [
+          "service",
+          "Service"
+        ],
+        [
+          "and",
+          "&</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "entered themselves in her Majesty service and",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        5
+      ],
+      "user_ids": [
+        18403.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.36,
+        909.99
+      ],
+      "clusters_y": [
+        1002.5899999999999,
+        954.25
+      ],
+      "clusters_text": [
+        [
+          "being",
+          "",
+          "being"
+        ],
+        [
+          "lawly",
+          "",
+          "lately"
+        ],
+        [
+          "",
+          "",
+          "sent"
+        ],
+        [
+          "",
+          "",
+          "over"
+        ],
+        [
+          "",
+          "from",
+          "from"
+        ],
+        [
+          "",
+          "Holland",
+          "holland"
+        ],
+        [
+          "",
+          "part",
+          "part"
+        ],
+        [
+          "",
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.5,
+      "consensus_text": "being lawly sent over from Holland part of",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        18,
+        5
+      ],
+      "user_ids": [
+        18403.0,
+        18403.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        229.64,
+        924.405
+      ],
+      "clusters_y": [
+        1166.56,
+        1136.76
+      ],
+      "clusters_text": [
+        [
+          "parke",
+          "parke"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "haveing",
+          "haveing"
+        ],
+        [
+          "received",
+          "received"
+        ],
+        [
+          "40",
+          "40"
+        ],
+        [
+          "shillings",
+          "Shillings"
+        ],
+        [
+          "each",
+          "each"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "parke and haveing received 40 shillings each",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7
+      ],
+      "user_ids": [
+        1891145.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.16000000000003,
+        848.96
+      ],
+      "clusters_y": [
+        1257.22,
+        1230.225
+      ],
+      "clusters_text": [
+        [
+          "as",
+          "as"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "Majesty",
+          "Ma<sw-ex>ies</sw-ex><sl>tie</sl>s"
+        ],
+        [
+          "bounty",
+          "bounty"
+        ],
+        [
+          "money.",
+          "money"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "Letter",
+          "Letters"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "as her Majesty bounty money. - Letter",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        23,
+        8
+      ],
+      "user_ids": [
+        18403.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.075,
+        837.48
+      ],
+      "clusters_y": [
+        1345.565,
+        1311.73
+      ],
+      "clusters_text": [
+        [
+          "this",
+          "this"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Deale",
+          "Deale"
+        ],
+        [
+          "say",
+          "say"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "",
+          "five"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "this day from Deale say that five",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        9
+      ],
+      "user_ids": [
+        18403.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.73,
+        835.5450000000001
+      ],
+      "clusters_y": [
+        1449.08,
+        1421.22
+      ],
+      "clusters_text": [
+        [
+          "",
+          "VIctuallers"
+        ],
+        [
+          "convoyed",
+          "Convoyed"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "two",
+          "two"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "VIctuallers convoyed by two of the",
+      "line_slope": -3.106402460057958,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        25,
+        11
+      ],
+      "user_ids": [
+        18403.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.41,
+        771.4
+      ],
+      "clusters_y": [
+        1091.28,
+        1045.3
+      ],
+      "clusters_text": [
+        [
+          "there",
+          "in"
+        ],
+        [
+          "were",
+          "Saint"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "there were",
+      "line_slope": -5.3227788633475495,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        20
+      ],
+      "user_ids": [
+        18403.0,
+        18403.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 13,
+  "transcribed_lines": 15,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

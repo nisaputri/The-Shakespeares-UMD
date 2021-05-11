@@ -1,0 +1,809 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        250.26999999999998,
+        804.48
+      ],
+      "clusters_y": [
+        57.010000000000005,
+        65.58
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "March",
+          "March"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "4<sw-sup>th</sw-sup>",
+          "4<sw-sup>th"
+        ],
+        [
+          "1713",
+          "</sw-sup>1713"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "London March the 4<sw-sup>th</sw-sup> 1713",
+      "line_slope": 1.3829894390949065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        12
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        85.735,
+        929.48
+      ],
+      "clusters_y": [
+        405.95,
+        427.145
+      ],
+      "clusters_text": [
+        [
+          "pay",
+          "pay"
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "Letters",
+          "Letters"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Sweeden",
+          "Sweeden"
+        ],
+        [
+          "advise",
+          "Advise"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "sent",
+          "Sent"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7272727272727273,
+      "consensus_text": "pay - Letters from Sweeden advise <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl> King has sent",
+      "line_slope": 1.3829894390949065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        21
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        84.59,
+        932.475
+      ],
+      "clusters_y": [
+        509.55999999999995,
+        530.7
+      ],
+      "clusters_text": [
+        [
+          "her",
+          "her"
+        ],
+        [
+          "Regency",
+          "Regency"
+        ],
+        [
+          "&",
+          "and"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "States",
+          "States"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "K<sw-ex>ing</sw-ex><sw-sup>d</sw-sup><sw-ex>o</sw-ex><sw-sup>m</sw-sup>",
+          "K<sw-sup>dm</sw-sup>"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "dissected",
+          "dissolved"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "it",
+          "it"
+        ],
+        [
+          "is",
+          "is"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7857142857142858,
+      "consensus_text": "her Regency & <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl> States of <brev-y>th</brev-y><sl>e</sl> K<sw-ex>ing</sw-ex><sw-sup>d</sw-sup><sw-ex>o</sw-ex><sw-sup>m</sw-sup> be dissected w<sw-ex>hi</sw-ex><sl>ch</sl> it is",
+      "line_slope": 1.3829894390949065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        23
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        89.685,
+        933.45
+      ],
+      "clusters_y": [
+        565.225,
+        584.005
+      ],
+      "clusters_text": [
+        [
+          "thought",
+          "thought"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "not",
+          "not"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "complyed",
+          "Complyed"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Sweeds",
+          "Sweeds"
+        ],
+        [
+          "are",
+          "are"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "thought will not be complyed w<sw-ex>i</sw-ex><sl>th</sl> - The Sweeds are",
+      "line_slope": 1.3829894390949065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        17
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        94.125,
+        916.995
+      ],
+      "clusters_y": [
+        615.21,
+        633.75
+      ],
+      "clusters_text": [
+        [
+          "equipping",
+          "Equipping"
+        ],
+        [
+          "24",
+          "24"
+        ],
+        [
+          "Men",
+          "Men"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Warr",
+          "Warr"
+        ],
+        [
+          "<sw-del>Ready",
+          "<sw-del>Ready"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Sayle</sw-del>",
+          "Sayle</sw-del>"
+        ],
+        [
+          "<sw-ins>&",
+          "<sw-ins>and"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Danes",
+          "Danes"
+        ],
+        [
+          "by</sw-ins>",
+          "by</sw-ins>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "8<sw-sup>th</sw-sup>",
+          "8<sw-sup>th</sw-sup>"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8666666666666667,
+      "consensus_text": "equipping 24 Men of Warr <sw-del>Ready to Sayle</sw-del> <sw-ins>& <brev-y>th</brev-y><sl>e</sl> Danes by</sw-ins> <brev-y>th</brev-y><sl>e</sl> 8<sw-sup>th</sw-sup> of",
+      "line_slope": 1.3829894390949065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        24
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        94.095,
+        920.06
+      ],
+      "clusters_y": [
+        669.34,
+        692.03
+      ],
+      "clusters_text": [
+        [
+          "will",
+          "will"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "27",
+          "27"
+        ],
+        [
+          "Men",
+          "Men"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Warr",
+          "Warr"
+        ],
+        [
+          "Ready",
+          "Ready"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "sayle",
+          "Sayle"
+        ],
+        [
+          "towards",
+          "toward"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "will have 27 Men of Warr Ready to sayle towards",
+      "line_slope": 1.3829894390949065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        11
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        89.59,
+        930.3
+      ],
+      "clusters_y": [
+        724.03,
+        748.17
+      ],
+      "clusters_text": [
+        [
+          "?",
+          "<sw-unclear>Carelsroon"
+        ],
+        [
+          "-",
+          "-</sw-unclear>"
+        ],
+        [
+          "Hague",
+          "Hague"
+        ],
+        [
+          "March",
+          "March"
+        ],
+        [
+          "6<sw-sup>th</sw-sup>",
+          "6t<sw-sup>h</sw-sup>."
+        ],
+        [
+          "Letters",
+          "Letters"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "ffrance",
+          "ffrance"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "? - Hague March 6<sw-sup>th</sw-sup> Letters from ffrance",
+      "line_slope": 1.3829894390949065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        25
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        99.305,
+        909.5450000000001
+      ],
+      "clusters_y": [
+        780.635,
+        799.06
+      ],
+      "clusters_text": [
+        [
+          "say",
+          "say"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "ffrench",
+          "ffrench"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "put",
+          "put"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "fforce",
+          "fforce"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Royall",
+          "Royall"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "say <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl> ffrench King has put in fforce <brev-y>th</brev-y><sl>e</sl> Royall",
+      "line_slope": 1.3829894390949065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        18
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        94.155,
+        930.565
+      ],
+      "clusters_y": [
+        833.825,
+        855.755
+      ],
+      "clusters_text": [
+        [
+          "Tythe",
+          "Tythe"
+        ],
+        [
+          "Invented",
+          "Invented"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "Gen<sw-ex>era</sw-ex><sw-sup>ll</sw-sup>",
+          "Gen<sw-sup>ll"
+        ],
+        [
+          "Vanboue",
+          "</sw-sup>Vauban"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "engineers",
+          "Engineer"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "As",
+          "As"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Tythe Invented by Gen<sw-ex>era</sw-ex><sw-sup>ll</sw-sup> Vanboue <brev-y>th</brev-y><sl>e</sl> engineers - As",
+      "line_slope": 1.3829894390949065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        19
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        96.66,
+        926.6800000000001
+      ],
+      "clusters_y": [
+        942.65,
+        970.0250000000001
+      ],
+      "clusters_text": [
+        [
+          "between",
+          "between"
+        ],
+        [
+          "Spain",
+          "Spain"
+        ],
+        [
+          "&",
+          "and"
+        ],
+        [
+          "Portugall",
+          "Portugall"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Ossuna",
+          "Ossuna"
+        ],
+        [
+          "&",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "between Spain & Portugall <brev-y>th</brev-y><sl>e</sl> Duke of Ossuna & <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": 1.3829894390949065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        90.35499999999999,
+        925.915
+      ],
+      "clusters_y": [
+        1004.785,
+        1024.0049999999999
+      ],
+      "clusters_text": [
+        [
+          "Marq<sw-ex>ui</sw-ex><sw-sup>s</sw-sup>",
+          "Marq<sw-sup>s</sw-sup>"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Monteleon",
+          "Monteleon"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "set",
+          "set"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "England",
+          "England"
+        ],
+        [
+          "-",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "Marq<sw-ex>ui</sw-ex><sw-sup>s</sw-sup> of Monteleon will set out for England -",
+      "line_slope": 1.3829894390949065,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        2
+      ],
+      "user_ids": [
+        1347003.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 11,
+  "transcribed_lines": 11,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

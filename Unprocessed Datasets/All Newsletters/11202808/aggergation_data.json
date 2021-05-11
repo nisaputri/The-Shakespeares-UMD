@@ -1,0 +1,126 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        406.515,
+        884.335
+      ],
+      "clusters_y": [
+        94.13,
+        108.28999999999999
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "7<sw-sup>ber</sw-sup>",
+          "<sw-ex>Septem</sw-ex>ber"
+        ],
+        [
+          "13<sw-sup>th</sw-sup>",
+          "13<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1692",
+          "1692"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "London 7<sw-sup>ber</sw-sup> 13<sw-sup>th</sw-sup> 1692",
+      "line_slope": 1.699393925861321,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.505,
+        946.35
+      ],
+      "clusters_y": [
+        642.79,
+        628.88
+      ],
+      "clusters_text": [
+        [
+          "arrived",
+          "arrived"
+        ],
+        [
+          "here",
+          "here"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Holland",
+          "Holland"
+        ],
+        [
+          "Laden",
+          "Laden"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "stones",
+          "Stones"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "arrived here from Holland Laden w<sw-ex>i</sw-ex><sl>th</sl> stones",
+      "line_slope": -1.3248832755880608,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        15
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

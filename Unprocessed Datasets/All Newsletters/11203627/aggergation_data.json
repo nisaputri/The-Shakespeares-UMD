@@ -1,0 +1,393 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        265.59000000000003,
+        937.13
+      ],
+      "clusters_y": [
+        1293.0149999999999,
+        1310.09
+      ],
+      "clusters_text": [
+        [
+          "why",
+          "who"
+        ],
+        [
+          "thought",
+          "thought"
+        ],
+        [
+          "",
+          "to"
+        ],
+        [
+          "",
+          "have"
+        ],
+        [
+          "",
+          "taken"
+        ],
+        [
+          "",
+          "him"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "why thought to have taken him",
+      "line_slope": 1.9291319031095817,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        24
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        102.775,
+        282.25
+      ],
+      "clusters_y": [
+        83.935,
+        82.2
+      ],
+      "clusters_text": [
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>/.",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl>/.",
+      "line_slope": -1.0111375804225509,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        331.37,
+        743.775
+      ],
+      "clusters_y": [
+        85.72,
+        86.82499999999999
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "Lonodon"
+        ],
+        [
+          "July",
+          "July"
+        ],
+        [
+          "3<sw-sup>d</sw-sup>:",
+          "3<sw-sup>d</sw-sup>"
+        ],
+        [
+          "<sw-ex>16</sw-ex>94",
+          "94"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "London July 3<sw-sup>d</sw-sup>: <sw-ex>16</sw-ex>94",
+      "line_slope": -1.0111375804225509,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.9,
+        933.785
+      ],
+      "clusters_y": [
+        467.54,
+        461.26
+      ],
+      "clusters_text": [
+        [
+          "after",
+          "last"
+        ],
+        [
+          "",
+          "20"
+        ],
+        [
+          "",
+          "Sayle"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "",
+          "Shipps"
+        ],
+        [
+          "",
+          "passed"
+        ],
+        [
+          "by",
+          "by"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1428571428571428,
+      "consensus_text": "after 20 Sayle of Shipps passed by",
+      "line_slope": -1.0111375804225509,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        8
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.45,
+        931.85
+      ],
+      "clusters_y": [
+        521.57,
+        512.75
+      ],
+      "clusters_text": [
+        [
+          "equpment",
+          "this"
+        ],
+        [
+          "",
+          "Port"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "East"
+        ],
+        [
+          "",
+          "ward"
+        ],
+        [
+          "",
+          "&"
+        ],
+        [
+          "",
+          "by"
+        ],
+        [
+          "",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1111111111111112,
+      "consensus_text": "equpment Port to <brev-y>th</brev-y><sl>e</sl> East ward & by the",
+      "line_slope": -1.0111375804225509,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        9
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        268.4,
+        938.22
+      ],
+      "clusters_y": [
+        630.1,
+        615.93
+      ],
+      "clusters_text": [
+        [
+          "",
+          "=stand"
+        ],
+        [
+          "michael",
+          "they"
+        ],
+        [
+          "",
+          "were"
+        ],
+        [
+          "",
+          "16"
+        ],
+        [
+          "",
+          "M<sw-ex>e</sw-ex><sw-sup>r</sw-sup>chant"
+        ],
+        [
+          "",
+          "Shipps"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "=stand michael were 16 M<sw-ex>e</sw-ex><sw-sup>r</sw-sup>chant Shipps",
+      "line_slope": -1.0111375804225509,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        27,
+        12
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.11,
+        941.44
+      ],
+      "clusters_y": [
+        1195.84,
+        1197.77
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Privatt<sw-ex>ee</sw-ex><sw-sup>r</sw-sup>"
+        ],
+        [
+          "going",
+          "goeing"
+        ],
+        [
+          "",
+          "out"
+        ],
+        [
+          "",
+          "to"
+        ],
+        [
+          "",
+          "Cruize"
+        ],
+        [
+          "",
+          "mett"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Privatt<sw-ex>ee</sw-ex><sw-sup>r</sw-sup> going out to Cruize mett",
+      "line_slope": -1.0111375804225509,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        22
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 7,
+  "transcribed_lines": 7,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

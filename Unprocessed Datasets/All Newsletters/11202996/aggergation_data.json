@@ -1,0 +1,110 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        220.39,
+        762.98
+      ],
+      "clusters_y": [
+        76.98,
+        58.11
+      ],
+      "clusters_text": [
+        [
+          "Ships",
+          "came"
+        ],
+        [
+          "made",
+          "up"
+        ],
+        [
+          "",
+          "with"
+        ],
+        [
+          "",
+          "15"
+        ],
+        [
+          "",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Ships made with 15 of",
+      "line_slope": -2.2025420164972895,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        0
+      ],
+      "user_ids": [
+        1851566.0,
+        166707.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        199.82,
+        750.22
+      ],
+      "clusters_y": [
+        270.12,
+        245.63
+      ],
+      "clusters_text": [
+        [
+          "with",
+          "and"
+        ],
+        [
+          "French",
+          "fired"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "with French",
+      "line_slope": -2.2025420164972895,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        19
+      ],
+      "user_ids": [
+        1851566.0,
+        1851566.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

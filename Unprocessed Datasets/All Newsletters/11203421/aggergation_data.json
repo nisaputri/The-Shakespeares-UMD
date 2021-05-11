@@ -1,0 +1,204 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        450.015,
+        924.915
+      ],
+      "clusters_y": [
+        77.03,
+        84.035
+      ],
+      "clusters_text": [
+        [
+          "Edinburgh",
+          "Edinburgh"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "10",
+          "10"
+        ],
+        [
+          "yesterday",
+          "yesterday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Edinburgh the 10 yesterday",
+      "line_slope": 0.8547835715779232,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.865,
+        927.48
+      ],
+      "clusters_y": [
+        622.3900000000001,
+        638.15
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Flanders",
+          "Flanders"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "yesterday",
+          "yesterday"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "for Flanders - yesterday the",
+      "line_slope": 0.8547835715779232,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.34,
+        589.145
+      ],
+      "clusters_y": [
+        765.29,
+        768.27
+      ],
+      "clusters_text": [
+        [
+          "follow",
+          "follow"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Monday",
+          "Monday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "follow on Monday",
+      "line_slope": 0.8547835715779232,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        474.745,
+        924.575
+      ],
+      "clusters_y": [
+        1348.5100000000002,
+        1359.5349999999999
+      ],
+      "clusters_text": [
+        [
+          "yesterday",
+          "Yesterday"
+        ],
+        [
+          "Some",
+          "Some"
+        ],
+        [
+          "messengers",
+          "messengers"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "yesterday Some messengers",
+      "line_slope": 0.8547835715779232,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        5
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

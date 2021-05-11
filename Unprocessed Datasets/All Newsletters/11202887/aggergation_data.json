@@ -1,0 +1,560 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        945.265,
+        946.2850000000001
+      ],
+      "clusters_y": [
+        958.08,
+        1135.255
+      ],
+      "clusters_text": [
+        [
+          "21",
+          "21"
+        ],
+        [
+          "Jan.",
+          "Jan"
+        ],
+        [
+          "92/3",
+          "92/3"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "21 Jan. 92/3",
+      "line_slope": 89.50873457216746,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        5
+      ],
+      "user_ids": [
+        1347003.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        402.08000000000004,
+        400.11
+      ],
+      "clusters_y": [
+        658.095,
+        1219.685
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "hon<sw-ex>ora</sw-ex>ble",
+          "ho<sw-ex>norable</sw-ex>"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Rich<sw-ex>ard</sw-ex>",
+          "Rich<sw-ex>ard</sw-ex>"
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "The hon<sw-ex>ora</sw-ex>ble S<sw-ex>i</sw-ex><sl>r</sl> Rich<sw-ex>ard</sw-ex> Newdigate",
+      "line_slope": 89.50873457216746,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        8
+      ],
+      "user_ids": [
+        352990.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        309.775,
+        310.845
+      ],
+      "clusters_y": [
+        984.1700000000001,
+        1036.0500000000002
+      ],
+      "clusters_text": [
+        [
+          "2",
+          "2"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "2",
+      "line_slope": 89.50873457216746,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        11
+      ],
+      "user_ids": [
+        352990.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        156.675,
+        888.9200000000001
+      ],
+      "clusters_y": [
+        69.66,
+        62.955
+      ],
+      "clusters_text": [
+        [
+          "&",
+          "&"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Ma<sw-ex>jes</sw-ex>ty",
+          "Ma<sw-ex>jes</sw-ex><sl>ty"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "moved",
+          "moved"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "displace",
+          "displace"
+        ],
+        [
+          "M<sw-sup>r</sw-sup>",
+          "Mr"
+        ],
+        [
+          "Bolum",
+          "Bohun"
+        ],
+        [
+          "",
+          "-</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6363636363636365,
+      "consensus_text": "& <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> his Ma<sw-ex>jes</sw-ex>ty be moved to displace M<sw-sup>r</sw-sup> Bolum -</sl>",
+      "line_slope": -0.680296779482431,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        175.10666666666665,
+        964.4333333333334
+      ],
+      "clusters_y": [
+        112.45333333333333,
+        105.01333333333334
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "house",
+          "house",
+          "house"
+        ],
+        [
+          "then",
+          "then",
+          "then"
+        ],
+        [
+          "debated",
+          "debated",
+          "debated"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "B<sw-ex>isho</sw-ex>pp",
+          "B<sw-ex>isho</sw-ex>pp",
+          "B<sw-ex>isho</sw-ex>p"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Sarums",
+          "Sarums",
+          "Sarums"
+        ],
+        [
+          "Pastorall",
+          "Pastorall",
+          "Pastorall"
+        ],
+        [
+          "l<sw-ex>ett</sw-ex>re",
+          "?",
+          "L<sw-ex>etter</sw-ex>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.7,
+      "consensus_text": "the house then debated <brev-y>th</brev-y><sl>e</sl> B<sw-ex>isho</sw-ex>pp of Sarums Pastorall l<sw-ex>ett</sw-ex>re",
+      "line_slope": -0.680296779482431,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        1
+      ],
+      "user_ids": [
+        352990.0,
+        1347003.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        172.16,
+        963.0799999999999
+      ],
+      "clusters_y": [
+        163.76666666666665,
+        146.25333333333336
+      ],
+      "clusters_text": [
+        [
+          "&",
+          "&",
+          "&"
+        ],
+        [
+          "some",
+          "some",
+          "some"
+        ],
+        [
+          "wold",
+          "wo<sw-ex>u</sw-ex>ld",
+          "wold"
+        ],
+        [
+          "have",
+          "have",
+          "have"
+        ],
+        [
+          "had",
+          "had",
+          "had"
+        ],
+        [
+          "it",
+          "it",
+          "it"
+        ],
+        [
+          "burnt",
+          "burnt",
+          "burnt"
+        ],
+        [
+          "also",
+          "also",
+          "also"
+        ],
+        [
+          "but",
+          "but",
+          "but"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "debate",
+          "debate",
+          "debate"
+        ],
+        [
+          "was",
+          "was",
+          "was"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.9166666666666665,
+      "consensus_text": "& some wold have had it burnt also but <brev-y>th</brev-y><sl>e</sl> debate was",
+      "line_slope": -0.680296779482431,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2,
+        2
+      ],
+      "user_ids": [
+        352990.0,
+        1347003.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        181.20499999999998,
+        933.935
+      ],
+      "clusters_y": [
+        197.97500000000002,
+        195.805
+      ],
+      "clusters_text": [
+        [
+          "adjourned",
+          "adjourned"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "L<sw-ex>or</sw-ex>ds",
+          "L<sw-ex>or</sw-ex>ds"
+        ],
+        [
+          "sent",
+          "sent"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "house",
+          "house"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "bill",
+          "bill"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "a",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "adjourned - <brev-y>th</brev-y><sl>e</sl> L<sw-ex>or</sw-ex>ds sent to <brev-y>th</brev-y><sl>e</sl> house <brev-y>th</brev-y><sl>e</sl> bill for a",
+      "line_slope": -0.680296779482431,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        3
+      ],
+      "user_ids": [
+        352990.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        185.9433333333333,
+        977.67
+      ],
+      "clusters_y": [
+        243.64666666666668,
+        232.13666666666666
+      ],
+      "clusters_text": [
+        [
+          "trienniall",
+          "trienniall",
+          "judicial"
+        ],
+        [
+          "Parliam<sw-ex>en</sw-ex><sl>t</sl>",
+          "Parliam<sw-ex>en</sw-ex>t",
+          "Parlia<sw-ex>men</sw-ex>t"
+        ],
+        [
+          "&",
+          "&",
+          "&"
+        ],
+        [
+          "did",
+          "did",
+          "did"
+        ],
+        [
+          "nothing",
+          "nothing",
+          "nothing"
+        ],
+        [
+          "but",
+          "but",
+          "but"
+        ],
+        [
+          "heare",
+          "heare",
+          "hear"
+        ],
+        [
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "privat",
+          "private",
+          "private"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.4444444444444446,
+      "consensus_text": "trienniall Parliam<sw-ex>en</sw-ex><sl>t</sl> & did nothing but heare a private",
+      "line_slope": -0.680296779482431,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4,
+        3
+      ],
+      "user_ids": [
+        352990.0,
+        1347003.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 8,
+  "transcribed_lines": 8,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

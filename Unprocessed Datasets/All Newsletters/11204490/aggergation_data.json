@@ -1,0 +1,204 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        454.64,
+        959.3299999999999
+      ],
+      "clusters_y": [
+        956.645,
+        934.73
+      ],
+      "clusters_text": [
+        [
+          "I",
+          "I"
+        ],
+        [
+          "am",
+          "am"
+        ],
+        [
+          "also",
+          "alsoe"
+        ],
+        [
+          "told",
+          "told"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "A",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "I am also told that A",
+      "line_slope": -1.9824161074996782,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        0
+      ],
+      "user_ids": [
+        null,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.87666666666667,
+        947.3566666666667
+      ],
+      "clusters_y": [
+        1075.7666666666667,
+        1049.9366666666665
+      ],
+      "clusters_text": [
+        [
+          "out",
+          "out",
+          "out"
+        ],
+        [
+          "for",
+          "for",
+          "for"
+        ],
+        [
+          "all",
+          "all",
+          "all"
+        ],
+        [
+          "papists",
+          "papists",
+          "papists"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "Depart",
+          "Departe",
+          "Departe"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Citty",
+          "Citty",
+          "Citty"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.875,
+      "consensus_text": "out for all papists to Departe the Citty",
+      "line_slope": -1.9824161074996782,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        7,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        null,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.735,
+        935.23
+      ],
+      "clusters_y": [
+        1130.01,
+        1097.18
+      ],
+      "clusters_text": [
+        [
+          "10",
+          "10"
+        ],
+        [
+          "Miles",
+          "miles"
+        ],
+        [
+          "betweene",
+          "betweene"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Xmas.",
+          "Xmas."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "10 Miles betweene this & Xmas.",
+      "line_slope": -1.9824161074996782,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        3
+      ],
+      "user_ids": [
+        null,
+        303191.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,714 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        237.06,
+        680.6700000000001
+      ],
+      "clusters_y": [
+        175.385,
+        167.16000000000003
+      ],
+      "clusters_text": [
+        [
+          "making",
+          "making"
+        ],
+        [
+          "together",
+          "together"
+        ],
+        [
+          "80100",
+          "80000"
+        ],
+        [
+          "men.",
+          "men"
+        ],
+        [
+          "",
+          ".-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "making together 80100 men. .-",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        8
+      ],
+      "user_ids": [
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.28,
+        901.175
+      ],
+      "clusters_y": [
+        293.64,
+        282.06
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "England",
+          "England"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Holland",
+          "Holland"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "treating",
+          "treating"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "that",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "of England and Holland are treating at that",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        7
+      ],
+      "user_ids": [
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.15,
+        888.5699999999999
+      ],
+      "clusters_y": [
+        346.73,
+        334.03999999999996
+      ],
+      "clusters_text": [
+        [
+          "Court",
+          "Court"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "13",
+          "19"
+        ],
+        [
+          "Squadrons",
+          "Squadrons"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "5",
+          "5"
+        ],
+        [
+          "Batt<sw-ex>alion</sw-ex>s",
+          "Batt<sw-sup>s</sw-sup>"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "Court for 13 Squadrons and 5 Batt<sw-ex>alion</sw-ex>s of the",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        5
+      ],
+      "user_ids": [
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.62,
+        908.515
+      ],
+      "clusters_y": [
+        398.695,
+        391.59
+      ],
+      "clusters_text": [
+        [
+          "King's",
+          "King's"
+        ],
+        [
+          "old",
+          "old"
+        ],
+        [
+          "Troops",
+          "Troops"
+        ],
+        [
+          "-",
+          ".-"
+        ],
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Treaty",
+          "Treaty"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "King",
+          "King"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "King's old Troops - The Treaty with King",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        4
+      ],
+      "user_ids": [
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        237.66500000000002,
+        927.0450000000001
+      ],
+      "clusters_y": [
+        563.8050000000001,
+        538.0450000000001
+      ],
+      "clusters_text": [
+        [
+          "<sw-del>is",
+          "<sw-del>is"
+        ],
+        [
+          "going",
+          "going</sw-del>"
+        ],
+        [
+          "</sw-del>Stadtholder",
+          "Stadtholder"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "ffrizland",
+          "ffrizland"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "going",
+          "going"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "<sw-del>is going </sw-del>Stadtholder of ffrizland is going",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        2
+      ],
+      "user_ids": [
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        288.675,
+        904.115
+      ],
+      "clusters_y": [
+        720.47,
+        691.5699999999999
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "ffrench",
+          "ffrench"
+        ],
+        [
+          "Court",
+          "Court"
+        ],
+        [
+          "has",
+          "had"
+        ],
+        [
+          "remitted",
+          "remitted"
+        ],
+        [
+          "great",
+          "great"
+        ],
+        [
+          "sums",
+          "Sums"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "The ffrench Court has remitted great sums",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        15
+      ],
+      "user_ids": [
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.735,
+        910.16
+      ],
+      "clusters_y": [
+        770.72,
+        749.39
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "",
+          "",
+          "of"
+        ],
+        [
+          "money",
+          "",
+          "",
+          "money"
+        ],
+        [
+          "",
+          "",
+          "",
+          "to"
+        ],
+        [
+          "",
+          "",
+          "",
+          "the"
+        ],
+        [
+          "",
+          "",
+          "Ma<sw-ex>rsh</sw-ex>all",
+          "Ma<sw-sup>ll</sw-sup>"
+        ],
+        [
+          "",
+          "de",
+          "",
+          "de"
+        ],
+        [
+          "",
+          "Boufflers",
+          "",
+          "Boufflard"
+        ],
+        [
+          "to",
+          "",
+          "",
+          "to"
+        ],
+        [
+          "",
+          "",
+          "",
+          "pay"
+        ],
+        [
+          "the",
+          "",
+          "",
+          "the"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 1.5,
+      "consensus_text": "of money to the Ma<sw-ex>rsh</sw-ex>all de Boufflers to pay the",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        41,
+        42,
+        16
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0,
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.135,
+        904.335
+      ],
+      "clusters_y": [
+        825.8499999999999,
+        806.755
+      ],
+      "clusters_text": [
+        [
+          "Troops",
+          "Troops"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Flanders",
+          "Flanders"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "who"
+        ],
+        [
+          "Comitt",
+          "Comitt"
+        ],
+        [
+          "great",
+          "great"
+        ],
+        [
+          "disorders",
+          "Disorders"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "Troops in Flanders w<sw-ex>hi</sw-ex><sl>ch</sl> Comitt great disorders",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        17
+      ],
+      "user_ids": [
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        237.095,
+        575.355
+      ],
+      "clusters_y": [
+        868.03,
+        866.79
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for"
+        ],
+        [
+          "want",
+          "want"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "the"
+        ],
+        [
+          "same.",
+          "same.-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "for want of <brev-y>th</brev-y><sl>e</sl> same.",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        9
+      ],
+      "user_ids": [
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.45,
+        892.5
+      ],
+      "clusters_y": [
+        1207.67,
+        1200.65
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "and"
+        ],
+        [
+          "County",
+          "some"
+        ],
+        [
+          "",
+          "mean"
+        ],
+        [
+          "of",
+          "People"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "the County mean of",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        22
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        426.22,
+        880.38
+      ],
+      "clusters_y": [
+        1256.78,
+        1247.22
+      ],
+      "clusters_text": [
+        [
+          "M<sw-sup>r",
+          "a"
+        ],
+        [
+          "</sw-sup>John",
+          "Presbiterian"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "M<sw-sup>r </sw-sup>John",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        25
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.255,
+        445.6
+      ],
+      "clusters_y": [
+        1477.585,
+        1475.57
+      ],
+      "clusters_text": [
+        [
+          "Brittaine.",
+          "Brittain."
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Brittaine. -",
+      "line_slope": -0.9425539141196275,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        30,
+        10
+      ],
+      "user_ids": [
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 12,
+  "transcribed_lines": 12,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

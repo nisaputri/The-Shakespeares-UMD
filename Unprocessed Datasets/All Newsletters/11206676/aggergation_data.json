@@ -1,0 +1,311 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        250.72,
+        893.05
+      ],
+      "clusters_y": [
+        188.345,
+        165.925
+      ],
+      "clusters_text": [
+        [
+          "By",
+          "By"
+        ],
+        [
+          "letters",
+          "letters"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Holland",
+          "holland"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "way",
+          "way"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "By letters from Holland by the way of",
+      "line_slope": -2.389309126825683,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.825,
+        847.085
+      ],
+      "clusters_y": [
+        673.125,
+        640.24
+      ],
+      "clusters_text": [
+        [
+          "Charles",
+          "Charles"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "third",
+          "third"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Severall",
+          "severall"
+        ],
+        [
+          "eminent",
+          "eminent"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Charles the third - Severall eminent",
+      "line_slope": -2.389309126825683,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        9
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.235,
+        856.69
+      ],
+      "clusters_y": [
+        965.51,
+        939.4649999999999
+      ],
+      "clusters_text": [
+        [
+          "Surrendered",
+          "surrendered"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Allies",
+          "Allies"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "14th",
+          "14<sw-sup>th</sw-sup>"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Surrendered to the Allies on the 14th of",
+      "line_slope": -2.389309126825683,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        13
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        237.91000000000003,
+        908.06
+      ],
+      "clusters_y": [
+        1029.795,
+        1011.01
+      ],
+      "clusters_text": [
+        [
+          "February",
+          "February"
+        ],
+        [
+          "(new",
+          "(new"
+        ],
+        [
+          "Stile)",
+          "Stile)"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "We",
+          "We"
+        ],
+        [
+          "hear",
+          "hear"
+        ],
+        [
+          "that",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "February (new Stile) - We hear that",
+      "line_slope": -2.389309126825683,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        14
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        237.86,
+        824.05
+      ],
+      "clusters_y": [
+        1198.9250000000002,
+        1181.05
+      ],
+      "clusters_text": [
+        [
+          "Envoy",
+          "Envoy"
+        ],
+        [
+          "having",
+          "haveing"
+        ],
+        [
+          "lately",
+          "lately"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "Severall",
+          "severall"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "Envoy having lately had Severall",
+      "line_slope": -2.389309126825683,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        16
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

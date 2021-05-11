@@ -1,0 +1,177 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        247.075,
+        940.55
+      ],
+      "clusters_y": [
+        569.6600000000001,
+        582.575
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from"
+        ],
+        [
+          "thence",
+          "thence"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Turin",
+          "Turin"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "from thence to Turin to be",
+      "line_slope": 0.45006661165677314,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        8
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.44,
+        965.21
+      ],
+      "clusters_y": [
+        670.425,
+        665.14
+      ],
+      "clusters_text": [
+        [
+          "Interred",
+          "Interred"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Ancestors",
+          "Ancestors"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Interred with his Ancestors -",
+      "line_slope": 0.45006661165677314,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.7,
+        960.2
+      ],
+      "clusters_y": [
+        752.0450000000001,
+        750.52
+      ],
+      "clusters_text": [
+        [
+          "Wee",
+          "Wee"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "informed",
+          "Informed"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "his",
+          "his"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Wee are informed that his",
+      "line_slope": 0.45006661165677314,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        1846924.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

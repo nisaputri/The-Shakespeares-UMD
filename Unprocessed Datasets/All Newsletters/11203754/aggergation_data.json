@@ -1,0 +1,134 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        221.015,
+        926.525
+      ],
+      "clusters_y": [
+        68.05,
+        62.18000000000001
+      ],
+      "clusters_text": [
+        [
+          "publishing",
+          "publishing"
+        ],
+        [
+          "severall",
+          "Severall"
+        ],
+        [
+          "seditious",
+          "Tedihous"
+        ],
+        [
+          "&",
+          "+"
+        ],
+        [
+          "scandalous",
+          "Scandalous"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "publishing severall seditious & scandalous",
+      "line_slope": 0.9905908506668978,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.925,
+        926.75
+      ],
+      "clusters_y": [
+        195.20999999999998,
+        162.45499999999998
+      ],
+      "clusters_text": [
+        [
+          "Government",
+          "Government"
+        ],
+        [
+          "And",
+          "and"
+        ],
+        [
+          "I",
+          ""
+        ],
+        [
+          "am",
+          "James"
+        ],
+        [
+          "told",
+          ""
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "???"
+        ],
+        [
+          "<sw-unclear>Industry</sw-unclear>",
+          "????"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "Government And I am told that the <sw-unclear>Industry</sw-unclear>",
+      "line_slope": -2.7522634907721395,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2
+      ],
+      "user_ids": [
+        null,
+        1501415.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

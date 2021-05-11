@@ -1,0 +1,75 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        61.06,
+        933.675
+      ],
+      "clusters_y": [
+        103.2,
+        116.215
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Sir"
+        ],
+        [
+          "London",
+          "London"
+        ],
+        [
+          "September",
+          "Sept"
+        ],
+        [
+          "17",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "<sw-ins>16</sw-ins>",
+          "17<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1695",
+          "1695"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "Sir London September 17 <sw-ins>16</sw-ins> 1695",
+      "line_slope": 0.1829910790339019,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1858384.0,
+        1682843.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

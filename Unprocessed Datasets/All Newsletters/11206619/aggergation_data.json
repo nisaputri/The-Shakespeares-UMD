@@ -1,0 +1,210 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        241.86666666666665,
+        232.89333333333332
+      ],
+      "clusters_y": [
+        1171.9666666666667,
+        510.3999999999999
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "S:<sw-sup>r</sw-sup>",
+          "S<sw-ex>i</sw-ex><sl>r</sl>:"
+        ],
+        [
+          "Richard",
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Nowdigate",
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "Bar",
+          "Bar<sw-sup>t</sw-sup>",
+          "Bar<sw-ex>one</sw-ex><sw-sup>t</sw-sup>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate Bar",
+      "line_slope": -90.5798709958612,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        null,
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        327.35,
+        325.21
+      ],
+      "clusters_y": [
+        1174.95,
+        677.3966666666666
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury",
+          "Arbury"
+        ],
+        [
+          "near",
+          "near",
+          "near"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "At Arbury near",
+      "line_slope": -90.5798709958612,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2,
+        1
+      ],
+      "user_ids": [
+        null,
+        null,
+        null
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        402.29999999999995,
+        400.8875
+      ],
+      "clusters_y": [
+        882.46,
+        663.785
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry",
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 4.0,
+      "consensus_text": "Coventry",
+      "line_slope": -90.5798709958612,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3,
+        2,
+        2
+      ],
+      "user_ids": [
+        null,
+        null,
+        null,
+        1347003.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        534.085,
+        528.355
+      ],
+      "clusters_y": [
+        1124.4299999999998,
+        915.61
+      ],
+      "clusters_text": [
+        [
+          "Will:",
+          ""
+        ],
+        [
+          "Stephens.",
+          "Will:Stephens."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Will: Stephens.",
+      "line_slope": -90.5798709958612,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        2
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

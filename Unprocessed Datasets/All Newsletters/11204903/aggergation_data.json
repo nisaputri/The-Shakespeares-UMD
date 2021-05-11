@@ -1,0 +1,311 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        200.32,
+        233.775
+      ],
+      "clusters_y": [
+        52.83,
+        1496.71
+      ],
+      "clusters_text": [
+        [
+          "It",
+          "It"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "discourse",
+          "discoursed"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "exchange",
+          "exchange"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "shipp",
+          "shipp"
+        ],
+        [
+          "Hannah",
+          "Hannah"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9166666666666667,
+      "consensus_text": "It was discourse this day upon the exchange that the shipp Hannah",
+      "line_slope": 88.65340720766137,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        27,
+        11
+      ],
+      "user_ids": [
+        3697.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        435.825,
+        916.5699999999999
+      ],
+      "clusters_y": [
+        600.265,
+        595.05
+      ],
+      "clusters_text": [
+        [
+          "Last",
+          "Last"
+        ],
+        [
+          "Thursday",
+          "Thursday"
+        ],
+        [
+          "one",
+          "one"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Last Thursday one",
+      "line_slope": -0.5707839353796812,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.015,
+        934.815
+      ],
+      "clusters_y": [
+        804.415,
+        804.2950000000001
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "wealthy",
+          "wealthy"
+        ],
+        [
+          "merchant",
+          "merchant"
+        ],
+        [
+          "renowned",
+          "renowned"
+        ],
+        [
+          "almost",
+          "almost"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "and wealthy merchant renowned almost",
+      "line_slope": -0.5707839353796812,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        10
+      ],
+      "user_ids": [
+        3697.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        236.49,
+        918.47
+      ],
+      "clusters_y": [
+        911.45,
+        912.455
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Asia",
+          "Asia"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "honesty",
+          "monesty"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Integrity",
+          "Integrity"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "of Asia for his honesty & Integrity",
+      "line_slope": -0.5707839353796812,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.875,
+        927.86
+      ],
+      "clusters_y": [
+        963.415,
+        969.8299999999999
+      ],
+      "clusters_text": [
+        [
+          "he",
+          "he"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "lived",
+          "lived"
+        ],
+        [
+          "above",
+          "above"
+        ],
+        [
+          "30",
+          "30"
+        ],
+        [
+          "yeares",
+          "yeares"
+        ],
+        [
+          "in",
+          "in"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "he had lived above 30 yeares in",
+      "line_slope": -0.5707839353796812,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        4
+      ],
+      "user_ids": [
+        3697.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

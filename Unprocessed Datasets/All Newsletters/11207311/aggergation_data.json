@@ -1,0 +1,142 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        55.55,
+        966.865
+      ],
+      "clusters_y": [
+        60.4,
+        92.41499999999999
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Wharton",
+          "Wharton"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "declared",
+          "declared"
+        ],
+        [
+          "",
+          "to"
+        ],
+        [
+          "<sw-unclear>???</sw-unclear>",
+          "their"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "and Wharton are to be declared to <sw-unclear>???</sw-unclear>",
+      "line_slope": 1.6069525697085911,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        131.76666666666665,
+        790.1066666666666
+      ],
+      "clusters_y": [
+        163.21666666666667,
+        157.95
+      ],
+      "clusters_text": [
+        [
+          "No",
+          "No",
+          "No"
+        ],
+        [
+          "Express",
+          "Express",
+          "Express"
+        ],
+        [
+          "nor",
+          "nor",
+          "nor"
+        ],
+        [
+          "Post",
+          "post",
+          "post"
+        ],
+        [
+          "come.",
+          "come.",
+          "come."
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "No Express nor post come.",
+      "line_slope": -0.4618565832784523,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        0,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,1328 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        229.2,
+        213.765
+      ],
+      "clusters_y": [
+        28.630000000000003,
+        1496.455
+      ],
+      "clusters_text": [
+        [
+          "Letter",
+          "Letter"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Grace",
+          "Grace"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "that",
+          "the"
+        ],
+        [
+          "Citty",
+          "Citty"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "Ready",
+          "Ready"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Submitt,",
+          "submitt,"
+        ],
+        [
+          "wee",
+          "wee"
+        ],
+        [
+          "shall",
+          "shall"
+        ],
+        [
+          "take",
+          "take"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "Letter to his Grace that that Citty is Ready to Submitt, wee shall take",
+      "line_slope": 90.52575008802587,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        27,
+        27
+      ],
+      "user_ids": [
+        1464496.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        119.755,
+        106.46000000000001
+      ],
+      "clusters_y": [
+        28.97,
+        1503.475
+      ],
+      "clusters_text": [
+        [
+          "submision",
+          "Submission"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "",
+          "Bruges"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "Bruges-Deserters",
+          "Deserters"
+        ],
+        [
+          "come",
+          "come"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "great",
+          "great"
+        ],
+        [
+          "Numbers",
+          "numbers"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "say",
+          "say"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "french",
+          "ffrench"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5384615384615385,
+      "consensus_text": "submision of Bruges - Bruges-Deserters come in great Numbers who say the french",
+      "line_slope": 90.52575008802587,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        29,
+        29
+      ],
+      "user_ids": [
+        1464496.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.39000000000004,
+        883.1166666666667
+      ],
+      "clusters_y": [
+        55.32333333333333,
+        58.54333333333333
+      ],
+      "clusters_text": [
+        [
+          "went",
+          "went",
+          "",
+          "went"
+        ],
+        [
+          "to",
+          "to",
+          "",
+          "to"
+        ],
+        [
+          "Brifnells",
+          "",
+          "",
+          "Brussells"
+        ],
+        [
+          "and",
+          "",
+          "and",
+          "and"
+        ],
+        [
+          "was",
+          "",
+          "was",
+          "was"
+        ],
+        [
+          "Received.",
+          "",
+          "Received",
+          "Received.<sw-unclear>???</sw-unclear>"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.3333333333333335,
+      "consensus_text": "went to Brifnells and was Received.",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "user_ids": [
+        1464496.0,
+        null,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.39666666666668,
+        906.235
+      ],
+      "clusters_y": [
+        105.52999999999999,
+        121.55000000000001
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "bator",
+          "Gates",
+          "Gates"
+        ],
+        [
+          "by",
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Magistrator",
+          "Magistrates",
+          "Magistrates"
+        ],
+        [
+          "who",
+          "who",
+          "who"
+        ],
+        [
+          "<sw-unclear>profi</sw-unclear>",
+          "",
+          "prese<sw-unclear>???</sw-unclear>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.4285714285714284,
+      "consensus_text": "the Gates by the Magistrates who <sw-unclear>profi</sw-unclear>",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2,
+        1
+      ],
+      "user_ids": [
+        1464496.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.62,
+        948.125
+      ],
+      "clusters_y": [
+        207.1,
+        230.895
+      ],
+      "clusters_text": [
+        [
+          "Grawe",
+          "Grace"
+        ],
+        [
+          "Returned",
+          "Returned"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Afured",
+          "Assured"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<sw-unclear>ho</sw-unclear>",
+          "her"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "Grawe Returned and Afured them of <sw-unclear>ho</sw-unclear>",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        3
+      ],
+      "user_ids": [
+        1464496.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.97,
+        948.905
+      ],
+      "clusters_y": [
+        260.2,
+        281.72
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Ma<sw-ex>ies</sw-ex><sl>tie</sl>s"
+        ],
+        [
+          "",
+          "protection,"
+        ],
+        [
+          "The",
+          "the"
+        ],
+        [
+          "Town",
+          "Town"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Lion",
+          "Liene"
+        ],
+        [
+          "was",
+          "was"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "Ma<sw-ex>ies</sw-ex><sl>tie</sl>s protection, The Town of Lion was",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.58,
+        960.79
+      ],
+      "clusters_y": [
+        360.9866666666667,
+        389.54999999999995
+      ],
+      "clusters_text": [
+        [
+          "who",
+          "who",
+          "who"
+        ],
+        [
+          "remoed",
+          "Removed",
+          "Removed"
+        ],
+        [
+          "their",
+          "their",
+          "their"
+        ],
+        [
+          "Artillery",
+          "Artillery",
+          "Artillery"
+        ],
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "thenie",
+          "",
+          "thence"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "who Removed their Artillery from thenie",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        5,
+        6
+      ],
+      "user_ids": [
+        1464496.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.85500000000002,
+        960.8
+      ],
+      "clusters_y": [
+        411.875,
+        433.33500000000004
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Antwerp",
+          "Antwerp"
+        ],
+        [
+          "whene",
+          "where"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "Afemblid",
+          "Assembled"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "to Antwerp whene they have Afemblid",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7
+      ],
+      "user_ids": [
+        1464496.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.39499999999998,
+        966.6949999999999
+      ],
+      "clusters_y": [
+        466.38,
+        486.365
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "a"
+        ],
+        [
+          "flynig",
+          "fflying"
+        ],
+        [
+          "Camp",
+          "Camp"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "S",
+          "8"
+        ],
+        [
+          "Battallions",
+          "Battallions"
+        ],
+        [
+          "<sw-unclear>nid?</sw-unclear>",
+          "under"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "a flynig Camp of S Battallions <sw-unclear>nid?</sw-unclear> the",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        8
+      ],
+      "user_ids": [
+        1464496.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.365,
+        949.085
+      ],
+      "clusters_y": [
+        521.35,
+        526.7349999999999
+      ],
+      "clusters_text": [
+        [
+          "Count",
+          "Count"
+        ],
+        [
+          "De",
+          ""
+        ],
+        [
+          "Gafre",
+          "DeGasse,"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Avny",
+          "Army"
+        ],
+        [
+          "haveing",
+          "haveing"
+        ],
+        [
+          "Rested",
+          "Rested"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "Count De Gafre the Avny haveing Rested",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        1464496.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.41,
+        958.405
+      ],
+      "clusters_y": [
+        578.275,
+        582.24
+      ],
+      "clusters_text": [
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Grimbergh",
+          "Grimbergh"
+        ],
+        [
+          "since",
+          "since"
+        ],
+        [
+          "Thursday",
+          "Thursday"
+        ],
+        [
+          "last",
+          "last"
+        ],
+        [
+          "De",
+          "De="
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "at Grimbergh since Thursday last De",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        10
+      ],
+      "user_ids": [
+        1464496.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.39499999999998,
+        964.225
+      ],
+      "clusters_y": [
+        636.235,
+        633.265
+      ],
+      "clusters_text": [
+        [
+          "=camp'd",
+          "=camp'd"
+        ],
+        [
+          "Seterday",
+          "Yesterday"
+        ],
+        [
+          "Morning",
+          "Morning"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Marched",
+          "Marched"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "=camp'd Seterday Morning and Marched",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        11
+      ],
+      "user_ids": [
+        1464496.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.42000000000002,
+        954.47
+      ],
+      "clusters_y": [
+        681.95,
+        683.8499999999999
+      ],
+      "clusters_text": [
+        [
+          "towards",
+          "towards"
+        ],
+        [
+          "Aleih",
+          "Alact"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "came",
+          "came"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "this",
+          "this"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "towards Aleih and came to day to this",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        12
+      ],
+      "user_ids": [
+        1464496.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.39999999999998,
+        938.8199999999999
+      ],
+      "clusters_y": [
+        730.085,
+        734.995
+      ],
+      "clusters_text": [
+        [
+          "Camp",
+          "Camp"
+        ],
+        [
+          "near",
+          "near"
+        ],
+        [
+          "Ghent,",
+          "Ghent,"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Dukes",
+          "Duke"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Camp near Ghent, the Dukes of",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        13
+      ],
+      "user_ids": [
+        1464496.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.01,
+        949.135
+      ],
+      "clusters_y": [
+        792.14,
+        791.3399999999999
+      ],
+      "clusters_text": [
+        [
+          "Wirtembergh",
+          "Wirlembergh",
+          "Wirtembergh"
+        ],
+        [
+          "was",
+          "was",
+          "was"
+        ],
+        [
+          "sent",
+          "",
+          "sent"
+        ],
+        [
+          "befroe",
+          "",
+          "before"
+        ],
+        [
+          "with",
+          "",
+          "with"
+        ],
+        [
+          "ae",
+          "",
+          "a"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Wirtembergh was sent befroe with ae",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        7,
+        14
+      ],
+      "user_ids": [
+        1464496.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.795,
+        944.235
+      ],
+      "clusters_y": [
+        838.6,
+        847.345
+      ],
+      "clusters_text": [
+        [
+          "detachment",
+          "Detachment"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Granadiseers",
+          "Grenadieers"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "camp",
+          "lay"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "detachment of Granadiseers to camp",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        15
+      ],
+      "user_ids": [
+        1464496.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.53,
+        952.67
+      ],
+      "clusters_y": [
+        1013.865,
+        1019.57
+      ],
+      "clusters_text": [
+        [
+          "Retreat",
+          "Retreat"
+        ],
+        [
+          "off",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Enemys",
+          ""
+        ],
+        [
+          "but",
+          ""
+        ],
+        [
+          "they",
+          ""
+        ],
+        [
+          "<sw-unclear>?</sw-unclear>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2857142857142858,
+      "consensus_text": "Retreat off the Enemys but they <sw-unclear>?</sw-unclear>",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        9
+      ],
+      "user_ids": [
+        1464496.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.69,
+        943.99
+      ],
+      "clusters_y": [
+        1123.2350000000001,
+        1121.74
+      ],
+      "clusters_text": [
+        [
+          "Courtvay",
+          "",
+          "Courtray"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "were",
+          "were",
+          "were"
+        ],
+        [
+          "Joyn'd",
+          "",
+          "Ioyn'd"
+        ],
+        [
+          "this",
+          "",
+          "this"
+        ],
+        [
+          "-",
+          "",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Courtvay and were Joyn'd this -",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        12,
+        20
+      ],
+      "user_ids": [
+        1464496.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.26666666666665,
+        954.2366666666667
+      ],
+      "clusters_y": [
+        1175.2533333333333,
+        1180.9366666666667
+      ],
+      "clusters_text": [
+        [
+          "Morning",
+          "Morning",
+          "Morning"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "their",
+          "their",
+          "their"
+        ],
+        [
+          "march",
+          "march",
+          "march"
+        ],
+        [
+          "by",
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the",
+          ""
+        ],
+        [
+          "Count",
+          "Count",
+          "Count"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.857142857142857,
+      "consensus_text": "Morning in their march by the Count",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        13,
+        21
+      ],
+      "user_ids": [
+        1464496.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.32,
+        961.76
+      ],
+      "clusters_y": [
+        1228.73,
+        1236.425
+      ],
+      "clusters_text": [
+        [
+          "De",
+          ""
+        ],
+        [
+          "Gafe",
+          ""
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "4",
+          "4"
+        ],
+        [
+          "Battallions,",
+          "Battalions,"
+        ],
+        [
+          "haveing",
+          "haveing"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "De Gafe with 4 Battallions, haveing",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        14
+      ],
+      "user_ids": [
+        1464496.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.28,
+        932.67
+      ],
+      "clusters_y": [
+        1475.105,
+        1479.37
+      ],
+      "clusters_text": [
+        [
+          "Governour",
+          "Governour"
+        ],
+        [
+          "",
+          "thereof"
+        ],
+        [
+          "",
+          "has"
+        ],
+        [
+          "",
+          "written"
+        ],
+        [
+          "",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "Governour thereof has written a",
+      "line_slope": 0.7810349148443563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        26
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 21,
+  "transcribed_lines": 21,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        268.605,
+        904.495
+      ],
+      "clusters_y": [
+        689.065,
+        674.8499999999999
+      ],
+      "clusters_text": [
+        [
+          "Hague",
+          "Hague"
+        ],
+        [
+          "20",
+          "20"
+        ],
+        [
+          "wee",
+          "wee"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "advice",
+          "advice"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Dutch",
+          "Turks"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "Hague 20 wee have advice <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl> Dutch",
+      "line_slope": -1.0951125260075651,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        12
+      ],
+      "user_ids": [
+        1891145.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

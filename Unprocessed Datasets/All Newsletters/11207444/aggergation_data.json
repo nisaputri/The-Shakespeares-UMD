@@ -1,0 +1,106 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        257.9,
+        888.18
+      ],
+      "clusters_y": [
+        528.81,
+        532.63
+      ],
+      "clusters_text": [
+        [
+          "pounds",
+          "Circulateing"
+        ],
+        [
+          "for",
+          "of"
+        ],
+        [
+          "the",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "pounds for the",
+      "line_slope": 0.5668958387511563,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        9
+      ],
+      "user_ids": [
+        1908134.0,
+        1908134.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.23,
+        892.31
+      ],
+      "clusters_y": [
+        388.51,
+        373.03
+      ],
+      "clusters_text": [
+        [
+          "Lending",
+          ""
+        ],
+        [
+          "the",
+          "two"
+        ],
+        [
+          "Government",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Lending the Government",
+      "line_slope": -1.567980572565237,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        22
+      ],
+      "user_ids": [
+        1908134.0,
+        1908134.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

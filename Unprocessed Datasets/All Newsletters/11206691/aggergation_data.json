@@ -1,0 +1,98 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        417.825,
+        418.20500000000004
+      ],
+      "clusters_y": [
+        920.58,
+        736.765
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": -89.81966632203574,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1347003.0,
+        1911364.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        503.555,
+        496.93
+      ],
+      "clusters_y": [
+        1189.23,
+        984.43
+      ],
+      "clusters_text": [
+        [
+          "M.",
+          "Will:"
+        ],
+        [
+          "H.",
+          ""
+        ],
+        [
+          "Stephens",
+          "Stephens."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "M. H. Stephens",
+      "line_slope": -91.86411841396901,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

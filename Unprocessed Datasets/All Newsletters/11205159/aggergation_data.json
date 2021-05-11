@@ -1,0 +1,998 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        466.265,
+        981.0550000000001
+      ],
+      "clusters_y": [
+        240.29,
+        250.405
+      ],
+      "clusters_text": [
+        [
+          "Paris",
+          "Paris"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "8<sw-sup>th</sw-sup>",
+          "9<sw-sup>th</sw-sup>."
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "7<sw-sup>d</sw-sup>",
+          "3<sw-sup>d</sw-sup>"
+        ],
+        [
+          "Jnstant",
+          "Instant"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "Paris <brev-y>th</brev-y><sl>e</sl> 8<sw-sup>th</sw-sup> on the 7<sw-sup>d</sw-sup> Jnstant",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.405,
+        971.065
+      ],
+      "clusters_y": [
+        301.005,
+        318.395
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "B<sw-ex>isho</sw-ex>p",
+          "B<sw-ex>isho</sw-ex>p"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Paris",
+          "Paris"
+        ],
+        [
+          "went",
+          "Went"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Church",
+          "Church"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "The B<sw-ex>isho</sw-ex>p of Paris went to the Church of",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        3
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.755,
+        972.44
+      ],
+      "clusters_y": [
+        350.46500000000003,
+        369.69
+      ],
+      "clusters_text": [
+        [
+          "S<sw-sup>t</sw-sup>",
+          "S<sw-sup>t</sw-sup>."
+        ],
+        [
+          "Hippalitia",
+          "Hippalitia"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "he",
+          "he"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "received",
+          "receiued"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "S<sw-sup>t</sw-sup> Hippalitia were he was received at the",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        273.76,
+        971.905
+      ],
+      "clusters_y": [
+        404.27,
+        427.1
+      ],
+      "clusters_text": [
+        [
+          "first",
+          "first"
+        ],
+        [
+          "house",
+          "house"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Parish",
+          "Parish"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Curate",
+          "Curate"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "first house of <brev-y>th</brev-y><sl>e</sl> Parish by <brev-y>th</brev-y><sl>e</sl> Curate at <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        5
+      ],
+      "user_ids": [
+        null,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.24,
+        981.155
+      ],
+      "clusters_y": [
+        502.95,
+        516.615
+      ],
+      "clusters_text": [
+        [
+          "<sw-del>???</sw-del>",
+          ""
+        ],
+        [
+          "Missonares",
+          ""
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "conducted",
+          "conducted"
+        ],
+        [
+          "him",
+          "him"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "<sw-del>???</sw-del> Missonares who conducted him to the",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.27333333333337,
+        989.98
+      ],
+      "clusters_y": [
+        544.4833333333332,
+        575.3033333333333
+      ],
+      "clusters_text": [
+        [
+          "Church",
+          "Church",
+          "Church"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "procession",
+          "prosession",
+          "procession"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "cellebrated",
+          "cellebrated",
+          "cellebrated"
+        ],
+        [
+          "Mass",
+          "Masse",
+          "Mase"
+        ],
+        [
+          "there",
+          "then",
+          "then"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.4285714285714284,
+      "consensus_text": "Church in procession and cellebrated Mass then",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        8,
+        8
+      ],
+      "user_ids": [
+        1708223.0,
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.18,
+        959.19
+      ],
+      "clusters_y": [
+        592.1700000000001,
+        619.78
+      ],
+      "clusters_text": [
+        [
+          "made",
+          "made"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Sermon",
+          "sermon"
+        ],
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "account",
+          "account"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Mission",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "made a Sermon upon <brev-y>th</brev-y><sl>e</sl> account of Mission",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.325,
+        965.83
+      ],
+      "clusters_y": [
+        691.2950000000001,
+        710.2
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "that"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "generall",
+          "generall"
+        ],
+        [
+          "peace",
+          "peace"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "not",
+          "not"
+        ],
+        [
+          "fare",
+          "fare"
+        ],
+        [
+          "off",
+          "off"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "that a generall peace was not fare off",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        11
+      ],
+      "user_ids": [
+        1708223.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.03999999999996,
+        941.235
+      ],
+      "clusters_y": [
+        794.355,
+        821.47
+      ],
+      "clusters_text": [
+        [
+          "Augers",
+          "Angers"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "taken",
+          "taken"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Considerable",
+          "Considerable"
+        ],
+        [
+          "prize",
+          "prize"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Augers have taken a Considerable prize",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        13
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.46500000000003,
+        973.77
+      ],
+      "clusters_y": [
+        848.6,
+        871.815
+      ],
+      "clusters_text": [
+        [
+          "laden",
+          "laden"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "Jngotts",
+          "Ingotts"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Sillver",
+          "sillver"
+        ],
+        [
+          "but",
+          "but"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "vessell",
+          "vessell"
+        ],
+        [
+          "is",
+          "is"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "laden with Jngotts of Sillver but <brev-y>th</brev-y><sl>e</sl> vessell is",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.70499999999998,
+        976.875
+      ],
+      "clusters_y": [
+        954.695,
+        979.1300000000001
+      ],
+      "clusters_text": [
+        [
+          "Chiefe",
+          "Chiefe"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "our",
+          "our"
+        ],
+        [
+          "Plenepotentary",
+          "Plenipotentary"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "much",
+          "much"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "Chiefe of our Plenepotentary who was much",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        16
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.245,
+        717.745
+      ],
+      "clusters_y": [
+        1110.775,
+        1123.9650000000001
+      ],
+      "clusters_text": [
+        [
+          "have",
+          "haue"
+        ],
+        [
+          "rece<sw-ex>ive</sw-ex>d",
+          "rec<sw-ex>iev</sw-ex>ed"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "passports",
+          "pasports"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "have rece<sw-ex>ive</sw-ex>d their passports",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        19
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        479.985,
+        977.29
+      ],
+      "clusters_y": [
+        1216.12,
+        1228.955
+      ],
+      "clusters_text": [
+        [
+          "Hague",
+          "Hague"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "11",
+          "12"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Saturday",
+          "s<sw-unclear>aturday"
+        ],
+        [
+          "last",
+          "last</sw-unclear>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Hague <brev-y>th</brev-y><sl>e</sl> 11 on Saturday last",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        20
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.54,
+        993.5450000000001
+      ],
+      "clusters_y": [
+        1254.87,
+        1285.475
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "passports",
+          "pasports"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "delivered",
+          "deliu<sw-ex>er</sw-ex>ed"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Mouns<sw-ex>ieu</sw-ex>r",
+          "Monns<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Collrena",
+          "<sw-unclear>Collrena</sw-unclear>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "the passports were delivered to Mouns<sw-ex>ieu</sw-ex>r Collrena",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        21
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.635,
+        986.96
+      ],
+      "clusters_y": [
+        1299.02,
+        1340.475
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "ffr<sw-ex>ench</sw-ex>",
+          "ffr<sw-ex>ench</sw-ex>"
+        ],
+        [
+          "Minister",
+          "Minister"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "sent",
+          "sent"
+        ],
+        [
+          "them",
+          "thei<sw-unclear>rs"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<sw-unclear>???</sw-unclear>",
+          "Mons</sw-unclear>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "the ffr<sw-ex>ench</sw-ex> Minister who has sent them to <sw-unclear>???</sw-unclear>",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        22
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        229.01,
+        970.665
+      ],
+      "clusters_y": [
+        1421.815,
+        1455.4899999999998
+      ],
+      "clusters_text": [
+        [
+          "Mouns<sw-ex>ieu</sw-ex>r",
+          "Mons<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Collrina",
+          "Collri<sw-del>e</sw-del>na"
+        ],
+        [
+          "having",
+          "hauing"
+        ],
+        [
+          "receiv<sw-ex>e</sw-ex>d",
+          "rec<sw-sup>ed</sw-sup>"
+        ],
+        [
+          "an",
+          "an<sw-unclear>"
+        ],
+        [
+          "Express",
+          "Express</sw-unclear>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Mouns<sw-ex>ieu</sw-ex>r Collrina having receiv<sw-ex>e</sw-ex>d an Express",
+      "line_slope": 2.0012291605152193,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        23,
+        23
+      ],
+      "user_ids": [
+        1347003.0,
+        190714.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 16,
+  "transcribed_lines": 16,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

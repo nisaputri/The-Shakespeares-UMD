@@ -1,0 +1,271 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        237.875,
+        963.53
+      ],
+      "clusters_y": [
+        182.90499999999997,
+        170.46
+      ],
+      "clusters_text": [
+        [
+          "Land",
+          "Land"
+        ],
+        [
+          "fforces",
+          "fforces."
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Committee",
+          "Committee"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "Land fforces - The Committee",
+      "line_slope": -0.974332337340205,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1627866.0,
+        1790401.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.685,
+        957.295
+      ],
+      "clusters_y": [
+        514.1800000000001,
+        502.64
+      ],
+      "clusters_text": [
+        [
+          "3",
+          "3"
+        ],
+        [
+          "fforreign",
+          "fforreign"
+        ],
+        [
+          "mails",
+          "mails"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "being",
+          "being"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "3 fforreign mails & there being",
+      "line_slope": -0.974332337340205,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        1627866.0,
+        1790401.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.29999999999995,
+        940.845
+      ],
+      "clusters_y": [
+        588.825,
+        576.86
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Postscript",
+          "PostScript"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Post",
+          "Post"
+        ],
+        [
+          "Boy",
+          "Boy"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "a Postscript to the Post Boy",
+      "line_slope": -0.974332337340205,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        8
+      ],
+      "user_ids": [
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.675,
+        936.785
+      ],
+      "clusters_y": [
+        718.085,
+        699.78
+      ],
+      "clusters_text": [
+        [
+          "being",
+          "being"
+        ],
+        [
+          "too",
+          "too"
+        ],
+        [
+          "late",
+          "late"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Write",
+          "write"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "being too late to Write the",
+      "line_slope": -0.974332337340205,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        8
+      ],
+      "user_ids": [
+        1627866.0,
+        1790401.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.44,
+        510.015
+      ],
+      "clusters_y": [
+        806.4100000000001,
+        801.14
+      ],
+      "clusters_text": [
+        [
+          "particulars",
+          "particulars."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "particulars",
+      "line_slope": -0.974332337340205,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        0
+      ],
+      "user_ids": [
+        1627866.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

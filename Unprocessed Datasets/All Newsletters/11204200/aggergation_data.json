@@ -1,0 +1,345 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        396.575,
+        922.87
+      ],
+      "clusters_y": [
+        78.365,
+        74.95
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "18",
+          "18"
+        ],
+        [
+          "June",
+          "June"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "London 18 June",
+      "line_slope": -2.498696763177815,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        268.845,
+        933.47
+      ],
+      "clusters_y": [
+        211.255,
+        189.73
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from",
+          ""
+        ],
+        [
+          "Paris",
+          "",
+          ""
+        ],
+        [
+          "of",
+          "",
+          "of"
+        ],
+        [
+          "the",
+          "",
+          ""
+        ],
+        [
+          "17",
+          "",
+          ""
+        ],
+        [
+          "that",
+          "",
+          ""
+        ],
+        [
+          "Say",
+          "",
+          ""
+        ],
+        [
+          "the",
+          "",
+          ""
+        ],
+        [
+          "whole",
+          "",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.2222222222222223,
+      "consensus_text": "from Paris of the 17 that Say the whole",
+      "line_slope": -2.498696763177815,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        4,
+        5
+      ],
+      "user_ids": [
+        3697.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.8,
+        920.61
+      ],
+      "clusters_y": [
+        263.98,
+        227.8
+      ],
+      "clusters_text": [
+        [
+          "Discourse",
+          "",
+          ""
+        ],
+        [
+          "of",
+          "of",
+          ""
+        ],
+        [
+          "that",
+          "that",
+          ""
+        ],
+        [
+          "Citty",
+          "",
+          ""
+        ],
+        [
+          "was",
+          "",
+          "was"
+        ],
+        [
+          "about",
+          "",
+          "about"
+        ],
+        [
+          "Adm<sw-ex>ira</sw-ex><sw-sup>ll</sw-sup>",
+          "",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "Discourse of that Citty was about Adm<sw-ex>ira</sw-ex><sw-sup>ll</sw-sup>",
+      "line_slope": -2.498696763177815,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        6,
+        7
+      ],
+      "user_ids": [
+        3697.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.095,
+        926.73
+      ],
+      "clusters_y": [
+        365.295,
+        329.66
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "that",
+          ""
+        ],
+        [
+          "a",
+          ""
+        ],
+        [
+          "person",
+          ""
+        ],
+        [
+          "was",
+          ""
+        ],
+        [
+          "Comitted",
+          ""
+        ],
+        [
+          "to",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "Bastill",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1111111111111112,
+      "consensus_text": "and that a person was Comitted to <brev-y>th</brev-y><sl>e</sl> Bastill",
+      "line_slope": -2.498696763177815,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        8
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.53,
+        923.89
+      ],
+      "clusters_y": [
+        472.6,
+        430.69
+      ],
+      "clusters_text": [
+        [
+          "on",
+          ""
+        ],
+        [
+          "fire",
+          ""
+        ],
+        [
+          "by",
+          ""
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "Confed<sw-ex>e</sw-ex><sw-sup>r</sw-sup><sw-ex>a</sw-ex><sw-sup>ts</sw-sup>",
+          ""
+        ],
+        [
+          "Bombs",
+          ""
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "add",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1111111111111112,
+      "consensus_text": "on fire by the Confed<sw-ex>e</sw-ex><sw-sup>r</sw-sup><sw-ex>a</sw-ex><sw-sup>ts</sw-sup> Bombs they add <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+      "line_slope": -2.498696763177815,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        11
+      ],
+      "user_ids": [
+        3697.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

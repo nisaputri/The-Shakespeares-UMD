@@ -1,0 +1,248 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        255.445,
+        908.635
+      ],
+      "clusters_y": [
+        300.555,
+        302.53999999999996
+      ],
+      "clusters_text": [
+        [
+          "Sr",
+          "Sir"
+        ],
+        [
+          "Edward",
+          "Edward"
+        ],
+        [
+          "Seymour",
+          "Seyour"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "been",
+          "been"
+        ],
+        [
+          "very",
+          "very"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "Sr Edward Seymour who has been very",
+      "line_slope": -0.8228692646174137,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        3
+      ],
+      "user_ids": [
+        1466844.0,
+        1524758.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.21000000000004,
+        910.02
+      ],
+      "clusters_y": [
+        357.58500000000004,
+        358.45000000000005
+      ],
+      "clusters_text": [
+        [
+          "dangerously",
+          "dangerously"
+        ],
+        [
+          "ill",
+          "ill"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "some",
+          "some"
+        ],
+        [
+          "time",
+          "time"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "faire",
+          "faire"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "dangerously ill for some time is in a faire",
+      "line_slope": -0.8228692646174137,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        4
+      ],
+      "user_ids": [
+        1466844.0,
+        1524758.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.125,
+        597.06
+      ],
+      "clusters_y": [
+        423.775,
+        419.45
+      ],
+      "clusters_text": [
+        [
+          "way",
+          "way"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Recovery.",
+          "Recovery.-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "way of Recovery.",
+      "line_slope": -0.8228692646174137,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        5
+      ],
+      "user_ids": [
+        1466844.0,
+        1524758.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        273.245,
+        873.97
+      ],
+      "clusters_y": [
+        577.04,
+        555.255
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "old",
+          "old"
+        ],
+        [
+          "benjly",
+          "bayly"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "three",
+          "three"
+        ],
+        [
+          "men",
+          "men"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "the old benjly and three men and",
+      "line_slope": -0.8228692646174137,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        7
+      ],
+      "user_ids": [
+        1466844.0,
+        1524758.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

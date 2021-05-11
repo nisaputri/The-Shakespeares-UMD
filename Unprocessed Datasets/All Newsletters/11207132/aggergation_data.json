@@ -1,0 +1,282 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        31.245,
+        919.43
+      ],
+      "clusters_y": [
+        67.00999999999999,
+        66.39
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Bedlam",
+          "Bedlam"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Bridewell.",
+          "Bridewell."
+        ],
+        [
+          "",
+          "From"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "D<sw-ex>uke</sw-ex>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "of Bedlam & Bridewell. From <brev-y>th</brev-y><sl>e</sl> D<sw-ex>uke</sw-ex>",
+      "line_slope": 0.5310018219557368,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        5
+      ],
+      "user_ids": [
+        null,
+        1462825.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        34.019999999999996,
+        951.14
+      ],
+      "clusters_y": [
+        214.09,
+        218.22
+      ],
+      "clusters_text": [
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "which",
+          "which"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Grace",
+          "Grace"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "order'd",
+          "order'd"
+        ],
+        [
+          "our",
+          "our"
+        ],
+        [
+          "army",
+          "Army"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "upon which his Grace has order'd our army",
+      "line_slope": 0.5310018219557368,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        8
+      ],
+      "user_ids": [
+        null,
+        1462825.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        25.75,
+        933.85
+      ],
+      "clusters_y": [
+        258.58,
+        259.54
+      ],
+      "clusters_text": [
+        [
+          "",
+          "to"
+        ],
+        [
+          "",
+          "be"
+        ],
+        [
+          "",
+          "in"
+        ],
+        [
+          "",
+          "a"
+        ],
+        [
+          "",
+          "readyness"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "march.",
+          "march"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "",
+          "Pr<sw-ex>ince</sw-ex>"
+        ],
+        [
+          "",
+          "Eugene"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1,
+      "consensus_text": "to be in a readyness to march. - Pr<sw-ex>ince</sw-ex> Eugene",
+      "line_slope": 0.5310018219557368,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        9
+      ],
+      "user_ids": [
+        null,
+        1462825.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        27.735,
+        942.5
+      ],
+      "clusters_y": [
+        300.83,
+        302.79
+      ],
+      "clusters_text": [
+        [
+          "will",
+          "",
+          "will"
+        ],
+        [
+          "",
+          "",
+          "Storm"
+        ],
+        [
+          "",
+          "Lisles",
+          "Lisle"
+        ],
+        [
+          "",
+          "to",
+          "to"
+        ],
+        [
+          "",
+          "morrow",
+          "morrow"
+        ],
+        [
+          "",
+          "which",
+          "which"
+        ],
+        [
+          "",
+          "",
+          "Marsh<sw-ex>al</sw-ex>l"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "will Storm Lisles to morrow which Marsh<sw-ex>al</sw-ex>l",
+      "line_slope": 0.5310018219557368,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        9,
+        10
+      ],
+      "user_ids": [
+        null,
+        null,
+        1462825.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

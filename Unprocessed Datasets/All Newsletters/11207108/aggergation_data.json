@@ -1,0 +1,440 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        245.61,
+        938.57
+      ],
+      "clusters_y": [
+        153.215,
+        171.365
+      ],
+      "clusters_text": [
+        [
+          "This",
+          "This"
+        ],
+        [
+          "ay",
+          "day"
+        ],
+        [
+          "came",
+          "came"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Holland",
+          "Holland"
+        ],
+        [
+          "Maile",
+          "Maile"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "This ay came in a Holland Maile",
+      "line_slope": 1.0124946270263249,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2
+      ],
+      "user_ids": [
+        1911364.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        256.02,
+        940.28
+      ],
+      "clusters_y": [
+        174.6,
+        185.48
+      ],
+      "clusters_text": [
+        [
+          "",
+          "This"
+        ],
+        [
+          "",
+          "Day"
+        ],
+        [
+          "",
+          "cam"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Holland",
+          "Holland"
+        ],
+        [
+          "",
+          "Maile"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "This Day cam in a Holland Maile",
+      "line_slope": 1.0124946270263249,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        1
+      ],
+      "user_ids": [
+        1851420.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.055,
+        945.12
+      ],
+      "clusters_y": [
+        249.14,
+        255.6
+      ],
+      "clusters_text": [
+        [
+          "which",
+          "which"
+        ],
+        [
+          "brings",
+          "brings"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "following",
+          "following"
+        ],
+        [
+          "",
+          "News"
+        ],
+        [
+          "",
+          "(viz)"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "which brings the following News (viz)",
+      "line_slope": 1.0124946270263249,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        2
+      ],
+      "user_ids": [
+        1851420.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.96,
+        938.335
+      ],
+      "clusters_y": [
+        328.58666666666664,
+        336.70500000000004
+      ],
+      "clusters_text": [
+        [
+          "Madrid",
+          "Madrid",
+          "Madrid"
+        ],
+        [
+          "August",
+          "August",
+          "August"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "14",
+          "14th.",
+          "14<sw-sup>th</sw-sup>."
+        ],
+        [
+          "",
+          "The",
+          "The"
+        ],
+        [
+          "",
+          "Arch",
+          "Arch"
+        ],
+        [
+          "",
+          "Bishop",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.142857142857143,
+      "consensus_text": "Madrid August the 14 The Arch Bishop",
+      "line_slope": 1.0124946270263249,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        3,
+        3
+      ],
+      "user_ids": [
+        1851420.0,
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.84,
+        940.3900000000001
+      ],
+      "clusters_y": [
+        404.345,
+        411.015
+      ],
+      "clusters_text": [
+        [
+          "Bishop",
+          "",
+          ""
+        ],
+        [
+          "of",
+          "",
+          "of"
+        ],
+        [
+          "St.",
+          "",
+          "S<sw-sup>t</sw-sup>"
+        ],
+        [
+          "Iago",
+          "",
+          "Iago"
+        ],
+        [
+          "with",
+          "",
+          "with"
+        ],
+        [
+          "",
+          "Severall",
+          "Severall"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Bishop of St. Iago with Severall",
+      "line_slope": 1.0124946270263249,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        17,
+        4
+      ],
+      "user_ids": [
+        1851420.0,
+        1851420.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.5,
+        952.22
+      ],
+      "clusters_y": [
+        481.06,
+        493.64
+      ],
+      "clusters_text": [
+        [
+          "others",
+          "others"
+        ],
+        [
+          "Conspired",
+          "Conspired"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "deliver",
+          "deliver"
+        ],
+        [
+          "Up",
+          "Up"
+        ],
+        [
+          "Coronna",
+          "Coronna"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "others Conspired to deliver Up Coronna",
+      "line_slope": 1.0124946270263249,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        5
+      ],
+      "user_ids": [
+        1851420.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.3,
+        942.88
+      ],
+      "clusters_y": [
+        543.33,
+        552.425
+      ],
+      "clusters_text": [
+        [
+          "",
+          "as"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "ffriends"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "Charles",
+          "Charles"
+        ],
+        [
+          "3d.",
+          "3<sw-sup>d</sw-sup>."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "as the ffriends of King Charles 3d.",
+      "line_slope": 1.0124946270263249,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        6
+      ],
+      "user_ids": [
+        1851420.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 7,
+  "transcribed_lines": 7,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

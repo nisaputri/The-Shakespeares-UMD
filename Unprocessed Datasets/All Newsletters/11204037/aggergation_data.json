@@ -1,0 +1,158 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        235.37,
+        230.73
+      ],
+      "clusters_y": [
+        176.07,
+        1481.73
+      ],
+      "clusters_text": [
+        [
+          "ded",
+          "att"
+        ],
+        [
+          "[part",
+          "[at]"
+        ],
+        [
+          "of",
+          "S<sw-sup>t</sw-sup>"
+        ],
+        [
+          "\"Commanded\"]",
+          "Germans"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "as"
+        ],
+        [
+          "High",
+          "did"
+        ],
+        [
+          "Lands",
+          "Lawyer"
+        ],
+        [
+          "in",
+          "Blunt"
+        ],
+        [
+          "Scotland",
+          "of"
+        ],
+        [
+          "dyed",
+          ""
+        ],
+        [
+          "[died]",
+          ""
+        ],
+        [
+          "lately",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "ded [part of \"Commanded\"] <brev-y>th</brev-y><sl>e</sl> High Lands in Scotland dyed [died] lately",
+      "line_slope": 90.27522583687892,
+      "slope_label": 4,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        32,
+        33
+      ],
+      "user_ids": [
+        2790.0,
+        2790.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.435,
+        907.215
+      ],
+      "clusters_y": [
+        452.725,
+        416.42999999999995
+      ],
+      "clusters_text": [
+        [
+          "-day",
+          "-day"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Maidstone",
+          "Maidstone"
+        ],
+        [
+          "ffrigott",
+          "Frigott"
+        ],
+        [
+          "",
+          "[Frigate]"
+        ],
+        [
+          "brought",
+          "brought"
+        ],
+        [
+          "in",
+          "in"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "-day the Maidstone ffrigott [Frigate] brought in",
+      "line_slope": -3.4394375271804942,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        8
+      ],
+      "user_ids": [
+        1891145.0,
+        2790.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

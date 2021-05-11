@@ -1,0 +1,302 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        48.864999999999995,
+        779.7466666666666
+      ],
+      "clusters_y": [
+        75.42,
+        79.02666666666666
+      ],
+      "clusters_text": [
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "",
+          "",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "",
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "",
+          "June",
+          "June",
+          "June"
+        ],
+        [
+          "",
+          "17<sw-sup><sw-ex>th</sw-ex></sw-sup>",
+          "17th",
+          "17th"
+        ],
+        [
+          "",
+          "1714",
+          "1714",
+          "1714"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.6,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> London June 17th 1714",
+      "line_slope": -0.02673447283705458,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "user_ids": [
+        null,
+        null,
+        null,
+        428120.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        92.28,
+        949.575
+      ],
+      "clusters_y": [
+        145.61,
+        143.84
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Yesterday",
+          "Yesterday"
+        ],
+        [
+          "",
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "of",
+          "",
+          "L<sw-ex>ord</sw-ex>s"
+        ],
+        [
+          "",
+          "",
+          "Read"
+        ],
+        [
+          "",
+          "",
+          "a"
+        ],
+        [
+          "",
+          "",
+          "2d"
+        ],
+        [
+          "",
+          "",
+          "&"
+        ],
+        [
+          "",
+          "",
+          "3d"
+        ],
+        [
+          "",
+          "",
+          "time"
+        ],
+        [
+          "",
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Tobacco",
+          "",
+          "Tobacco"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.1818181818181819,
+      "consensus_text": "Yesterday <brev-y>th</brev-y><sl>e</sl> of Read a 2d & 3d time <brev-y>th</brev-y><sl>e</sl> Tobacco",
+      "line_slope": -0.02673447283705458,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3,
+        1
+      ],
+      "user_ids": [
+        null,
+        null,
+        428120.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        106.345,
+        941.73
+      ],
+      "clusters_y": [
+        433.58,
+        427.32
+      ],
+      "clusters_text": [
+        [
+          "Sattorday",
+          "Satterday"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "",
+          "Went"
+        ],
+        [
+          "",
+          "into"
+        ],
+        [
+          "",
+          "a"
+        ],
+        [
+          "",
+          "Comittee"
+        ],
+        [
+          "",
+          "on"
+        ],
+        [
+          "",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Sattorday - Went into a Comittee on the",
+      "line_slope": -0.02673447283705458,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        null,
+        428120.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        81.05,
+        951.23
+      ],
+      "clusters_y": [
+        906.92,
+        887.93
+      ],
+      "clusters_text": [
+        [
+          "",
+          "out"
+        ],
+        [
+          "",
+          "for"
+        ],
+        [
+          "",
+          "Baden,"
+        ],
+        [
+          "",
+          "He"
+        ],
+        [
+          "",
+          "carryes"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "him",
+          "him"
+        ],
+        [
+          "",
+          "parti-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "out for Baden, He carryes w<sw-ex>i</sw-ex><sl>th</sl> him parti-",
+      "line_slope": -0.02673447283705458,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        11
+      ],
+      "user_ids": [
+        null,
+        428120.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

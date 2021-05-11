@@ -1,0 +1,71 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        925.12,
+        927.6600000000001
+      ],
+      "clusters_y": [
+        29.145,
+        338.87
+      ],
+      "clusters_text": [
+        [
+          "3<sw-sup>d</sw-sup>",
+          "3<sw-sup>d</sw-sup>"
+        ],
+        [
+          "June",
+          "June"
+        ],
+        [
+          "1708:",
+          "1708."
+        ],
+        [
+          "",
+          "0:"
+        ],
+        [
+          "o:N:L:",
+          "N;L:"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "3<sw-sup>d</sw-sup> June 1708: 0: o:N:L:",
+      "line_slope": 89.52560891070378,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        4
+      ],
+      "user_ids": [
+        1347003.0,
+        864398.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

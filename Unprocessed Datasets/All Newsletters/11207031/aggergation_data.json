@@ -1,0 +1,106 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        250.68,
+        931.77
+      ],
+      "clusters_y": [
+        270.63,
+        262.98
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Cowes",
+          "Cowes"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>.",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Westerly",
+          "Westerly"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "from Cowes w<sw-ex>i</sw-ex><sl>th</sl>. a Westerly",
+      "line_slope": -0.6302853621164095,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        1462825.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        432.90999999999997,
+        428.745
+      ],
+      "clusters_y": [
+        903.895,
+        638.855
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": -90.90003576044072,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        7
+      ],
+      "user_ids": [
+        3697.0,
+        1462825.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

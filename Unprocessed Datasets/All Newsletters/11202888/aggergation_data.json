@@ -1,0 +1,495 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        237.72,
+        237.72
+      ],
+      "clusters_y": [
+        281.92,
+        1495.05
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "and"
+        ],
+        [
+          "Newgate",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "for",
+          "other"
+        ],
+        [
+          "",
+          "highway"
+        ],
+        [
+          "",
+          "Men"
+        ],
+        [
+          "",
+          "but"
+        ],
+        [
+          "",
+          "by"
+        ],
+        [
+          "",
+          "reason"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1111111111111112,
+      "consensus_text": "to Newgate for highway Men but by reason <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": 89.81696506929084,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        8
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        203.39,
+        202.9
+      ],
+      "clusters_y": [
+        37.72,
+        1355.3
+      ],
+      "clusters_text": [
+        [
+          "hangman",
+          "and"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "is",
+          "Bishop"
+        ],
+        [
+          "to",
+          "of"
+        ],
+        [
+          "burn",
+          "Salisburyes"
+        ],
+        [
+          "the",
+          "Letter"
+        ],
+        [
+          "",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "hangman the is to burn the to",
+      "line_slope": 89.81696506929084,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        6
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        165.63,
+        167.1
+      ],
+      "clusters_y": [
+        37.23,
+        1236.15
+      ],
+      "clusters_text": [
+        [
+          "they",
+          "=",
+          ""
+        ],
+        [
+          "are",
+          "the",
+          "executed"
+        ],
+        [
+          "not",
+          "L<sw-ex>or</sw-ex>ds",
+          ""
+        ],
+        [
+          "to",
+          "this",
+          "till"
+        ],
+        [
+          "",
+          "day",
+          ""
+        ],
+        [
+          "",
+          "also",
+          ""
+        ],
+        [
+          "",
+          "ordered",
+          ""
+        ],
+        [
+          "be",
+          "the",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.0,
+      "consensus_text": "they are not to day also ordered be",
+      "line_slope": 89.81696506929084,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        7,
+        9
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        119.05,
+        121.99
+      ],
+      "clusters_y": [
+        37.23,
+        1425.91
+      ],
+      "clusters_text": [
+        [
+          "book",
+          "vote",
+          ""
+        ],
+        [
+          "to",
+          "that",
+          "of"
+        ],
+        [
+          "be",
+          "",
+          ""
+        ],
+        [
+          "burned",
+          "",
+          ""
+        ],
+        [
+          "and",
+          "",
+          ""
+        ],
+        [
+          "made",
+          "",
+          ""
+        ],
+        [
+          "the",
+          "the",
+          ""
+        ],
+        [
+          "following",
+          "",
+          "King"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.125,
+      "consensus_text": "book to be burned and made the following",
+      "line_slope": 89.81696506929084,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        10,
+        11
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        278.27,
+        959.37
+      ],
+      "clusters_y": [
+        623.34,
+        628.73
+      ],
+      "clusters_text": [
+        [
+          "his",
+          "by"
+        ],
+        [
+          "",
+          "5"
+        ],
+        [
+          "Coach",
+          "highway"
+        ],
+        [
+          "near",
+          "men"
+        ],
+        [
+          "",
+          "2"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "his 5 Coach near 2",
+      "line_slope": 0.5322356347554174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        25
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        272.87,
+        758.32
+      ],
+      "clusters_y": [
+        820.46,
+        823.89
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "remounted",
+          "they"
+        ],
+        [
+          "other",
+          "and",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.0,
+      "consensus_text": "the other",
+      "line_slope": 0.5322356347554174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        30,
+        49,
+        55
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        278.76,
+        957.41
+      ],
+      "clusters_y": [
+        1046.02,
+        1047.01
+      ],
+      "clusters_text": [
+        [
+          "300",
+          "ffrench"
+        ],
+        [
+          "",
+          "prisoners"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "",
+          "warr"
+        ],
+        [
+          "",
+          "for"
+        ],
+        [
+          "",
+          "S<sw-sup>t</sw-sup>"
+        ],
+        [
+          "",
+          "Maloe"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "300 prisoners of warr for S<sw-sup>t</sw-sup> Maloe",
+      "line_slope": 0.5322356347554174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        35,
+        36
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        522.46,
+        952.01
+      ],
+      "clusters_y": [
+        1323.57,
+        1334.84
+      ],
+      "clusters_text": [
+        [
+          "-",
+          ""
+        ],
+        [
+          "a",
+          ""
+        ],
+        [
+          "Gentleman",
+          "Sun"
+        ],
+        [
+          "Lately",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "- a Gentleman Lately",
+      "line_slope": 0.5322356347554174,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        45,
+        59
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 8,
+  "transcribed_lines": 8,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

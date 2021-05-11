@@ -1,0 +1,161 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        392.02,
+        917.36
+      ],
+      "clusters_y": [
+        159.06,
+        150.86
+      ],
+      "clusters_text": [
+        [
+          "26",
+          "2"
+        ],
+        [
+          "",
+          "Middleb<sw-unclear>ro</sw-unclear>gh"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "26 Middleb<sw-unclear>ro</sw-unclear>gh",
+      "line_slope": -0.34564548647074644,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        1878771.0,
+        1878771.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        243.6,
+        915.45
+      ],
+      "clusters_y": [
+        449.33,
+        440.04
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "Plym<sw-sup>o</sw-sup>",
+          "they"
+        ],
+        [
+          "&",
+          "took"
+        ],
+        [
+          "",
+          "sunk"
+        ],
+        [
+          "",
+          "by"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "for Plym<sw-sup>o</sw-sup> & sunk by <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -0.34564548647074644,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        15
+      ],
+      "user_ids": [
+        1878771.0,
+        1878771.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.6,
+        888.93
+      ],
+      "clusters_y": [
+        781.57,
+        772.27
+      ],
+      "clusters_text": [
+        [
+          "next",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "year",
+          "all"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "next year w<sw-ex>i</sw-ex><sl>th</sl> <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -0.34564548647074644,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        23,
+        24
+      ],
+      "user_ids": [
+        1878771.0,
+        1878771.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

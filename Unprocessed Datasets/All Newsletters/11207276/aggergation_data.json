@@ -1,0 +1,653 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        261.79499999999996,
+        871.1800000000001
+      ],
+      "clusters_y": [
+        78.35499999999999,
+        59.6
+      ],
+      "clusters_text": [
+        [
+          "as",
+          "as"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "French",
+          "French"
+        ],
+        [
+          "Generals",
+          "Generals"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "inclined",
+          "inclin<sw-ex>e</sw-ex>d"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "do.",
+          "do."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "as <brev-y>th</brev-y><sl>e</sl> French Generals are inclined to do.",
+      "line_slope": -2.677665281145287,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.99666666666667,
+        922.5500000000001
+      ],
+      "clusters_y": [
+        180.38666666666666,
+        166.63333333333333
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "ours",
+          "ours",
+          "ours"
+        ],
+        [
+          "have",
+          "have",
+          "have"
+        ],
+        [
+          "got",
+          "got",
+          "got"
+        ],
+        [
+          "great",
+          "great",
+          "great"
+        ],
+        [
+          "supplies",
+          "supplies",
+          "supplies"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "provisions",
+          "provi",
+          "provi"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.875,
+      "consensus_text": "and ours have got great supplies of provi",
+      "line_slope": -2.677665281145287,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0,
+        1899961.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.17000000000002,
+        923.985
+      ],
+      "clusters_y": [
+        285.79499999999996,
+        254.38
+      ],
+      "clusters_text": [
+        [
+          "it",
+          "it"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "said",
+          "said"
+        ],
+        [
+          "we",
+          "we"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "taken",
+          "taken"
+        ],
+        [
+          "prisonners",
+          "prisonners"
+        ],
+        [
+          "four",
+          "four"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "it is said we have taken prisonners four",
+      "line_slope": -2.677665281145287,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        231.38,
+        915.3050000000001
+      ],
+      "clusters_y": [
+        340.685,
+        306.665
+      ],
+      "clusters_text": [
+        [
+          "Companys",
+          "Companys"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "French",
+          "French"
+        ],
+        [
+          "Grenadars",
+          "Grenadeirs"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "were",
+          "were"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Companys of French Grenadars <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> were",
+      "line_slope": -2.677665281145287,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        4
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.41,
+        926.71
+      ],
+      "clusters_y": [
+        398.045,
+        364.39
+      ],
+      "clusters_text": [
+        [
+          "posted",
+          "posed"
+        ],
+        [
+          "",
+          "bet"
+        ],
+        [
+          "between",
+          "weene"
+        ],
+        [
+          "Tournay",
+          "Tournay"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Ypres",
+          "ypres"
+        ],
+        [
+          "by",
+          "by"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "posted bet between Tournay and Ypres by",
+      "line_slope": -2.677665281145287,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        245.835,
+        921.28
+      ],
+      "clusters_y": [
+        452.55,
+        419.06
+      ],
+      "clusters_text": [
+        [
+          "which",
+          "which"
+        ],
+        [
+          "means",
+          "means"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Ennemy's",
+          "Ennemy's"
+        ],
+        [
+          "Communication",
+          "Comunication"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "which means <brev-y>th</brev-y><sl>e</sl> Ennemy's Communication",
+      "line_slope": -2.677665281145287,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.32999999999998,
+        928.41
+      ],
+      "clusters_y": [
+        623.4649999999999,
+        589.7850000000001
+      ],
+      "clusters_text": [
+        [
+          "we",
+          "we"
+        ],
+        [
+          "shall",
+          "shall"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "manner",
+          "manner"
+        ],
+        [
+          "block",
+          "block"
+        ],
+        [
+          "up",
+          "up"
+        ],
+        [
+          "ypres",
+          "Ypres"
+        ],
+        [
+          "",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "we shall in a manner block up ypres -",
+      "line_slope": -2.677665281145287,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        1
+      ],
+      "user_ids": [
+        1891145.0,
+        1899961.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        244.68,
+        925.9849999999999
+      ],
+      "clusters_y": [
+        1145.51,
+        1108.645
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "spare",
+          "spare"
+        ],
+        [
+          "men",
+          "men,"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "all<brev-y>",
+          "all"
+        ],
+        [
+          "th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "batteries",
+          "batteries"
+        ],
+        [
+          "consisting",
+          "consist"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5555555555555556,
+      "consensus_text": "to spare men and <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> all<brev-y> th</brev-y><sl>e</sl> batteries consisting",
+      "line_slope": -2.677665281145287,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        16
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.685,
+        935.5450000000001
+      ],
+      "clusters_y": [
+        1208.355,
+        1158.1100000000001
+      ],
+      "clusters_text": [
+        [
+          "",
+          "ing"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "96",
+          "96"
+        ],
+        [
+          "pieces",
+          "pieces"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Cannon",
+          "Cannon"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Mortars",
+          "Mortars"
+        ],
+        [
+          "would",
+          "would"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "ing of 96 pieces of Cannon and Mortars would",
+      "line_slope": -2.677665281145287,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        17
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.0,
+        918.005
+      ],
+      "clusters_y": [
+        1455.12,
+        1432.3400000000001
+      ],
+      "clusters_text": [
+        [
+          "y<sw-ex>ou</sw-ex><sl>r</sl>",
+          "y<sw-ex>ou</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Muskettery,",
+          "Muskettery,"
+        ],
+        [
+          "we",
+          "we"
+        ],
+        [
+          "hope",
+          "hope"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "Masters",
+          "masters"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "y<sw-ex>ou</sw-ex><sl>r</sl> Muskettery, we hope to be Masters of <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -2.677665281145287,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        20
+      ],
+      "user_ids": [
+        1708223.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 10,
+  "transcribed_lines": 10,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

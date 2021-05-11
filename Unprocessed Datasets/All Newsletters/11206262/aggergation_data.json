@@ -1,0 +1,532 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        252.82,
+        971.88
+      ],
+      "clusters_y": [
+        382.46,
+        397.63
+      ],
+      "clusters_text": [
+        [
+          "3rd",
+          ""
+        ],
+        [
+          "gts",
+          ""
+        ],
+        [
+          "beleived",
+          "believed"
+        ],
+        [
+          "ye",
+          ""
+        ],
+        [
+          "M.",
+          ""
+        ],
+        [
+          "Broughton",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "3rd gts beleived ye M. Broughton",
+      "line_slope": -0.6953188757068819,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        4
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.54,
+        951.125
+      ],
+      "clusters_y": [
+        392.99,
+        402.355
+      ],
+      "clusters_text": [
+        [
+          "3<sw-sup>d</sw-sup>.",
+          ""
+        ],
+        [
+          "Its",
+          ""
+        ],
+        [
+          "beleived",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          ""
+        ],
+        [
+          "M.",
+          "M."
+        ],
+        [
+          "Broughton",
+          "Broughton"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "3<sw-sup>d</sw-sup>. Its beleived <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> M. Broughton",
+      "line_slope": -0.6953188757068819,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.065,
+        901.11
+      ],
+      "clusters_y": [
+        473.58,
+        459.67
+      ],
+      "clusters_text": [
+        [
+          "chaplain",
+          "Chaplain",
+          ""
+        ],
+        [
+          "to",
+          "to",
+          ""
+        ],
+        [
+          "ye",
+          "",
+          ""
+        ],
+        [
+          "Duke",
+          "",
+          "Duke"
+        ],
+        [
+          "of",
+          "",
+          "of"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.6,
+      "consensus_text": "chaplain to ye Duke of",
+      "line_slope": -0.6953188757068819,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        0,
+        1
+      ],
+      "user_ids": [
+        null,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.09,
+        892.5
+      ],
+      "clusters_y": [
+        555.89,
+        544.26
+      ],
+      "clusters_text": [
+        [
+          "",
+          "The"
+        ],
+        [
+          "",
+          "French"
+        ],
+        [
+          "",
+          "Soldiers"
+        ],
+        [
+          "",
+          "and"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "merchants"
+        ],
+        [
+          "",
+          "had"
+        ],
+        [
+          "",
+          "abandoned"
+        ],
+        [
+          "",
+          "Cadiz's"
+        ],
+        [
+          "",
+          "that"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "inhabitants"
+        ],
+        [
+          "",
+          "had"
+        ],
+        [
+          "",
+          "declared"
+        ],
+        [
+          "",
+          "for"
+        ],
+        [
+          "",
+          "R."
+        ],
+        [
+          "",
+          "Charles"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "3rd"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "",
+          "believed"
+        ],
+        [
+          "",
+          "that"
+        ],
+        [
+          "",
+          "M."
+        ],
+        [
+          "",
+          "Broughton,"
+        ],
+        [
+          "",
+          "chaplain"
+        ],
+        [
+          "",
+          "to"
+        ],
+        [
+          "",
+          "Duke"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "Marlborough",
+          "Marlborough"
+        ],
+        [
+          "will",
+          "would"
+        ],
+        [
+          "succeed",
+          "succeed."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.032258064516129,
+      "consensus_text": "The French Soldiers and the merchants had abandoned Cadiz's that the inhabitants had declared for R. Charles the 3rd the believed that M. Broughton, chaplain to Duke of Marlborough will succeed",
+      "line_slope": -0.6953188757068819,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        1909499.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.25,
+        929.54
+      ],
+      "clusters_y": [
+        1055.01,
+        1042.37
+      ],
+      "clusters_text": [
+        [
+          "cannon",
+          "&"
+        ],
+        [
+          "50000",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "cannon 50000",
+      "line_slope": -0.6953188757068819,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        18
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.54500000000002,
+        941.53
+      ],
+      "clusters_y": [
+        1130.1100000000001,
+        1103.37
+      ],
+      "clusters_text": [
+        [
+          "same",
+          "same"
+        ],
+        [
+          "quantity",
+          "quantity"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Swords",
+          "swords"
+        ],
+        [
+          "are",
+          "are"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "same quantity of Swords are",
+      "line_slope": -0.6953188757068819,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        19
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        248.32,
+        873.59
+      ],
+      "clusters_y": [
+        1413.05,
+        1384.93
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "&"
+        ],
+        [
+          "40000",
+          "40000"
+        ],
+        [
+          "Flambeaus",
+          ""
+        ],
+        [
+          "are",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "and 40000 Flambeaus are",
+      "line_slope": -0.6953188757068819,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        24
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.925,
+        947.77
+      ],
+      "clusters_y": [
+        1473.98,
+        1446.02
+      ],
+      "clusters_text": [
+        [
+          "also",
+          "also"
+        ],
+        [
+          "embarqued",
+          "embarqued"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "occasion",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "also embarqued on this occasion",
+      "line_slope": -0.6953188757068819,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        26
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 8,
+  "transcribed_lines": 8,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

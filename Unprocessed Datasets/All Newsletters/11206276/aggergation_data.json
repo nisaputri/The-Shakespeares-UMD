@@ -1,0 +1,809 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        330.21500000000003,
+        720.115
+      ],
+      "clusters_y": [
+        57.635000000000005,
+        61.45
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "June",
+          "June"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "",
+          "26"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "26--1706",
+          "1706"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "London June the 26 - 26--1706",
+      "line_slope": 0.020585530771283354,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1892015.0,
+        1906807.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        322.36,
+        728.31
+      ],
+      "clusters_y": [
+        69.10499999999999,
+        64.92
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "June",
+          "june"
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "26",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "1706",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "London June the 26 - 1706",
+      "line_slope": 0.020585530771283354,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.57,
+        920.135
+      ],
+      "clusters_y": [
+        342.54499999999996,
+        316.73
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Valentia",
+          "Valentia"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "thence",
+          "theme"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Madrid",
+          "madrid"
+        ],
+        [
+          "had",
+          "had"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "for Valentia and thence to Madrid had",
+      "line_slope": -2.164603298112771,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        3
+      ],
+      "user_ids": [
+        429539.0,
+        1906807.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.37333333333333,
+        920.4033333333333
+      ],
+      "clusters_y": [
+        480.45000000000005,
+        463.32
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from",
+          "from"
+        ],
+        [
+          "Saragossa",
+          "Saragossa",
+          "Saragossa"
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "he",
+          "he",
+          "he"
+        ],
+        [
+          "is",
+          "is",
+          "is"
+        ],
+        [
+          "thereupon",
+          "thereupon",
+          "thereupon"
+        ],
+        [
+          "with",
+          "with",
+          "with"
+        ],
+        [
+          "4000",
+          "4000",
+          "4000"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "from Saragossa - he is thereupon with 4000",
+      "line_slope": -2.164603298112771,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        9,
+        4
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0,
+        1906807.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        245.595,
+        924.315
+      ],
+      "clusters_y": [
+        546.95,
+        530.52
+      ],
+      "clusters_text": [
+        [
+          "horse",
+          "",
+          "horse"
+        ],
+        [
+          "and",
+          "",
+          "and"
+        ],
+        [
+          "7000",
+          "7000",
+          "7000"
+        ],
+        [
+          "foot",
+          "foot",
+          "foot"
+        ],
+        [
+          "gon",
+          "",
+          "gon"
+        ],
+        [
+          "to",
+          "",
+          "to"
+        ],
+        [
+          "that",
+          "",
+          "that"
+        ],
+        [
+          "Citty.",
+          "",
+          "Citty."
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.25,
+      "consensus_text": "horse and 7000 foot gon to that Citty.",
+      "line_slope": -2.164603298112771,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        3,
+        5
+      ],
+      "user_ids": [
+        429539.0,
+        null,
+        1906807.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.96,
+        927.25
+      ],
+      "clusters_y": [
+        628.1500000000001,
+        607.665
+      ],
+      "clusters_text": [
+        [
+          "It",
+          "It"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "ordered",
+          "ordered"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "reason",
+          "reason"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "heate",
+          "<sw-unclear>????</sw-unclear>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "It is ordered by reason of the heate",
+      "line_slope": -2.164603298112771,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        11
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        239.3,
+        866.5550000000001
+      ],
+      "clusters_y": [
+        779.64,
+        747.7149999999999
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Madrid",
+          "madrid"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "my",
+          "my"
+        ],
+        [
+          "Lord",
+          "Lord"
+        ],
+        [
+          "Peterborough",
+          "Peterborough"
+        ],
+        [
+          "has",
+          "has"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "to Madrid - my Lord Peterborough has",
+      "line_slope": -2.164603298112771,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        7
+      ],
+      "user_ids": [
+        429539.0,
+        1906807.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        246.75,
+        935.7950000000001
+      ],
+      "clusters_y": [
+        849.2850000000001,
+        820.905
+      ],
+      "clusters_text": [
+        [
+          "undertook",
+          "undertook"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "reduce",
+          "reduce"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "kingdome",
+          "kingdome"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Valencia",
+          "Valencia"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "undertook to reduce the kingdome of Valencia",
+      "line_slope": -2.164603298112771,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        12
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        236.26999999999998,
+        914.515
+      ],
+      "clusters_y": [
+        929.5966666666667,
+        894.105
+      ],
+      "clusters_text": [
+        [
+          "Granada",
+          "Granada",
+          "Granada"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "Mayorcha",
+          "meiyorha",
+          "Mayorkha"
+        ],
+        [
+          "-",
+          "",
+          "-"
+        ],
+        [
+          "Amsterdam",
+          "",
+          "Amsterdam"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.2,
+      "consensus_text": "Granada and Mayorcha - Amsterdam",
+      "line_slope": -2.164603298112771,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        5,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.505,
+        894.6800000000001
+      ],
+      "clusters_y": [
+        1000.54,
+        972.46
+      ],
+      "clusters_text": [
+        [
+          "June",
+          "June"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "29<sw-sup>th</sw-sup>",
+          "29<sw-sup>th"
+        ],
+        [
+          "Monsieur",
+          "</sw-sup>Mons<sw-sup>r</sw-sup>"
+        ],
+        [
+          "Anverkerke",
+          "<sw-unclear>Awvekerr"
+        ],
+        [
+          "",
+          "</sw-unclear>"
+        ],
+        [
+          "has",
+          "has"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "June the 29<sw-sup>th</sw-sup> Monsieur Anverkerke </sw-unclear> has",
+      "line_slope": -2.164603298112771,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        13
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.11,
+        875.265
+      ],
+      "clusters_y": [
+        1067.98,
+        1040.365
+      ],
+      "clusters_text": [
+        [
+          "sent",
+          "sent"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Courire",
+          "Courire"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "high",
+          "high"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "sent a Courire to their high and",
+      "line_slope": -2.164603298112771,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        14
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.98000000000002,
+        896.05
+      ],
+      "clusters_y": [
+        1218.545,
+        1200.65
+      ],
+      "clusters_text": [
+        [
+          "utmost",
+          "utmost"
+        ],
+        [
+          "resistance",
+          "resistance"
+        ],
+        [
+          "he",
+          "he"
+        ],
+        [
+          "shall",
+          "shall"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "able",
+          "able"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "utmost resistance he shall be able to",
+      "line_slope": -2.164603298112771,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        16
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        239.57999999999998,
+        863.02
+      ],
+      "clusters_y": [
+        1406.455,
+        1382.73
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Pensioner",
+          "Pensioner"
+        ],
+        [
+          "here",
+          "here"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "received",
+          "received"
+        ],
+        [
+          "a",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the Pensioner here has received a",
+      "line_slope": -2.164603298112771,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        18
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 12,
+  "transcribed_lines": 13,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

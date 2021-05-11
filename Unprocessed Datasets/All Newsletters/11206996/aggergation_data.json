@@ -1,0 +1,145 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        918.735,
+        917.675
+      ],
+      "clusters_y": [
+        48.16,
+        378.265
+      ],
+      "clusters_text": [
+        [
+          "17",
+          "17"
+        ],
+        [
+          "June",
+          "June"
+        ],
+        [
+          "1708",
+          "1708"
+        ],
+        [
+          "n",
+          ""
+        ],
+        [
+          "N.l.",
+          "n.N.l."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "17 June 1708 n N.l.",
+      "line_slope": 90.1797038989463,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        6
+      ],
+      "user_ids": [
+        1591102.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        408.24,
+        388.70500000000004
+      ],
+      "clusters_y": [
+        975.12,
+        628.24
+      ],
+      "clusters_text": [
+        [
+          "N",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "N Arbury",
+      "line_slope": -93.3034400275338,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        4
+      ],
+      "user_ids": [
+        1591102.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        465.3,
+        447.885
+      ],
+      "clusters_y": [
+        795.91,
+        482.40999999999997
+      ],
+      "clusters_text": [
+        [
+          "Warwickshire",
+          "Warwickshire"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Warwickshire",
+      "line_slope": -93.3034400275338,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        4
+      ],
+      "user_ids": [
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

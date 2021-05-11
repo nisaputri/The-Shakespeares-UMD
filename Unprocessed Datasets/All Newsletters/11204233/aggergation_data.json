@@ -1,0 +1,143 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        271.02,
+        895.34
+      ],
+      "clusters_y": [
+        126.70000000000002,
+        114.375
+      ],
+      "clusters_text": [
+        [
+          "And",
+          "And"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "burnt",
+          "burnt"
+        ],
+        [
+          "some",
+          "some"
+        ],
+        [
+          "Shipping",
+          "Shipping"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "And <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> they have burnt some Shipping",
+      "line_slope": -1.0017505062687395,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        5
+      ],
+      "user_ids": [
+        352990.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        278.5466666666666,
+        862.84
+      ],
+      "clusters_y": [
+        177.28333333333333,
+        167.85666666666668
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "blowne",
+          "blowne",
+          "blowne"
+        ],
+        [
+          "up",
+          "vp",
+          "up"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "salladore",
+          "Salladore",
+          "<sw-unclear>Salladoz</sw-unclear>"
+        ],
+        [
+          "Bridge",
+          "Bridge",
+          "Bridge"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "and blowne up <brev-y>th</brev-y><sl>e</sl> salladore Bridge",
+      "line_slope": -1.0017505062687395,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1,
+        6
+      ],
+      "user_ids": [
+        1627866.0,
+        352990.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

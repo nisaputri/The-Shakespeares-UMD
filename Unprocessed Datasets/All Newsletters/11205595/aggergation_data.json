@@ -1,0 +1,240 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        252.89,
+        897.86
+      ],
+      "clusters_y": [
+        233.815,
+        198.64
+      ],
+      "clusters_text": [
+        [
+          "now",
+          "now"
+        ],
+        [
+          "pereived",
+          "received"
+        ],
+        [
+          "an",
+          "an"
+        ],
+        [
+          "amount",
+          "account"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "our",
+          "our"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "now pereived an amount from our",
+      "line_slope": -2.7381057633332895,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2
+      ],
+      "user_ids": [
+        1466844.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        241.74,
+        900.9200000000001
+      ],
+      "clusters_y": [
+        364.48,
+        321.35
+      ],
+      "clusters_text": [
+        [
+          "in",
+          ""
+        ],
+        [
+          "motion",
+          ""
+        ],
+        [
+          "upon",
+          ""
+        ],
+        [
+          "which",
+          "which"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Earl",
+          "Earl"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "in motion upon which the Earl of",
+      "line_slope": -2.7381057633332895,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        13
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        236.55,
+        856.19
+      ],
+      "clusters_y": [
+        581.07,
+        546.98
+      ],
+      "clusters_text": [
+        [
+          "ffrontires,",
+          ""
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "all",
+          "all"
+        ],
+        [
+          "the",
+          "this"
+        ],
+        [
+          "English",
+          "English"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "ffrontires, and all the English",
+      "line_slope": -2.7381057633332895,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        3
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.27,
+        930.49
+      ],
+      "clusters_y": [
+        790.73,
+        754.34
+      ],
+      "clusters_text": [
+        [
+          "the",
+          ""
+        ],
+        [
+          "mending",
+          ""
+        ],
+        [
+          "hand,",
+          "hand"
+        ],
+        [
+          "and",
+          ""
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "People",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "the mending hand, and the People",
+      "line_slope": -2.7381057633332895,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        5
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

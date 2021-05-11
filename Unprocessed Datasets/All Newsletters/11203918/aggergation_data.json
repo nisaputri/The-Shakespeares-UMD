@@ -1,0 +1,217 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        245.45499999999998,
+        919.9200000000001
+      ],
+      "clusters_y": [
+        614.22,
+        592.75
+      ],
+      "clusters_text": [
+        [
+          "putt",
+          "putt"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Sea",
+          "Sea"
+        ],
+        [
+          "tho<sw-ex>ugh</sw-ex>",
+          "tho"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "Condic<sw-ex>i</sw-ex>on",
+          "Condicon"
+        ],
+        [
+          "least",
+          "least"
+        ],
+        [
+          "he",
+          "he"
+        ],
+        [
+          "should",
+          "should"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "putt to Sea tho<sw-ex>ugh</sw-ex> in <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> Condic<sw-ex>i</sw-ex>on least he should",
+      "line_slope": -1.9514635931953417,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.82999999999998,
+        917.885
+      ],
+      "clusters_y": [
+        1086.225,
+        1061.49
+      ],
+      "clusters_text": [
+        [
+          "if",
+          "if"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "Repub<sw-ex>lic</sw-ex>:",
+          "Repub:"
+        ],
+        [
+          "would",
+          "would"
+        ],
+        [
+          "not",
+          "not"
+        ],
+        [
+          "Comply",
+          "Comply"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "some",
+          "some"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "if <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> Repub<sw-ex>lic</sw-ex>: would not Comply w<sw-ex>i</sw-ex><sl>th</sl> some",
+      "line_slope": -1.9514635931953417,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        25,
+        7
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.57999999999998,
+        898.29
+      ],
+      "clusters_y": [
+        1456.0500000000002,
+        1449.37
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Port",
+          "Port"
+        ],
+        [
+          "where",
+          "where"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "seiz<sw-ex>e</sw-ex>d",
+          "seizd"
+        ],
+        [
+          "him",
+          "him"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "his",
+          "his"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> Port where they seiz<sw-ex>e</sw-ex>d him with his",
+      "line_slope": -1.9514635931953417,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        33,
+        12
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

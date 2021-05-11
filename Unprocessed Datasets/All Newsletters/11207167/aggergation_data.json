@@ -1,0 +1,302 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        857.5450000000001,
+        857.5450000000001
+      ],
+      "clusters_y": [
+        1169.175,
+        1508.48
+      ],
+      "clusters_text": [
+        [
+          "Sep<sw-ex>tember</sw-ex>",
+          "Sept<sw-ex>ember</sw-ex>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "30<sw-sup>th</sw-sup>",
+          "30<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1708",
+          "1708"
+        ],
+        [
+          "DN",
+          "D"
+        ],
+        [
+          "",
+          "N"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Sep<sw-ex>tember</sw-ex> <brev-y>th</brev-y><sl>e</sl> 30<sw-sup>th</sw-sup> 1708 DN N",
+      "line_slope": 90.0,
+      "slope_label": 2,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        8
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        40.25333333333334,
+        924.36
+      ],
+      "clusters_y": [
+        56.79333333333333,
+        77.44
+      ],
+      "clusters_text": [
+        [
+          "(damaged)",
+          "<sw-unclear>??</sw-unclear>",
+          "<sw-unclear>???</sw-unclear>"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Thames",
+          "Thames",
+          "Thames"
+        ],
+        [
+          "that",
+          "that",
+          "that"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Coach",
+          "Coach",
+          "Coach"
+        ],
+        [
+          "tumbled",
+          "tumbled",
+          "tumbled"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.75,
+      "consensus_text": "(damaged) the Thames that <brev-y>th</brev-y><sl>e</sl> Coach tumbled in",
+      "line_slope": 0.9512110140597957,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        25.75,
+        918.01
+      ],
+      "clusters_y": [
+        107.00999999999999,
+        118.76
+      ],
+      "clusters_text": [
+        [
+          "&",
+          "&"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "horses",
+          "horses"
+        ],
+        [
+          "(being",
+          "(being"
+        ],
+        [
+          "4)",
+          "4)"
+        ],
+        [
+          "all",
+          "all"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "drew",
+          "drew"
+        ],
+        [
+          "it",
+          "it"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "& <brev-y>th</brev-y><sl>e</sl> horses (being 4) all that drew it",
+      "line_slope": 0.9512110140597957,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        284.94,
+        251.66
+      ],
+      "clusters_y": [
+        1064.8400000000001,
+        518.8299999999999
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ],
+        [
+          "S<sw-ex>i</sw-ex>r",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Rich<sw-ex>ar</sw-ex>d",
+          "Rich<sw-ex>ar</sw-ex>d"
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "To S<sw-ex>i</sw-ex>r Rich<sw-ex>ar</sw-ex>d Newdigate",
+      "line_slope": -93.2684022281335,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        3
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        384.40999999999997,
+        361.18
+      ],
+      "clusters_y": [
+        944.455,
+        530.68
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At"
+        ],
+        [
+          "Arbury",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "At Arbury",
+      "line_slope": -93.2684022281335,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        5
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

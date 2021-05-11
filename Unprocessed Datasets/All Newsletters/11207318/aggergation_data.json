@@ -1,0 +1,275 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        231.84,
+        932.135
+      ],
+      "clusters_y": [
+        140.505,
+        147.23000000000002
+      ],
+      "clusters_text": [
+        [
+          "Letters",
+          "Letters"
+        ],
+        [
+          "which",
+          "which"
+        ],
+        [
+          "came",
+          "came"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "yesterday",
+          "Yesterday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Letters which came in yesterday",
+      "line_slope": 0.19129152799992294,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        233.99,
+        926.065
+      ],
+      "clusters_y": [
+        603.87,
+        614.81
+      ],
+      "clusters_text": [
+        [
+          "Vendome",
+          "Vendome"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "Marching",
+          "Marching"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Vendome who was Marching",
+      "line_slope": 0.19129152799992294,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        8
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.27,
+        919.915
+      ],
+      "clusters_y": [
+        904.04,
+        910.145
+      ],
+      "clusters_text": [
+        [
+          "Assisting",
+          "Assisting"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Prince",
+          "Prince"
+        ],
+        [
+          "Eugene",
+          "Eugene"
+        ],
+        [
+          "in",
+          "in"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Assisting to Prince Eugene in",
+      "line_slope": 0.19129152799992294,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        12
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.94,
+        936.84
+      ],
+      "clusters_y": [
+        983.6700000000001,
+        980.0
+      ],
+      "clusters_text": [
+        [
+          "taking",
+          "taking"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "same",
+          "same"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Monsieur",
+          "Monsieur"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "taking the same - Monsieur",
+      "line_slope": 0.19129152799992294,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        13
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        238.98000000000002,
+        916.2
+      ],
+      "clusters_y": [
+        1313.03,
+        1305.8899999999999
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Approach",
+          "Approach"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the Approach of the Duke of",
+      "line_slope": 0.19129152799992294,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        17
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

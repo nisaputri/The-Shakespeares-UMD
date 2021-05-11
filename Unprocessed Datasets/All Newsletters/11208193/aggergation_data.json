@@ -1,0 +1,430 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        43.8,
+        934.5450000000001
+      ],
+      "clusters_y": [
+        119.725,
+        115.245
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "famous",
+          "famous"
+        ],
+        [
+          "Highwayman",
+          "Highwayman"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "Apprehended",
+          "Apprehended"
+        ],
+        [
+          "there",
+          "there"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> famous Highwayman was Apprehended there",
+      "line_slope": -0.8430160188565341,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        33.29,
+        922.11
+      ],
+      "clusters_y": [
+        225.77499999999998,
+        207.85
+      ],
+      "clusters_text": [
+        [
+          "Shott",
+          "Shott"
+        ],
+        [
+          "dead",
+          "Dead"
+        ],
+        [
+          "one",
+          "on"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Assistants",
+          "Assistants"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Constables",
+          "Constables-"
+        ],
+        [
+          "-",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Shott dead one of the Assistants to <brev-y>th</brev-y><sl>e</sl> Constables -",
+      "line_slope": -0.8430160188565341,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        41.015,
+        931.93
+      ],
+      "clusters_y": [
+        273.52,
+        252.26999999999998
+      ],
+      "clusters_text": [
+        [
+          "Mr",
+          "Mr"
+        ],
+        [
+          "???",
+          "Cheeke"
+        ],
+        [
+          "Grandson",
+          "Grandson"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "late",
+          "late"
+        ],
+        [
+          "Govn<sw-sup>r</sw-sup>",
+          "Govn<sw-ex>our</sw-ex>"
+        ],
+        [
+          "of<brev-y>",
+          "of"
+        ],
+        [
+          "th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Tower",
+          "Tower"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "Mr ??? Grandson to <brev-y>th</brev-y><sl>e</sl> late Govn<sw-sup>r</sw-sup> of<brev-y> th</brev-y><sl>e</sl> Tower",
+      "line_slope": -0.8430160188565341,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        36.004999999999995,
+        927.575
+      ],
+      "clusters_y": [
+        318.325,
+        305.74
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "Charles",
+          "Charles"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "2<sw-sup>nd</sw-sup>",
+          "2<sw-sup>d</sw-sup>s"
+        ],
+        [
+          "time",
+          "time"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "dead",
+          "dead"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Gen<sw-sup>ll",
+          "Gen<sw-ex>era</sw-ex>ll"
+        ],
+        [
+          "</sw-sup>Webb",
+          "Webb"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7272727272727273,
+      "consensus_text": "in King Charles <brev-y>th</brev-y><sl>e</sl> 2<sw-sup>nd</sw-sup> time is dead - Gen<sw-sup>ll </sw-sup>Webb",
+      "line_slope": -0.8430160188565341,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        40.36,
+        929.0450000000001
+      ],
+      "clusters_y": [
+        371.08500000000004,
+        361.355
+      ],
+      "clusters_text": [
+        [
+          "Govn<sw-sup>r</sw-sup>",
+          "Govn<sw-ex>ou</sw-ex>r"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Isle",
+          "Isle"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Wight",
+          "Wight"
+        ],
+        [
+          "lyes",
+          "lyes"
+        ],
+        [
+          "",
+          "so"
+        ],
+        [
+          "Dangerously",
+          "Dangerously"
+        ],
+        [
+          "Ill",
+          "Ill"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Govn<sw-sup>r</sw-sup> of <brev-y>th</brev-y><sl>e</sl> Isle of Wight lyes so Dangerously Ill",
+      "line_slope": -0.8430160188565341,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        43.7,
+        901.11
+      ],
+      "clusters_y": [
+        481.46500000000003,
+        447.655
+      ],
+      "clusters_text": [
+        [
+          "Recovery",
+          "Recovery"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Ar<sw-sup>ch</sw-sup>",
+          "A<sw-ex>rchbisho</sw-ex>p"
+        ],
+        [
+          "B<sw-sup>p</sw-sup>",
+          ""
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Canterbury's",
+          "Canterburyes"
+        ],
+        [
+          "Lady",
+          "Lady"
+        ],
+        [
+          "Lyes",
+          "Lyes"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Recovery - The Ar<sw-sup>ch</sw-sup> B<sw-sup>p</sw-sup> of Canterbury's Lady Lyes",
+      "line_slope": -2.772977201123452,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        8
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 6,
+  "transcribed_lines": 6,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

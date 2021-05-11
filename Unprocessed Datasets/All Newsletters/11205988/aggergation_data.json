@@ -1,0 +1,291 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        127.64,
+        141.435
+      ],
+      "clusters_y": [
+        70.24,
+        1372.15
+      ],
+      "clusters_text": [
+        [
+          "and",
+          ""
+        ],
+        [
+          "holland",
+          ""
+        ],
+        [
+          "are",
+          ""
+        ],
+        [
+          "to",
+          ""
+        ],
+        [
+          "send",
+          ""
+        ],
+        [
+          "twelve",
+          ""
+        ],
+        [
+          "thousand",
+          "thousand"
+        ],
+        [
+          "men",
+          "men"
+        ],
+        [
+          "into",
+          "into"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "and holland are to send twelve thousand men into",
+      "line_slope": 89.51076232636396,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        24
+      ],
+      "user_ids": [
+        null,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.275,
+        947.355
+      ],
+      "clusters_y": [
+        365.52,
+        335.03499999999997
+      ],
+      "clusters_text": [
+        [
+          "will",
+          "will"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "devlared",
+          "declared"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Concell",
+          "Councell"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "thursday",
+          "thursday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "will be devlared in Concell on thursday",
+      "line_slope": -3.1205789238440396,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        6
+      ],
+      "user_ids": [
+        null,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.92,
+        949.54
+      ],
+      "clusters_y": [
+        523.38,
+        486.98
+      ],
+      "clusters_text": [
+        [
+          "newcastle",
+          "is"
+        ],
+        [
+          "",
+          "goeing"
+        ],
+        [
+          "Lord",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "newcastle goeing Lord",
+      "line_slope": -3.1205789238440396,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        9
+      ],
+      "user_ids": [
+        864398.0,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.935,
+        905.735
+      ],
+      "clusters_y": [
+        888.885,
+        859.255
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Pensionary",
+          "Pensionary"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Holland",
+          "Holland"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the Pensionary of Holland and the",
+      "line_slope": -3.1205789238440396,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        14
+      ],
+      "user_ids": [
+        null,
+        864398.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.055,
+        944.18
+      ],
+      "clusters_y": [
+        1070.45,
+        1038.05
+      ],
+      "clusters_text": [
+        [
+          "frequent",
+          "frequent"
+        ],
+        [
+          "conferences",
+          ""
+        ],
+        [
+          "about",
+          ""
+        ],
+        [
+          "the",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "frequent conferences about the",
+      "line_slope": -3.1205789238440396,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        16
+      ],
+      "user_ids": [
+        null,
+        864398.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

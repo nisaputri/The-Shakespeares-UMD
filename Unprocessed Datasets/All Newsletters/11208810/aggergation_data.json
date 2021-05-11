@@ -1,0 +1,853 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        116.03,
+        894.75
+      ],
+      "clusters_y": [
+        80.17,
+        74.19
+      ],
+      "clusters_text": [
+        [
+          "London"
+        ],
+        [
+          "Aprill"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "26<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1715"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "London Aprill <brev-y>th</brev-y><sl>e</sl> 26<sw-sup>th</sw-sup> 1715",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        120.465,
+        926.105
+      ],
+      "clusters_y": [
+        258.64,
+        254.56
+      ],
+      "clusters_text": [
+        [
+          "Com<sw-ex>m</sw-ex>ittee",
+          "",
+          "Comittee"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Secrecy",
+          "",
+          "Secrecy"
+        ],
+        [
+          "at",
+          "",
+          "at"
+        ],
+        [
+          "the",
+          "",
+          "the"
+        ],
+        [
+          "Cockpitt",
+          "",
+          "Cockpitt"
+        ],
+        [
+          "-",
+          "",
+          "-"
+        ],
+        [
+          "The",
+          "",
+          "The"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "Com<sw-ex>m</sw-ex>ittee of Secrecy at the Cockpitt - The",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4,
+        16
+      ],
+      "user_ids": [
+        1347003.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        93.22,
+        920.31
+      ],
+      "clusters_y": [
+        434.38,
+        432.58
+      ],
+      "clusters_text": [
+        [
+          "the",
+          ""
+        ],
+        [
+          "same",
+          ""
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "not",
+          "not"
+        ],
+        [
+          "be",
+          ""
+        ],
+        [
+          "p<sw-ex>e</sw-ex>rfected",
+          ""
+        ],
+        [
+          "till",
+          ""
+        ],
+        [
+          "the",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "the same will not be p<sw-ex>e</sw-ex>rfected till the",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        3
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        98.50999999999999,
+        918.975
+      ],
+      "clusters_y": [
+        500.79,
+        503.755
+      ],
+      "clusters_text": [
+        [
+          "Latter",
+          "latter"
+        ],
+        [
+          "End",
+          "End"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "next",
+          "next"
+        ],
+        [
+          "Weeke",
+          "Week"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "lay",
+          "lay"
+        ],
+        [
+          "before",
+          "before"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Latter End of next Weeke to lay before",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        3
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        96.81,
+        953.24
+      ],
+      "clusters_y": [
+        580.76,
+        570.1800000000001
+      ],
+      "clusters_text": [
+        [
+          "the",
+          ""
+        ],
+        [
+          "House",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "Last",
+          ""
+        ],
+        [
+          "Sunday",
+          ""
+        ],
+        [
+          "M<sw-sup>r</sw-sup>",
+          ""
+        ],
+        [
+          "Walpole",
+          ""
+        ],
+        [
+          "had",
+          "had"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.125,
+      "consensus_text": "the House - Last Sunday M<sw-sup>r</sw-sup> Walpole had",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        1
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        99.5,
+        959.82
+      ],
+      "clusters_y": [
+        633.74,
+        642.72
+      ],
+      "clusters_text": [
+        [
+          "another",
+          ""
+        ],
+        [
+          "Violent",
+          ""
+        ],
+        [
+          "fitt",
+          ""
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "stone",
+          ""
+        ],
+        [
+          "but",
+          ""
+        ],
+        [
+          "yesterday",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "another Violent fitt of the stone but yesterday",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        0
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        94.50999999999999,
+        945.54
+      ],
+      "clusters_y": [
+        825.4449999999999,
+        822.39
+      ],
+      "clusters_text": [
+        [
+          "one",
+          "one"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "two",
+          "two"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Clock",
+          "Clock"
+        ],
+        [
+          "two",
+          "two"
+        ],
+        [
+          "Houses",
+          "Houses"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "S<sw-sup>t</sw-sup>",
+          "St."
+        ],
+        [
+          "James's",
+          "James's"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "one & two a Clock two Houses in S<sw-sup>t</sw-sup> James's",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        14
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        125.065,
+        931.005
+      ],
+      "clusters_y": [
+        1004.28,
+        999.77
+      ],
+      "clusters_text": [
+        [
+          "People",
+          "People"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Patten",
+          "Patten"
+        ],
+        [
+          "makers",
+          "makers"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "saved",
+          "saved"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "People in the Patten makers were saved",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        5
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        113.825,
+        943.45
+      ],
+      "clusters_y": [
+        1068.085,
+        1067.405
+      ],
+      "clusters_text": [
+        [
+          "But",
+          "But"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Butcher",
+          "Butcher"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "wife",
+          "wife"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "two",
+          "two"
+        ],
+        [
+          "more",
+          "more"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "But the Butcher his wife with two more",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        6
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        116.06,
+        936.77
+      ],
+      "clusters_y": [
+        1132.19,
+        1130.15
+      ],
+      "clusters_text": [
+        [
+          "Men",
+          "men"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "one",
+          "one"
+        ],
+        [
+          "Woman",
+          "Woman"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "Lost",
+          "Lost"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "Men & one Woman were Lost in the",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        7
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        114.065,
+        960.4649999999999
+      ],
+      "clusters_y": [
+        1189.4850000000001,
+        1191.59
+      ],
+      "clusters_text": [
+        [
+          "Ruins",
+          "Ruins"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "other",
+          "Other"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "On",
+          "On"
+        ],
+        [
+          "Sunday",
+          "Sunday"
+        ],
+        [
+          "Last",
+          "Last"
+        ],
+        [
+          "John",
+          "John"
+        ],
+        [
+          "Povey",
+          "Povey"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "Ruins of the other - On Sunday Last John Povey",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        8
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        103.61,
+        934.0
+      ],
+      "clusters_y": [
+        1241.94,
+        1234.115
+      ],
+      "clusters_text": [
+        [
+          "Esq<sw-ex>uire</sw-ex>",
+          "Esq<sw-ex>uire</sw-ex>"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "been",
+          "been"
+        ],
+        [
+          "Clarke",
+          "Clarke"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Councell",
+          "Councell"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Esq<sw-ex>uire</sw-ex> who had been Clarke of the Councell to",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        9
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        112.565,
+        931.2149999999999
+      ],
+      "clusters_y": [
+        1290.37,
+        1282.995
+      ],
+      "clusters_text": [
+        [
+          "King",
+          "KIng"
+        ],
+        [
+          "Charles",
+          "Charles"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "2<sw-sup>d</sw-sup>",
+          "2d"
+        ],
+        [
+          "King",
+          "King"
+        ],
+        [
+          "James",
+          "James"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "2<sw-sup>d</sw-sup>",
+          "2d"
+        ],
+        [
+          "King",
+          "King"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "King Charles the 2<sw-sup>d</sw-sup> King James the 2<sw-sup>d</sw-sup> King",
+      "line_slope": -0.42750945818543373,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        10
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 13,
+  "transcribed_lines": 13,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

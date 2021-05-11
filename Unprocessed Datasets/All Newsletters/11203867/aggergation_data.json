@@ -1,0 +1,193 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        255.95,
+        663.655
+      ],
+      "clusters_y": [
+        423.455,
+        424.15
+      ],
+      "clusters_text": [
+        [
+          "frig<sw-ex>a</sw-ex>tts",
+          "frig<sw-ex>o</sw-ex>tts"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "2",
+          "2"
+        ],
+        [
+          "E<sw-ex>ast</sw-ex>",
+          "E."
+        ],
+        [
+          "India",
+          "India"
+        ],
+        [
+          "Ship<sw-ex>e</sw-ex>s",
+          "ships"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5714285714285714,
+      "consensus_text": "frig<sw-ex>a</sw-ex>tts & <brev-y>th</brev-y><sl>e</sl> 2 E<sw-ex>ast</sw-ex> India Ship<sw-ex>e</sw-ex>s",
+      "line_slope": 0.4637712797264741,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        8
+      ],
+      "user_ids": [
+        1790401.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        291.04,
+        920.4200000000001
+      ],
+      "clusters_y": [
+        473.87,
+        473.6
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Vorves"
+        ],
+        [
+          "",
+          "19"
+        ],
+        [
+          "yesterd<sw-ex>ay</sw-ex>",
+          "yesterd<sw-ex>ay</sw-ex>"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "vessell",
+          "vessell"
+        ],
+        [
+          "arrived",
+          "arrived"
+        ],
+        [
+          "here",
+          "here"
+        ],
+        [
+          "fro<sw-ex>m</sw-ex>",
+          "fro<sw-ex>m</sw-ex>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Vorves 19 yesterd<sw-ex>ay</sw-ex> a vessell arrived here fro<sw-ex>m</sw-ex>",
+      "line_slope": 0.4637712797264741,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        9
+      ],
+      "user_ids": [
+        1790401.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.41,
+        923.0
+      ],
+      "clusters_y": [
+        903.74,
+        898.46
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "14"
+        ],
+        [
+          "pacqt",
+          "guns"
+        ],
+        [
+          "boat",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "model"
+        ],
+        [
+          "is",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "a pacqt boat w<sw-ex>hi</sw-ex><sl>ch</sl> is",
+      "line_slope": 0.4637712797264741,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        17
+      ],
+      "user_ids": [
+        1790401.0,
+        1790401.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

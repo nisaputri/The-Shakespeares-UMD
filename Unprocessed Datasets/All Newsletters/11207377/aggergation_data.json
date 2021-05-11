@@ -1,0 +1,87 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        200.49,
+        704.345
+      ],
+      "clusters_y": [
+        436.34000000000003,
+        421.895
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "bring",
+          "bring"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "war",
+          "war"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "happy",
+          "happy"
+        ],
+        [
+          "conclusion,",
+          "Conclusion,"
+        ],
+        [
+          "but",
+          "but"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "to bring the war to a happy conclusion, but",
+      "line_slope": -1.8186807310175621,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        7
+      ],
+      "user_ids": [
+        null,
+        1524758.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

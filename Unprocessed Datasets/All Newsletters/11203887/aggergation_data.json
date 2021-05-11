@@ -1,0 +1,138 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        245.98000000000002,
+        923.3
+      ],
+      "clusters_y": [
+        862.2750000000001,
+        856.755
+      ],
+      "clusters_text": [
+        [
+          "near",
+          "near"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "hand",
+          "hand"
+        ],
+        [
+          "next",
+          "next"
+        ],
+        [
+          "Spring",
+          "Spring"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "push",
+          "push"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "farther",
+          "farther"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "near at hand next Spring to push on <brev-y>th</brev-y><sl>e</sl> farther",
+      "line_slope": -0.03948658860387043,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        235.725,
+        692.8399999999999
+      ],
+      "clusters_y": [
+        907.895,
+        903.24
+      ],
+      "clusters_text": [
+        [
+          "Conquests",
+          "Conquests"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Archipelagoe",
+          "Archipelago."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Conquests in <brev-y>th</brev-y><sl>e</sl> Archipelagoe",
+      "line_slope": -0.03948658860387043,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

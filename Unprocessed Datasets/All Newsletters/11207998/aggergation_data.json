@@ -1,0 +1,150 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        35.974999999999994,
+        950.4300000000001
+      ],
+      "clusters_y": [
+        174.85000000000002,
+        165.01
+      ],
+      "clusters_text": [
+        [
+          "Mother",
+          "Mother"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "Entered",
+          "Entered"
+        ],
+        [
+          "herself",
+          "herself"
+        ],
+        [
+          "into",
+          "into"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Convent",
+          "Convent"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Chaillot",
+          "Chaillot"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Mother has Entered herself into <brev-y>th</brev-y><sl>e</sl> Convent of Chaillot",
+      "line_slope": -0.9243431931533076,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        352990.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        51.045,
+        929.3499999999999
+      ],
+      "clusters_y": [
+        881.04,
+        864.1700000000001
+      ],
+      "clusters_text": [
+        [
+          "next",
+          "next"
+        ],
+        [
+          "meeting",
+          "Meeting"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "give",
+          "give"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "satisfactory",
+          "satisfactory"
+        ],
+        [
+          "Accott",
+          "Accott"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "next meeting to give a satisfactory Accott of",
+      "line_slope": -0.9243431931533076,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        18
+      ],
+      "user_ids": [
+        1320970.0,
+        352990.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

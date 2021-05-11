@@ -1,0 +1,184 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        340.47,
+        319.905
+      ],
+      "clusters_y": [
+        904.0899999999999,
+        1228.155
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "At"
+        ],
+        [
+          "<sw-del>Arby</sw-del>",
+          "<sw-del>Arby</sw-del>"
+        ],
+        [
+          "Arbory",
+          "Arbury"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "At <sw-del>Arby</sw-del> Arbory",
+      "line_slope": 93.50989890913286,
+      "slope_label": 7,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        2
+      ],
+      "user_ids": [
+        165259.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        309.275,
+        436.375
+      ],
+      "clusters_y": [
+        154.85,
+        157.035
+      ],
+      "clusters_text": [
+        [
+          "8)200(25",
+          "8)200(25"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "8)200(25",
+      "line_slope": 0.9493777877671055,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        5
+      ],
+      "user_ids": [
+        165259.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        771.16,
+        883.015
+      ],
+      "clusters_y": [
+        184.235,
+        180.44
+      ],
+      "clusters_text": [
+        [
+          "27:01:00",
+          "37:01:00"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "27:01:00",
+      "line_slope": -1.5126169023297331,
+      "slope_label": 3,
+      "gutter_label": 3,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        20
+      ],
+      "user_ids": [
+        165259.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        765.92,
+        876.0699999999999
+      ],
+      "clusters_y": [
+        213.94,
+        210.015
+      ],
+      "clusters_text": [
+        [
+          "32",
+          "32:10:00"
+        ],
+        [
+          ":",
+          ""
+        ],
+        [
+          "10",
+          ""
+        ],
+        [
+          ":",
+          ""
+        ],
+        [
+          "00",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "32 : 10 : 00",
+      "line_slope": -1.5126169023297331,
+      "slope_label": 3,
+      "gutter_label": 3,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        21
+      ],
+      "user_ids": [
+        165259.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

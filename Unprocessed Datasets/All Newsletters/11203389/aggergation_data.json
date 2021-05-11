@@ -1,0 +1,197 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        148.53,
+        161.21
+      ],
+      "clusters_y": [
+        280.6,
+        1496.68
+      ],
+      "clusters_text": [
+        [
+          "Squadron",
+          "men"
+        ],
+        [
+          "which",
+          "of"
+        ],
+        [
+          "will",
+          "Warr"
+        ],
+        [
+          "be",
+          "[War]"
+        ],
+        [
+          "Composd",
+          "besides"
+        ],
+        [
+          "[Composed]",
+          "Galleyes"
+        ],
+        [
+          "of",
+          "[Galleys]"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Squadron which will be Composd [Composed] of",
+      "line_slope": 89.44174264292332,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        33,
+        34
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.47,
+        934.38
+      ],
+      "clusters_y": [
+        428.0,
+        406.54
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "they"
+        ],
+        [
+          "report",
+          "were"
+        ],
+        [
+          "it",
+          ""
+        ],
+        [
+          "today",
+          ""
+        ],
+        [
+          "and",
+          ""
+        ],
+        [
+          "go",
+          ""
+        ],
+        [
+          "upe",
+          ""
+        ],
+        [
+          "[up]",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "to report it today and go upe [up]",
+      "line_slope": -2.2498591828233283,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        10
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        373.51,
+        900.58
+      ],
+      "clusters_y": [
+        1378.19,
+        1366.51
+      ],
+      "clusters_text": [
+        [
+          "Counsell",
+          ""
+        ],
+        [
+          "[Counsel]",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "Warr",
+          "Marine"
+        ],
+        [
+          "[War]",
+          ""
+        ],
+        [
+          "at",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Counsell [Counsel] of Warr [War] at",
+      "line_slope": -2.2498591828233283,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        27,
+        30
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

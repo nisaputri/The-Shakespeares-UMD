@@ -1,0 +1,260 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        115.175,
+        144.985
+      ],
+      "clusters_y": [
+        83.42500000000001,
+        1478.3000000000002
+      ],
+      "clusters_text": [
+        [
+          "yesterday",
+          "yesterday"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "man",
+          "man"
+        ],
+        [
+          "wife",
+          "wife"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "servant",
+          "servant"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "kept",
+          "kept"
+        ],
+        [
+          "the<sw-unclear>",
+          "the"
+        ],
+        [
+          "same",
+          "Sctch"
+        ],
+        [
+          "Holly</sw-unclear>",
+          "ffolly"
+        ],
+        [
+          "upon",
+          "upon"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "yesterday the man wife and servant who kept the<sw-unclear> same Holly</sw-unclear> upon",
+      "line_slope": 88.72213205293988,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        29
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.8,
+        934.09
+      ],
+      "clusters_y": [
+        127.22,
+        135.36
+      ],
+      "clusters_text": [
+        [
+          "richly",
+          "richly"
+        ],
+        [
+          "Laden",
+          "Laden"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "following",
+          "following"
+        ],
+        [
+          "goods",
+          "goods"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "richly Laden with the following goods",
+      "line_slope": -0.6667223711684869,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.41499999999996,
+        940.98
+      ],
+      "clusters_y": [
+        282.63,
+        294.3
+      ],
+      "clusters_text": [
+        [
+          "vast",
+          "vast"
+        ],
+        [
+          "quantity",
+          "quantity"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Brazill",
+          "Brazill"
+        ],
+        [
+          "wood",
+          "wood"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "vast quantity of Brazill wood and",
+      "line_slope": -0.6667223711684869,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        429539.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        467.86,
+        931.45
+      ],
+      "clusters_y": [
+        548.315,
+        544.36
+      ],
+      "clusters_text": [
+        [
+          "I",
+          "I"
+        ],
+        [
+          "am",
+          "am"
+        ],
+        [
+          "Credibly",
+          "Credibly"
+        ],
+        [
+          "assured",
+          "assured"
+        ],
+        [
+          "",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "I am Credibly assured <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+      "line_slope": -0.6667223711684869,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        8
+      ],
+      "user_ids": [
+        null,
+        429539.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

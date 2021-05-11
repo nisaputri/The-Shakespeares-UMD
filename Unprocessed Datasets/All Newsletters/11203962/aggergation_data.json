@@ -1,0 +1,295 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        306.625,
+        294.65
+      ],
+      "clusters_y": [
+        843.925,
+        1064.815
+      ],
+      "clusters_text": [
+        [
+          "At",
+          "A1"
+        ],
+        [
+          "Arbury",
+          "Auburn"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "At Arbury",
+      "line_slope": 92.88922461008555,
+      "slope_label": 4,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        1
+      ],
+      "user_ids": [
+        352990.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        429.21000000000004,
+        430.26
+      ],
+      "clusters_y": [
+        913.675,
+        978.335
+      ],
+      "clusters_text": [
+        [
+          "To",
+          "To"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "To",
+      "line_slope": 89.06146232719736,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        3
+      ],
+      "user_ids": [
+        352990.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        106.92500000000001,
+        857.4549999999999
+      ],
+      "clusters_y": [
+        82.6,
+        120.255
+      ],
+      "clusters_text": [
+        [
+          "Last",
+          "Last"
+        ],
+        [
+          "night",
+          "night"
+        ],
+        [
+          "part",
+          "part"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Westminister",
+          "Westminster"
+        ],
+        [
+          "School",
+          "School"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "another",
+          "another"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "Last night part of Westminister School w<sw-ex>i</sw-ex><sl>th</sl> another",
+      "line_slope": 2.334912357122313,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        8
+      ],
+      "user_ids": [
+        352990.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        128.43,
+        868.8599999999999
+      ],
+      "clusters_y": [
+        143.12,
+        180.035
+      ],
+      "clusters_text": [
+        [
+          "Edifice",
+          "Edifice"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "burned",
+          "burned"
+        ],
+        [
+          "down",
+          "down"
+        ],
+        [
+          "=",
+          "="
+        ],
+        [
+          "On",
+          "On"
+        ],
+        [
+          "Saturday",
+          "Saturday"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "peers",
+          "Peers"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "Edifice were burned down = On Saturday <brev-y>th</brev-y><sl>e</sl> peers",
+      "line_slope": 2.334912357122313,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        10
+      ],
+      "user_ids": [
+        352990.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        105.235,
+        845.9100000000001
+      ],
+      "clusters_y": [
+        243.33499999999998,
+        266.96000000000004
+      ],
+      "clusters_text": [
+        [
+          "upon",
+          "upon"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Question",
+          "Question"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Ingressing",
+          "Jngressing"
+        ],
+        [
+          "it",
+          "it"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "carryed",
+          "carryed"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "upon <brev-y>th</brev-y><sl>e</sl> Question of Ingressing it was carryed in <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": 2.334912357122313,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        12
+      ],
+      "user_ids": [
+        352990.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

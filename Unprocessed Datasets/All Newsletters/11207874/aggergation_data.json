@@ -1,0 +1,157 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        66.125,
+        84.275
+      ],
+      "clusters_y": [
+        354.67999999999995,
+        36.379999999999995
+      ],
+      "clusters_text": [
+        [
+          "1709",
+          "1709"
+        ],
+        [
+          "July",
+          "July"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "30<sw-sup>th</sw-sup>.",
+          "30<sw-sup>th</sw-sup>"
+        ],
+        [
+          "W.M.",
+          "W.N"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "1709 July <brev-y>th</brev-y><sl>e</sl> 30<sw-sup>th</sw-sup>. W.M.",
+      "line_slope": -86.73634417668774,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0
+      ],
+      "user_ids": [
+        1892015.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        403.15999999999997,
+        408.365
+      ],
+      "clusters_y": [
+        926.025,
+        664.135
+      ],
+      "clusters_text": [
+        [
+          "Coventry",
+          "Coventry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Coventry",
+      "line_slope": -88.86389727293627,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.88,
+        241.9
+      ],
+      "clusters_y": [
+        1169.0349999999999,
+        557.09
+      ],
+      "clusters_text": [
+        [
+          "To",
+          ""
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "ToS<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "Richard",
+          "Richard"
+        ],
+        [
+          "Newdigate",
+          "Newdigate"
+        ],
+        [
+          "",
+          "Bar<sw-sup>t</sw-sup>."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "To S<sw-ex>i</sw-ex><sl>r</sl> Richard Newdigate Bar<sw-sup>t</sw-sup>.",
+      "line_slope": -90.72584458425497,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1
+      ],
+      "user_ids": [
+        1840817.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

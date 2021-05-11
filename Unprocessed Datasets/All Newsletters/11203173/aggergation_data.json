@@ -1,0 +1,339 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        54.74,
+        889.51
+      ],
+      "clusters_y": [
+        145.75,
+        128.92
+      ],
+      "clusters_text": [
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          ""
+        ],
+        [
+          "is",
+          ""
+        ],
+        [
+          "prolonged",
+          ""
+        ],
+        [
+          "to",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "21<sw-sup>o</sw-sup>",
+          "<sw-unclear>???tzeb???</sw-unclear>"
+        ],
+        [
+          "instant",
+          ""
+        ],
+        [
+          "&",
+          ""
+        ],
+        [
+          "in",
+          ""
+        ],
+        [
+          "The",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "w<sw-ex>hi</sw-ex><sl>ch</sl> is prolonged to <brev-y>th</brev-y><sl>e</sl> 21<sw-sup>o</sw-sup> instant & in The",
+      "line_slope": -2.0853061942602555,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        40
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        52.95,
+        925.35
+      ],
+      "clusters_y": [
+        274.21,
+        244.13
+      ],
+      "clusters_text": [
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "of",
+          ""
+        ],
+        [
+          "his",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "Detachm<sw-ex>en</sw-ex>tt",
+          "13",
+          ""
+        ],
+        [
+          "had",
+          "",
+          ""
+        ],
+        [
+          "invested",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "Bousslers"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.0,
+      "consensus_text": "w<sw-ex>i</sw-ex><sl>th</sl> his Detachm<sw-ex>en</sw-ex>tt had invested",
+      "line_slope": -2.0853061942602555,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        33,
+        34
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.37,
+        911.27
+      ],
+      "clusters_y": [
+        350.38,
+        321.58
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "all",
+          "",
+          "blockt"
+        ],
+        [
+          "Seige",
+          "the",
+          "covered",
+          ""
+        ],
+        [
+          "Having",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 1.0,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> Seige Having",
+      "line_slope": -2.0853061942602555,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        23,
+        27,
+        28
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0,
+        1627866.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        66.425,
+        928.355
+      ],
+      "clusters_y": [
+        529.375,
+        498.255
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "moveing",
+          "moveing"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "army",
+          "army"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "endeav<sw-ex>our</sw-ex>",
+          "endeavo<sw-ex>u</sw-ex><sl>r</sl>"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Raise",
+          "Raise"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9090909090909092,
+      "consensus_text": "and is moveing w<sw-ex>i</sw-ex><sl>th</sl> his army to endeav<sw-ex>our</sw-ex> to Raise <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -2.0853061942602555,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        0
+      ],
+      "user_ids": [
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        77.94999999999999,
+        905.51
+      ],
+      "clusters_y": [
+        564.065,
+        534.72
+      ],
+      "clusters_text": [
+        [
+          "Seige",
+          "being",
+          "seige"
+        ],
+        [
+          "=",
+          "",
+          ""
+        ],
+        [
+          "P:S",
+          "",
+          ""
+        ],
+        [
+          "The",
+          "Recovered",
+          ""
+        ],
+        [
+          "Lord",
+          "of",
+          ""
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.0,
+      "consensus_text": "Seige = P:S The Lord",
+      "line_slope": -2.0853061942602555,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        14,
+        1
+      ],
+      "user_ids": [
+        1627866.0,
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

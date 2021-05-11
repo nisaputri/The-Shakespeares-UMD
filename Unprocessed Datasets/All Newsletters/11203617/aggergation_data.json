@@ -1,0 +1,126 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        388.45000000000005,
+        747.225
+      ],
+      "clusters_y": [
+        264.54,
+        265.03
+      ],
+      "clusters_text": [
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Satturday",
+          "Saturday"
+        ],
+        [
+          "afternoone",
+          "afternoone"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "on Satturday afternoone",
+      "line_slope": -0.25679920891110997,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        4
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        205.48000000000002,
+        756.65
+      ],
+      "clusters_y": [
+        307.295,
+        303.175
+      ],
+      "clusters_text": [
+        [
+          "Mr",
+          "m?"
+        ],
+        [
+          "Crosby",
+          "Cowsly"
+        ],
+        [
+          "prisonr",
+          "prisent"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Newgate",
+          "one"
+        ],
+        [
+          "&",
+          "wight???"
+        ],
+        [
+          "",
+          "of"
+        ],
+        [
+          "being",
+          "being"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.25,
+      "consensus_text": "Mr Crosby prisonr in Newgate & of being",
+      "line_slope": -0.25679920891110997,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        5
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        470.62,
+        961.21
+      ],
+      "clusters_y": [
+        542.88,
+        546.38
+      ],
+      "clusters_text": [
+        [
+          "Yesterday",
+          "Yesterday"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Highwayman",
+          "Highwayman"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Yesterday a Highwayman",
+      "line_slope": -0.7593508393199231,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        261.925,
+        961.055
+      ],
+      "clusters_y": [
+        653.64,
+        646.1600000000001
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Holeborne",
+          "Holeborne"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "Com<sw-ex>m</sw-ex>itted",
+          "Comitted"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "in Holeborne who has Com<sw-ex>m</sw-ex>itted",
+      "line_slope": -0.7593508393199231,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        481.045,
+        967.12
+      ],
+      "clusters_y": [
+        753.44,
+        739.2650000000001
+      ],
+      "clusters_text": [
+        [
+          "Yesterday",
+          "Yesterday"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "House",
+          "House"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Yesterday the House of",
+      "line_slope": -0.7593508393199231,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        3
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.935,
+        951.4300000000001
+      ],
+      "clusters_y": [
+        1419.81,
+        1399.275
+      ],
+      "clusters_text": [
+        [
+          "affermative:",
+          "affirmative."
+        ],
+        [
+          "Yeas",
+          "Yeas"
+        ],
+        [
+          "171",
+          "171"
+        ],
+        [
+          "Noes",
+          "Noes"
+        ],
+        [
+          "111",
+          "111"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "affermative: Yeas 171 Noes 111",
+      "line_slope": -0.7593508393199231,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        7
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

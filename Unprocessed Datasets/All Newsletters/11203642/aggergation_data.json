@@ -1,0 +1,395 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        50.47,
+        939.915
+      ],
+      "clusters_y": [
+        63.86,
+        56.735
+      ],
+      "clusters_text": [
+        [
+          "bound",
+          "bound"
+        ],
+        [
+          "falleing",
+          "Following"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "amongst",
+          "amongst"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "</sl>fr<sw-ex>ench</sw-ex>",
+          "fr<sw-ex>ench</sw-ex>"
+        ],
+        [
+          "fleet",
+          "fleet"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Medi=",
+          "Medi-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "bound falleing in amongst <brev-y>th</brev-y><sl>e </sl>fr<sw-ex>ench</sw-ex> fleet in the Medi=",
+      "line_slope": -0.867133746426869,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        3
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        37.75,
+        923.08
+      ],
+      "clusters_y": [
+        105.205,
+        99.31
+      ],
+      "clusters_text": [
+        [
+          "teranean",
+          "teranean"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "taken",
+          "taken"
+        ],
+        [
+          "=",
+          "-"
+        ],
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Dutch",
+          "Dutch"
+        ],
+        [
+          "Man",
+          "Man"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "war",
+          "war"
+        ],
+        [
+          "menc<sw-ex>i</sw-ex>oned",
+          "mentioned"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "teranean was taken = The Dutch Man of war menc<sw-ex>i</sw-ex>oned",
+      "line_slope": -0.867133746426869,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        4
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        37.595,
+        913.94
+      ],
+      "clusters_y": [
+        164.985,
+        146.885
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Yesterdays",
+          "Yesterdays"
+        ],
+        [
+          "Gazett",
+          "Gazett"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "sunk",
+          "Sunk"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "board",
+          "board"
+        ],
+        [
+          "",
+          "210000"
+        ],
+        [
+          "210000<sw-sup>li</sw-sup>",
+          "<sw-ex>pounds</sw-ex>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7272727272727273,
+      "consensus_text": "in Yesterdays Gazett to be sunk had on board 210000 210000<sw-sup>li</sw-sup>",
+      "line_slope": -0.867133746426869,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        5
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        40.285,
+        886.7
+      ],
+      "clusters_y": [
+        258.155,
+        244.86
+      ],
+      "clusters_text": [
+        [
+          "the<sw-del>m</sw-del>",
+          "the<sw-del>m</sw-del>"
+        ],
+        [
+          "Passeng<sw-ex>ers</sw-ex>",
+          "Passeng<sw-ex>er</sw-ex><sw-sup>s</sw-sup>"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Son",
+          "son"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "2",
+          "2"
+        ],
+        [
+          "daughters",
+          "daughters"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Heer",
+          "Heer"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8181818181818181,
+      "consensus_text": "the<sw-del>m</sw-del> Passeng<sw-ex>ers</sw-ex> were a Son & 2 daughters of the Heer",
+      "line_slope": -0.867133746426869,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        7
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        38.644999999999996,
+        922.935
+      ],
+      "clusters_y": [
+        360.70500000000004,
+        342.105
+      ],
+      "clusters_text": [
+        [
+          "2",
+          "2"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "o<sw-ex>ur</sw-ex>",
+          "o<sw-ex>ur</sw-ex>"
+        ],
+        [
+          "M<sw-ex>en</sw-ex>",
+          "M<sw-ex>en</sw-ex>"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "war",
+          "war"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "taken",
+          "taken"
+        ],
+        [
+          "2",
+          "2"
+        ],
+        [
+          "rich",
+          "rich"
+        ],
+        [
+          "fr<sw-ex>ench</sw-ex>",
+          "fr<sw-ex>ench</sw-ex>"
+        ],
+        [
+          "East",
+          "East"
+        ],
+        [
+          "India",
+          "India"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "2 of o<sw-ex>ur</sw-ex> M<sw-ex>en</sw-ex> of war have taken 2 rich fr<sw-ex>ench</sw-ex> East India",
+      "line_slope": -0.867133746426869,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        10
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

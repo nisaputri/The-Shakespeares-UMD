@@ -1,0 +1,277 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        33.845,
+        922.5799999999999
+      ],
+      "clusters_y": [
+        177.93,
+        164.14999999999998
+      ],
+      "clusters_text": [
+        [
+          "&",
+          "&"
+        ],
+        [
+          "Charleroy",
+          "Charleroy"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Deliver",
+          "Deliver"
+        ],
+        [
+          "those",
+          "those"
+        ],
+        [
+          "Towns",
+          "Towns"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Dutch",
+          "Dutch"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Col<sw-ex>one</sw-ex>l",
+          "Coll"
+        ],
+        [
+          "Moody",
+          "Moody"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9285714285714286,
+      "consensus_text": "& Charleroy & to Deliver those Towns to <brev-y>th</brev-y><sl>e</sl> Dutch - Col<sw-ex>one</sw-ex>l Moody of",
+      "line_slope": -1.261775692755392,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        33.445,
+        921.97
+      ],
+      "clusters_y": [
+        282.16999999999996,
+        255.04000000000002
+      ],
+      "clusters_text": [
+        [
+          "set",
+          "set"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "few",
+          "few"
+        ],
+        [
+          "dayes",
+          "Dayes"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "Place",
+          "place"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Wee",
+          "Wee"
+        ],
+        [
+          "hear",
+          "hear"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "ord<sw-sup>ers</sw-sup>",
+          "orders"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "sent",
+          "sent"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7333333333333334,
+      "consensus_text": "set out in few dayes for <brev-y>th</brev-y><sl>e</sl> Place - Wee hear <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> ord<sw-sup>ers</sw-sup> are sent",
+      "line_slope": -1.261775692755392,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        4
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        32.145,
+        929.655
+      ],
+      "clusters_y": [
+        324.58500000000004,
+        303.46500000000003
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Li<sw-ex>eutenant</sw-ex>",
+          "L<sw-sup>t</sw-sup>"
+        ],
+        [
+          "Gen<sw-ex>era</sw-ex><sw-sup>ll</sw-sup>",
+          "Gen<sw-sup>ll</sw-sup>"
+        ],
+        [
+          "Withers",
+          "Withers"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "take",
+          "take"
+        ],
+        [
+          "possession",
+          "possession"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Newport.",
+          "Newport"
+        ],
+        [
+          "",
+          "-"
+        ],
+        [
+          "On",
+          "On"
+        ],
+        [
+          "Thursday",
+          "Thursday"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "to Li<sw-ex>eutenant</sw-ex> Gen<sw-ex>era</sw-ex><sw-sup>ll</sw-sup> Withers to take possession of Newport. - On Thursday",
+      "line_slope": -1.261775692755392,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

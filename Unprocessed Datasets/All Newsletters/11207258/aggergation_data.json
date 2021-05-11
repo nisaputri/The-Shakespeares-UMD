@@ -1,0 +1,752 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        149.86,
+        153.64
+      ],
+      "clusters_y": [
+        95.035,
+        1510.0149999999999
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "&"
+        ],
+        [
+          "Chaires",
+          "Chaires"
+        ],
+        [
+          "and",
+          "&"
+        ],
+        [
+          "Cloath",
+          "Cloath"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "Livery",
+          "Livery"
+        ],
+        [
+          "Servants",
+          "servants"
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "Black",
+          "Black"
+        ],
+        [
+          "Cloath",
+          "Cloath"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "Sunday",
+          "Sunday"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "14th",
+          "14<sw-sup>th</sw-sup>"
+        ],
+        [
+          "Instant",
+          "Instant"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7333333333333334,
+      "consensus_text": "and Chaires and Cloath their Livery Servants w<sw-ex>i</sw-ex><sl>th</sl> Black Cloath on Sunday the 14th Instant",
+      "line_slope": 89.82017363000472,
+      "slope_label": 3,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        21
+      ],
+      "user_ids": [
+        1708223.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        330.99,
+        896.4525000000001
+      ],
+      "clusters_y": [
+        74.64333333333333,
+        78.15
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London",
+          "London",
+          "London"
+        ],
+        [
+          "Nov<sw-sup>v</sw-sup>.",
+          "Nov<sw-sup>r</sw-sup>",
+          "Nov<sw-ex>ember</sw-ex>",
+          "Nov<sw-ex>ember</sw-ex>"
+        ],
+        [
+          "2<sw-sup>d</sw-sup>.",
+          "2d",
+          "2<sw-sup>d</sw-sup>.",
+          "2<sw-ex>n</sw-ex>d"
+        ],
+        [
+          "1708",
+          "1708",
+          "1708",
+          "1708"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 3.0,
+      "consensus_text": "London Nov<sw-ex>ember</sw-ex> 2<sw-sup>d</sw-sup>. 1708",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        0,
+        1,
+        0
+      ],
+      "user_ids": [
+        null,
+        1708223.0,
+        190714.0,
+        null
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        245.76,
+        918.875
+      ],
+      "clusters_y": [
+        165.075,
+        161.665
+      ],
+      "clusters_text": [
+        [
+          "By",
+          "By"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Holland",
+          "Holland"
+        ],
+        [
+          "Mailes",
+          "maids"
+        ],
+        [
+          "which",
+          "which"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "By the Holland Mailes which",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        190714.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.98999999999998,
+        921.44
+      ],
+      "clusters_y": [
+        254.49,
+        246.65666666666667
+      ],
+      "clusters_text": [
+        [
+          "Arrived",
+          "Arrived",
+          "Arrived"
+        ],
+        [
+          "Yesterday",
+          "Yesterday",
+          "yesterday"
+        ],
+        [
+          "Wee",
+          "Wee",
+          "wee"
+        ],
+        [
+          "have",
+          "have",
+          "have"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "Arrived Yesterday Wee have",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3,
+        2
+      ],
+      "user_ids": [
+        1708223.0,
+        190714.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.975,
+        932.35
+      ],
+      "clusters_y": [
+        419.61,
+        410.65
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Octo<sw-ex>ber</sw-ex>"
+        ],
+        [
+          "",
+          "the"
+        ],
+        [
+          "Octo<sw-sup>v</sw-sup>.",
+          "18<sw-sup>th</sw-sup>."
+        ],
+        [
+          "",
+          "A"
+        ],
+        [
+          "",
+          "Conspiracy"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Octo<sw-ex>ber</sw-ex> the Octo<sw-sup>v</sw-sup>. A Conspiracy",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        null,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.075,
+        934.715
+      ],
+      "clusters_y": [
+        489.995,
+        473.84000000000003
+      ],
+      "clusters_text": [
+        [
+          "being",
+          "being"
+        ],
+        [
+          "Discovered",
+          "Discovered"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Deliver",
+          "Deliver"
+        ],
+        [
+          "Up",
+          "Vp"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "being Discovered to Deliver Up",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        253.41500000000002,
+        946.355
+      ],
+      "clusters_y": [
+        571.685,
+        559.1949999999999
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Garryson",
+          "Garryson"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "ffronto",
+          "ffronto"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "the Garryson of ffronto to the",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        7
+      ],
+      "user_ids": [
+        1708223.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.41000000000003,
+        940.905
+      ],
+      "clusters_y": [
+        646.0,
+        629.405
+      ],
+      "clusters_text": [
+        [
+          "party",
+          "party"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Popes,",
+          "Popes,"
+        ],
+        [
+          "two",
+          "two"
+        ],
+        [
+          "Officers",
+          "Officers"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "party of the Popes, two Officers",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        8
+      ],
+      "user_ids": [
+        1708223.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.09,
+        964.42
+      ],
+      "clusters_y": [
+        725.41,
+        709.88
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "",
+          "five"
+        ],
+        [
+          "",
+          "Soldiers"
+        ],
+        [
+          "",
+          "were"
+        ],
+        [
+          "",
+          "Apprehended"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.2,
+      "consensus_text": "and five Soldiers were Apprehended",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        8
+      ],
+      "user_ids": [
+        null,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        251.845,
+        948.3
+      ],
+      "clusters_y": [
+        799.585,
+        784.63
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "same",
+          "same"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "for the same and are to be",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        10
+      ],
+      "user_ids": [
+        1708223.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        260.685,
+        944.6800000000001
+      ],
+      "clusters_y": [
+        944.1,
+        931.615
+      ],
+      "clusters_text": [
+        [
+          "Treachery,",
+          "Treachery,"
+        ],
+        [
+          "15",
+          "15"
+        ],
+        [
+          "Suspected",
+          "suspected"
+        ],
+        [
+          "persons",
+          "persons"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Treachery, 15 Suspected persons",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        12
+      ],
+      "user_ids": [
+        1708223.0,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.6,
+        942.21
+      ],
+      "clusters_y": [
+        1153.54,
+        1147.79
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Vienna"
+        ],
+        [
+          "Octo<sw-sup>v</sw-sup>.",
+          "Octo<sw-ex>ber</sw-ex>"
+        ],
+        [
+          "27<sw-sup>th</sw-sup>.",
+          "27<sw-sup>th</sw-sup>."
+        ],
+        [
+          "",
+          "A"
+        ],
+        [
+          "",
+          "List"
+        ],
+        [
+          "",
+          "is"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "Vienna Octo<sw-sup>v</sw-sup>. 27<sw-sup>th</sw-sup>. A List is",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        15
+      ],
+      "user_ids": [
+        null,
+        190714.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.935,
+        960.425
+      ],
+      "clusters_y": [
+        1401.715,
+        1374.795
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of"
+        ],
+        [
+          "these",
+          "these"
+        ],
+        [
+          "Severall",
+          "severall"
+        ],
+        [
+          "provinces",
+          "provinces"
+        ],
+        [
+          "(viz)",
+          "(viz)"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "of these Severall provinces (viz)",
+      "line_slope": -0.9250256617937352,
+      "slope_label": 1,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        18
+      ],
+      "user_ids": [
+        1708223.0,
+        190714.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 12,
+  "transcribed_lines": 13,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

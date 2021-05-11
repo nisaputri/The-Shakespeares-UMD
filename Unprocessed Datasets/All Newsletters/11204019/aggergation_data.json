@@ -1,0 +1,295 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        318.80499999999995,
+        924.315
+      ],
+      "clusters_y": [
+        191.35500000000002,
+        193.62
+      ],
+      "clusters_text": [
+        [
+          "they",
+          "they"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "promised",
+          "promissed"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "find",
+          "find"
+        ],
+        [
+          "him",
+          "him"
+        ],
+        [
+          "with",
+          "with"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "they have promised to find him with the",
+      "line_slope": -0.4476984131550687,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        312.05,
+        705.59
+      ],
+      "clusters_y": [
+        234.565,
+        236.28
+      ],
+      "clusters_text": [
+        [
+          "First",
+          "First"
+        ],
+        [
+          "oppertunity",
+          "oppertunity"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Genoa",
+          "Genoa."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "First oppertunity to Genoa",
+      "line_slope": -0.4476984131550687,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        443.81500000000005,
+        925.81
+      ],
+      "clusters_y": [
+        288.33500000000004,
+        285.365
+      ],
+      "clusters_text": [
+        [
+          "Ord???",
+          "Orders"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "suddenly",
+          "suddenly"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "goven",
+          "given"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "Ord??? will suddenly be goven to",
+      "line_slope": -0.4476984131550687,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        3
+      ],
+      "user_ids": [
+        429539.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        312.455,
+        926.17
+      ],
+      "clusters_y": [
+        341.32,
+        332.14
+      ],
+      "clusters_text": [
+        [
+          "all",
+          "all"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Cunstables",
+          "Cunstables"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "make",
+          "make"
+        ],
+        [
+          "Strict",
+          "strict"
+        ],
+        [
+          "search",
+          "search"
+        ],
+        [
+          "in",
+          "in"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "all the Cunstables to make Strict search in",
+      "line_slope": -0.4476984131550687,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        4
+      ],
+      "user_ids": [
+        429539.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        312.235,
+        695.59
+      ],
+      "clusters_y": [
+        796.49,
+        793.29
+      ],
+      "clusters_text": [
+        [
+          "many",
+          "many"
+        ],
+        [
+          "more",
+          "more"
+        ],
+        [
+          "this",
+          "this"
+        ],
+        [
+          "week.",
+          "weeke."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "many more this week.",
+      "line_slope": -0.4476984131550687,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        11
+      ],
+      "user_ids": [
+        1708223.0,
+        1501117.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

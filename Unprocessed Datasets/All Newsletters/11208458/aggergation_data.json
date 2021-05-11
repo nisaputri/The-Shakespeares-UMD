@@ -1,0 +1,457 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        669.1949999999999,
+        921.12
+      ],
+      "clusters_y": [
+        124.49000000000001,
+        127.34
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Lisbon",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "from Lisbon",
+      "line_slope": -0.257950601821987,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        5
+      ],
+      "user_ids": [
+        1608587.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        117.69,
+        945.27
+      ],
+      "clusters_y": [
+        137.02,
+        131.38
+      ],
+      "clusters_text": [
+        [
+          "",
+          "Yesterday"
+        ],
+        [
+          "Arrived",
+          "Arrived"
+        ],
+        [
+          "",
+          "a"
+        ],
+        [
+          "",
+          "Maile"
+        ],
+        [
+          "",
+          "from"
+        ],
+        [
+          "",
+          "Lisbon"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "Yesterday Arrived a Maile from Lisbon",
+      "line_slope": -0.257950601821987,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        1608587.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        112.11,
+        938.02
+      ],
+      "clusters_y": [
+        206.645,
+        190.85
+      ],
+      "clusters_text": [
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "foll<sw-ex>owing</sw-ex>",
+          ""
+        ],
+        [
+          "Advices",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "That",
+          ""
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          ""
+        ],
+        [
+          "Queen",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "Portugall",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1,
+      "consensus_text": "w<sw-ex>i</sw-ex><sl>th</sl> <brev-y>th</brev-y><sl>e</sl> foll<sw-ex>owing</sw-ex> Advices - That <brev-y>th</brev-y><sl>e</sl> Queen of Portugall",
+      "line_slope": -0.257950601821987,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        4
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        122.65,
+        932.46
+      ],
+      "clusters_y": [
+        458.595,
+        459.85
+      ],
+      "clusters_text": [
+        [
+          "but",
+          "but"
+        ],
+        [
+          "orders",
+          "orders"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "given",
+          "given"
+        ],
+        [
+          "not",
+          ""
+        ],
+        [
+          "to",
+          ""
+        ],
+        [
+          "Commence",
+          ""
+        ],
+        [
+          "any",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "but orders are given not to Commence any",
+      "line_slope": -0.257950601821987,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        8
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        103.19,
+        933.38
+      ],
+      "clusters_y": [
+        723.28,
+        714.01
+      ],
+      "clusters_text": [
+        [
+          "&",
+          ""
+        ],
+        [
+          "it",
+          "it"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "very",
+          "very"
+        ],
+        [
+          "uncertain",
+          ""
+        ],
+        [
+          "when",
+          ""
+        ],
+        [
+          "he",
+          ""
+        ],
+        [
+          "will",
+          ""
+        ],
+        [
+          "come",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.3333333333333333,
+      "consensus_text": "& it is very uncertain when he will come",
+      "line_slope": -0.257950601821987,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        9
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        126.05000000000001,
+        927.8
+      ],
+      "clusters_y": [
+        848.965,
+        848.73
+      ],
+      "clusters_text": [
+        [
+          "Arrived",
+          "Arrived"
+        ],
+        [
+          "here",
+          "here"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Lisbon",
+          ""
+        ],
+        [
+          "&",
+          ""
+        ],
+        [
+          "has",
+          ""
+        ],
+        [
+          "bro<sw-ex>ugh</sw-ex>tt",
+          ""
+        ],
+        [
+          "with",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.375,
+      "consensus_text": "Arrived here from Lisbon & has bro<sw-ex>ugh</sw-ex>tt with",
+      "line_slope": -0.257950601821987,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        10
+      ],
+      "user_ids": [
+        1347003.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        102.49,
+        934.935
+      ],
+      "clusters_y": [
+        1337.86,
+        1338.58
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "",
+          ""
+        ],
+        [
+          "Holland,",
+          "",
+          ""
+        ],
+        [
+          "who",
+          "",
+          ""
+        ],
+        [
+          "it",
+          "",
+          ""
+        ],
+        [
+          "is",
+          "",
+          ""
+        ],
+        [
+          "said",
+          "",
+          ""
+        ],
+        [
+          "brings",
+          "",
+          ""
+        ],
+        [
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          "w<sw-ex>i</sw-ex><sl>th</sl>",
+          ""
+        ],
+        [
+          "him",
+          "",
+          "him"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.2222222222222223,
+      "consensus_text": "from Holland, who it is said brings w<sw-ex>i</sw-ex><sl>th</sl> him",
+      "line_slope": -0.257950601821987,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        2,
+        3
+      ],
+      "user_ids": [
+        1347003.0,
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 7,
+  "transcribed_lines": 7,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

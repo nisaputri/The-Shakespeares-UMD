@@ -1,0 +1,193 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        256.34,
+        926.625
+      ],
+      "clusters_y": [
+        289.355,
+        248.98000000000002
+      ],
+      "clusters_text": [
+        [
+          "for",
+          "for"
+        ],
+        [
+          "her",
+          "her"
+        ],
+        [
+          "most",
+          "most"
+        ],
+        [
+          "gracious",
+          "gracious"
+        ],
+        [
+          "Speech",
+          "Speech"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "both",
+          "both"
+        ],
+        [
+          "houses",
+          "houses"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "for her most gracious Speech to both houses",
+      "line_slope": -3.2435591742187255,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.835,
+        952.52
+      ],
+      "clusters_y": [
+        1055.58,
+        1016.145
+      ],
+      "clusters_text": [
+        [
+          "government",
+          "government"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "gratefully",
+          "gratefully"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "acknowledge",
+          "acknowledge"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "government and gratefully to acknowledge",
+      "line_slope": -3.2435591742187255,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        5
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        273.655,
+        883.56
+      ],
+      "clusters_y": [
+        1229.305,
+        1191.3249999999998
+      ],
+      "clusters_text": [
+        [
+          "support",
+          "Support"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Church",
+          "Church"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "England",
+          "England"
+        ],
+        [
+          "as",
+          "as"
+        ],
+        [
+          "by",
+          "by"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "support the Church of England as by",
+      "line_slope": -3.2435591742187255,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,118 @@
+---
+title: "Offline Output"
+author: "Nisa Putri"
+date: "5/4/2021"
+output: html_document
+---
+
+```{r libraries setup, include=FALSE}
+library(tidyverse)
+library(reshape2)
+library(stringdist)
+library(stringr)
+install.packages("strDist")
+```
+
+```{r processing_functions}
+recipes <- read_csv("Processed Datasets\Recipe Dataset.csv")
+newsletter <- read_csv("Processed Datasets\processed_newsletters.csv")
+
+newsletter_link <- read_csv("Unprocessed Datasets\combined_newsletters.csv") %>% 
+  select(Filename, `Luna URL`, `Hamnet URL` )
+
+filename <- read_csv("Processed Datasets\subjects_FileName.csv") 
+
+filename_id < filename %>% 
+  select(subject_id, filename)
+
+recipes <- recipes %>% 
+  select(zooniverse_subject_id, text)
+```
+
+
+```{r}
+
+#spliting each line into rows
+recipes_duplicate <- recipes %>% 
+  mutate(text=strsplit(text, "\n")) %>% 
+  unnest(text)
+
+recipe_with_case <- recipes_duplicate[!duplicated(recipes_duplicate), ] 
+  
+
+recipes_duplicate_cleaned <- recipes_duplicate[!duplicated(tolower(recipes_duplicate$text)), ] 
+
+#combining all rows by subject ID into one
+recipes_final <- recipes_duplicate_cleaned %>% 
+  group_by(zooniverse_subject_id) %>% 
+  summarize(transcription = paste(text, collapse = '---')) %>%
+  mutate(transcription = str_replace_all(transcription, "---", "\n")) %>% 
+  view()
+
+
+write.csv(recipes_final, "Processed Datasets\\cleaned_recipe.csv")
+
+
+
+```
+
+
+```{r}
+newsletter_dup <- newsletter %>% 
+  mutate(text=strsplit(transcription, "\n")) %>% 
+  unnest(text) %>% 
+  select(subject_id, text)
+
+newsletter_dup_cleaned <- newsletter_dup[!duplicated(tolower(newsletter_dup$text)), ]
+
+#combining all rows by subject ID into one
+newsletter_final <- newsletter_dup_cleaned %>% 
+  group_by(subject_id) %>% 
+  summarize(transcription = paste(text, collapse = '---')) %>%
+  mutate(transcription = str_replace_all(transcription, "---", "\n")) %>% 
+  view()
+
+write.csv(newsletter_final, "Processed Datasets\\cleaned_newsletters.csv")
+
+```
+
+
+
+```{r}
+#merging the zooniverse subject id with the file name
+
+recipes_with_filename <- recipes_final %>% 
+  inner_join(filename_id, by = c( "zooniverse_subject_id" = "subject_id" )) %>% 
+  select(filename, transcription)
+
+newsletter_with_filename <- newsletter_final %>% 
+  inner_join(filename_id, by = c( "subject_id" = "subject_id" )) %>% 
+  select(filename, transcription)
+  
+
+newsletter_with_filename_link <- newsletter_final %>% 
+  inner_join(filename_id, by = c( "subject_id" = "subject_id" )) %>% 
+  inner_join(newsletter_link, by = c("filename" = "Filename"))
+
+
+newsletter_filename_username <- newsletter_final %>% 
+  inner_join(classification, by = c( "subject_id" = "subject_ids" )) %>%
+  mutate(user_name = case_when(str_detect(user_name, "not-logged")
+                               ~ "guest",
+                               TRUE ~ user_name)) %>% 
+  group_by(subject_id, transcription) %>% 
+  summarize(volunteers = paste(user_name, collapse = ", ")) %>% 
+  ungroup() %>% 
+  mutate(volunteers = str_replace_all(volunteers, "guest, |, guest|", ""))
+
+
+write.csv(recipes_with_filename, "Final Datasets\\final_dataset_recipes.csv")
+write.csv(newsletter_with_filename, "Final Datasets\\final_dataset_newsletter.csv")
+write.csv(newsletter_with_filename_link, "Final Datasets\\zooniverse_final_dataset.csv")
+write.csv(newsletter_filename_username, "Final Datasets\\final_dataset_newsletter_volunteers.csv")
+
+```
+
+
+
+

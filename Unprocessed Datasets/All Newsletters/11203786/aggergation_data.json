@@ -1,0 +1,228 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        227.23,
+        213.32
+      ],
+      "clusters_y": [
+        185.26,
+        1266.93
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "from"
+        ],
+        [
+          "dutch",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "E"
+        ],
+        [
+          "ship",
+          "Indies"
+        ],
+        [
+          "",
+          "wee"
+        ],
+        [
+          "",
+          "[we]"
+        ],
+        [
+          "arrived",
+          "have"
+        ],
+        [
+          "",
+          "advice"
+        ],
+        [
+          "at",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "a dutch E ship wee [we] arrived advice at",
+      "line_slope": 90.7797780971543,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        33,
+        34
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        461.895,
+        932.505
+      ],
+      "clusters_y": [
+        160.63,
+        158.745
+      ],
+      "clusters_text": [
+        [
+          "On",
+          "On"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>17",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "",
+          "17"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Cossack",
+          "Cassock"
+        ],
+        [
+          "deserted",
+          "deserted"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "On <brev-y>th</brev-y><sl>e</sl>17 17 a Cossack deserted",
+      "line_slope": -1.378838651358667,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        0
+      ],
+      "user_ids": [
+        null,
+        1501614.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        450.905,
+        897.6700000000001
+      ],
+      "clusters_y": [
+        624.1099999999999,
+        599.93
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "20<sw-sup>th</sw-sup>",
+          "20<sw-sup>th</sw-sup>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Brandenburgh",
+          "Brandenburgh"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "The 20<sw-sup>th</sw-sup> <brev-y>th</brev-y><sl>e</sl> Brandenburgh",
+      "line_slope": -1.378838651358667,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        1
+      ],
+      "user_ids": [
+        null,
+        1501614.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.855,
+        543.85
+      ],
+      "clusters_y": [
+        965.94,
+        964.76
+      ],
+      "clusters_text": [
+        [
+          "Enemy",
+          "Enemy"
+        ],
+        [
+          "Battle",
+          "Battle"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Enemy Battle",
+      "line_slope": -1.378838651358667,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        2
+      ],
+      "user_ids": [
+        null,
+        1501614.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        136.915,
+        144.3
+      ],
+      "clusters_y": [
+        33.29,
+        1510.2649999999999
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to"
+        ],
+        [
+          "prevent",
+          "prevent"
+        ],
+        [
+          "Disturbances",
+          "Disturbances"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "set",
+          "set"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Morrow",
+          "Morrow"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "This",
+          "This"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Comons",
+          "Com<sw-ex>m</sw-ex>ons"
+        ],
+        [
+          "went",
+          "went"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9333333333333333,
+      "consensus_text": "to prevent Disturbances and they set out to Morrow - This day the Comons went",
+      "line_slope": 89.80553905733942,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        20,
+        20
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        242.175,
+        942.165
+      ],
+      "clusters_y": [
+        74.4,
+        89.0
+      ],
+      "clusters_text": [
+        [
+          "State",
+          "State"
+        ],
+        [
+          "as",
+          "as"
+        ],
+        [
+          "an",
+          "an"
+        ],
+        [
+          "Equivalent",
+          "Equivalent"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "Office",
+          "Office"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "State as an Equivalent for that Office",
+      "line_slope": 1.0949825704243399,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        234.47000000000003,
+        930.765
+      ],
+      "clusters_y": [
+        157.905,
+        168.45
+      ],
+      "clusters_text": [
+        [
+          "has",
+          "has"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Patent",
+          "Patent"
+        ],
+        [
+          "Granted",
+          "Granted"
+        ],
+        [
+          "him",
+          "him"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "her",
+          "her"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "has a Patent Granted him by her",
+      "line_slope": 1.0949825704243399,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        239.0,
+        939.54
+      ],
+      "clusters_y": [
+        235.185,
+        245.31
+      ],
+      "clusters_text": [
+        [
+          "Majesty",
+          "Majesty"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "hold",
+          "hold"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Life",
+          "Life"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "place",
+          "place"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Majesty to hold for Life the place",
+      "line_slope": 1.0949825704243399,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

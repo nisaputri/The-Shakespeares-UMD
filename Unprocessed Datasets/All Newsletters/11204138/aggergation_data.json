@@ -1,0 +1,225 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        56.595,
+        966.31
+      ],
+      "clusters_y": [
+        83.685,
+        72.22999999999999
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "that"
+        ],
+        [
+          "15000",
+          "15000"
+        ],
+        [
+          "<sw-unclear>foush</sw-unclear>",
+          "french"
+        ],
+        [
+          "Lye",
+          "Lye"
+        ],
+        [
+          "<sw-unclear>to",
+          "to"
+        ],
+        [
+          "Cour",
+          "Couer"
+        ],
+        [
+          "V</sw-unclear>nukirke",
+          "Dunkerke"
+        ],
+        [
+          "that",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "that 15000 <sw-unclear>foush</sw-unclear> Lye <sw-unclear>to Cour V</sw-unclear>nukirke that",
+      "line_slope": -0.864085481241255,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        0
+      ],
+      "user_ids": [
+        315496.0,
+        352990.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        52.98,
+        951.825
+      ],
+      "clusters_y": [
+        129.5,
+        115.04
+      ],
+      "clusters_text": [
+        [
+          "21",
+          "21"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "our",
+          "our"
+        ],
+        [
+          "men",
+          "men"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "putt",
+          "putt"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "sword",
+          "sword"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "ffrench",
+          "ffrench"
+        ],
+        [
+          "in",
+          "in"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "21 of our men were putt to the sword by the ffrench in",
+      "line_slope": -0.864085481241255,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1
+      ],
+      "user_ids": [
+        315496.0,
+        352990.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        55.125,
+        849.47
+      ],
+      "clusters_y": [
+        173.82,
+        160.655
+      ],
+      "clusters_text": [
+        [
+          "fflanders",
+          "fflanders"
+        ],
+        [
+          "after",
+          "after"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "giuen",
+          "given"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "quarter./",
+          "quarter."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "fflanders after they had giuen them quarter./",
+      "line_slope": -0.864085481241255,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        315496.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

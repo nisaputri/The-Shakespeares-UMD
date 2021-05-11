@@ -1,0 +1,122 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        355.34000000000003,
+        824.77
+      ],
+      "clusters_y": [
+        125.515,
+        113.84
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London"
+        ],
+        [
+          "1<sw-sup>st</sw-sup>",
+          "1<sw-sup>st"
+        ],
+        [
+          "march",
+          "</sw-sup>March"
+        ],
+        [
+          "1700",
+          "1700"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "London 1<sw-sup>st</sw-sup> march 1700",
+      "line_slope": -1.0833876377852463,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        1323349.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.58,
+        953.6949999999999
+      ],
+      "clusters_y": [
+        225.78,
+        205.67000000000002
+      ],
+      "clusters_text": [
+        [
+          "yesterday",
+          "Yesterday"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "House",
+          "House"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<sw-unclear>Peers</sw-unclear>",
+          "Peers"
+        ],
+        [
+          "Road",
+          "Read"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "yesterday the House of <sw-unclear>Peers</sw-unclear> Road",
+      "line_slope": -1.0833876377852463,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        1323349.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        276.155,
+        927.75
+      ],
+      "clusters_y": [
+        171.17000000000002,
+        159.42000000000002
+      ],
+      "clusters_text": [
+        [
+          "The",
+          "The"
+        ],
+        [
+          "Convoy",
+          "Convoy"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Cadiz",
+          "Cadiz"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "goeing",
+          "goeing"
+        ],
+        [
+          "thither",
+          "thither"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "The Convoy for Cadiz will be goeing thither",
+      "line_slope": -1.1866473659856713,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        9
+      ],
+      "user_ids": [
+        null,
+        1887504.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        290.53,
+        922.665
+      ],
+      "clusters_y": [
+        279.055,
+        263.5
+      ],
+      "clusters_text": [
+        [
+          "Tiz",
+          "Tis"
+        ],
+        [
+          "advizd",
+          "advis<sw-ex>e</sw-ex>d"
+        ],
+        [
+          "fro",
+          "fro<sw-ex>m</sw-ex>"
+        ],
+        [
+          "Rumney",
+          "Rumney"
+        ],
+        [
+          "marsh",
+          "Marsh"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "a",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "Tiz advizd fro Rumney marsh that a",
+      "line_slope": -1.1866473659856713,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        16
+      ],
+      "user_ids": [
+        null,
+        1887504.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

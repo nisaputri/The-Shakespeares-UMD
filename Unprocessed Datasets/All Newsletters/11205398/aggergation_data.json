@@ -1,0 +1,232 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        267.48,
+        942.87
+      ],
+      "clusters_y": [
+        104.92500000000001,
+        96.345
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "that"
+        ],
+        [
+          "he",
+          "he"
+        ],
+        [
+          "has",
+          "has"
+        ],
+        [
+          "had",
+          "had"
+        ],
+        [
+          "no",
+          "no"
+        ],
+        [
+          "design",
+          "design"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "that he has had no design",
+      "line_slope": -0.7109933852937894,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        6
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        274.745,
+        957.19
+      ],
+      "clusters_y": [
+        469.915,
+        452.08500000000004
+      ],
+      "clusters_text": [
+        [
+          "were",
+          "were"
+        ],
+        [
+          "14000",
+          "14000"
+        ],
+        [
+          "men",
+          "men"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "3000",
+          "3000"
+        ],
+        [
+          "of",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "were 14000 men and 3000 of",
+      "line_slope": -0.7109933852937894,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        3
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        266.84000000000003,
+        936.765
+      ],
+      "clusters_y": [
+        545.55,
+        533.3499999999999
+      ],
+      "clusters_text": [
+        [
+          "them",
+          "them"
+        ],
+        [
+          "were",
+          "were"
+        ],
+        [
+          "killed",
+          "killed"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "them were killed on the",
+      "line_slope": -0.7109933852937894,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.90999999999997,
+        940.49
+      ],
+      "clusters_y": [
+        633.5450000000001,
+        619.005
+      ],
+      "clusters_text": [
+        [
+          "Spott",
+          "spott"
+        ],
+        [
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Camisars",
+          "Camisars"
+        ],
+        [
+          "who",
+          "who"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Spott by the Camisars who",
+      "line_slope": -0.7109933852937894,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        1
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

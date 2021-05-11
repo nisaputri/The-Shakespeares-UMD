@@ -1,0 +1,126 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        200.35,
+        679.11
+      ],
+      "clusters_y": [
+        92.5,
+        87.97
+      ],
+      "clusters_text": [
+        [
+          "",
+          "on"
+        ],
+        [
+          "",
+          "Sunday"
+        ],
+        [
+          "",
+          "Earl"
+        ],
+        [
+          "",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "office",
+          "Robert"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "on Sunday Earl S<sw-ex>i</sw-ex><sl>r</sl> office",
+      "line_slope": -0.30184917633837555,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        0
+      ],
+      "user_ids": [
+        null,
+        1916027.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        223.34,
+        744.53
+      ],
+      "clusters_y": [
+        887.31,
+        865.15
+      ],
+      "clusters_text": [
+        [
+          "Kings",
+          "KIngs"
+        ],
+        [
+          "Barges",
+          "Barges"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "tower",
+          "tower"
+        ],
+        [
+          "wharf",
+          "wharf"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Kings Barges to the tower wharf",
+      "line_slope": -2.43464806691406,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

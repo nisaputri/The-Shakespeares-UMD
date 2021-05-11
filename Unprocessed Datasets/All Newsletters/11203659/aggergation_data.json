@@ -1,0 +1,138 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        79.7,
+        936.0250000000001
+      ],
+      "clusters_y": [
+        90.04,
+        99.105
+      ],
+      "clusters_text": [
+        [
+          "",
+          "S<sw-ex>i</sw-ex><sl>r</sl>"
+        ],
+        [
+          "London",
+          "London"
+        ],
+        [
+          "July",
+          "Iuly"
+        ],
+        [
+          "21st",
+          "21<sw-sup>th</sw-sup>"
+        ],
+        [
+          "1694",
+          "1694"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4,
+      "consensus_text": "S<sw-ex>i</sw-ex><sl>r</sl> London July 21st 1694",
+      "line_slope": 0.22626560725924466,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        5
+      ],
+      "user_ids": [
+        1600443.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        249.055,
+        957.495
+      ],
+      "clusters_y": [
+        230.0,
+        228.18
+      ],
+      "clusters_text": [
+        [
+          "from",
+          "from"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "L<sw-ex>or</sw-ex>d",
+          "L<sw-ex>or</sw-ex>d"
+        ],
+        [
+          "Berkley",
+          "Berkley"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "on",
+          "on"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "12",
+          "12"
+        ],
+        [
+          "instant",
+          "instant"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "from the L<sw-ex>or</sw-ex>d Berkley that on the 12 instant",
+      "line_slope": 0.22626560725924466,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        3
+      ],
+      "user_ids": [
+        1347003.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

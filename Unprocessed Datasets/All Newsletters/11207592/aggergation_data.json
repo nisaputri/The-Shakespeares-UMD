@@ -1,0 +1,154 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        335.295,
+        926.9000000000001
+      ],
+      "clusters_y": [
+        590.885,
+        586.755
+      ],
+      "clusters_text": [
+        [
+          "They",
+          "They"
+        ],
+        [
+          "write",
+          "write"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Ratisbone",
+          "Ratisbone"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Empero<sw-ex>u</sw-ex><sl>r</sl>",
+          "Emp<sw-ex>ero</sw-ex>r"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "They write from Ratisbone <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl> Empero<sw-ex>u</sw-ex><sl>r</sl> <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": -0.44880980608168847,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        7
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        250.34,
+        899.355
+      ],
+      "clusters_y": [
+        641.335,
+        634.125
+      ],
+      "clusters_text": [
+        [
+          "Q<sw-ex>uee</sw-ex>n",
+          "Q<sw-ex>uee</sw-ex>n"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Gr<sw-ex>ea</sw-ex>t",
+          "Gr<sw-ex>ea</sw-ex>t"
+        ],
+        [
+          "Brittain",
+          "Brittain"
+        ],
+        [
+          "&",
+          "&"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Mates",
+          "States"
+        ],
+        [
+          "Gen<sw-ex>era</sw-ex>ll",
+          "Gen<sw-ex>era</sw-ex>ll"
+        ],
+        [
+          "have",
+          "have"
+        ],
+        [
+          "made",
+          "made"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9,
+      "consensus_text": "Q<sw-ex>uee</sw-ex>n of Gr<sw-ex>ea</sw-ex>t Brittain & <brev-y>th</brev-y><sl>e</sl> Mates Gen<sw-ex>era</sw-ex>ll have made",
+      "line_slope": -0.44880980608168847,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        8
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

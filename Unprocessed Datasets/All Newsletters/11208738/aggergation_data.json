@@ -1,0 +1,802 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        285.04499999999996,
+        783.865
+      ],
+      "clusters_y": [
+        87.87,
+        81.55
+      ],
+      "clusters_text": [
+        [
+          "London",
+          "London",
+          ""
+        ],
+        [
+          "Jan.",
+          "Jan",
+          ""
+        ],
+        [
+          "25th",
+          "",
+          ""
+        ],
+        [
+          "1714",
+          "",
+          "1714"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.5,
+      "consensus_text": "London Jan. 25th 1714",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1,
+        2
+      ],
+      "user_ids": [
+        null,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        140.16,
+        932.82
+      ],
+      "clusters_y": [
+        157.25,
+        127.21
+      ],
+      "clusters_text": [
+        [
+          "The",
+          ""
+        ],
+        [
+          "last",
+          ""
+        ],
+        [
+          "<sw-unclear>fforreigine</sw-unclear>",
+          ""
+        ],
+        [
+          "Letters",
+          "Letters"
+        ],
+        [
+          "<sw-unclear>tryport",
+          "Import"
+        ],
+        [
+          "</sw-unclear>that",
+          "that"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "The last <sw-unclear>fforreigine</sw-unclear> Letters <sw-unclear>tryport </sw-unclear>that",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        4
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        152.91,
+        665.06
+      ],
+      "clusters_y": [
+        295.51,
+        276.96
+      ],
+      "clusters_text": [
+        [
+          "Governorers",
+          "and"
+        ],
+        [
+          "of",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Governorers of",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        8
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        142.59,
+        773.2
+      ],
+      "clusters_y": [
+        418.16,
+        406.09
+      ],
+      "clusters_text": [
+        [
+          "two",
+          "will"
+        ],
+        [
+          "more",
+          "be"
+        ],
+        [
+          "it",
+          "shortly"
+        ],
+        [
+          "is",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "two more it is",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        13
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        149.08,
+        929.275
+      ],
+      "clusters_y": [
+        485.24,
+        477.505
+      ],
+      "clusters_text": [
+        [
+          "Wee",
+          ""
+        ],
+        [
+          "hear",
+          ""
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "Mr.",
+          "M<sw-sup>r</sw-sup>."
+        ],
+        [
+          "Wagrote",
+          "Walpole"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "about",
+          "about"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Wee hear that Mr. Wagrote is about to",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        14
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        155.87,
+        690.29
+      ],
+      "clusters_y": [
+        549.255,
+        535.47
+      ],
+      "clusters_text": [
+        [
+          "Return",
+          "Return"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "England",
+          "England"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "first",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Return to England for first",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        15
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        153.42000000000002,
+        932.31
+      ],
+      "clusters_y": [
+        687.495,
+        674.59
+      ],
+      "clusters_text": [
+        [
+          "their",
+          "",
+          "their",
+          "about"
+        ],
+        [
+          "last",
+          "the",
+          "last",
+          "the"
+        ],
+        [
+          "",
+          "Barrier",
+          "",
+          ""
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 1.6666666666666667,
+      "consensus_text": "their last Barrier",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        5,
+        19,
+        20
+      ],
+      "user_ids": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        150.4,
+        325.91499999999996
+      ],
+      "clusters_y": [
+        885.885,
+        887.11
+      ],
+      "clusters_text": [
+        [
+          "as",
+          "as"
+        ],
+        [
+          "good",
+          "good"
+        ],
+        [
+          "as",
+          "as"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "as good as",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        24
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        476.79,
+        836.54
+      ],
+      "clusters_y": [
+        981.93,
+        974.23
+      ],
+      "clusters_text": [
+        [
+          "King",
+          ","
+        ],
+        [
+          "at",
+          "after"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "King at",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        28,
+        29
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        151.86,
+        951.84
+      ],
+      "clusters_y": [
+        1042.82,
+        1026.02
+      ],
+      "clusters_text": [
+        [
+          "had",
+          "in"
+        ],
+        [
+          "a",
+          "his"
+        ],
+        [
+          "long",
+          "Cabinet"
+        ],
+        [
+          "Conferrence",
+          "-"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "had a long Conferrence",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        30,
+        32
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        152.56,
+        954.82
+      ],
+      "clusters_y": [
+        1096.01,
+        1072.92
+      ],
+      "clusters_text": [
+        [
+          "this",
+          "",
+          "Williams",
+          "who"
+        ],
+        [
+          "day",
+          "Rob!",
+          "as",
+          "of"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Bolton"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 1.0,
+      "consensus_text": "this day Bolton",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "user_ids": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        411.0,
+        942.4
+      ],
+      "clusters_y": [
+        1143.61,
+        1129.78
+      ],
+      "clusters_text": [
+        [
+          "",
+          "for"
+        ],
+        [
+          "at",
+          "Counterfeiting"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "for at",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        37,
+        38
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        247.4,
+        877.48
+      ],
+      "clusters_y": [
+        1194.17,
+        1180.18
+      ],
+      "clusters_text": [
+        [
+          "",
+          "",
+          "-the"
+        ],
+        [
+          "",
+          "",
+          "Earle"
+        ],
+        [
+          "of",
+          "for",
+          "of"
+        ],
+        [
+          "his",
+          "",
+          "Berkley"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 1.25,
+      "consensus_text": "-the Earle of his",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        39,
+        40,
+        41
+      ],
+      "user_ids": [
+        null,
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        443.02,
+        804.17
+      ],
+      "clusters_y": [
+        1339.58,
+        1326.28
+      ],
+      "clusters_text": [
+        [
+          "for",
+          ""
+        ],
+        [
+          "learning",
+          "Earle"
+        ],
+        [
+          "out",
+          "of"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "for learning out",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        46,
+        47
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        428.5,
+        944.32
+      ],
+      "clusters_y": [
+        1479.56,
+        1461.33
+      ],
+      "clusters_text": [
+        [
+          "",
+          "of"
+        ],
+        [
+          "",
+          "Nottingham"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "Duke",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "of Nottingham will be made Duke",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        54
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        154.14,
+        661.31
+      ],
+      "clusters_y": [
+        1489.36,
+        1473.35
+      ],
+      "clusters_text": [
+        [
+          "Parte",
+          "Informed"
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "Nottingham",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.0,
+      "consensus_text": "Parte of Nottingham",
+      "line_slope": -1.1027651191299535,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        53
+      ],
+      "user_ids": [
+        null,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 16,
+  "transcribed_lines": 16,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

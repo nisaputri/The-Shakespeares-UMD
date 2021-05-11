@@ -1,0 +1,169 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        215.685,
+        406.955
+      ],
+      "clusters_y": [
+        470.14,
+        461.505
+      ],
+      "clusters_text": [
+        [
+          "dead",
+          "dead"
+        ],
+        [
+          "there",
+          "there"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "dead there",
+      "line_slope": -1.8289922743715006,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        7
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        219.32999999999998,
+        745.085
+      ],
+      "clusters_y": [
+        765.31,
+        741.75
+      ],
+      "clusters_text": [
+        [
+          "Into",
+          "Into"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Country",
+          "Country"
+        ],
+        [
+          "where",
+          "where"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "haue",
+          "have"
+        ],
+        [
+          "built",
+          "built"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "Into the Country where they haue built",
+      "line_slope": -1.8289922743715006,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        21,
+        5
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        210.57999999999998,
+        731.8050000000001
+      ],
+      "clusters_y": [
+        1135.115,
+        1121.75
+      ],
+      "clusters_text": [
+        [
+          "Hamburgh",
+          "Hamburgh"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Sailed",
+          "Sailed"
+        ],
+        [
+          "again",
+          "again"
+        ],
+        [
+          "this",
+          "this"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Hamburgh and Sailed again this",
+      "line_slope": -1.8289922743715006,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        32,
+        8
+      ],
+      "user_ids": [
+        429539.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

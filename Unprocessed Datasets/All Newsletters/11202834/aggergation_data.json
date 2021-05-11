@@ -1,0 +1,205 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        383.04333333333335,
+        373.68333333333334
+      ],
+      "clusters_y": [
+        807.8100000000001,
+        1407.46
+      ],
+      "clusters_text": [
+        [
+          "at",
+          "at",
+          "at"
+        ],
+        [
+          "his",
+          "his",
+          "his"
+        ],
+        [
+          "Lodgings",
+          "Lodgings",
+          "Lodgings"
+        ],
+        [
+          "at",
+          "at",
+          "at"
+        ],
+        [
+          "Mr",
+          "Mr",
+          "Mr"
+        ],
+        [
+          "Coleman's",
+          "Coleman's",
+          "Coleman's"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "at his Lodgings at Mr Coleman's",
+      "line_slope": 90.50857499099067,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        2,
+        1
+      ],
+      "user_ids": [
+        null,
+        1891145.0,
+        1501614.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        316.03,
+        315.74
+      ],
+      "clusters_y": [
+        860.03,
+        1254.62
+      ],
+      "clusters_text": [
+        [
+          "In",
+          "In"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "great",
+          "great"
+        ],
+        [
+          "Ambree",
+          "Ambree"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "In <brev-y>th</brev-y><sl>e</sl> great Ambree",
+      "line_slope": 90.50857499099067,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        1501614.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        160.91500000000002,
+        159.11
+      ],
+      "clusters_y": [
+        1094.4650000000001,
+        1278.15
+      ],
+      "clusters_text": [
+        [
+          "present",
+          "present"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "present",
+      "line_slope": 90.50857499099067,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        4
+      ],
+      "user_ids": [
+        3697.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        74.18,
+        86.255
+      ],
+      "clusters_y": [
+        1459.4650000000001,
+        1285.7649999999999
+      ],
+      "clusters_text": [
+        [
+          "News",
+          "News"
+        ],
+        [
+          "letter",
+          "letter"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "News letter",
+      "line_slope": -85.96724363929525,
+      "slope_label": 4,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6
+      ],
+      "user_ids": [
+        null,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

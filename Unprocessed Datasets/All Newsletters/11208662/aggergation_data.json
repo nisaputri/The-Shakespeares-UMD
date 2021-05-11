@@ -1,0 +1,272 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        98.475,
+        955.02
+      ],
+      "clusters_y": [
+        455.625,
+        444.935
+      ],
+      "clusters_text": [
+        [
+          "Noble",
+          "Noble"
+        ],
+        [
+          "Catalans",
+          "Catalans"
+        ],
+        [
+          "Condemn'd",
+          "Condemn'd"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Mines",
+          "Mines"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Noble Catalans Condemn'd to the Mines and to",
+      "line_slope": -0.44567656596941196,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        8
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        103.77000000000001,
+        955.35
+      ],
+      "clusters_y": [
+        751.34,
+        754.72
+      ],
+      "clusters_text": [
+        [
+          "Dayes",
+          "Days"
+        ],
+        [
+          "Set",
+          "set"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "Vienna",
+          "Vienna"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "pay",
+          "pay"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "Homage",
+          "Homage"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7777777777777777,
+      "consensus_text": "Dayes Set out for Vienna to pay their Homage",
+      "line_slope": -0.44567656596941196,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        13
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        99.975,
+        959.855
+      ],
+      "clusters_y": [
+        929.865,
+        921.095
+      ],
+      "clusters_text": [
+        [
+          "are",
+          "are"
+        ],
+        [
+          "Letters",
+          "Letters"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "Town",
+          "Town"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Bristoll",
+          "Bristoll"
+        ],
+        [
+          "giving",
+          "giving"
+        ],
+        [
+          "an",
+          "an"
+        ],
+        [
+          "Acco<sw-sup>tt</sw-sup>",
+          "Acco<sw-ex>un</sw-ex>tt"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "are Letters in Town from Bristoll giving an Acco<sw-sup>tt</sw-sup>",
+      "line_slope": -0.44567656596941196,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        16
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        97.88999999999999,
+        950.635
+      ],
+      "clusters_y": [
+        1395.125,
+        1392.96
+      ],
+      "clusters_text": [
+        [
+          "was",
+          "was"
+        ],
+        [
+          "another",
+          "another"
+        ],
+        [
+          "Disturbance",
+          "Disturbance"
+        ],
+        [
+          "Severall",
+          "severall"
+        ],
+        [
+          "Young",
+          "Young"
+        ],
+        [
+          "Persons",
+          "Persons"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "was another Disturbance Severall Young Persons",
+      "line_slope": -0.44567656596941196,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        24
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

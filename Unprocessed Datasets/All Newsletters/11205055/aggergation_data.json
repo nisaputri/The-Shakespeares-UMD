@@ -1,0 +1,942 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        463.35666666666674,
+        942.8833333333333
+      ],
+      "clusters_y": [
+        107.70333333333333,
+        107.96333333333332
+      ],
+      "clusters_text": [
+        [
+          "Ordered",
+          "Ordered",
+          "Ordered"
+        ],
+        [
+          "that",
+          "that",
+          "that"
+        ],
+        [
+          "he",
+          "he",
+          "he"
+        ],
+        [
+          "be",
+          "be",
+          "be"
+        ],
+        [
+          "taken",
+          "taken",
+          "taken"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "Ordered that he be taken",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        4,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        249.805,
+        923.71
+      ],
+      "clusters_y": [
+        191.285,
+        178.97
+      ],
+      "clusters_text": [
+        [
+          "into",
+          "into"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Custody",
+          "Custody"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Serjant",
+          "Serjant"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Armes",
+          "Arms"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "into <brev-y>th</brev-y><sl>e</sl> Custody of the Serjant at Armes",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        5
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        466.41,
+        917.4549999999999
+      ],
+      "clusters_y": [
+        270.87,
+        256.96500000000003
+      ],
+      "clusters_text": [
+        [
+          "Then",
+          "Then"
+        ],
+        [
+          "S<sw-ex>i</sw-ex><sl>r</sl>",
+          "Sir"
+        ],
+        [
+          "John",
+          "John"
+        ],
+        [
+          "Hubland",
+          "Hubland"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Then S<sw-ex>i</sw-ex><sl>r</sl> John Hubland",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        0
+      ],
+      "user_ids": [
+        1708223.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        271.375,
+        933.36
+      ],
+      "clusters_y": [
+        324.635,
+        308.095
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "others",
+          "others"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "the"
+        ],
+        [
+          "Bank",
+          "bank"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "England",
+          "England"
+        ],
+        [
+          "gaue",
+          "gave"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.625,
+      "consensus_text": "and others of <brev-y>th</brev-y><sl>e</sl> Bank of England gaue",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        3,
+        7
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.79,
+        925.3900000000001
+      ],
+      "clusters_y": [
+        380.865,
+        365.935
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "the"
+        ],
+        [
+          "house",
+          "house"
+        ],
+        [
+          "Account",
+          "Account"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "stock",
+          "Stock"
+        ],
+        [
+          "as",
+          "as"
+        ],
+        [
+          "also",
+          "alsoo"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "the house Account of their stock as also",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        8
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        263.32500000000005,
+        954.895
+      ],
+      "clusters_y": [
+        421.645,
+        404.58500000000004
+      ],
+      "clusters_text": [
+        [
+          "what",
+          "what"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "owed",
+          "owed"
+        ],
+        [
+          "which",
+          "which"
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "debated",
+          "debated"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "ordered",
+          "ordered"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "what they owed which was debated and ordered",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5
+      ],
+      "user_ids": [
+        429539.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        262.39,
+        956.755
+      ],
+      "clusters_y": [
+        468.805,
+        459.75
+      ],
+      "clusters_text": [
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "further",
+          "further"
+        ],
+        [
+          "Consideracon",
+          "Consideration"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "refferd",
+          "refferd"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "that the further Consideracon be refferd to the",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        10
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        259.065,
+        964.005
+      ],
+      "clusters_y": [
+        521.295,
+        507.035
+      ],
+      "clusters_text": [
+        [
+          "Comittee",
+          "Comittee"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "making",
+          "makeing"
+        ],
+        [
+          "good",
+          "good"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Defficiency",
+          "Defficiency"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Comittee for making good the Defficiency",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7
+      ],
+      "user_ids": [
+        429539.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        257.48,
+        473.8333333333333
+      ],
+      "clusters_y": [
+        572.1166666666667,
+        559.1066666666667
+      ],
+      "clusters_text": [
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "Funds",
+          "ffunds",
+          "ffunds"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6666666666666665,
+      "consensus_text": "of the ffunds",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        3,
+        8
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        470.4066666666667,
+        942.2433333333333
+      ],
+      "clusters_y": [
+        600.4266666666666,
+        582.5066666666668
+      ],
+      "clusters_text": [
+        [
+          "Ordered",
+          "Ordered",
+          "Ordered"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "the",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "the"
+        ],
+        [
+          "Committee",
+          "Committee",
+          "Committee"
+        ],
+        [
+          "for",
+          "for",
+          "for"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "Ordered <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> the Committee for",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        2,
+        9
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        543.585,
+        967.11
+      ],
+      "clusters_y": [
+        761.9300000000001,
+        742.42
+      ],
+      "clusters_text": [
+        [
+          "A",
+          "A"
+        ],
+        [
+          "Bill",
+          "Bill"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "restraine",
+          "restraine"
+        ],
+        [
+          "Debtors",
+          "Debtors"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "A Bill to restraine Debtors",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        12
+      ],
+      "user_ids": [
+        429539.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        256.745,
+        941.215
+      ],
+      "clusters_y": [
+        829.935,
+        795.38
+      ],
+      "clusters_text": [
+        [
+          "within",
+          "with"
+        ],
+        [
+          "",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "prisons",
+          "prisons"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Rules",
+          "Rules"
+        ],
+        [
+          "read",
+          "read"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "first",
+          "first"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "within in the prisons of the Rules read the first",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        13
+      ],
+      "user_ids": [
+        429539.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        254.12,
+        373.62
+      ],
+      "clusters_y": [
+        882.1600000000001,
+        877.6700000000001
+      ],
+      "clusters_text": [
+        [
+          "time",
+          "time"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "time",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        429539.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        428.03,
+        933.8566666666667
+      ],
+      "clusters_y": [
+        916.3000000000001,
+        886.1733333333333
+      ],
+      "clusters_text": [
+        [
+          "A",
+          "A",
+          "A"
+        ],
+        [
+          "Bill",
+          "Bill",
+          "Bill"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "encourage",
+          "encourage",
+          "encourage"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "bringing",
+          "bringing",
+          "bringing"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "A Bill to encourage the bringing",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        0,
+        19
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0,
+        null
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        495.1366666666666,
+        922.8066666666667
+      ],
+      "clusters_y": [
+        1010.5333333333334,
+        988.9266666666666
+      ],
+      "clusters_text": [
+        [
+          "Yesterday",
+          "Yesterday",
+          "Yesterday"
+        ],
+        [
+          "being",
+          "being",
+          "being"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "first",
+          "first",
+          "first"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "Yesterday being the first",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        17,
+        1,
+        16
+      ],
+      "user_ids": [
+        429539.0,
+        1708223.0,
+        3697.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        257.065,
+        962.7
+      ],
+      "clusters_y": [
+        1147.965,
+        1103.815
+      ],
+      "clusters_text": [
+        [
+          "into",
+          "into"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Custom",
+          "Custome"
+        ],
+        [
+          "house",
+          "house"
+        ],
+        [
+          "upwards",
+          "upwards"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "60000<sw-sup>li</sw-sup>",
+          "60000<sw-sup>li</sw-sup>"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.875,
+      "consensus_text": "into the Custom house upwards of 60000<sw-sup>li</sw-sup> and",
+      "line_slope": -2.1037609593241005,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        18
+      ],
+      "user_ids": [
+        429539.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 13,
+  "transcribed_lines": 16,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

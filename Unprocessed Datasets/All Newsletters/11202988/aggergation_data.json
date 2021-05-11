@@ -1,0 +1,355 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        66.9875,
+        932.48
+      ],
+      "clusters_y": [
+        82.10249999999999,
+        92.99
+      ],
+      "clusters_text": [
+        [
+          "on",
+          "On",
+          "on",
+          "on"
+        ],
+        [
+          "Sunday",
+          "Sunday",
+          "Sunday",
+          "Sunday"
+        ],
+        [
+          "afternoon",
+          "afternoon",
+          "afternoon",
+          ""
+        ],
+        [
+          "&",
+          "",
+          "&",
+          ""
+        ],
+        [
+          "this",
+          "",
+          "this",
+          ""
+        ],
+        [
+          "Morning",
+          "",
+          "Morning",
+          ""
+        ],
+        [
+          "her",
+          "",
+          "her",
+          ""
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 2.5714285714285716,
+      "consensus_text": "on Sunday afternoon & this Morning her",
+      "line_slope": 0.1687612037032363,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        5,
+        0
+      ],
+      "user_ids": [
+        3697.0,
+        null,
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        62.584999999999994,
+        783.16
+      ],
+      "clusters_y": [
+        139.53500000000003,
+        142.77
+      ],
+      "clusters_text": [
+        [
+          "Ma<sw-ex>ies</sw-ex><sl>tie</sl>",
+          "Ma<sw-ex>ies</sw-ex><sl>tie</sl>"
+        ],
+        [
+          "came",
+          "came"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "reside",
+          "reside"
+        ],
+        [
+          "at",
+          "at"
+        ],
+        [
+          "Whitehall",
+          "Whitehall"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Ma<sw-ex>ies</sw-ex><sl>tie</sl> came to reside at Whitehall",
+      "line_slope": 0.1687612037032363,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        6
+      ],
+      "user_ids": [
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        297.39,
+        936.2600000000001
+      ],
+      "clusters_y": [
+        207.465,
+        203.07666666666668
+      ],
+      "clusters_text": [
+        [
+          "Admirall",
+          "",
+          "Admirall"
+        ],
+        [
+          "Russell",
+          "",
+          "Russell"
+        ],
+        [
+          "",
+          "is",
+          "is"
+        ],
+        [
+          "isnot",
+          "not",
+          "not"
+        ],
+        [
+          "actually",
+          "actually",
+          "actuelly"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.0,
+      "consensus_text": "Admirall Russell is not actually",
+      "line_slope": 0.1687612037032363,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        1,
+        7
+      ],
+      "user_ids": [
+        3697.0,
+        null,
+        1627866.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        53.13,
+        907.27
+      ],
+      "clusters_y": [
+        256.17,
+        258.63
+      ],
+      "clusters_text": [
+        [
+          "Made",
+          ""
+        ],
+        [
+          "Good",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "the",
+          ""
+        ],
+        [
+          "Isle",
+          ""
+        ],
+        [
+          "of",
+          ""
+        ],
+        [
+          "Weight",
+          ""
+        ],
+        [
+          "as",
+          ""
+        ],
+        [
+          "was",
+          "was"
+        ],
+        [
+          "said",
+          ""
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.1,
+      "consensus_text": "Made Good of the Isle of Weight as was said",
+      "line_slope": 0.1687612037032363,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        6
+      ],
+      "user_ids": [
+        1627866.0,
+        null
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        53.09,
+        949.095
+      ],
+      "clusters_y": [
+        309.765,
+        302.21500000000003
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "The"
+        ],
+        [
+          "Queen",
+          "Qu<sw-ex>een</sw-ex>"
+        ],
+        [
+          "haueing",
+          "haveing"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "Blank",
+          "Blank"
+        ],
+        [
+          "Pattent",
+          "Pattent"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "fitted",
+          "filled"
+        ],
+        [
+          "up",
+          "up"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.6,
+      "consensus_text": "the Queen haueing a Blank Pattent to be fitted up",
+      "line_slope": 0.1687612037032363,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        9
+      ],
+      "user_ids": [
+        3697.0,
+        1627866.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 5,
+  "transcribed_lines": 5,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

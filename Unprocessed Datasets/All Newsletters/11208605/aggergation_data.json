@@ -1,0 +1,1080 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        54.31333333333333,
+        957.31
+      ],
+      "clusters_y": [
+        77.63666666666666,
+        81.35333333333334
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "The",
+          "The"
+        ],
+        [
+          "Bishop",
+          "Bishop",
+          "Bishop"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Orhaburgh",
+          "Osnaburgh",
+          "<sw-unclear>Ostraburgh</sw-unclear>"
+        ],
+        [
+          "is",
+          "is",
+          "is"
+        ],
+        [
+          "dead",
+          "dead",
+          "dead"
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "the",
+          "The",
+          "The"
+        ],
+        [
+          "states",
+          "States",
+          "States"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.4444444444444446,
+      "consensus_text": "The Bishop of Orhaburgh is dead - The States",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        12,
+        0
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        50.225,
+        958.8
+      ],
+      "clusters_y": [
+        201.45,
+        200.385
+      ],
+      "clusters_text": [
+        [
+          "Sea",
+          "Sea"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Land",
+          "Land"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "Letters",
+          "Letters"
+        ],
+        [
+          "from",
+          "from"
+        ],
+        [
+          "Genoa",
+          "Genoa"
+        ],
+        [
+          "say",
+          "say"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Sea and Land - Letters from Genoa say <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl> <brev-y>th</brev-y><sl>e</sl>",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        2
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        42.72,
+        956.7049999999999
+      ],
+      "clusters_y": [
+        261.935,
+        263.41499999999996
+      ],
+      "clusters_text": [
+        [
+          "Catalans",
+          "Catalans"
+        ],
+        [
+          "still",
+          "still"
+        ],
+        [
+          "hold",
+          "hold"
+        ],
+        [
+          "out,",
+          "out,"
+        ],
+        [
+          "but",
+          "But"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "soon",
+          "soon"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "Obliged",
+          "Obliged"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8888888888888888,
+      "consensus_text": "Catalans still hold out, but will soon be Obliged",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        3
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        43.72,
+        957.9633333333333
+      ],
+      "clusters_y": [
+        315.02,
+        326.90000000000003
+      ],
+      "clusters_text": [
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "surrender,",
+          "surrender,",
+          "Surrender,"
+        ],
+        [
+          "because",
+          "because",
+          "because"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Duke",
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Berwick",
+          "Berwick",
+          "Berwick"
+        ],
+        [
+          "in",
+          "is",
+          "is"
+        ],
+        [
+          "pre",
+          "pre",
+          "prepareing"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6666666666666665,
+      "consensus_text": "to surrender, because <brev-y>th</brev-y><sl>e</sl> Duke of Berwick is pre",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        1,
+        4
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        46.196666666666665,
+        941.9433333333333
+      ],
+      "clusters_y": [
+        366.68666666666667,
+        374.9566666666667
+      ],
+      "clusters_text": [
+        [
+          "=pareing",
+          "=pareing",
+          ""
+        ],
+        [
+          "for",
+          "for",
+          "for"
+        ],
+        [
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "Gen<sw-ex>era</sw-ex>ll",
+          "Gen<sw-ex>era</sw-ex><sw-sup>ll</sw-sup>.",
+          "Gen<sw-sup>ll</sw-sup>"
+        ],
+        [
+          "Assault",
+          "Assault",
+          "Assault"
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "It",
+          "It",
+          "It"
+        ],
+        [
+          "is",
+          "is",
+          "is"
+        ],
+        [
+          "discoursed",
+          "Discoursed",
+          "Discoursed"
+        ],
+        [
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+          "<brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6,
+      "consensus_text": "=pareing for a Gen<sw-ex>era</sw-ex>ll Assault - It is Discoursed <brev-y>th</brev-y><sw-ex>a</sw-ex><sl>t</sl>",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        2,
+        5
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        42.375,
+        952.91
+      ],
+      "clusters_y": [
+        426.85,
+        436.89
+      ],
+      "clusters_text": [
+        [
+          "Mr",
+          "Mr"
+        ],
+        [
+          "Steele",
+          "Steele"
+        ],
+        [
+          "will",
+          "will"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "one",
+          "one"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Comm<sw-ex>ande</sw-ex>rs",
+          "Comm<sw-sup>rs"
+        ],
+        [
+          "of",
+          "</sw-sup>of"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Salt",
+          "Salt"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8333333333333333,
+      "consensus_text": "Mr Steele will be made one of <brev-y>th</brev-y><sl>e</sl> Comm<sw-ex>ande</sw-ex>rs of <brev-y>th</brev-y><sl>e</sl> Salt",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6
+      ],
+      "user_ids": [
+        352990.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        42.685,
+        949.35
+      ],
+      "clusters_y": [
+        479.33000000000004,
+        485.905
+      ],
+      "clusters_text": [
+        [
+          "Office",
+          "Office"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "this",
+          "This"
+        ],
+        [
+          "day",
+          "day"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Comons",
+          "Comons"
+        ],
+        [
+          "Read",
+          "Read"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "3<sw-sup>d</sw-sup>.",
+          "3d"
+        ],
+        [
+          "time",
+          "time"
+        ],
+        [
+          "&",
+          "and"
+        ],
+        [
+          "past",
+          "past"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.75,
+      "consensus_text": "Office - this day <brev-y>th</brev-y><sl>e</sl> Comons Read a 3<sw-sup>d</sw-sup>. time & past",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        4,
+        7
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        49.489999999999995,
+        954.87
+      ],
+      "clusters_y": [
+        530.415,
+        549.435
+      ],
+      "clusters_text": [
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "bill",
+          "bill"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "support",
+          "Support"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Maj<sw-ex>es</sw-ex><sw-sup>ties</sw-sup>",
+          "Ma<sw-ex>ies</sw-ex><sl>tie</sl>s"
+        ],
+        [
+          "Household",
+          "Household"
+        ],
+        [
+          "&<sw-sup>c</sw-sup>.",
+          "etc."
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7,
+      "consensus_text": "<brev-y>th</brev-y><sl>e</sl> bill for <brev-y>th</brev-y><sl>e</sl> support of his Maj<sw-ex>es</sw-ex><sw-sup>ties</sw-sup> Household &<sw-sup>c</sw-sup>.",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        8
+      ],
+      "user_ids": [
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        36.795,
+        935.29
+      ],
+      "clusters_y": [
+        602.27,
+        605.995
+      ],
+      "clusters_text": [
+        [
+          "&",
+          "and"
+        ],
+        [
+          "sent",
+          "Sent"
+        ],
+        [
+          "it",
+          "it"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "L<sw-ex>or</sw-ex>ds",
+          "L<sw-ex>ord</sw-ex>s"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "Read",
+          "Read"
+        ],
+        [
+          "it",
+          "it"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "1st",
+          "1<sw-sup>st</sw-sup>"
+        ],
+        [
+          "time",
+          "time"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "In",
+          "In"
+        ],
+        [
+          "a",
+          "a"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7333333333333334,
+      "consensus_text": "& sent it to <brev-y>th</brev-y><sl>e</sl> L<sw-ex>or</sw-ex>ds who Read it a 1st time - In a",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9
+      ],
+      "user_ids": [
+        352990.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        40.949999999999996,
+        929.79
+      ],
+      "clusters_y": [
+        652.3666666666667,
+        658.9766666666666
+      ],
+      "clusters_text": [
+        [
+          "Comittee",
+          "Comittee",
+          "Comitttee"
+        ],
+        [
+          "went",
+          "went",
+          "went"
+        ],
+        [
+          "thro'",
+          "thro<sw-ex>ugh</sw-ex>",
+          "thr"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Bill",
+          "bill",
+          "Bill"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "Rectify",
+          "Rectify",
+          "Rectify"
+        ],
+        [
+          "Mistakes",
+          "mistakes",
+          "Mistakes"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.375,
+      "consensus_text": "Comittee went thro' <brev-y>th</brev-y><sl>e</sl> Bill to Rectify Mistakes",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        10,
+        7,
+        10
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        41.56333333333333,
+        945.6866666666668
+      ],
+      "clusters_y": [
+        700.0099999999999,
+        717.0166666666668
+      ],
+      "clusters_text": [
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Comm<sw-ex>ande</sw-ex>rs",
+          "Comm<sw-ex>issione</sw-ex><sw-sup>rs</sw-sup>",
+          "Comm<sw-sup>rs</sw-sup>"
+        ],
+        [
+          "Name",
+          "Names",
+          "Names"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>",
+          "<brev-y>th</brev-y><sl>e</sl>"
+        ],
+        [
+          "Land",
+          "Land",
+          "Land"
+        ],
+        [
+          "Tax",
+          "Tax",
+          "Tax"
+        ],
+        [
+          "Act",
+          "Act",
+          "Act"
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ],
+        [
+          "Mr",
+          "M<sw-sup>r</sw-sup>.",
+          "Mr"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5454545454545454,
+      "consensus_text": "in <brev-y>th</brev-y><sl>e</sl> Comm<sw-ex>ande</sw-ex>rs Names in <brev-y>th</brev-y><sl>e</sl> Land Tax Act - Mr",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        11,
+        8,
+        11
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        47.416666666666664,
+        941.8299999999999
+      ],
+      "clusters_y": [
+        759.1966666666667,
+        767.2933333333334
+      ],
+      "clusters_text": [
+        [
+          "Lownds",
+          "Lownds",
+          "Lownds"
+        ],
+        [
+          "p<sw-ex>re</sw-ex>sented",
+          "p<sw-sup>re</sw-sup>sented",
+          "presented"
+        ],
+        [
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "Bill",
+          "bill",
+          "Bill"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "Quallity",
+          "Quallity",
+          "Quallity"
+        ],
+        [
+          "Persons",
+          "persons",
+          "persons"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.5,
+      "consensus_text": "Lownds p<sw-ex>re</sw-ex>sented a Bill to Quallity persons to",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        9,
+        12
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        41.473333333333336,
+        956.3866666666667
+      ],
+      "clusters_y": [
+        811.92,
+        833.5166666666668
+      ],
+      "clusters_text": [
+        [
+          "Continue",
+          "Continue",
+          "Continue"
+        ],
+        [
+          "in",
+          "in",
+          "in"
+        ],
+        [
+          "their",
+          "their",
+          "their"
+        ],
+        [
+          "Employments",
+          "Employments",
+          "Employments"
+        ],
+        [
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>.",
+          "w<sw-ex>hi</sw-ex><sl>ch</sl>"
+        ],
+        [
+          "was",
+          "was",
+          "was"
+        ],
+        [
+          "Read",
+          "Read",
+          "Read"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.857142857142857,
+      "consensus_text": "Continue in their Employments w<sw-ex>hi</sw-ex><sl>ch</sl> was Read",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        10,
+        13
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        41.86666666666667,
+        337.96000000000004
+      ],
+      "clusters_y": [
+        869.0166666666668,
+        876.48
+      ],
+      "clusters_text": [
+        [
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "first",
+          "first",
+          "first"
+        ],
+        [
+          "time",
+          "time",
+          "time"
+        ],
+        [
+          "-",
+          "-",
+          "-"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "a first time -",
+      "line_slope": 0.5745792561290434,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        11,
+        14
+      ],
+      "user_ids": [
+        352990.0,
+        3697.0,
+        1708223.0
+      ],
+      "low_consensus": false
+    }
+  ],
+  "low_consensus_lines": 13,
+  "transcribed_lines": 14,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

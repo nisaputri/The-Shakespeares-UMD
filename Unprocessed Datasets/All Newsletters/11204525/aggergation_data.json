@@ -1,0 +1,93 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        450.69,
+        936.59
+      ],
+      "clusters_y": [
+        843.315,
+        850.5
+      ],
+      "clusters_text": [
+        [
+          "the",
+          "",
+          "",
+          "The"
+        ],
+        [
+          "",
+          "king",
+          "",
+          "King"
+        ],
+        [
+          "",
+          "",
+          "goes",
+          "goes"
+        ],
+        [
+          "",
+          "",
+          "",
+          "to"
+        ],
+        [
+          "",
+          "",
+          "",
+          "windsor"
+        ],
+        [
+          "",
+          "",
+          "",
+          "on"
+        ]
+      ],
+      "number_views": 4,
+      "consensus_score": 1.1666666666666667,
+      "consensus_text": "the king goes to windsor on",
+      "line_slope": -0.06007611656395673,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        1,
+        2,
+        19
+      ],
+      "user_ids": [
+        null,
+        null,
+        null,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 1,
+  "transcribed_lines": 1,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

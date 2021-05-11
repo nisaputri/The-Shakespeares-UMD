@@ -1,0 +1,130 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        291.51,
+        946.605
+      ],
+      "clusters_y": [
+        309.53,
+        290.185
+      ],
+      "clusters_text": [
+        [
+          "Turkish",
+          "Turkish"
+        ],
+        [
+          "Army",
+          "Army"
+        ],
+        [
+          "being",
+          "being"
+        ],
+        [
+          "Come",
+          "Come"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Belgrade",
+          "Belgrade"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Turkish Army being Come to Belgrade",
+      "line_slope": -1.6304141073951828,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        3
+      ],
+      "user_ids": [
+        352990.0,
+        1851566.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        280.75,
+        916.7750000000001
+      ],
+      "clusters_y": [
+        1148.6950000000002,
+        1131.81
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "their",
+          "their"
+        ],
+        [
+          "returne",
+          "returne"
+        ],
+        [
+          "mett",
+          "mett"
+        ],
+        [
+          "30",
+          "30"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "and in their returne mett 30",
+      "line_slope": -1.6304141073951828,
+      "slope_label": 0,
+      "gutter_label": 1,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        22,
+        11
+      ],
+      "user_ids": [
+        352990.0,
+        1851566.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

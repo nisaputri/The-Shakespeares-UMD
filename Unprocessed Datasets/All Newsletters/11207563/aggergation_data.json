@@ -1,0 +1,268 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        74.03,
+        102.36500000000001
+      ],
+      "clusters_y": [
+        29.950000000000003,
+        1451.71
+      ],
+      "clusters_text": [
+        [
+          "and",
+          "and"
+        ],
+        [
+          "Abermarle",
+          "Albemarle"
+        ],
+        [
+          "and<sw-del>",
+          "and"
+        ],
+        [
+          "did/??",
+          ""
+        ],
+        [
+          "</sw-del>",
+          "<sw-del>???</sw-del>"
+        ],
+        [
+          "<sw-ins>",
+          "<sw-ins>Adjd"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "further",
+          "further"
+        ],
+        [
+          "hearing",
+          "hearing"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Thursday",
+          "Thursday"
+        ],
+        [
+          "next",
+          ""
+        ],
+        [
+          "-",
+          ""
+        ],
+        [
+          "</sw-ins>",
+          "next</sw-ins>"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.4285714285714286,
+      "consensus_text": "and Abermarle and<sw-del> did/?? </sw-del> <sw-ins> the further hearing to Thursday next - </sw-ins>",
+      "line_slope": 88.85804478794854,
+      "slope_label": 5,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        24,
+        23
+      ],
+      "user_ids": [
+        1851566.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        240.81,
+        920.385
+      ],
+      "clusters_y": [
+        862.655,
+        873.205
+      ],
+      "clusters_text": [
+        [
+          "=nyes",
+          "=nyes"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "first",
+          "first"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "4",
+          "4"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "=nyes of the first and 4 of the",
+      "line_slope": 0.5482971167156954,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        12
+      ],
+      "user_ids": [
+        1851566.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        234.04500000000002,
+        919.915
+      ],
+      "clusters_y": [
+        993.375,
+        999.535
+      ],
+      "clusters_text": [
+        [
+          "Ordered",
+          "Ordered"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "be",
+          "be"
+        ],
+        [
+          "drawn",
+          "drawn"
+        ],
+        [
+          "out",
+          "out"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Ordered to be drawn out and",
+      "line_slope": 0.5482971167156954,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        14
+      ],
+      "user_ids": [
+        1851566.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        234.865,
+        904.5799999999999
+      ],
+      "clusters_y": [
+        1269.46,
+        1280.3600000000001
+      ],
+      "clusters_text": [
+        [
+          "Brigadeer",
+          "Brigadeer"
+        ],
+        [
+          "Primrose",
+          "Primrose"
+        ],
+        [
+          "Regiment",
+          "Regiment"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Brigadeer Primrose Regiment",
+      "line_slope": 0.5482971167156954,
+      "slope_label": 2,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        18
+      ],
+      "user_ids": [
+        1851566.0,
+        1347003.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 4,
+  "transcribed_lines": 4,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

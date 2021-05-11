@@ -1,0 +1,301 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        73.85,
+        941.0450000000001
+      ],
+      "clusters_y": [
+        55.735,
+        36.45
+      ],
+      "clusters_text": [
+        [
+          "&",
+          "&"
+        ],
+        [
+          "there",
+          "there"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "a",
+          "a"
+        ],
+        [
+          "report",
+          "report"
+        ],
+        [
+          "that",
+          "that"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Rappartes",
+          "Rapparces"
+        ],
+        [
+          "who",
+          "who"
+        ],
+        [
+          "made",
+          "made"
+        ],
+        [
+          "an",
+          "an"
+        ],
+        [
+          "uproar",
+          "uproar"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "County",
+          "County"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Kerry",
+          "Kerry"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9411764705882353,
+      "consensus_text": "& there is a report that the Rappartes who made an uproar in the County of Kerry",
+      "line_slope": -1.5946110694036577,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        69.655,
+        925.495
+      ],
+      "clusters_y": [
+        84.78999999999999,
+        58.165
+      ],
+      "clusters_text": [
+        [
+          "by",
+          "by"
+        ],
+        [
+          "burning",
+          "burning"
+        ],
+        [
+          "some",
+          "some"
+        ],
+        [
+          "stacks",
+          "stacks"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "corn",
+          "Corn"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "breaking",
+          "breaking"
+        ],
+        [
+          "open",
+          "open"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Goales",
+          "Goales"
+        ],
+        [
+          "are",
+          "are"
+        ],
+        [
+          "crushed",
+          "crushed"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.9333333333333333,
+      "consensus_text": "by burning some stacks of corn and breaking open the Goales are crushed in the",
+      "line_slope": -1.5946110694036577,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        1,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        63.85,
+        922.775
+      ],
+      "clusters_y": [
+        113.28999999999999,
+        87.385
+      ],
+      "clusters_text": [
+        [
+          "birth",
+          "birth"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "most",
+          "most"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "them",
+          "them"
+        ],
+        [
+          "hangd",
+          "hangd"
+        ],
+        [
+          "without",
+          "without"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "formality",
+          "formality"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Tryall",
+          "Tryall"
+        ],
+        [
+          "being",
+          "being"
+        ],
+        [
+          "taken",
+          "taken"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "birth and most of them hangd without the formality of Tryall being taken in the",
+      "line_slope": -1.5946110694036577,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        429539.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 3,
+  "transcribed_lines": 3,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

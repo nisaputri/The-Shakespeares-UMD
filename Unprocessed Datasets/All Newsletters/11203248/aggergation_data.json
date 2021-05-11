@@ -1,0 +1,138 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        249.39,
+        942.13
+      ],
+      "clusters_y": [
+        683.63,
+        633.025
+      ],
+      "clusters_text": [
+        [
+          "Soe",
+          "Soo"
+        ],
+        [
+          "they",
+          "they"
+        ],
+        [
+          "fear",
+          "fear"
+        ],
+        [
+          "she",
+          "she"
+        ],
+        [
+          "is",
+          "is"
+        ],
+        [
+          "likewise",
+          "likewise"
+        ],
+        [
+          "taken",
+          "taken"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8571428571428572,
+      "consensus_text": "Soe they fear she is likewise taken",
+      "line_slope": -4.909002966213592,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        0
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.035,
+        926.78
+      ],
+      "clusters_y": [
+        733.355,
+        675.44
+      ],
+      "clusters_text": [
+        [
+          "by",
+          "by"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "enemy",
+          "enemy"
+        ],
+        [
+          "-",
+          "-"
+        ],
+        [
+          "The",
+          "the"
+        ],
+        [
+          "aforesaid",
+          "aforesaid"
+        ],
+        [
+          "packett",
+          "pockett"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.7142857142857142,
+      "consensus_text": "by the enemy - The aforesaid packett",
+      "line_slope": -4.909002966213592,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        1
+      ],
+      "user_ids": [
+        429539.0,
+        1891145.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 2,
+  "transcribed_lines": 2,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}

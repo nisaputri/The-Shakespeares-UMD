@@ -1,0 +1,882 @@
+{
+  "frame0": [
+    {
+      "clusters_x": [
+        127.61999999999999,
+        163.66500000000002
+      ],
+      "clusters_y": [
+        137.94,
+        1417.35
+      ],
+      "clusters_text": [
+        [
+          "ready",
+          "ready"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Equipage",
+          "Equipage"
+        ],
+        [
+          "in",
+          "in"
+        ],
+        [
+          "order",
+          "order"
+        ],
+        [
+          "for",
+          "for"
+        ],
+        [
+          "his",
+          "his"
+        ],
+        [
+          "goeing",
+          "goeing"
+        ],
+        [
+          "to",
+          "to"
+        ],
+        [
+          "Ireland",
+          "Ireland"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "ready his Equipage in order for his goeing to Ireland",
+      "line_slope": 88.47039832979588,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        18,
+        19
+      ],
+      "user_ids": [
+        null,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        73.51,
+        106.08666666666666
+      ],
+      "clusters_y": [
+        196.97666666666666,
+        1497.82
+      ],
+      "clusters_text": [
+        [
+          "his",
+          "his",
+          "his"
+        ],
+        [
+          "Lordship",
+          "Lordship",
+          "Lordship"
+        ],
+        [
+          "designeing",
+          "designeing",
+          "designeing"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "embarque",
+          "embarque",
+          "embarque"
+        ],
+        [
+          "for",
+          "for",
+          "for"
+        ],
+        [
+          "that",
+          "that",
+          "that"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "his Lordship designeing to embarque for that",
+      "line_slope": 88.47039832979588,
+      "slope_label": 1,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        19,
+        20,
+        18
+      ],
+      "user_ids": [
+        null,
+        303191.0,
+        3697.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        252.00333333333333,
+        890.11
+      ],
+      "clusters_y": [
+        85.67666666666666,
+        69.32000000000001
+      ],
+      "clusters_text": [
+        [
+          "Hamilto",
+          "Hamilton",
+          "Hamilton"
+        ],
+        [
+          "has",
+          "has",
+          "has"
+        ],
+        [
+          "resigned",
+          "resigned",
+          "resigned"
+        ],
+        [
+          "his",
+          "his",
+          "his"
+        ],
+        [
+          "regiment",
+          "regiment",
+          "regiment"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8,
+      "consensus_text": "Hamilton has resigned his regiment",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        0,
+        0,
+        0
+      ],
+      "user_ids": [
+        303191.0,
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        270.395,
+        937.8050000000001
+      ],
+      "clusters_y": [
+        243.10500000000002,
+        209.505
+      ],
+      "clusters_text": [
+        [
+          "Generall",
+          "Generall"
+        ],
+        [
+          "Inghollsby",
+          "Inghollsby"
+        ],
+        [
+          "and",
+          "and"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "regiment",
+          "regiment"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "Generall Inghollsby and the regiment",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        2,
+        2
+      ],
+      "user_ids": [
+        null,
+        303191.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        279.0066666666667,
+        903.6999999999999
+      ],
+      "clusters_y": [
+        480.10999999999996,
+        452.05
+      ],
+      "clusters_text": [
+        [
+          "Coll",
+          "Colonel",
+          "Coll<sw-ex>onell</sw-ex>"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "said",
+          "said",
+          "said"
+        ],
+        [
+          "regiment",
+          "regiment",
+          "regiment"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "it",
+          "it",
+          "it"
+        ],
+        [
+          "is",
+          "is",
+          "is"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.75,
+      "consensus_text": "Coll of the said regiment and it is",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        5,
+        5,
+        5
+      ],
+      "user_ids": [
+        null,
+        303191.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        273.3433333333333,
+        884.5300000000001
+      ],
+      "clusters_y": [
+        557.8433333333334,
+        542.64
+      ],
+      "clusters_text": [
+        [
+          "said",
+          "said",
+          "said"
+        ],
+        [
+          "that",
+          "that",
+          "that"
+        ],
+        [
+          "major",
+          "major",
+          "major"
+        ],
+        [
+          "Generall",
+          "Generall",
+          "Generall"
+        ],
+        [
+          "Hamilton",
+          "Hamilton",
+          "Hamilton"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "said that major Generall Hamilton",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        6,
+        6,
+        1
+      ],
+      "user_ids": [
+        null,
+        303191.0,
+        null
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        265.14,
+        897.83
+      ],
+      "clusters_y": [
+        651.2833333333333,
+        619.86
+      ],
+      "clusters_text": [
+        [
+          "is",
+          "is",
+          "is"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "raise",
+          "raise",
+          "raise"
+        ],
+        [
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "regiment",
+          "regiment",
+          "regiment"
+        ],
+        [
+          "of",
+          "of",
+          "of"
+        ],
+        [
+          "Irish",
+          "Irish",
+          "Irish"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 3.0,
+      "consensus_text": "is to raise a regiment of Irish",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        7,
+        7,
+        6
+      ],
+      "user_ids": [
+        null,
+        303191.0,
+        3697.0
+      ],
+      "low_consensus": false
+    },
+    {
+      "clusters_x": [
+        278.56333333333333,
+        919.0066666666667
+      ],
+      "clusters_y": [
+        712.7866666666667,
+        690.0799999999999
+      ],
+      "clusters_text": [
+        [
+          "Guards",
+          "Guards.",
+          "Guards"
+        ],
+        [
+          "-",
+          "",
+          "-"
+        ],
+        [
+          "Commissions",
+          "Commissions",
+          "Commissions"
+        ],
+        [
+          "are",
+          "are",
+          "are"
+        ],
+        [
+          "all",
+          "all",
+          "all"
+        ],
+        [
+          "so",
+          "so",
+          "so"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.6666666666666665,
+      "consensus_text": "Guards - Commissions are all so",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        8,
+        8,
+        7
+      ],
+      "user_ids": [
+        null,
+        303191.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        267.69,
+        939.0333333333334
+      ],
+      "clusters_y": [
+        788.0233333333334,
+        768.5833333333334
+      ],
+      "clusters_text": [
+        [
+          "given",
+          "given",
+          "given"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "-",
+          "____",
+          "--"
+        ],
+        [
+          "Lepell",
+          "Sepell",
+          "Lepell"
+        ],
+        [
+          "Esq<sw-ex>uire</sw-ex>",
+          "Esqr",
+          "Esqr"
+        ],
+        [
+          "-",
+          "",
+          "-"
+        ],
+        [
+          "and",
+          "and",
+          "and"
+        ],
+        [
+          "Luke",
+          "Luke",
+          "Luke"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.375,
+      "consensus_text": "given to - Lepell Esqr - and Luke",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        9,
+        9,
+        8
+      ],
+      "user_ids": [
+        null,
+        303191.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        265.7033333333333,
+        917.8333333333334
+      ],
+      "clusters_y": [
+        1018.59,
+        988.4599999999999
+      ],
+      "clusters_text": [
+        [
+          "<sw-unclear>??</sw-unclear>a<sw-unclear>?</sw-unclear>teing",
+          "passeing",
+          "passeing"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ],
+        [
+          "seales",
+          "seales",
+          "seales"
+        ],
+        [
+          "to",
+          "to",
+          "to"
+        ],
+        [
+          "constitute",
+          "constitute",
+          "constitute"
+        ],
+        [
+          "the",
+          "the",
+          "the"
+        ]
+      ],
+      "number_views": 3,
+      "consensus_score": 2.8333333333333335,
+      "consensus_text": "passeing the seales to constitute the",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false,
+        false
+      ],
+      "extract_index": [
+        12,
+        12,
+        11
+      ],
+      "user_ids": [
+        null,
+        303191.0,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        264.37,
+        925.0699999999999
+      ],
+      "clusters_y": [
+        1103.5749999999998,
+        1081.2350000000001
+      ],
+      "clusters_text": [
+        [
+          "right",
+          "right"
+        ],
+        [
+          "honourable",
+          "honourable"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Lord",
+          "Lord"
+        ],
+        [
+          "Godolphyn",
+          "Godolphyn"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "right honourable the Lord Godolphyn",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        13,
+        12
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        252.185,
+        874.825
+      ],
+      "clusters_y": [
+        1187.67,
+        1176.59
+      ],
+      "clusters_text": [
+        [
+          "Lord",
+          "Lord"
+        ],
+        [
+          "Leiutenant",
+          "Leivtenant"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Cornwall",
+          "Cornwall"
+        ],
+        [
+          "and",
+          "and"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.8,
+      "consensus_text": "Lord Leiutenant of Cornwall and",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        14,
+        13
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        255.365,
+        897.1500000000001
+      ],
+      "clusters_y": [
+        1304.4850000000001,
+        1282.37
+      ],
+      "clusters_text": [
+        [
+          "his",
+          "his"
+        ],
+        [
+          "Grace",
+          "Grace"
+        ],
+        [
+          "the",
+          "the"
+        ],
+        [
+          "Duke",
+          "Duke"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Grafton",
+          "Grafton"
+        ],
+        [
+          "Lord",
+          "Lord"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 2.0,
+      "consensus_text": "his Grace the Duke of Grafton Lord",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        15,
+        14
+      ],
+      "user_ids": [
+        null,
+        3697.0
+      ],
+      "low_consensus": true
+    },
+    {
+      "clusters_x": [
+        258.795,
+        814.22
+      ],
+      "clusters_y": [
+        1402.0549999999998,
+        1389.04
+      ],
+      "clusters_text": [
+        [
+          "Leivtenant",
+          "Leivtenant"
+        ],
+        [
+          "of",
+          "of"
+        ],
+        [
+          "Suffolke.",
+          "Suffolke"
+        ],
+        [
+          "",
+          "--"
+        ]
+      ],
+      "number_views": 2,
+      "consensus_score": 1.5,
+      "consensus_text": "Leivtenant of Suffolke. --",
+      "line_slope": -2.0774248942796496,
+      "slope_label": 0,
+      "gutter_label": 0,
+      "gold_standard": [
+        false,
+        false
+      ],
+      "extract_index": [
+        16,
+        15
+      ],
+      "user_ids": [
+        303191.0,
+        3697.0
+      ],
+      "low_consensus": true
+    }
+  ],
+  "low_consensus_lines": 11,
+  "transcribed_lines": 14,
+  "reducer": "poly_line_text_reducer",
+  "aggregation_version": "3.4.3",
+  "parameters": {
+    "eps_slope": 0.5,
+    "eps_line": 5.0,
+    "eps_word": 30.0,
+    "gutter_tol": 30.0,
+    "min_word_count": 1,
+    "dot_freq": "line",
+    "min_samples": 2,
+    "low_consensus_threshold": 3,
+    "minimum_views": 5,
+    "process_by_line": false
+  }
+}
